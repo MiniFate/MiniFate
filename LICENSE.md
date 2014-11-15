@@ -1,4 +1,4 @@
-# Minifate
+# MiniFate
 
 This work is copyrighted by Alexander Gude and Charles McEachern. It is
 licensed under the Creative [Commons Attribution 4.0 International
