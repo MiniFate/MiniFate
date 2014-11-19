@@ -2,13 +2,13 @@
 
 | Skill | Used For |
 | :---- | :------- |
-| Diplomacy | |
-| Physique | Climbing running, dodging, jumping, resisting poison and exposure  |
-| Drive | Flying spaceships, riding horses and more exciting animals |
+| Agility | Climbing, dodging, manipulating small objects |
+| Diplomacy | Bargin, |
 | Fight | Engaging in armed and unarmed melee combat |
 | Network | Knowing people, having access to things, or simply having things on you |
-| Perception | Searching, tracking, finding, noticing |
+| Insight | Searching, tracking, finding, noticing, knowing |
 | Performance | Lying, singing, dancing, disguises |
+| Physique | Running, jumping, smashing, resisting poison and exposure |
 | Shoot | Attacking with ranged and thrown weapons |
 | Stealth | Hiding, moving silently, sleight of hand |
 | Tinker | Picking locks, disarming traps, hacking super computers, repairing things |
