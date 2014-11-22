@@ -21,15 +21,15 @@ you have a hope of some more skill balance. -->
 
 | Skill | Used For |
 | :---- | :------- |
-| Agility | Climbing, dodging, manipulating small objects |
+| Agility | Climbing, dodging, moving, including mounts and vehicles |
 | Fight | Engaging in armed and unarmed melee combat |
 | Insight | Searching, tracking, finding, noticing, knowing |
-| Network | Knowing people, having access to things, or simply having things on you |
-| Performance | Lying, singing, dancing, disguises |
-| Persuasion | Bargin, |
-| Physique | Running, jumping, smashing, resisting poison and exposure |
+| Network | Knowing people, having access to things, having items on you |
+| Performance | Lying, singing, dancing, disguising |
+| Persuasion | Negotiating, bargaining, flattering, empathizing |
+| Physique | Lifting, smashing, resisting poison and exposure |
 | Shoot | Attacking with ranged and thrown weapons |
-| Stealth | Hiding, moving silently, sleight of hand |
-| Tinker | Picking locks, disarming traps, hacking super computers, repairing things |
+| Stealth | Hiding, moving silently, concealing objects on your person |
+| Tinker | Picking locks, disarming traps, hacking computers, repairing things |
 
 ## Using Skills
