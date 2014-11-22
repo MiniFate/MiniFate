@@ -32,6 +32,10 @@
 *.jpeg
 *.eps
 
+#Secondary products of the make file
+*.odt
+*.html
+
 #Network File System
 .nfs*
 
