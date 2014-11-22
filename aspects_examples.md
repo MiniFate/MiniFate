@@ -14,6 +14,7 @@ but even if not they're useful for people to look at.
 ## Character
 
 ### High Concept
+
 * **Backwater Farmboy Looking to Join The Academy**
 * **Rightful King of Gondor**
 
@@ -22,6 +23,9 @@ but even if not they're useful for people to look at.
 ### Other
 
 * **There is still good in him**
+* **Strong as ten men**
+* **Curiously perceptive for a farm girl...**
+* **Tougher than a mountain**
 
 ## Items and equipment
 
