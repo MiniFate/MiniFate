@@ -3,11 +3,11 @@
 | Skill | Used For |
 | :---- | :------- |
 | Agility | Climbing, dodging, manipulating small objects |
-| Diplomacy | Bargin, |
 | Fight | Engaging in armed and unarmed melee combat |
-| Network | Knowing people, having access to things, or simply having things on you |
 | Insight | Searching, tracking, finding, noticing, knowing |
+| Network | Knowing people, having access to things, or simply having things on you |
 | Performance | Lying, singing, dancing, disguises |
+| Persuasion | Bargin, |
 | Physique | Running, jumping, smashing, resisting poison and exposure |
 | Shoot | Attacking with ranged and thrown weapons |
 | Stealth | Hiding, moving silently, sleight of hand |
