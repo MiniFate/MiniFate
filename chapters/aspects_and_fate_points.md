@@ -13,7 +13,7 @@ short, if there is something that matters to the story, I can (and should) be
 described with an Aspect.
 
 Aspects allow things that are important in the narrative to have mechanical
-effect on the game through [Fate Points][].
+effect on the game through Fate Points.
 
 We have scattered example Aspects throughout this book to help you get an idea
 of the broad range of things Aspects can cover, and the way to write engaging,

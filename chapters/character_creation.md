@@ -1,7 +1,7 @@
 # Character Creation
 
-Character creation goes hand-in-hand with the world building done during [Game
-Creation][]. It should be done collaboratively, and so it is often best to set
+Character creation goes hand-in-hand with the world building done during Game
+Creation. It should be done collaboratively, and so it is often best to set
 aside the first session in order to design the world and the characters as a
 group.
 
