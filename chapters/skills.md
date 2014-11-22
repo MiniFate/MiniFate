@@ -1,5 +1,24 @@
 # Skills
 
+## Default Skill List
+
+What follows is our generic list of ten Skills; they cover the basics of what
+we think characters will need to do during the course of play.
+
+We _highly_ recommend coming up with your own Skill list. By doing so, you
+are able to place emphasis on the actions that will be important in your game.
+For example, if your campaign is based around a group of fighter pilots on the
+edge of the galaxy, you might want to add a _Piloting_ skill. If instead the
+characters are paranormal investigators, you might want to break _Insight_
+into _Knowledge_ and _Search_ as these actions will be used a lot. In the end,
+the skill list you use will heavily influence the action that happens in your
+game.
+
+<!-- In general is it that we want skills to be more equal? If you're playing
+a fighter pilot game and flying is agility, then agility is going to be rolled
+**ALL THE TIME**, where as if you split it into Dexterity and Dog Fighting,
+you have a hope of some more skill balance. -->
+
 | Skill | Used For |
 | :---- | :------- |
 | Agility | Climbing, dodging, manipulating small objects |
@@ -13,5 +32,4 @@
 | Stealth | Hiding, moving silently, sleight of hand |
 | Tinker | Picking locks, disarming traps, hacking super computers, repairing things |
 
-We *highly* recommend that you make your own list, this one is provided as a
-rough template.
+## Using Skills
