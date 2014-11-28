@@ -6,6 +6,41 @@ system designed to enable collaborative play and story telling.
 
 ## An Introduction to Roleplaying
 
+MiniFate is played with one game master (**GM**) and one or more **players**.
+Each player plays the role of a player character (**PC**) which they create as
+the game begins. The GM designs and plays the role of the world around the
+PCs, including its cast of non-player characters (**NPCs**), including
+everything from elvish royalty to rival adventurers or hideous dungeon
+monsters.
+
+The players and the GM work together to tell stories about the adventures of
+the PCs. They could tell an action story, where the PCs hack away at
+bloodthirsty monsters in defense of civilization. It could be a story of
+exploration, where the PCs venture into long-forgotten tombs in search of
+treasure. It could even be a tale of political intrigue, where PCs take
+advantage of instability to consolidate power.
+
+The story is played out scene by scene. The GM opens with a quick description;
+from there, play proceeds conversationally as the players and the GM improvise
+back and forth. Players may speak as their PCs and describe their actions,
+while the GM illustrates how the NPCs and environment respond. Players may
+also ask the GM for specific details to help them immerse themselves in the
+PCs' surroundings.
+
+Play is punctuated by die rolls, which mediate the divide between player and
+PC; PC choices are made by the players while the success of PC actions is
+judged by dice. That is, the player decides which NPCs to attack and which to
+barter with while the dice show whether a sword strikes home or a lie rings
+true. This dichotomy gives each PC quantitative strengths and weaknesses while
+still allowing players the freedom to play their PCs however they like.
+
+The pages that follow explain how and when to roll the dice, but above all
+MiniFate is a social game. As such, the most important element is
+communication. The players and the GM are not opponents (even though the PCs
+and NPCs may well be enemies). Everyone has the same goals: telling a good
+story and having a good time. If anyone is unsatisfied in either respect, play
+should be put on hold to address the issue.
+
 ## Materials
 
 MiniFate, like most tabletop roleplaying games, requires pens to write with
