@@ -67,10 +67,10 @@ everyone.
 
 ## Fate Points
 
-_Fate Points_ are a currency that can be spent to assert narrative control
+Fate Points are a currency that can be spent to assert narrative control
 over the game. Both the players and the GM have pools of Fate Points available
 to use. Players start each session with a number of Fate Points equal to their
-character's _Refresh_, GMs start each scene with as many Fate Points as there
+character's Refresh, GMs start each scene with as many Fate Points as there
 are PCs.
 
 Fate Points are spent to do one of two things:
