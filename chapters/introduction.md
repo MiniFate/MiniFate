@@ -1,5 +1,11 @@
 # Introduction
 
+**MiniFate** is a tabletop roleplaying game based on [Evil Hat's Fate
+Core](http://www.evilhat.com/home/fate-core/). Like Fate Core it is a simple
+system designed to enable collaborative play and story telling.
+
+## An Introduction to Roleplaying
+
 ## Materials
 
 MiniFate, like most tabletop roleplaying games, requires pens to write with
