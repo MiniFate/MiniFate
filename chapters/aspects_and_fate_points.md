@@ -35,12 +35,15 @@ later):
 Each character is created with two Aspects (see the character creation rules
 in chapter **X**). The player can use these Aspects to showcase whatever they
 feel is important about their character, such as their job (**Deep-Woods
-Lumberjack**), something important they carry (**example**), what motivates
-them (**example**), the sort of trouble they tend to get into (**example**),
+Lumberjack**), something important they carry (**Crown of a Diposed King **),
+what motivates them (**Lord Kellett Will Pay for the Greywood Massacre**), the
+sort of trouble they tend to get into (**Owes a Lot to the Wrong People**),
 and so on. These Aspects serve to introduce the character to the rest of the
 table. Characters gain more Aspects as time goes on, in order to illustrate
 their growth and the new relationships they form (as discussed in the
-character advancement rules in chapter **Y**).
+character advancement rules in chapter **Y**).  <!--TODO: Can they really
+showcase whatever they want at creation if we have a high concept and trouble
+aspect?-->
 
 Any Aspect not attached to a character is a story Aspect. Like character
 Aspects, story Aspects are always true; unlike those Aspects, story Aspects
@@ -48,9 +51,9 @@ are dynamic. Creating an effect in the fiction is synonymous with creating a
 story Aspect. Reversing that effect destroys the Aspect.
 
 Story Aspects can be introduced by the GM to help set a scene; for example, it
-may bear noting that **It's Raining** or that **Everyone Seems On-Edge**. They
-can also be created as a result of skill rolls during gameplay. Quenching a
-campfire can create **Pitch Blackness**; wrestling someone to the ground
+may bear noting that **It's Raining Hard** or that **Everyone Seems On-Edge**.
+They can also be created as a result of skill rolls during gameplay. Quenching
+a campfire can create **Pitch Blackness**; wrestling someone to the ground
 creates **Grappled**.
 
 The destruction of Aspects is similar. They can be destroyed manually by
@@ -60,10 +63,11 @@ or no longer make sense. When the sun rises, **Pitch Blackness** is destroyed.
 
 Most character and story Aspects are visible to everyone at the table, but not
 all of them. The GM may choose to keep some Aspects hidden.  Obvious examples
-include monster weaknesses (**example**), imminent ambushes (**example**), and
-the schemes and motivations of NPCs (**example**). Hidden Aspects serve more
-or less as the GM's notes; if invoked or compelled, they must be revealed to
-everyone.
+include monster weaknesses (**Missing Scale Over His Heart**), imminent
+ambushes (**Those Bushes Look Suspiciously Like Orcs**), and the schemes and
+motivations of NPCs (**Lord Grofhurst Is My Unknowing Puppet**). Hidden
+Aspects serve more or less as the GM's notes; if invoked or compelled, they
+must be revealed to everyone.
 
 ## Fate Points
 
