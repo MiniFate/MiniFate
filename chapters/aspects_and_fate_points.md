@@ -35,7 +35,7 @@ later):
 Each character is created with two Aspects (see the character creation rules
 in chapter **X**). The player can use these Aspects to showcase whatever they
 feel is important about their character, such as their job (**Deep-Woods
-Lumberjack**), something important they carry (**Crown of a Diposed King **),
+Lumberjack**), something important they carry (**Crown of a Diposed King**),
 what motivates them (**Lord Kellett Will Pay for the Greywood Massacre**), the
 sort of trouble they tend to get into (**Owes a Lot to the Wrong People**),
 and so on. These Aspects serve to introduce the character to the rest of the
