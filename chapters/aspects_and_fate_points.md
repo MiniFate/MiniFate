@@ -45,6 +45,8 @@ character advancement rules in chapter **Y**).  <!--TODO: Can they really
 showcase whatever they want at creation if we have a high concept and trouble
 aspect?-->
 
+### Story Aspects
+
 Any Aspect not attached to a character is a story Aspect. Like character
 Aspects, story Aspects are always true; unlike those Aspects, story Aspects
 are dynamic. Creating an effect in the fiction is synonymous with creating a
@@ -60,6 +62,8 @@ The destruction of Aspects is similar. They can be destroyed manually by
 rolling; if a roll is made to break a grapple, the **Grappled** Aspect is
 destroyed. Story Aspects also are destroyed when they are no longer relevant,
 or no longer make sense. When the sun rises, **Pitch Blackness** is destroyed.
+
+### Hidden Aspects
 
 Most character and story Aspects are visible to everyone at the table, but not
 all of them. The GM may choose to keep some Aspects hidden.  Obvious examples
