@@ -28,7 +28,8 @@ CHAPTERS := \
 	chapters/character_creation.md\
 	chapters/skills.md\
 	chapters/aspects_and_fate_points.md\
-	chapters/actions.md
+	chapters/actions.md\
+	chapters/npc.md
 
 # List for the clean targets
 CLEAN_TARGETS := \
