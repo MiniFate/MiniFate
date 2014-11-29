@@ -73,6 +73,17 @@ motivations of NPCs (**Lord Grofhurst Is My Unknowing Puppet**). Hidden
 Aspects serve more or less as the GM's notes; if invoked or compelled, they
 must be revealed to everyone.
 
+Sometimes the story revolves around an NPC with a secret or a hidden
+motivation that should be revealed slowly. In this case, it is often best to
+start with slightly suspicious public Aspects and then change them as the
+players catch on. For example, Lord Kellett is a Dragon masquerading as the
+human general of the Empire's armies. He could start with an Aspect like
+**Strong as Ten Men** which indicates his incredible strength, but is poetic
+enough to be overlooked. Later, as he performs more and more superhuman feats,
+his Aspect might change to **No Man Is As Strong**. Finally, when the players
+discover his true nature, his aspect could be replaced with **Strength of a
+Dragon**.
+
 ## Fate Points
 
 Fate Points are a currency that can be spent to assert narrative control
