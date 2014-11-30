@@ -68,3 +68,33 @@ future conflicts with the NPC and will make it all the more exciting when the
 PCs finally stop them for good. Additionally, if NPCs concede after taking
 consequences, they get Fate Points just like PCs do, making them even more
 dangerous the next time they encounter the party.
+
+> ### **Lord Archibald Grofhurst**
+>
+> Lord Grofhurst is a Named NPC, and (unknowing) pawn of Lord Kellett.
+>
+> #### Aspects
+>
+> - _Concept_: **(Traitor) Lord of the Keldoran Empire**
+> - _Trouble_: **Lord Kellett's Disposable Flunky**
+> - **Will Do Anything For His Own Advancement**
+> - **Rules Haverton-on-the-Bend With An Iron Fist**
+>
+> #### Skills
+>
+> - +6: Performance
+> - +5: Network and Persuasion
+> - +2: Insight
+>
+> Grofhurst has several Aspects detailing who he is and what his
+> motivations are. He has a high rank in _Performance_ to represent how good
+> he is at lying and deceiving people. He has slightly lower ranks of
+> _Network_ to represent his connections as a Lord, and _Persuasion_ as he
+> often has to deal with diplomatic negotiations as a Lord. He has a
+> relatively low rank of _Insight_ indicating that he isn't as clever as his
+> thinks he is, but still knows more than the average commoner on the street.
+> The rest of his Skills are absent because he really isn't the type to engage
+> in physical combat and he isn't particularly athletic.
+
+<!-- This paragraph could use some editing. Do we want to mention that his
+trouble is hidden? -->
