@@ -35,7 +35,7 @@ another mob doesn't make sense, they should simply flee.
 > of the town guard's mother. The guardsmen and three of his buddies push back
 > their chairs and draw their swords, ready to settle the matter with steel
 > instead of words.
-> 
+>
 > The GM treats the guardsmen as a mob. Each guardsmen alone has _Fight_ +1,
 > but since there are four of them in total, they get a +3 bonus from the size
 > of their mob, giving the mob a total skill rank of _Fight_ +4. One of them
@@ -62,7 +62,7 @@ single PC,and one or two ranks higher if they're meant to challenge the entire
 party of PCs.
 
 Named NPCs should not fight to the death (unless it's narratively
-appropriate). They should concede conflicts when they're losing in order to
+appropriate). They should concede conflicts when they are losing in order to
 live on to fight, and contribute to the story, another day. This foreshadows
 future conflicts with the NPC and will make it all the more exciting when the
 PCs finally stop them for good. Additionally, if NPCs concede after taking
