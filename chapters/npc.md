@@ -25,11 +25,22 @@ In combat, nameless NPCs should be grouped together into mobs. A mob acts as
 one: they make a single role on their turn and each point of stress that they
 take removes one member of the mob. Just like PCs assisting each other, the
 mob rolls at their base skill level plus one for every member beyond the
-first. So a mob of three henchmen with _Fight_ +2 would roll at +4, +2 for
-their base skill and +2 because there are two additional members joining the
 first.  When a mob is reduced to one or two members it should join with
-another mob to reduce the number of things to keep track of, or if that
-doesn't make sense they should simply flee.
+another mob to reduce the number of things to keep track of, or, if joining
+another mob doesn't make sense, they should simply flee.
+
+<!-- Do we **bold** the names of the Example characters? -->
+
+> While drinking at a local tavern, **Tor Byorn Yorgensen** insults a member
+> of the town guard's mother. The guardsmen and three of his buddies push back
+> their chairs and draw their swords, ready to settle the matter with steel
+> instead of words.
+> 
+> The GM treats the guardsmen as a mob. Each guardsmen alone has _Fight_ +1,
+> but since there are four of them in total, they get a +3 bonus from the size
+> of their mob, giving the mob a total skill rank of _Fight_ +4. One of them
+> would have been an easy target for the surly Dwarf, but the mob is tougher
+> and Tor Byorn will have to be careful to avoid a beating.
 
 ## Named NPCs
 
