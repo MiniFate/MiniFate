@@ -76,13 +76,16 @@ must be revealed to everyone.
 Sometimes the story revolves around an NPC with a secret or a hidden
 motivation that should be revealed slowly. In this case, it is often best to
 start with slightly suspicious public Aspects and then change them as the
-players catch on. For example, Lord Kellett is a Dragon masquerading as the
-human general of the Empire's armies. He could start with an Aspect like
-**Strong as Ten Men** which indicates his incredible strength, but is poetic
-enough to be overlooked. Later, as he performs more and more superhuman feats,
-his Aspect might change to **No Man Is As Strong**. Finally, when the players
-discover his true nature, his aspect could be replaced with **Strength of a
-Dragon**.
+players catch on.
+
+> Lord Kellett is a Dragon using his magic to masquerade as the human general
+> of the Empire's armies. He starts with the Aspect **Strong as Ten Men**
+> which indicates his incredible strength, but is poetic enough to be
+> overlooked.  Later, as the PCs observe him performing more and more
+> superhuman feats, his Aspect changes to **No Man Could Be As Strong**, still
+> indicating his strength, but hinting more directly at its hidden origins.
+> Finally, when the players discover his true nature, his aspect is replaced
+> with **Strength of a Dragon**.
 
 ## Fate Points
 
