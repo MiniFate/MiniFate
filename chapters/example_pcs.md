@@ -27,6 +27,13 @@
 >
 > - +2 Insight
 > - +1 Stealth, Tinker
+>
+> Eyegor is spy drone from City 13 who, due to a quirk in his quantum
+> AI chip, decided to defect and join the rebellion. His delicate sensor
+> arrays pick up almost everything happening around him, and he can still tap
+> into the government's security archives so he knows a lot (_+2 Insight_).
+> He's small and hard to spot (_+1 Stealth_) and able to hack into remote
+> systems (_+1 Tinker_).
 
 ---
 
@@ -41,6 +48,13 @@
 >
 > - +2 Shoot
 > - +1 Agility, Performance
+>
+> Naka was born a member of a distant Orc tribe, but fled when her magical
+> abilities (a "gift" of her dragon father) first emerged. She's a natural
+> mage who loves tossing fireballs (_+2 Shoot_) while flying above the head of
+> those she's terrorizing (_+1 Agility_). However, when its clear that might
+> won't carry the day, she quickly falls back to pretending to be an orphan of
+> the war to win peoples pity and help (_+1 Performance_).
 
 ---
 
