@@ -26,6 +26,7 @@ CHAPTERS := \
 	chapters/introduction.md\
 	chapters/game_creation.md\
 	chapters/character_creation.md\
+	chapters/example_pcs.md\
 	chapters/skills.md\
 	chapters/aspects_and_fate_points.md\
 	chapters/actions.md\
