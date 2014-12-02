@@ -1,5 +1,7 @@
 # Example PCs
 
+---
+
 > ## Tor Byorn Yorgensen
 >
 > ### Aspects
@@ -11,6 +13,8 @@
 >
 > - +2 Fight
 > - +1 Diplomacy/Persuasion, Physique
+
+---
 
 > ## "Eyegor"
 >
@@ -24,6 +28,8 @@
 > - +2 Insight
 > - +1 Stealth, Tinker
 
+---
+
 > ## Naka of Three Bridges
 >
 > ### Aspects
@@ -36,6 +42,8 @@
 > - +2 Shoot
 > - +1 Agility, Performance
 
+---
+
 > ## Dolores
 >
 > ### Aspects
@@ -47,3 +55,5 @@
 >
 > - +2 Network
 > - +1 Diplomacy, Performance
+
+---
