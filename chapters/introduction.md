@@ -4,6 +4,10 @@
 Core](http://www.evilhat.com/home/fate-core/). Like Fate Core it is a simple
 system designed to enable collaborative play and story telling.
 
+<!-- Push _ASPECTS **HARD**_! We should have a paragraph like: MF uses skills
+for the mechanical crunch, but **EVERY OTHER THING IN THE WORLD** is Aspects!
+-->
+
 ## An Introduction to Roleplaying
 
 MiniFate is played with one game master (**GM**) and one or more **players**.
