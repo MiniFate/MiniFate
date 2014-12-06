@@ -2,6 +2,7 @@
 
 ## Introduction
 
+- Write an "Aspects are awesome" introduction
 - Go over the Materials section
 
 ## How to play RPGs
@@ -19,6 +20,7 @@ Bloodlines
 
 - Use aspects from the example characters
 - Explain the pyramid?
+- Expand the concept and trouble to make the breadth allowed clear
 
 ## Example PCs
 
@@ -39,6 +41,8 @@ Bloodlines
 ### Aspects
 
 Mostly good, some editing maybe?
+
+- Add a bit on each of our four cases for aspects.
 
 ### Fate Points
 
