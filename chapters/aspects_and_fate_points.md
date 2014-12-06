@@ -14,19 +14,19 @@ Aspects are the heart and soul of MiniFate. They have four roles, each of
 which is crucial to the game (and each of which will be explained in detail
 later):
 
-- Aspects can be invoked for bonuses on rolls. For example, if a roll goes
-  poorly while **EXAMPLE ROGUE** is trying to sneak past some guards,
-  **HE/SHE** could pay a fate point to invoke **Dark and Stormy Night** to
-  improve the roll. It makes sense that the dark would work to **HIS/HER**
-  advantage.
-- Aspects can be compelled to create engaging plot twists and complications.
+- **Aspects can be invoked for bonuses on rolls.** For example, if a roll goes
+  poorly while Eyegor is trying to sneak past some guards, he could pay a fate
+  point to invoke **Dark and Stormy Night** to improve the roll. It makes
+  sense that the dark would work to his advantage.
+- **Aspects can be compelled to create engaging plot twists and complications.**
   For example, **blah blah blah**.
-- Aspects are always true, so they govern the sorts of play that make sense.
-  For example, if **SAMPLE** is **Grappled**, it wouldn't make sense for
-  **HIM/HER** to run away, fire an arrow, or do anything else that requires
-  free movement until **HE/SHE** escaped the grapple.
-- Aspects can be used to flavor character skills and rolls, called
-  Aspect-Based Narration. The Shoot skill applies to all manner of
+- **Aspects are always true, so they govern the sorts of play that make
+  sense.**
+  For example, if Tor Byorn is **Grappled**, it wouldn't make sense for him to
+  run away, swing his hammer, or do anything else that requires free movement
+  until he escaped the grapple.
+- **Aspects can be used to flavor character skills and rolls, called
+  Aspect-Based Narration.** The _Shoot_ skill applies to all manner of
   projectiles, from arrows to javelins to magic attacks. **SAMPLE
   SORCERESS**'s Aspect **PYROMANCER Aspect** indicates that when she rolls
   Shoot, she's probably doing so to throw a fireball... and that she probably
