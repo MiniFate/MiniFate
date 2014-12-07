@@ -61,3 +61,13 @@ Does this go in the skills chapter?
 ## NPCs
 
 I think this is in pretty good shape. Maybe more examples.
+
+## Essays
+
+- Magic and shapeshifting with Aspect-based Narration
+- Weapons, guns, ammunition
+- Gold, loot, and items with aspects
+- Vehicles and mounts with aspects
+- Animal companions with aspects
+- Gadgets (Iron Man, Inspector Gadget, etc.) with aspects
+
