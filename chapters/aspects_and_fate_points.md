@@ -90,11 +90,17 @@ players catch on.
 
 ## Fate Points
 
-Fate Points are a currency that can be spent to assert narrative control
-over the game. Both the players and the GM have pools of Fate Points available
-to use. Players start each session with a number of Fate Points equal to their
+Fate Points are a currency that can be spent to assert narrative control over
+the game. Both the players and the GM have pools of Fate Points available to
+spend. Players start each session with a number of Fate Points equal to their
 character's Refresh; the GM start each scene with as many Fate Points as there
-are PCs.
+are PCs active in the scene. Additionally, there is an unlimited of Fate
+Points that the players and GM return their Fate Points to when they spend
+them, and from which the GM pays players Fate Points for compels.
+
+<!-- TODO: There must be a cleaner way to explain the "unlimited pool" or bank
+of Fate points. Maybe start with that, and then explain how the players and GM
+get to take points out of it? -->
 
 Fate Points are spent to do one of two things:
 
