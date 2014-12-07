@@ -134,18 +134,18 @@ roll. Maybe we need a new word? Action? -->
 
 Declaring an Aspects gives the players a chance to narrate a story detail.
 The player propose a new aspect and, if the GM accepts it, they pay a Fate
-point and the Aspect comes into being. Declaring an Aspect does not grant any
+point to bring the Aspect into being. Declaring an Aspect does not grant any
 free invocations.
 
 Declaring an aspect can be used to establish a connection with an new NPC
 (**The Barkeep Is From My Hometown**) or dicate their motives (**Traitorious
-Minon**), give a PC an item they need but might not have on them (**Putup My
-Hair with Lockpicks This Morning**), impose unfortunate circumstances on an
+Minon**), give a PC an item they need but might not have on them (**Put My
+Hair up with Lockpicks this Morning**), impose unfortunate circumstances on an
 enemy (**Knock-off AK-47s Jam a Lot!**), or even change the weather or scenery
-(**Sudden Snowstorm**).  The power of Declaring an aspect comes from the fact
+(**Sudden Snowstorm**).  The power of declaring an aspect comes from the fact
 that Aspects are true and so making the Aspect is just revealing a previously
 unknown piece of the story.
 
-The GM may declare aspects without paying a Fate point; narrating the game
+The GM may declare aspects without paying a Fate point; narrating the in-game
 world and deciding the actions of all the NPCs is specifically the purview of
 the GM, it is only players that need to pay for the privilege.
