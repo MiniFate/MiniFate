@@ -107,24 +107,28 @@ Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
 player or GM spends a Fate Point, explains how one of the Aspects in play
 would help the character making the roll or hinder their opponents, and then
 either adds +2 to the result of the roll or re-rolls all four of their dice.
-The group should agree that the aspect is applicable, with the GM being the
-final arbiter.
+Invoking an Aspect must make sense; the group should agree that the Aspect is
+applicable with the GM being the final arbiter.
 
 Players may spend Fate points to invoke Aspects for their own rolls and the GM
 may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
-
 Multiple Aspects can be invoked on the same roll, although each specific
-aspect can only be invoked once per roll. Aspects need not be invoked all at
-once; the result of a roll can be determined before and Aspect is invoked to
-modify it, and the result of that modification can be determined before
-additional invocations are decided on.
+aspect can only be invoked once per roll.
+
+Aspects need not be invoked all at once; a player my see whether they would
+succeed with a roll before deciding whether to invoke any aspects. After
+invoking an aspect, they may again see what the result would be before
+deciding to let it stand, or invoking other aspects to gain a further bonus.
+
+If two players are invoking aspects on a roll (for example, if a player's PC
+is attack one of the GM's NPCs), then the roll is resolved only after both
+players agree that they are finished. Again, each specific aspect may only be
+invoked once per roll, so if both players want to invoke the same aspect the
+group should decide for which character it would be more beneficial. If no
+agreement can be reached, neither player may invoke it.
 
 <!-- TODO: Make it clear that "re-rolling" the dice doesn't make it a new
 roll. Maybe we need a new word? Action? -->
-
-If both sides of a roll are invoking Aspects (for example, the player for
-their PC, and the GM for their NPC)...
-<!-- TODO: How does this work? Can each invoke the same aspect? -->
 
 ### Creating Aspects
 
