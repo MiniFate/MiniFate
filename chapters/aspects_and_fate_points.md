@@ -110,11 +110,8 @@ either adds +2 to the result of the roll or re-rolls all four of their dice.
 The group should agree that the aspect is applicable, with the GM being the
 final arbiter.
 
-Players may spend Fate points to invoke Aspects for their own rolls or for the
-rolls of other players if they have that player's permission.  The GM may
-spend Fate Points to invoke Aspects on rolls he makes for his NPCs.  Once an
-Aspect is invoked, the player who is rolling the dice decides if they are
-going to use it to re-roll or to take a +2.
+Players may spend Fate points to invoke Aspects for their own rolls and the GM
+may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
 
 Multiple Aspects can be invoked on the same roll, although each specific
 aspect can only be invoked once per roll. Aspects need not be invoked all at
