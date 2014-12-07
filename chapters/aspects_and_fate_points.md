@@ -99,7 +99,7 @@ are PCs.
 Fate Points are spent to do one of two things:
 
 1. Invoke an Aspect
-2. Create an Aspect
+2. Declaring an Aspect
 
 ### Invoking Aspects
 
@@ -130,6 +130,22 @@ agreement can be reached, neither player may invoke it.
 <!-- TODO: Make it clear that "re-rolling" the dice doesn't make it a new
 roll. Maybe we need a new word? Action? -->
 
-### Creating Aspects
+### Declaring Aspects
 
-Creating Aspects gives the Players a chance to narrate a story detail.
+Declaring an Aspects gives the players a chance to narrate a story detail.
+The player propose a new aspect and, if the GM accepts it, they pay a Fate
+point and the Aspect comes into being. Declaring an Aspect does not grant any
+free invocations.
+
+Declaring an aspect can be used to establish a connection with an new NPC
+(**The Barkeep Is From My Hometown**) or dicate their motives (**Traitorious
+Minon**), give a PC an item they need but might not have on them (**Putup My
+Hair with Lockpicks This Morning**), impose unfortunate circumstances on an
+enemy (**Knock-off AK-47s Jam a Lot!**), or even change the weather or scenery
+(**Sudden Snowstorm**).  The power of Declaring an aspect comes from the fact
+that Aspects are true and so making the Aspect is just revealing a previously
+unknown piece of the story.
+
+The GM may declare aspects without paying a Fate point; narrating the game
+world and deciding the actions of all the NPCs is specifically the purview of
+the GM, it is only players that need to pay for the privilege.
