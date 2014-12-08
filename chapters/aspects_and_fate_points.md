@@ -107,6 +107,8 @@ Fate Points are spent to do one of two things:
 1. Invoke an Aspect
 2. Declaring an Aspect
 
+Fate Points are earned by accepting compels.
+
 ### Invoking Aspects
 
 Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
@@ -155,3 +157,36 @@ unknown piece of the story.
 The GM may declare aspects without paying a Fate point; narrating the in-game
 world and deciding the actions of all the NPCs is specifically the purview of
 the GM, it is only players that need to pay for the privilege.
+
+## Compelling Aspects
+
+Compelling an aspect allows the GM to take more narrative control of the story
+than normal in exchange for giving the effected players a Fate point.  To
+offer a compel, the GM explains how one of the Aspects in play would lead to
+story unfolding in a certain, unfavorable way for the PCs. The exact way in
+which things go wrong can be negotiated, but if the player which to avoid the
+compel entirely they must pay a Fate point instead. If they accept the compel,
+they receive a Fate Point and the GM narrates the results; there are no rolls
+made and no skills are used, the story simply unfolds as the GM dictates.
+
+<!-- FIXME: This isn't great... But at least it's a start. It probably needs
+an complete rewrite. -->
+
+The GM can compel a character aspects:
+
+> Tor Byorn's group has snuck into Lord Kellett's chambers looking for a
+> missing artifact and have stopped to discus what to do with the large safe
+> they found.  While they talk, GM turns to Tor Byorn's player, holds up a
+> Fate Point, and says, "Tor Byorn, **Why Are We Still Talking?** Just break
+> the safe open with your hammer! Of course, it'll alert every guard in the
+> building to your whereabouts but you can handle them." Tor Byron's player
+> smiles and accepts the Fate point, so the GM narrates the result: "Tor Byorn
+> walks over and slams his hammer into the safe's door, which makes a loud,
+> booming sound that shakes the whole room..."
+
+The GM can also compel story aspects:
+
+> Eyegor is attempting to hack a security terminal to find out where the
+> police have taken the rebellion's leader. Before his player can roll to
+> attempt the hack, the GM holds up a Fate Point and says, "Because **The
+> Government Sees All** <!-- TODO: Come up with a good example for this. -->
