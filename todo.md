@@ -47,8 +47,6 @@ Mostly good, some editing maybe?
 ### Fate Points
 
 - How to compel
-- How to invoke
-- How to make aspects with fate points
 
 ## Actions
 
