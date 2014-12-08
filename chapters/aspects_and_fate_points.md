@@ -144,7 +144,7 @@ point to bring the Aspect into being. Declaring an Aspect does not grant any
 free invocations.
 
 Declaring an aspect can be used to establish a connection with an new NPC
-(**The Barkeep Is From My Hometown**) or dicate their motives (**Traitorious
+(**The Barkeep Is From My Hometown**) or dictate their motives (**Traitorious
 Minon**), give a PC an item they need but might not have on them (**Put My
 Hair up with Lockpicks this Morning**), impose unfortunate circumstances on an
 enemy (**Knock-off AK-47s Jam a Lot!**), or even change the weather or scenery
