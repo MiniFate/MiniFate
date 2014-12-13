@@ -24,7 +24,6 @@ Bloodlines
 
 ## Example PCs
 
-- Write intro for Tor Byorn
 - Figure out a setting for Dolores
     - Write intro for Dolores
 

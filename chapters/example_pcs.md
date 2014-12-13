@@ -6,13 +6,19 @@
 >
 > ### Aspects
 >
-> - **Don't Hit First; Hit Last**
+> - **Honest Cloud Pirate**
 > - **Why Are We Still Talking?**
 >
 > ### Skills
 >
 > - +2 Fight
-> - +1 Diplomacy/Persuasion, Physique
+> - +1 Persuasion, Agility
+>
+> Tor Byorn is too good a man to be a pirate, but too good a pirate to ever
+> stop. He scours the skies in his sky ship, his eyes peeled for fat merchant
+> ships sagging under the weight of wine and gold. Tor Byorn isn't much for
+> words. If his reputation isn't enough to get him what he wants, he's happy
+> to follow up with his steam-powered warhammer.
 
 ---
 
