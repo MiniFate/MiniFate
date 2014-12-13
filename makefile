@@ -24,6 +24,7 @@ BASE_COMMAND := pandoc --from=$(MARKDOWN_TYPE) --standalone
 # "markdown"
 CHAPTERS := \
 	chapters/introduction.md\
+	chapters/at_a_glance.md\
 	chapters/game_creation.md\
 	chapters/character_creation.md\
 	chapters/example_pcs.md\
