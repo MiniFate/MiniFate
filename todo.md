@@ -4,11 +4,6 @@
 
 - Write an "Aspects are awesome" introduction
 
-## How to play RPGs
-
-We have a bit in the intro, do we need a chapter? If so, steal from
-Bloodlines
-
 ## At A Glance
 
 - Edit the premise section, especially the "The game is largely..." sentence.
