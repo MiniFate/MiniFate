@@ -52,11 +52,11 @@ set of Fate dice, and some tokens to represent Fate points.
 
 Your character sheet is where you record all the information needed to play
 MiniFate. It includes your PC's name, Aspects, Skills, Stress Boxes, and
-Consequences. As your PC grows throughout the course of their adventures,
-their character sheet will change to reflect who they have become.  <!-- TODO:
-The previous sentence needs updating. --> A sample character sheet is included
-at the end of these rules, but a MiniFate PC is simple enough that even a
-handwritten note card will suffice as their character sheet.
+Consequences. As your PC grows throughout the course of their adventures, the
+information contained on their character sheet will change to reflect who they
+have become. A sample character sheet is included at the end of these rules,
+but a MiniFate PC is simple enough that even a handwritten note card will
+suffice as their character sheet.
 
 Fate dice (sometimes called Fudge dice) are six sided dice marked with "-1" on
 two sides, "0" on two sides, and "+1" on two sides. You will need four of them
@@ -69,4 +69,4 @@ Tokens are useful for keeping track of Fate points. Although in practice
 Fate points can be tracked by making tick marks on your character sheet, it
 is far more satisfying to have something physical to pass back and forth.
 Pokers chips work well, but so do glass beads, or even all those polyhedral
-dice you don't need in Fate.
+dice you have that you won't need in Fate.

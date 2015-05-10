@@ -3,7 +3,6 @@
 ## Introduction
 
 - Write an "Aspects are awesome" introduction
-- Go over the Materials section
 
 ## How to play RPGs
 

@@ -13,7 +13,7 @@ street, you would roll <!--TODO: Example HERE -->.
 When it does come time to roll dice, you do so as follows
 
 - Pick the most appropriate skill for the action.
-- Roll four Fate dice (sometimes abbreviated 4dF).
+- Roll four Fate dice.
 - Add the dice together.
 - Add your skill rating to the total.
 - Decide if you are going to invoke Aspects, and if so re-roll the dice or add
