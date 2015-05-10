@@ -8,13 +8,15 @@ this-or-that detail fits into the broader context.
 
 ## The Premise
 
-MiniFate is played with one game master (GM) and one or more players.  Each
-player takes the role of a player character (PC). The GM takes the role of the
-world around the PCs, including its cast of non-player characters (NPCs). The
-players and the GM work together to tell stories about the adventures of the
-PCs. The game is largely played by improvising verbally back and forth; in
-addition, dice are used to introduce an element of tension and
-unpredictability into the story.
+MiniFate is played with one game master (**GM**) and one or more players. Each
+player takes the role of a player character (**PC**). The GM takes the role of
+the world around the PCs, including its cast of non-player characters
+(**NPCs**). The players and the GM work together to tell stories about the
+adventures of the PCs. <!-- Rewrite this next section. --> The game is largely
+played as a conversation, where the GM explains the situation, and the players
+tell everyone how their PC reacts, and the GM decides and narrates how the
+NPCs respond. Every now and again, dice are used to introduce an element of
+tension and unpredictability into the story.
 
 ## Aspects
 
@@ -47,8 +49,8 @@ The most advanced PC will have a single skill at 4.
 ## Fate Dice
 
 A Fate die is a six-sided die where two sides show "+1", two sides show "-1",
-and two sides show "0". They are always rolled eight at a time, four by a
-player and four by the GM.
+and two sides show "0". For any single roll, four dice are thrown and the
+results added together.
 
 ## Rolls
 
@@ -56,8 +58,8 @@ All rolls in MiniFate are made in the same way. The player rolls four Fate
 dice and adds the outcome to the value of their PC's most relevant skill. The
 GM rolls four fate dice and adds the outcome to the value of the opposing
 NPC's most relevant skill (or, if no NPC is opposing the PC's action, a static
-difficulty is used instead). The roll ends in favor of whoever's result is
-higher.
+difficulty is used instead of rolling). The roll ends in favor of whoever's
+result is higher.
 
 In terms of mechanics, a roll can create an aspect, overcome an aspect, or
 inflict stress on an NPC.

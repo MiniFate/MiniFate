@@ -9,6 +9,14 @@
 We have a bit in the intro, do we need a chapter? If so, steal from
 Bloodlines
 
+## At A Glance
+
+- Edit the premise section, especially the "The game is largely..." sentence.
+- Fill in the following sections:
+    - Stress and Consequences
+    - Character Creation
+    - Character Advancement
+
 ## Game Creation
 
 - Write a bit about joint world building
