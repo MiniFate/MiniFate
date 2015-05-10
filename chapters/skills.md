@@ -31,5 +31,3 @@ you have a hope of some more skill balance. -->
 | Shoot | Attacking with ranged and thrown weapons |
 | Stealth | Hiding, moving silently, concealing objects on your person |
 | Tinker | Picking locks, disarming traps, hacking computers, repairing things |
-
-## Using Skills

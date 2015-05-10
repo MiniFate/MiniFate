@@ -32,8 +32,7 @@ Bloodlines
 - Does the pyramid go here?
 - Optimize the names of the skills
 - Optimize the verbs
-- Are these skills orthogonal enough 
-- Write a little more about each skill?
+- Are these skills orthogonal enough
 
 ## Aspects and Fate Points
 
@@ -48,8 +47,6 @@ Mostly good, some editing maybe?
 - How to compel
 
 ## Actions
-
-Does this go in the skills chapter?
 
 - Write a combat section
 - Write an out-of-combat section
@@ -67,4 +64,3 @@ I think this is in pretty good shape. Maybe more examples.
 - Vehicles and mounts with aspects
 - Animal companions with aspects
 - Gadgets (Iron Man, Inspector Gadget, etc.) with aspects
-
