@@ -33,7 +33,7 @@ Bloodlines
 - Does the pyramid go here?
 - Optimize the names of the skills
 - Optimize the verbs
-- Are these skills orthogonal enough 
+- Are these skills orthogonal enough
 - Write a little more about each skill?
 
 ## Aspects and Fate Points
@@ -68,4 +68,3 @@ I think this is in pretty good shape. Maybe more examples.
 - Vehicles and mounts with aspects
 - Animal companions with aspects
 - Gadgets (Iron Man, Inspector Gadget, etc.) with aspects
-
