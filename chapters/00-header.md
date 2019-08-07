@@ -1,4 +1,7 @@
-# Outline
+---
+title: MiniFate
+author: Alexander Gude and Charles Fyfe
+---
 
 ## Skills
 
@@ -30,5 +33,5 @@ Everyone has one stress track with 3 boxes.
 
 There are three consequences slots:
 * **Minor**: Absorbs 2, clears after a session
-* **Major**: Absorbs 4, clears after several sessions 
+* **Major**: Absorbs 4, clears after several sessions
 * **Severe**: Absorbs 6, clears after a Major story line is resolved.
