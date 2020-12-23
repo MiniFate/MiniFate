@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:20.04
 
 # Avoid prompt for time zone info.
 ENV DEBIAN_FRONTEND=noninteractive
