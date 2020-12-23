@@ -2,7 +2,7 @@
 IMAGE := pandoc-image
 MOUNT := /workspace
 INPUT := $(shell ls chapters/*.md | sort)
-OUTPUT := mini-fate.pdf
+OUTPUT := MiniFate.pdf
 
 .PHONY: all clean helper
 
