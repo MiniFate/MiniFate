@@ -2,17 +2,16 @@
 IMAGE := pandoc-image
 MOUNT := /workspace
 INPUT := $(shell ls chapters/*.md | sort)
-OUTPUT := out.pdf
+OUTPUT := mini-fate.pdf
 
 .PHONY: all clean helper
 
-all: pdf
+all: $(OUTPUT)
 
-pdf: container $(INPUT)
-	docker run --rm -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) \
-		pandoc $(INPUT) -o $(OUTPUT) --verbose --toc --toc-depth=1 --variable urlcolor=red
+$(OUTPUT): image $(INPUT)
+	docker run --rm -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) pandoc $(INPUT) -o $(OUTPUT)
 
-container: Dockerfile
+image: Dockerfile
 	docker build . -f Dockerfile -t $(IMAGE)
 
 refresh: Dockerfile
