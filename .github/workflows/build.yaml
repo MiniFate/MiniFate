@@ -1,0 +1,17 @@
+name: Build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Create Build Image
+      run: make image
+    - name: Compile PDF
+      run: make MiniFate.pdf
+    - uses: actions/upload-artifact@master
+      with:
+        name: MiniFate
+        path: ./MiniFate.pdf
