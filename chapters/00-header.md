@@ -1,7 +1,7 @@
 ---
 title: MiniFate
 author: Alexander Gude and Charles Fyfe
-date: Version 1.0
+date: Version 0.1
 
 documentclass: article
 classoption:
