@@ -1,10 +1,16 @@
 # Introduction
 
-*Introduction to Roleplaying*? *Introduction to MiniFate*?
+**MiniFate** is a roleplaying game that allows the players to tell a
+collaborative story. It has just enough rules to help the group decide what
+happens while staying out of the way of the narrative.
 
-Idea here would be to introduce the acronyms **GM**, **PC**, and **NPC**, and give a few sentences about how RPGs work. We have some pretty good existing content for this!
+Each player controls a player character (**PC**) in a shared world. The
+gamemaster (**GM**) plays the rest of the world and the non-player characters
+(**NPC**s). Together they tell the story of the characters until they come to
+the point where there is a question as to how the story should proceed; that
+is when they turn to the rules to help decide.
 
-Probably also want to address game materials.
+<!-- TODO: Game materials here? What's next? -->
 
 # Next...
 
