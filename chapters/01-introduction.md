@@ -48,7 +48,7 @@ communicate their understanding of the world.
 
 MineFate doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
-**Fate points**.
+**Fate Points**.
 
 Your character sheet is where you record all the information needed to play
 MiniFate. It includes your PC's name, Aspects, Skills, Stress Boxes, and
@@ -59,20 +59,15 @@ MiniFate PC is simple enough that even a handwritten note card will suffice.
 
 Fate dice (sometimes called Fudge dice) are six sided dice marked with "-1" on
 two sides, "0" on two sides, and "+1" on two sides. You will need four of them
-since every roll in MiniFate uses four dice which are .
+since every roll in MiniFate uses four dice which are added together. In order
+to keep things moving quickly, it is best to have one set of dice for each
+player.
 
-<!-- Edit below -->
-
-In order to keep things moving
-quickly, it is best to have one set of dice for each player. When rolling them
-you add all four dice together and use the final result (so if the four dice
-show -1, 0, +1, +1 the final result is +1).
-
-Tokens are useful for keeping track of Fate points. Although in practice
-Fate points can be tracked by making tick marks on your character sheet, it
-is far more satisfying to have something physical to pass back and forth.
-Pokers chips work well, but so do glass beads, or even all those polyhedral
-dice you have that you won't need in Fate.
+Tokens are useful for keeping track of Fate Points. Although Fate Points can
+be tracked by making tick marks on your character sheet, it is far more
+satisfying to have something physical to pass back and forth. Pokers chips
+work well, but so do glass beads, or even all those polyhedral dice you have
+that you won't need in Fate.
 
 # Next...
 
