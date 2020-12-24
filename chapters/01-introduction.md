@@ -32,7 +32,7 @@ way to do it yet.
 There will come a point in the story where an action has a chance to fail in a
 way that is narratively interesting. That is when the players turn to the
 rules and dice. The rules mediate the divide between player and PC; PC choices
-are made by the players while the outcome of PC actions is judged by dice.
+are made by the players while the outcome of PC actions are judged by dice.
 
 PCs should be assumed to be competent though, a `Master swordsman` does not
 role to see if he defeats the henchmen---of course he would---he roles to see
