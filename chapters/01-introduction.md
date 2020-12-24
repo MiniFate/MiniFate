@@ -2,9 +2,13 @@
 
 **MiniFate** is a roleplaying game that allows the players to tell a
 collaborative story. It has just enough rules to help the group decide what
-happens while staying out of the way of the narrative.
+happens while staying out of the way of the narrative. It is based on [_Fate
+Core_][fate_core] and [_Fate Accelerated_][fae] by _Evil Hat_.
 
-## A Guide to Roleplaying
+[fate_core]: https://www.evilhat.com/home/fate-core/
+[fae]: https://www.evilhat.com/home/fae/
+
+## Roleplaying with MiniFate
 
 MiniFate is played with one gamemaster (**GM**) and one or more **players**.
 Each player takes on the role of a player character (**PC**) which they create
@@ -34,13 +38,6 @@ way that is narratively interesting. That is when the players turn to the
 rules and dice. The rules mediate the divide between player and PC; PC choices
 are made by the players while the outcome of PC actions are judged by dice.
 
-PCs should be assumed to be competent though, a `Master swordsman` does not
-role to see if he defeats the henchmen---of course he would---he roles to see
-if he does it before the villain escapes, or without alerting the other
-guards. <!-- I don't like this here, but I don't know where else it would go
-an I think it's an important point. Maybe it goes in the place when we talk
-about "aspects are true"? -->
-
 MiniFate is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
@@ -49,9 +46,33 @@ communicate their understanding of the world.
 
 ## Game Materials
 
-MineFate doesn't require a lot to get started. Something to write with and
-somewhere to write. Each player should have a character sheet where they
-record their character's 
+MineFate doesn't require a lot to get started: pens to write with and paper to
+record your character on, a set of Fate dice, and some tokens to represent
+**Fate points**.
+
+Your character sheet is where you record all the information needed to play
+MiniFate. It includes your PC's name, Aspects, Skills, Stress Boxes, and
+Consequences. The information contained on the sheet is updated as your PC
+grows throughout the course of their adventures to reflect who they have
+become. A sample character sheet is included at the end of these rules, but a
+MiniFate PC is simple enough that even a handwritten note card will suffice.
+
+Fate dice (sometimes called Fudge dice) are six sided dice marked with "-1" on
+two sides, "0" on two sides, and "+1" on two sides. You will need four of them
+since every roll in MiniFate uses four dice which are .
+
+<!-- Edit below -->
+
+In order to keep things moving
+quickly, it is best to have one set of dice for each player. When rolling them
+you add all four dice together and use the final result (so if the four dice
+show -1, 0, +1, +1 the final result is +1).
+
+Tokens are useful for keeping track of Fate points. Although in practice
+Fate points can be tracked by making tick marks on your character sheet, it
+is far more satisfying to have something physical to pass back and forth.
+Pokers chips work well, but so do glass beads, or even all those polyhedral
+dice you have that you won't need in Fate.
 
 # Next...
 
@@ -60,3 +81,10 @@ Fate Core starts by going through the character sheet to introduce the ideas of 
 - Character creation. Nest aspects and skills under.
 - Aspects. They are always true! Short improvised statements.
 - Skills. These are the numbers you use to roll dice.
+
+PCs should be assumed to be competent though, a `Master swordsman` does not
+role to see if he defeats the henchmen---of course he would---he roles to see
+if he does it before the villain escapes, or without alerting the other
+guards. <!-- I don't like this here, but I don't know where else it would go
+an I think it's an important point. Maybe it goes in the place when we talk
+about "aspects are true"? -->
