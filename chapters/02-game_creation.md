@@ -36,15 +36,17 @@ setting changes in response to changes in the narrative.
 
 ### Scenes
 
-Your game will take place across a number of scenes. Just as with your overall
-setting, each scene will have one or more Aspects that describes it. The GM
-will generally create these Aspects as they are describing the scene to the
-players. Some examples: **An Alien Bar Where The Authorities Dare Not Tread**,
-**The Mob's Docks At Midnight**, or **An Ancient Fortification Surrounded by
-Orcs**.
+Your game will take place across a number of scenes that exist within the
+larger Setting. Just as with your overall setting, each scene will have one or
+more Aspects that describes it.
 
-Just as with Setting Aspects, Scene Aspects can be changed or updated as play
-proceeds to reflect changes in the narrative.
+The GM will generally create these Aspects as they are describing the scene to
+the players. Some examples: **An Alien Bar Where The Authorities Dare Not
+Tread**, **The Mob's Docks At Midnight**, or **An Ancient Fortification
+Surrounded by Orcs**.
+
+Just as with Setting Aspects, Scene Aspects should be changed or updated as
+play proceeds to reflect changes in the narrative.
 
 ## Characters
 
