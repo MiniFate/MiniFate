@@ -14,30 +14,37 @@ PCs, using their creation to find out more details of the setting.
 ## Setting
 
 The setting of the story could be as large or small as needed. To start,
-create two Aspects: a Theme and a `TODO: GROUP NAME`. These Aspects describe what
-the world is like.
+decide what kind of setting you want the story to take place in. Then use
+Aspects to make the setting concrete. These Aspects will help get the group
+all on the same page. Good hooks for Setting Aspects and some examples are:
 
-<!-- Are we too prescriptive here? Should I just be: Pick some aspects to
-describe your world, the major influencers, conflicts, etc. -->
+- _Major Conflicts_: **Plucky Rebels Defend Their Home From A Galaxy-spanning
+  Empire** or **An Ancient Evil Once Again Threatens the Reamls of Men, Dwarves,
+  and Elves** 
+- _Major Technology/Magic_: **Highschool Where Everyone Has
+  Superpowers** or **In the Near Future, Cybernetics Let Anyone Improve
+  Themselves for A Price**
+- _Major Themes_: **In the Darkness of the Far Future, Humanity Fights for
+  Survival** or **The Mob Runs This Town**.
+- _Major Groups_: **A Starship Crew Boldly Explores the Galaxy** or **A
+  Shadowy Government Agency Hides Magic from Normal People**
 
-### Theme
-
-The Theme of a world is the major concept that describes it. For example,
-**A Near Future World Attacked by Monsters From the Oceans** or **A
-Galaxy-wide Empire Tightens Its Grip on the Last Free Worlds**.
-
-The Theme indicates where your game is taking place, and one of the major
-points of conflict that forms that backdrop to your story.
-
-### TODO GROUP
-
-<!-- Does the group get an aspect? **Ragtag Rebels Fight For Their Survival**
-or **A Fellowship to Destroy an Ancient Evil**? How do you use these to define
-your character, in game? -->
+Write as many or as few Aspects as you need to define your setting and so
+everyone understands what does and does not belong in it. You can always
+update these Aspects later, including once the game has started, as the
+setting changes in response to changes in the narrative.
 
 ### Scenes
 
-<!-- Mention that every scene has aspects, even if not explicit. -->
+Your game will take place across a number of scenes. Just as with your overall
+setting, each scene will have one or more Aspects that describes it. The GM
+will generally create these Aspects as they are describing the scene to the
+players. Some examples: **An Alien Bar Where The Authorities Dare Not Tread**,
+**The Mob's Docks At Midnight**, or **An Ancient Fortification Surrounded by
+Orcs**.
+
+Just as with Setting Aspects, Scene Aspects can be changed or updated as play
+proceeds to reflect changes in the narrative.
 
 ## Characters
 
