@@ -10,12 +10,12 @@ Core_][fate_core] and [_Fate Accelerated_][fae] by _Evil Hat_.
 
 ## Roleplaying with MiniFate
 
-MiniFate is played with one gamemaster (**GM**) and one or more **players**.
-Each player takes on the role of a player character (**PC**) which they create
-as the game begins. The GM plays the rest of the world around the PCs,
-including its cast of non-player characters (**NPCs**), who could be anything
-from from friendly space pirates to rival adventurers to hideous dungeon
-monsters.
+MiniFate is played with one gamemaster (\keyword{GM}) and one or more
+\keyword{players}. Each player takes on the role of a player character
+(\keyword{PC}) which they create as the game begins. The GM plays the rest of
+the world around the PCs, including its cast of non-player characters
+(\keyword{NPCs}), who could be anything from from friendly space pirates to
+rival adventurers to hideous dungeon monsters.
 
 Together the group tells the story of the characters scene by scene. The GM
 generally opens with a quick description and from there play proceeds
@@ -41,14 +41,14 @@ are made by the players while the outcome of PC actions are judged by dice.
 MiniFate is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
-story and having a good time. MiniFate uses **Aspects** to help the players
-communicate their understanding of the world.
+story and having a good time. MiniFate uses \keyword{Aspects} to help the
+players communicate their understanding of the world.
 
 ## Game Materials
 
 MineFate doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
-**Fate Points**.
+\keyword{Fate Points}.
 
 Your character sheet is where you record all the information needed to play
 MiniFate. It includes your PC's name, Aspects, Skills, Stress Boxes, and
