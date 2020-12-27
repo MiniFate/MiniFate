@@ -13,3 +13,10 @@ Fate Core starts by going through the character sheet to introduce the ideas of 
 - Character creation. Nest aspects and skills under.
 - Aspects. They are always true! Short improvised statements.
 - Skills. These are the numbers you use to roll dice.
+
+
+foo bar \roll{+,-,0,+} fizz buzz
+
+\roll{0,-,0,+}
+
+\roll{-,-,+,+}
