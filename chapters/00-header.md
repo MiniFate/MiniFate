@@ -23,8 +23,4 @@ header-includes: |
 \newcommand{\skill}[1]{\textit{#1}}
 \newcommand{\keyword}[1]{\textbf{#1}}
 
-\newcommand{\roll}[1]{
-    \foreach \val in {#1}{
-        \ifthenelse{\equal{\val}{+}}{\die+}{\ifthenelse{\equal{\val}{-}}{\die-}{\die{}}}
-    }
-}
+\newcommand{\roll}[1]{\foreach \val in {#1}{\ifthenelse{\equal{\val}{+}}{\die+}{\ifthenelse{\equal{\val}{-}}{\die-}{\die{}}}\;}}
