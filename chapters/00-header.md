@@ -14,10 +14,12 @@ fontsize: 12pt
 
 papersize: letter
 geometry: margin=2cm
+
+header-includes: |
+  \usepackage{include/dice}
 ---
 
 \newcommand{\aspect}[1]{\textsc{#1}}
 \newcommand{\skill}[1]{\textit{#1}}
 \newcommand{\keyword}[1]{\textbf{#1}}
 \newcommand{\roll}[1]{#1}
-
