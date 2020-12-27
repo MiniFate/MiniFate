@@ -57,11 +57,11 @@ grows throughout the course of their adventures to reflect who they have
 become. A sample character sheet is included at the end of these rules, but a
 MiniFate PC is simple enough that even a handwritten note card will suffice.
 
-Fate dice (sometimes called Fudge dice) are six sided dice marked with "-1" on
-two sides, "0" on two sides, and "+1" on two sides. You will need four of them
-since every roll in MiniFate uses four dice which are added together. In order
-to keep things moving quickly, it is best to have one set of dice for each
-player.
+Fate dice (sometimes called Fudge dice) are six sided dice marked with \die+
+on two sides, \die{} on two sides, and \die- on two sides. You will need four
+of them since every roll in MiniFate uses four dice which are added together.
+In order to keep things moving quickly, it is best to have one set of dice for
+each player.
 
 Tokens are useful for keeping track of Fate Points. Although Fate Points can
 be tracked by making tick marks on your character sheet, it is far more
