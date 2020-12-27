@@ -4,11 +4,13 @@ FROM ubuntu:20.04
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get -y update && apt-get install -y \
+    librsvg2-bin \
     make \
     pandoc \
-    texlive-latex-base \
+    texlive-fonts-extra \
     texlive-fonts-recommended \
-    texlive-latex-recommended \
-    texlive-latex-extra
+    texlive-latex-base \
+    texlive-latex-extra \
+    texlive-latex-recommended
 
 CMD ["/bin/bash"]
