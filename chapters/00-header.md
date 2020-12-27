@@ -25,6 +25,6 @@ header-includes: |
 
 \newcommand{\roll}[1]{
     \foreach \val in {#1}{
-        \ifthenelse{\equal{\val}{+}}{\die+}{\ifthenelse{\equal{\val}{-}}{\die-}{\die{}}}}
+        \ifthenelse{\equal{\val}{+}}{\die+}{\ifthenelse{\equal{\val}{-}}{\die-}{\die{}}}
     }
 }
