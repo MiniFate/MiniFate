@@ -1,7 +1,5 @@
 # World Building
 
-<!-- Are setting and scene capitalized? -->
-
 In MiniFate, character creation and setting creation happen together. Players
 and the GM may show up to the first session with rough ideas, but ultimately
 settings are defined by their characters and vice versa. A \aspect{Pirate
@@ -23,15 +21,21 @@ same page about important themes and conflicts. For example:
 <!-- TODO: Point out every game needs a conflict. Are their prescribed aspects
 for worlds? Setting and Conflict?-->
 
-- _Conflicts_: \aspect{Plucky Rebels Take On A Galaxy-spanning Empire} or
-  \aspect{An Ancient Evil Once Again Threatens the Realms of Men, Dwarves, and
+**Genre**:
+
+- \aspect{Mega Tokyo After the Bomb Dropped}
+- \aspect{Mirror shades, trench coats, hacking, and lots of guns}
+
+**Conflicts**: 
+
+- \aspect{Plucky Rebels Take On A Galaxy-spanning Empire}
+- \aspect{An Ancient Evil Once Again Threatens the Realms of Men, Dwarves, and
   Elves} 
-- _Technology or Magic_: \aspect{High School Where Everyone Has Superpowers}
-  or \aspect{Cybernetics Let Anyone Improve Themselves for A Price}
-- _Themes_: \aspect{Humanity Fights for Survival in the Far Future} or
-  \aspect{The Mob Runs This Town}.
-- _Groups_: \aspect{Starship Crew Boldly Explores the Galaxy} or \aspect{
-  Shadowy Government Agency Hides Magic from Normal People}
+
+**Technology or Magic**: 
+
+- \aspect{High School Where Everyone Has Superpowers}
+- \aspect{Cybernetics Let Anyone Improve Themselves for A Price}
 
 Write as many or as few Aspects as you need to define your setting. Everyone
 at the table should have a feel for what belongs, and what doesn't. You can
@@ -41,7 +45,7 @@ narrative---even if your scene is already underway!
 ## Scenes
 
 Your game will take place across a number of scenes that exist within the
-larger Setting. Just as with your overall setting, each scene will have one or
+larger setting. Just as with your overall setting, each scene will have one or
 more Aspects that describes it.
 
 The GM will often create these Aspects as they describe the scene to the
@@ -49,6 +53,6 @@ players. Some examples: \aspect{Alien Bar Where The Authorities Dare Not
 Tread}, \aspect{Mob's Docks At Midnight}, or \aspect{Ancient Fortification
 Surrounded by Orcs}.
 
-Just as with Setting Aspects, don't be shy about updating Scene Aspects if the
+Just as with setting Aspects, don't be shy about updating Scene Aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
 think we've ever said this before.-->
