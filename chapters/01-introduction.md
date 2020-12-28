@@ -14,12 +14,12 @@ MiniFate is played with one gamemaster (\keyword{GM}) and one or more
 \keyword{players}. Each player takes on the role of a player character
 (\keyword{PC}) which they create as the game begins. The GM plays the rest of
 the world around the PCs, including its cast of non-player characters
-(\keyword{NPCs}), who could be anything from from friendly space pirates to
+(\keyword{NPCs}), which could be anything from from friendly space pirates to
 rival adventurers to hideous dungeon monsters.
 
-Together the group tells the story of the characters scene by scene. The GM
-generally opens with a quick description and from there play proceeds
-conversationally as the players and GM improvise back and forth. Players speak
+The GM
+generally opens each scene with a quick description. Play proceeds
+conversationally from there as the players and GM improvise back and forth. Players speak
 as their PCs and describe their actions while the GM illustrates how the world
 responds.
 
@@ -33,9 +33,7 @@ way to do it yet.
 
 -->
 
-There will come a point in the story where an action has a chance to fail in a
-way that is narratively interesting. That is when the players turn to the
-rules and dice. The rules mediate the divide between player and PC; PC choices
+From time to time, players will encounter a situation where a PC's failure adds an interesting twist to the story. That's where the dice come in. Die rolls mediate the divide between player and PC; PC choices
 are made by the players while the outcome of PC actions are judged by dice.
 
 MiniFate is a social game. As such, the most important element is
@@ -50,24 +48,18 @@ MineFate doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
 \keyword{Fate Points}.
 
-Your character sheet is where you record all the information needed to play
-MiniFate. It includes your PC's name, Aspects, Skills, Stress Boxes, and
-Consequences. The information contained on the sheet is updated as your PC
+Each player needs a character sheet. That's where they'll write down their PC's skills and aspects, as well as any stress and consequences they pick up along the way. The information contained on the sheet is updated as your PC
 grows throughout the course of their adventures to reflect who they have
 become. A sample character sheet is included at the end of these rules, but a
-MiniFate PC is simple enough that even a handwritten note card will suffice.
+sheet of paper (or even a notecard) works fine in a pinch.
 
-Fate dice (sometimes called Fudge dice) are six sided dice marked with \die+
-on two sides, \die{} on two sides, and \die- on two sides. You will need four
-of them since every roll in MiniFate uses four dice which are added together.
-In order to keep things moving quickly, it is best to have one set of dice for
-each player.
+Fate dice (sometimes called Fudge dice) are six-sided dice marked with \die+
+on two sides, \die{} on two sides, and \die- on two sides. Each roll uses four dice. To keep things moving quickly, it's best to have four dice for each player rather than passing them back and forth.
 
-Tokens are useful for keeping track of Fate Points. Although Fate Points can
-be tracked by making tick marks on your character sheet, it is far more
-satisfying to have something physical to pass back and forth. Pokers chips
-work well, but so do glass beads, or even all those polyhedral dice you have
-that you won't need in Fate.
+Finally, you'll need a way to keep track of fate points. It's possible to track them with tick marks on your
+character sheet, but much more satisfying to physically pass something back and forth. Poker chips
+work well, as do glass beads. You could even use stray polyhedral dice since you won't need them
+in MiniFate.
 
 # Next...
 
