@@ -20,13 +20,13 @@ all on the same page. Good hooks for Setting Aspects and some examples are:
 
 - _Major Conflicts_: \aspect{Plucky Rebels Defend Their Home From A
   Galaxy-spanning Empire} or \aspect{An Ancient Evil Once Again Threatens the
-  Reamls of Men, Dwarves, and Elves} 
+  Realms of Men, Dwarves, and Elves} 
 - _Major Technology/Magic_: \aspect{Highschool Where Everyone Has
-  Superpowers} or \aspect{In the Near Future, Cybernetics Let Anyone Improve
+  Superpowers} or \aspect{Cybernetics Let Anyone Improve
   Themselves for A Price}
-- _Major Themes_: \aspect{In the Darkness of the Far Future, Humanity Fights for
-  Survival} or \aspect{The Mob Runs This Town}.
-- _Major Groups_: \aspect{A Starship Crew Boldly Explores the Galaxy} or \aspect{A
+- _Major Themes_: \aspect{Humanity Fights for
+  Survival in the Far Future} or \aspect{The Mob Runs This Town}.
+- _Major Groups_: \aspect{Starship Crew Boldly Explores the Galaxy} or \aspect{
   Shadowy Government Agency Hides Magic from Normal People}
 
 Write as many or as few Aspects as you need to define your setting and so
@@ -40,9 +40,9 @@ Your game will take place across a number of scenes that exist within the
 larger Setting. Just as with your overall setting, each scene will have one or
 more Aspects that describes it.
 
-The GM will generally create these Aspects as they are describing the scene to
-the players. Some examples: \aspect{An Alien Bar Where The Authorities Dare Not
-Tread}, \aspect{The Mob's Docks At Midnight}, or \aspect{An Ancient Fortification
+The GM will generally create these Aspects as they describe the scene to
+the players. Some examples: \aspect{Alien Bar Where The Authorities Dare Not
+Tread}, \aspect{Mob's Docks At Midnight}, or \aspect{Ancient Fortification
 Surrounded by Orcs}.
 
 Just as with Setting Aspects, Scene Aspects should be changed or updated as
@@ -61,7 +61,7 @@ Creating a PC begins with coming up with their Concept. The Concept is an
 Aspect that describes broadly who the PC is and why they are unique, exciting
 people that we care about. Some example Concepts are: \aspect{Backwater Farm
 Boy Looking to Join The Academy}, \aspect{Rightful King of Gondor}, or
-\aspect{Master Swordsmen Looking to Avenge His Father}.
+\aspect{Master Swordsman Looking to Avenge His Father}.
 
 Your Concept is the thing you would tell someone first when they ask "Who are
 you playing?". It helps to keep in mind what sort of story hooks would be
@@ -100,7 +100,7 @@ PCs begin with a refresh of 2.
 
 ### Stress and Consequences
 
-Stress Boxes and Consequences represent how a PC is effected by various forms
+Stress Boxes and Consequences represent how a PC is affected by various forms
 of harm. PCs begin with three stress boxes and three consequences (labeled
 Mild, Moderate, and Severe). When a PC is harmed from losing a Skills contest
 (covered in the Skills section) they check off their Stress Boxes. If no
