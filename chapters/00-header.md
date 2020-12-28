@@ -5,7 +5,7 @@ date: Version 0.1
 
 documentclass: article
 classoption:
-  - twocolumn
+  # - twocolumn  # See Bug #12
   - twoside
   - openany
 

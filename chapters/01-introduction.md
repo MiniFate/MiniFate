@@ -17,11 +17,10 @@ the world around the PCs, including its cast of non-player characters
 (\keyword{NPCs}), which could be anything from from friendly space pirates to
 rival adventurers to hideous dungeon monsters.
 
-The GM
-generally opens each scene with a quick description. Play proceeds
-conversationally from there as the players and GM improvise back and forth. Players speak
-as their PCs and describe their actions while the GM illustrates how the world
-responds.
+The GM generally opens each scene with a quick description. Play proceeds
+conversationally from there as the players and GM improvise back and forth.
+Players speak as their PCs and describe their actions while the GM illustrates
+how the world responds.
 
 <!-- I want to include this out of character part, and I'd like to wrap it in
 with "You can use questions to define the world..." But I don't have the right
@@ -33,8 +32,10 @@ way to do it yet.
 
 -->
 
-From time to time, players will encounter a situation where a PC's failure adds an interesting twist to the story. That's where the dice come in. Die rolls mediate the divide between player and PC; PC choices
-are made by the players while the outcome of PC actions are judged by dice.
+From time to time, players will encounter a situation where a PC's failure
+adds an interesting twist to the story. That's where the dice come in. Die
+rolls mediate the divide between player and PC; PC choices are made by the
+players while the outcome of PC actions are judged by dice.
 
 MiniFate is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
@@ -48,30 +49,20 @@ MineFate doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
 \keyword{Fate Points}.
 
-Each player needs a character sheet. That's where they'll write down their PC's skills and aspects, as well as any stress and consequences they pick up along the way. The information contained on the sheet is updated as your PC
+Each player needs a character sheet. That's where they'll write down their
+PC's skills and aspects, as well as any stress and consequences they pick up
+along the way. The information contained on the sheet is updated as your PC
 grows throughout the course of their adventures to reflect who they have
 become. A sample character sheet is included at the end of these rules, but a
 sheet of paper (or even a notecard) works fine in a pinch.
 
 Fate dice (sometimes called Fudge dice) are six-sided dice marked with \die+
-on two sides, \die{} on two sides, and \die- on two sides. Each roll uses four dice. To keep things moving quickly, it's best to have four dice for each player rather than passing them back and forth.
+on two sides, \die{} on two sides, and \die- on two sides. Each roll uses four
+dice. To keep things moving quickly, it's best to have four dice for each
+player rather than passing them back and forth.
 
-Finally, you'll need a way to keep track of fate points. It's possible to track them with tick marks on your
-character sheet, but much more satisfying to physically pass something back and forth. Poker chips
-work well, as do glass beads. You could even use stray polyhedral dice since you won't need them
-in MiniFate.
-
-# Next...
-
-Fate Core starts by going through the character sheet to introduce the ideas of aspects, skills, etc. For a short document, it's probably better to jump right in. Possible entry points:
-
-- Character creation. Nest aspects and skills under.
-- Aspects. They are always true! Short improvised statements.
-- Skills. These are the numbers you use to roll dice.
-
-PCs should be assumed to be competent though, a `Master swordsman` does not
-role to see if he defeats the henchmen---of course he would---he roles to see
-if he does it before the villain escapes, or without alerting the other
-guards. <!-- I don't like this here, but I don't know where else it would go
-an I think it's an important point. Maybe it goes in the place when we talk
-about "aspects are true"? -->
+Finally, you'll need a way to keep track of fate points. It's possible to
+track them with tick marks on your character sheet, but much more satisfying
+to physically pass something back and forth. Poker chips work well, as do
+glass beads. You could even use stray polyhedral dice since you won't need
+them in MiniFate.
