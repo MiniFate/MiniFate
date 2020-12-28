@@ -1,5 +1,6 @@
 # Introduction
 
+<!-- TODO: Tighten this up. -->
 **MiniFate** is a roleplaying game that allows the players to tell a
 collaborative story. It has just enough rules to help the group decide what
 happens while staying out of the way of the narrative. It is based on [_Fate

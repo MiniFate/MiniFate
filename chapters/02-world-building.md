@@ -23,8 +23,9 @@ same page about important themes and conflicts. For example:
 <!-- TODO: Point out every game needs a conflict. Are their prescribed aspects
 for worlds? Setting and Conflict?-->
 
-- _Conflicts_: \aspect{Plucky Take On A Galaxy-spanning Empire} or \aspect{An
-  Ancient Evil Once Again Threatens the Realms of Men, Dwarves, and Elves} 
+- _Conflicts_: \aspect{Plucky Rebels Take On A Galaxy-spanning Empire} or
+  \aspect{An Ancient Evil Once Again Threatens the Realms of Men, Dwarves, and
+  Elves} 
 - _Technology or Magic_: \aspect{High School Where Everyone Has Superpowers}
   or \aspect{Cybernetics Let Anyone Improve Themselves for A Price}
 - _Themes_: \aspect{Humanity Fights for Survival in the Far Future} or
