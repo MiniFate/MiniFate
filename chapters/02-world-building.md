@@ -39,6 +39,14 @@ For example, these aspects could set the stage for a sweeping fantasy epic:
 - Genre: \aspect{Outlaws and Prophecies on the Outer Planets}
 - Conflict: \aspect{Galaxy-Spanning Empire Tightens its Grip}
 
+<!---
+TODO:
+The above are examples to help you wrap your head around the idea. From here on, we'll be using:
+
+- Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
+- Truoble: \aspect{A Fucking Dragon Stole my Boat}
+-->
+
 Write these aspects down somewhere everyone can see them. Don't worry about
 making them perfect. They're just a starting point. You can come back and
 change them during character creation, or even after the story is underway!
