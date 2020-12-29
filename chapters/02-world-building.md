@@ -39,14 +39,6 @@ For example, these aspects could set the stage for a sweeping fantasy epic:
 - Genre: \aspect{Outlaws and Prophecies on the Outer Planets}
 - Conflict: \aspect{Galaxy-Spanning Empire Tightens its Grip}
 
-<!---
-TODO:
-The above are examples to help you wrap your head around the idea. From here on, we'll be using:
-
-- Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
-- Truoble: \aspect{A Fucking Dragon Stole my Boat}
--->
-
 Write these aspects down somewhere everyone can see them. Don't worry about
 making them perfect. They're just a starting point. You can come back and
 change them during character creation, or even after the story is underway!
@@ -67,3 +59,21 @@ players. Some examples:
 Just as with setting aspects, don't be shy about updating Scene aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
 think we've ever said this before.-->
+
+## Our World
+
+<!--Do we need more of an intro? Like "We'll build an example world, example
+characters, and use them to show you how to play..." ?-->
+
+Our players decide to be air pirates in a steampunk fantasy world. They want
+magic, sword fights, morally gray adventurers in a world of intrigue where
+they can never be sure if they're the conman or the mark. They write down the
+following two Aspects:
+
+- Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
+- Trouble: \aspect{A Puppet-master is Pulling All the Strings}
+<!-- Trying to have a "ambiguous" aspect which we'll let the GM fill in the
+details of. -->
+
+In the next chapter we'll build their characters; from then on we'll use that
+setting for examples.
