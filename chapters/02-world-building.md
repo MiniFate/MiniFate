@@ -34,7 +34,7 @@ For example, these aspects could set the stage for a sweeping fantasy epic:
 - Genre: \aspect{Computers, Guns, and Mirror Shades}
 - Conflict: \aspect{Machines Enslaved Humanity After the First War}
 
-...or even a space opera with cowboys and swordfights:
+...or even a space opera with cowboys and sword fights:
 
 - Genre: \aspect{Outlaws and Prophecies on the Outer Planets}
 - Conflict: \aspect{Galaxy-Spanning Empire Tightens its Grip}
@@ -55,13 +55,15 @@ change them during character creation, or even after the story is underway!
 
 Your game will take place across a number of scenes that exist within the
 larger setting. Just as with your overall setting, each scene will have one or
-more Aspects that describes it.
+more aspects that describes it.
 
-The GM will often create these Aspects as they describe the scene to the
-players. Some examples: \aspect{Alien Bar Where The Authorities Dare Not
-Tread}, \aspect{Mob's Docks At Midnight}, or \aspect{Ancient Fortification
-Surrounded by Orcs}.
+The GM will often create these aspects as they describe the scene to the
+players. Some examples:
 
-Just as with setting Aspects, don't be shy about updating Scene Aspects if the
+- \aspect{Ancient Fortification Surrounded by Orcs}
+- \aspect{Rust-bucket Hovercraft in the Real World}
+- \aspect{Alien Bar Where The Authorities Dare Not Tread}
+
+Just as with setting aspects, don't be shy about updating Scene aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
 think we've ever said this before.-->
