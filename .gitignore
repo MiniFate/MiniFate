@@ -36,6 +36,7 @@
 *.odt
 *.html
 *.log
+*.tex
 
 #Network File System
 .nfs*

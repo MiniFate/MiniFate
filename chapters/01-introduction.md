@@ -24,10 +24,10 @@ how the world responds.
 
 <!-- I want to include this out of character part, and I'd like to wrap it in
 with "You can use questions to define the world..." But I don't have the right
-way to do it yet. 
+way to do it yet.
 
 > Players can also ask questions of the GM or other players about the world
-> 
+>
 > Players may also ask the GM for specific details to help them immerse themselves in the PCs' surroundings.
 
 -->
