@@ -14,33 +14,34 @@ PCs, using their creation to find out more details of the setting.
 ## Setting
 
 To start, decide what kind of setting you want for your story. Then work
-together to write down some aspects. This way, you know everyone is on the
-same page about important themes and conflicts. For example:
+together to write down the aspects. This way, you know everyone is on the
+same page about important themes and conflicts.
 
-<!-- TODO: Can we cut this down to Genre, Tech/Magic, Conflicts? -->
-<!-- TODO: Point out every game needs a conflict. Are their prescribed aspects
-for worlds? Setting and Conflict?-->
+Don't worry about getting the Aspects perfect because you will update these
+Aspects later in response to changes in the narrative. As long as everyone has
+a good sense of what belongs in the setting and what doesn't you're ready to
+go.
 
-**Genre**:
+Your setting will have two Aspects: the Genre and the Conflict.
 
-- \aspect{Mega Tokyo After the Bomb Dropped}
-- \aspect{Mirror shades, trench coats, hacking, and lots of guns}
+### Genre
 
-**Conflicts**: 
+The Genre is the one sentence summary of your setting. It is big picture:
+where, when, and what. For example: 
 
-- \aspect{Plucky Rebels Take On A Galaxy-spanning Empire}
+- \aspect{Mega Tokyo After The Bomb Dropped}
+- \aspect{Mirror shades, trench coats, hacking, and lots of guns}.
+- \aspect{High School Where Everyone Has Superpowers}
+
+### Conflict
+
+Your setting's Conflict focuses on the details: the who and the why. Its it
+what drives your PCs to action. For example, 
+
+- \aspect{Galaxy-spanning Empire Tightens Its Grip}
 - \aspect{An Ancient Evil Once Again Threatens the Realms of Men, Dwarves, and
   Elves} 
-
-**Technology or Magic**: 
-
-- \aspect{High School Where Everyone Has Superpowers}
-- \aspect{Cybernetics Let Anyone Improve Themselves for A Price}
-
-Write as many or as few Aspects as you need to define your setting. Everyone
-at the table should have a feel for what belongs, and what doesn't. You can
-always update these Aspects later in response to changes in the
-narrative---even if your scene is already underway!
+- \aspect{Machines Enslaved Us After the First War}
 
 ## Scenes
 
