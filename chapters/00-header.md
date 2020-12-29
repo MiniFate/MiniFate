@@ -19,7 +19,6 @@ header-includes: |
   \usepackage{include/dice}
   \usepackage[flushmargin,side]{footmisc}
   \usepackage{tcolorbox}
-  \usepackage{framed}
 ---
 
 \newcommand{\aspect}[1]{\textsc{\lowercase{#1}}}
