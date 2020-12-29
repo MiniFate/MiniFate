@@ -19,13 +19,19 @@ header-includes: |
   \usepackage{include/dice}
   \usepackage[flushmargin,side]{footmisc}
   \usepackage{tcolorbox}
+  \usepackage{framed}
 ---
 
-\newcommand{\aspect}[1]{\textsc{#1}}
+\newcommand{\aspect}[1]{\textsc{\lowercase{#1}}}
 \newcommand{\skill}[1]{\textit{#1}}
 \newcommand{\keyword}[1]{\textbf{#1}}
 
 \newcommand{\roll}[1]{\foreach \val in {#1}{\ifthenelse{\equal{\val}{+}}{\die+}{\ifthenelse{\equal{\val}{-}}{\die-}{\die{}}}\;}}
+
+<!---
+Use a color box for block quotes
+-->
+\renewenvironment{quote}{\begin{tcolorbox}[colframe=black, colback=white]}{\end{tcolorbox}}
 
 <!---
 Redefine how footnotes are drawn. No number, and draw a box around the text.
@@ -35,7 +41,7 @@ Redefine how footnotes are drawn. No number, and draw a box around the text.
 \renewcommand\@makefntext[1]{%
     \noindent
     \tcbox[colback=white,colframe=black,size=small]{
-        \begin{minipage}{\marginparwidth}#1\end{minipage}}}
+        \begin{minipage}{\marginparwidth}\raggedright#1\end{minipage}}}
 \makeatother
 
 <!---

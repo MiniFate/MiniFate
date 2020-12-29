@@ -26,18 +26,30 @@ space travel, both, or neither.
 
 For example, these aspects could set the stage for a sweeping fantasy epic:
 
-- Genre: \aspect{Magic Fades at the Dawn of the Age of Men}
-- Conflict: \aspect{Ancient Evil Returns After Millennia}
+--------- --------------------------------------------------------
+    Genre \aspect{Magic Fades at the Dawn of the Age of Men}
+ Conflict \aspect{Ancient Evil Returns After Millennia}
+--------- --------------------------------------------------------
 
 ...or a hyper-violent technological thriller:
 
-- Genre: \aspect{Computers, Guns, and Mirror Shades}
-- Conflict: \aspect{Machines Enslaved Humanity After the First War}
+--------- --------------------------------------------------------
+    Genre \aspect{Computers, Guns, and Mirror Shades}
+ Conflict \aspect{Machines Enslaved Humanity After the First War}
+--------- --------------------------------------------------------
 
 ...or even a space opera with cowboys and swordfights:
 
-- Genre: \aspect{Outlaws and Prophecies on the Outer Planets}
-- Conflict: \aspect{Galaxy-Spanning Empire Tightens its Grip}
+--------- --------------------------------------------------------
+    Genre \aspect{Outlaws and Prophecies on the Outer Planets}
+ Conflict \aspect{Galaxy-Spanning Empire Tightens its Grip}
+--------- --------------------------------------------------------
+
+
+<table width=100%><tbody>
+<tr><td>Genre</td><td>\aspect{Outlaws and Prophecies on the Outer Planets}</td></tr>
+<tr><td>Conflict</td><td>\aspect{Galaxy-Spanning Empire Tightens its Grip}</td></tr>
+</tbody></table>
 
 <!---
 TODO:
