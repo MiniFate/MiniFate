@@ -10,12 +10,14 @@ Core_][fate_core] and [_Fate Accelerated_][fae] by _Evil Hat_.
 
 ## Roleplaying with MiniFate
 
-MiniFate is played with one gamemaster (\keyword{GM}) and one or more
+MiniFate is played with one gamemaster[^1] (\keyword{GM}) and one or more
 \keyword{players}. Each player takes on the role of a player character
 (\keyword{PC}) which they create as the game begins. The GM plays the rest of
 the world around the PCs, including its cast of non-player characters
 (\keyword{NPCs}), which could be anything from from friendly space pirates to
 rival adventurers to hideous dungeon monsters.
+
+[^1]: Example footnote
 
 The GM generally opens each scene with a quick description. Play proceeds
 conversationally from there as the players and GM improvise back and forth.
@@ -24,18 +26,20 @@ how the world responds.
 
 <!-- I want to include this out of character part, and I'd like to wrap it in
 with "You can use questions to define the world..." But I don't have the right
-way to do it yet. 
+way to do it yet.
 
 > Players can also ask questions of the GM or other players about the world
-> 
+>
 > Players may also ask the GM for specific details to help them immerse themselves in the PCs' surroundings.
 
 -->
 
 From time to time, players will encounter a situation where a PC's failure
-adds an interesting twist to the story. That's where the dice come in. Die
+adds an interesting twist to the story[^2]. That's where the dice come in. Die
 rolls mediate the divide between player and PC; PC choices are made by the
 players while the outcome of PC actions are judged by dice.
+
+[^2]: Another example footnote. This one is long enough that it spans several lines.
 
 MiniFate is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs

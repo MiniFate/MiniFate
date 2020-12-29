@@ -11,6 +11,9 @@ all: $(OUTPUT)
 $(OUTPUT): image $(INPUT)
 	docker run --rm -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) pandoc $(INPUT) -o $(OUTPUT)
 
+latex: image $(INPUT)
+	docker run --rm -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) pandoc $(INPUT) -o out.tex
+
 image: Dockerfile
 	docker build . -f Dockerfile -t $(IMAGE)
 
