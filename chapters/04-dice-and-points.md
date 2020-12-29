@@ -53,9 +53,6 @@ Sometimes the GM will come up with a fun twist that makes a PC's life difficult.
 
 Players can also compel the GM! Anyone can pay a fate point to add an aspect to the scene. The GM is allowed to refuse.
 
-<!---
-Fate point economy: is it a closed loop?
-Invoking an aspect gives the point to the GM
-GM has to pay out of their pool to compel you
-Otherwise we have to explain that the GM gets one fate point per PC, but points for compels come from nowhere, and spent points also vanish
--->
+The fate point economy is a closed loop. When a player spends a fate point or compels the GM, that point goes to the GM. Same thing the other way. One exception: the GM can compel players even if they're out of fate points? In that case they just grab an extra fate point
+
+
