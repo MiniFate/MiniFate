@@ -13,7 +13,7 @@ fontfamily: tgpagella
 fontsize: 12pt
 
 papersize: letter
-geometry: margin=6cm
+geometry: top=4cm, bottom=4cm, outer=8cm, inner=4cm
 
 header-includes: |
   \usepackage{include/dice}
