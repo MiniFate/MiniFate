@@ -13,35 +13,35 @@ PCs, using their creation to find out more details of the setting.
 
 ## Setting
 
-To start, decide what kind of setting you want for your story. Then work
-together to write down the aspects. This way, you know everyone is on the
-same page about important themes and conflicts.
+Write down two aspects to describe your setting: one for the genre, and one
+for the conflict. The genre aspect should give a sense for what, when, and
+where the story is about[^1]. The conflict aspect should introduce the who and
+why of the setting's biggest source of dramatic tension. Between the two of
+them, everyone should also be on the same page as far as the feel of the
+setting: hack-and-slash, somber mystery, zany romp, etc.
 
-Don't worry about getting the Aspects perfect because you will update these
-Aspects later in response to changes in the narrative. As long as everyone has
-a good sense of what belongs in the setting and what doesn't you're ready to
-go.
+[^1]: You don't need to spell everything out explicitly. But after reading the
+genre aspect, a stranger should be able to guess if the setting has magic,
+space travel, both, or neither.
 
-Your setting will have two Aspects: the Genre and the Conflict.
+For example, these aspects could set the stage for a sweeping fantasy epic:
 
-### Genre
+- Genre: \aspect{Magic Fades at the Dawn of the Age of Men}
+- Conflict: \aspect{Ancient Evil Returns After Millennia}
 
-The Genre is the one sentence summary of your setting. It is big picture:
-where, when, and what. For example: 
+...or a hyper-violent technological thriller:
 
-- \aspect{Mega Tokyo After The Bomb Dropped}
-- \aspect{Mirror shades, trench coats, hacking, and lots of guns}.
-- \aspect{High School Where Everyone Has Superpowers}
+- Genre: \aspect{Computers, Guns, and Mirror Shades}
+- Conflict: \aspect{Machines Enslaved Humanity After the First War}
 
-### Conflict
+...or even a space opera with cowboys and swordfights:
 
-Your setting's Conflict focuses on the details: the who and the why. Its it
-what drives your PCs to action. For example, 
+- Genre: \aspect{Outlaws and Prophecies on the Outer Planets}
+- Conflict: \aspect{Galaxy-Spanning Empire Tightens its Grip}
 
-- \aspect{Galaxy-spanning Empire Tightens Its Grip}
-- \aspect{An Ancient Evil Once Again Threatens the Realms of Men, Dwarves, and
-  Elves} 
-- \aspect{Machines Enslaved Us After the First War}
+Write these aspects down somewhere everyone can see them. Don't worry about
+making them perfect. They're just a starting point. You can come back and
+change them during character creation, or even after the story is underway!
 
 ## Scenes
 
