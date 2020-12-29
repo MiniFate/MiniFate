@@ -47,6 +47,8 @@ Spend a fate point to:
 - Re-roll
 - Add a +2 bonus to your roll
 
+<!--- TODO: is two options dumb? -->
+
 ## Compels
 
 Sometimes the GM will come up with a fun twist that makes a PC's life difficult.
