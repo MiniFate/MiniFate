@@ -45,12 +45,6 @@ For example, these aspects could set the stage for a sweeping fantasy epic:
  Conflict \aspect{Galaxy-Spanning Empire Tightens its Grip}
 --------- --------------------------------------------------------
 
-
-<table width=100%><tbody>
-<tr><td>Genre</td><td>\aspect{Outlaws and Prophecies on the Outer Planets}</td></tr>
-<tr><td>Conflict</td><td>\aspect{Galaxy-Spanning Empire Tightens its Grip}</td></tr>
-</tbody></table>
-
 <!---
 TODO:
 The above are examples to help you wrap your head around the idea. From here on, we'll be using:
