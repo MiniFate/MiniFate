@@ -10,23 +10,17 @@ Core_][fate_core] and [_Fate Accelerated_][fae] by _Evil Hat_.
 
 ## Roleplaying with MiniFate
 
-MiniFate is played with one gamemaster[^1] (\keyword{GM}) and one or more
+MiniFate is played with one gamemaster (\keyword{GM}) and one or more
 \keyword{players}. Each player takes on the role of a player character
-(\keyword{PC}) which they create as the game begins[^2]. The GM plays the rest of
+(\keyword{PC}) which they create as the game begins. The GM plays the rest of
 the world around the PCs, including its cast of non-player characters
 (\keyword{NPCs}), which could be anything from from friendly space pirates to
 rival adventurers to hideous dungeon monsters.
 
-[^1]: Example footnote
-
-[^2]: Another example footnote. This one is long enough that it spans several lines.
-
 The GM generally opens each scene with a quick description. Play proceeds
 conversationally from there as the players and GM improvise back and forth.
-Players speak[^3] as their PCs and describe their actions while the GM illustrates
+Players speak as their PCs and describe their actions while the GM illustrates
 how the world responds.
-
-[^3]: Note that footnotes are always on the "outer" margin
 
 <!-- I want to include this out of character part, and I'd like to wrap it in
 with "You can use questions to define the world..." But I don't have the right
