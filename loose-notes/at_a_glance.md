@@ -12,10 +12,10 @@ MiniFate is played with one game master (**GM**) and one or more players. Each
 player takes the role of a player character (**PC**). The GM takes the role of
 the world around the PCs, including its cast of non-player characters
 (**NPCs**). The players and the GM work together to tell stories about the
-adventures of the PCs. <!-- Rewrite this next section. --> The game is largely
-played as a conversation, where the GM explains the situation, and the players
-tell everyone how their PC reacts, and the GM decides and narrates how the
-NPCs respond. Every now and again, dice are used to introduce an element of
+adventures of the PCs. The GM generally stars with a description of the scene
+and from there, the players and the GM improvise back and forth, with the
+players narrating the actions of their PCs and the GM narrating the action of
+their NPCs. Every now and again, dice are used to introduce an element of
 tension and unpredictability into the story.
 
 ## Aspects
@@ -54,9 +54,9 @@ results added together.
 
 ## Rolls
 
-All rolls in MiniFate are made in the same way. The player rolls four Fate
+All rolls in MiniFate are made in the same way. The player throws four Fate
 dice and adds the outcome to the value of their PC's most relevant skill. The
-GM rolls four fate dice and adds the outcome to the value of the opposing
+GM throws four fate dice and adds the outcome to the value of the opposing
 NPC's most relevant skill (or, if no NPC is opposing the PC's action, a static
 difficulty is used instead of rolling). The roll ends in favor of whoever's
 result is higher.
@@ -74,11 +74,23 @@ dramatically appropriate misfortune on the PC.  Fate points are spent to
 invoke aspects, that is, to gain a dramatically appropriate bonus to a roll.
 In either case, of course, "dramatically appropriate" is judged by aspects.
 
-## Stress & Consequences
+## Stress and Consequences
+
+
 
 ## Character Creation
 
-<!-- NOTE: do both PCs and NPCs here? -->
+At creation, PCs consist of two Aspect and a set of skills. The Aspects
+describe who they are (their Concept Aspect) and what complicates their
+adventures (their Trouble Aspect). Their skills give them mechanical weight
+and allow them to interact with the world when there is a question as to if
+they will succeed or fail. A PC also has three Stress Boxes, three
+Consequences, and a Refresh of 2.
+
+NPCs are similar to PCs, but are built to serve the interests of the story.
+They have as many Aspects and skills as needed to perform their role in the
+narrative, and are not constrained to follow the same creation and advancement
+rules are PCs.
 
 ## Character Advancement
 

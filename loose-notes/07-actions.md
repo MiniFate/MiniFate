@@ -1,7 +1,7 @@
 # Actions
 
 Most of the time, when a player narrates their PC's actions, the GM should
-just allow them to succeed without rolling any dice.  There is no need to look
+just allow them to succeed without throwing any dice.  There is no need to look
 to the rules to determine if a PC can walk across the street, drive to work,
 or find their local coffee shop, just assume that they do and get on with the
 game.
@@ -10,16 +10,16 @@ The only time when a roll is warranted is when both success _and_ failure lead
 to interesting narrative outcomes. While you wouldn't roll to walk across the
 street, you would roll <!--TODO: Example HERE -->.
 
-When it does come time to roll dice, you do so as follows
+When it does come time to make a roll, you do so as follows
 
 - Pick the most appropriate skill for the action.
-- Roll four Fate dice.
+- Throw four Fate dice.
 - Add the dice together.
 - Add your skill rating to the total.
-- Decide if you are going to invoke Aspects, and if so re-roll the dice or add
+- Decide if you are going to invoke Aspects, and if so re-throw the dice or add
   +2. You may invoke multiple Aspects.
 
-After rolling and adding up all the dice and bonuses, the resulting number is
+After throwing and adding up all the dice and bonuses, the resulting number is
 compared to the opposition's number. The difference between your number and
 theirs is the number of Shifts you get, which is used to determine the outcome
 of the roll.
@@ -31,17 +31,17 @@ opposition might be active, like another PC or NPC, or it could be passive.
 
 Active opposition is used when a character, or something being treated like a
 character, is opposing the action. In this case, the opposing character picks
-the most appropriate skill for opposing the action and then rolls four Fate
+the most appropriate skill for opposing the action and then throws four Fate
 dice as described above. The two rolls are then compared.
 
 > Naka is fleeing from a bounty hunter on the **Mean Streets of Three
 > Bridges**. She makes an _Agility_ roll opposed by the hunter's _Agility_ to
-> try to escape. She rolls a -2 and adds her _Agility_ rating of +1 for a
-> total of -1. The bounty hunter rolls a +2 and adds his _Agility_ rating of 0
+> try to escape. She throws a -2 and adds her _Agility_ rating of +1 for a
+> total of -1. The bounty hunter throws a +2 and adds his _Agility_ rating of 0
 > for a total of 2, beating Naka by 3 shifts! Naka pays a Fate point to invoke
 > the **Mean Streets of Three Bridges**, saying that the bounty hunter would
 > be slowed as he was accosted by street urchins. She uses the invoke to
-> re-roll the dice and scores a +2, which gives her a total of +3 when her
+> re-throw the dice and scores a +2, which gives her a total of +3 when her
 > _Agility_ is added, beating the bounty hunter by 1 shift, and allowing her
 > to escape!
 
