@@ -13,14 +13,13 @@ header > p {
     color: green;
 }
 
-
 header {
     background: yellow;
 }
 
-
 table {
     width: 100%;
+    border: 1px solid red;
 }
 
 h1 {
