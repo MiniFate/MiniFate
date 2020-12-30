@@ -33,3 +33,23 @@ h2 {
 blockquote {
     border: 1px solid black;
 }
+
+.die-p, .die-m, .die-z {
+    background-size: 20px 20px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    content:"";
+}
+
+.die-p {
+    background-image: url("images/plus.svg");
+}
+
+.die-m {
+    background-image: url("images/minus.svg");
+}
+
+.die-z {
+    background-image: url("images/zero.svg");
+}
