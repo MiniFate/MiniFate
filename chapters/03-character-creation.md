@@ -80,6 +80,25 @@ A default list of skills is provided later, but generating a set of skills is
 a key part of game creation as it helps to define what actions the PCs will
 take in response to the story.
 
+> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen,
+> a former sky-boat captain and now first mate of the _Angry Pig_. He prefers
+> talking to fighting, but when it comes time for swords to be drawn he is
+> monster with his magical axe. His two aspects are:
+>
+> --------- ------------------------------------------------
+>  Concept: **Speak Softly and Carry a Magic Axe**
+>  Trouble: **Lost My Boat in a Game of Cards**
+> --------- ------------------------------------------------
+>
+> The captain of the _Angry Pig_ is Naka of Three Bridges, an Orc outcast from
+> her clan do to he affinity for fire magic, and who uses it liberally to keep
+> her mutinous crew in line.
+>
+> --------- ------------------------------------------------
+>  Concept: **Never Met A Problem I Couldn't Ignite**
+>  Trouble: **I Can't Trust My Crew or My Clan**
+> --------- ------------------------------------------------
+
 ## Advancement
 
 <!-- TODO: Do we need this here? -->
