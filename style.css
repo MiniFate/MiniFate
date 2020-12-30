@@ -1,7 +1,23 @@
-/* Pandoc uses h1 for the title */
-h1:first-child {
+/* Document title */
+header > h1 {
     color: magenta;
 }
+
+/* Author */
+header > p:first-of-type {
+    color: red;
+}
+
+/* Date and/or version */
+header > p {
+    color: green;
+}
+
+
+header {
+    background: yellow;
+}
+
 
 table {
     width: 100%;
@@ -13,4 +29,8 @@ h1 {
 
 h2 {
     color: green;
+}
+
+blockquote {
+    border: 1px solid black;
 }

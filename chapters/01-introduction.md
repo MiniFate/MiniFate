@@ -9,6 +9,8 @@ Core_][fate_core] and [_Fate Accelerated_][fae] by _Evil Hat_.
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ## Roleplaying with MiniFate
 
 MiniFate is played with one gamemaster (*GM*) and one or more

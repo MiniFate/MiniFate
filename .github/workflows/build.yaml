@@ -7,11 +7,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - name: Create Build Image
-      run: make image
-    - name: Compile PDF
-      run: make MiniFate.pdf
-    - uses: actions/upload-artifact@master
+    - name: Create PDF
+      run: make
+    - uses: actions/upload-artifact@v1
       with:
         name: MiniFate
         path: ./MiniFate.pdf
