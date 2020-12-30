@@ -1,0 +1,35 @@
+/* Document title */
+header > h1 {
+    color: magenta;
+}
+
+/* Author */
+header > p:first-of-type {
+    color: red;
+}
+
+/* Date and/or version */
+header > p {
+    color: green;
+}
+
+header {
+    background: yellow;
+}
+
+table {
+    width: 100%;
+    border: 1px solid red;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+blockquote {
+    border: 1px solid black;
+}
