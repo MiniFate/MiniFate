@@ -52,11 +52,11 @@ more aspects that describes it.
 The GM will often create these aspects as they describe the scene to the
 players. Some examples:
 
-- \aspect{Ancient Fortification Surrounded by Orcs}
-- \aspect{Rust-bucket Hovercraft in the Real World}
+- \aspect{An Army of Orcs Arrives at the Wall}
+- \aspect{Rust-Bucket Hovercraft in the Real World}
 - \aspect{Alien Bar Where The Authorities Dare Not Tread}
 
-Just as with setting aspects, don't be shy about updating Scene aspects if the
+Just as with setting aspects, don't be shy about updating scene aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
 think we've ever said this before.-->
 
@@ -65,13 +65,13 @@ think we've ever said this before.-->
 <!--Do we need more of an intro? Like "We'll build an example world, example
 characters, and use them to show you how to play..." ?-->
 
-Our players decide to be air pirates in a steampunk fantasy world. They want
-magic, sword fights, morally gray adventurers in a world of intrigue where
+Our players decide to be sky pirates in a steampunk fantasy world. They want
+magic, sword fights, morally gray adventures in a world of intrigue where
 they can never be sure if they're the conman or the mark. They write down the
 following two Aspects:
 
 - Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
-- Trouble: \aspect{A Puppet-master is Pulling All the Strings}
+- Trouble: \aspect{A Puppet-Master is Pulling All the Strings}
 <!-- Trying to have a "ambiguous" aspect which we'll let the GM fill in the
 details of. -->
 
