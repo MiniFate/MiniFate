@@ -44,18 +44,20 @@ blockquote {
     display: inline-block;
     width: var(--dice-size);
     height: var(--dice-size);
-    content: "";
     vertical-align: middle;
 }
 
 .die-p {
     background-image: url("images/plus.svg");
+    content: "" / "+1";
 }
 
 .die-m {
     background-image: url("images/minus.svg");
+    content: "" / "-1";
 }
 
 .die-z {
     background-image: url("images/zero.svg");
+    content: "" / "0";
 }

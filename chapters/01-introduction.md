@@ -58,8 +58,8 @@ become. A sample character sheet is included at the end of these rules, but a
 sheet of paper (or even a notecard) works fine in a pinch.
 
 Fate dice (sometimes called Fudge dice) are six-sided dice marked with
-<i class="die-p"></i> on two sides, <i class="die-z"></i> on two sides, and
-<i class="die-m"></i> on two sides. Each roll uses four dice. To keep things
+<img class="die-p"> on two sides, <img class="die-z"> on two sides, and
+<img class="die-m"> on two sides. Each roll uses four dice. To keep things
 moving quickly, it's best to have four dice for each player rather than passing
 them back and forth.
 
