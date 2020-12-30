@@ -1,3 +1,8 @@
+/* Variable definitions */
+:root {
+    --dice-size: 1em;
+}
+
 /* Document title */
 header > h1 {
     color: magenta;
@@ -32,4 +37,25 @@ h2 {
 
 blockquote {
     border: 1px solid black;
+}
+
+.die-p, .die-m, .die-z {
+    background-size: var(--dice-size) var(--dice-size);
+    display: inline-block;
+    width: var(--dice-size);
+    height: var(--dice-size);
+    content: "";
+    vertical-align: middle;
+}
+
+.die-p {
+    background-image: url("images/plus.svg");
+}
+
+.die-m {
+    background-image: url("images/minus.svg");
+}
+
+.die-z {
+    background-image: url("images/zero.svg");
 }

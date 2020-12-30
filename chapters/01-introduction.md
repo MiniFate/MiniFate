@@ -57,10 +57,11 @@ grows throughout the course of their adventures to reflect who they have
 become. A sample character sheet is included at the end of these rules, but a
 sheet of paper (or even a notecard) works fine in a pinch.
 
-Fate dice (sometimes called Fudge dice) are six-sided dice marked with \die+
-on two sides, \die{} on two sides, and \die- on two sides. Each roll uses four
-dice. To keep things moving quickly, it's best to have four dice for each
-player rather than passing them back and forth.
+Fate dice (sometimes called Fudge dice) are six-sided dice marked with
+<i class="die-p"></i> on two sides, <i class="die-z"></i> on two sides, and
+<i class="die-m"></i> on two sides. Each roll uses four dice. To keep things
+moving quickly, it's best to have four dice for each player rather than passing
+them back and forth.
 
 Finally, you'll need a way to keep track of fate points. It's possible to
 track them with tick marks on your character sheet, but much more satisfying
