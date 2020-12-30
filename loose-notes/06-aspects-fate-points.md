@@ -93,8 +93,9 @@ players catch on.
 Fate Points are a currency that can be spent to assert narrative control over
 the game. Both the players and the GM have pools of Fate Points available to
 spend. Players start each session with a number of Fate Points equal to their
-character's Refresh; the GM start each scene with as many Fate Points as there
-are PCs active in the scene. Additionally, there is an unlimited of Fate
+character's Refresh; additional Fate Points are earned by accepting compels
+during the session. The GM start each scene with as many Fate Points as there
+are PCs active in the scene. Additionally, there is an unlimited pool of Fate
 Points that the players and GM return their Fate Points to when they spend
 them, and from which the GM pays players Fate Points for compels.
 
@@ -107,21 +108,20 @@ Fate Points are spent to do one of two things:
 1. Invoke an Aspect
 2. Declaring an Aspect
 
-Fate Points are earned by accepting compels.
-
 ### Invoking Aspects
 
 Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
 player or GM spends a Fate Point, explains how one of the Aspects in play
 would help the character making the roll or hinder their opponents, and then
-either adds +2 to the result of the roll or re-rolls all four of their dice.
+either adds +2 to the result of the roll or re-throw all four of their dice.
 Invoking an Aspect must make sense; the group should agree that the Aspect is
 applicable with the GM being the final arbiter.
 
 Players may spend Fate points to invoke Aspects for their own rolls and the GM
 may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
-Multiple Aspects can be invoked on the same roll, although each specific
-aspect can only be invoked once per roll.
+Multiple aspects can be invoked on the same roll, but the same aspect cannot
+be invoked more than once on the same roll (even if a fate point is used to
+throw the dice again). 
 
 Aspects need not be invoked all at once; a player my see whether they would
 succeed with a roll before deciding whether to invoke any aspects. After
@@ -134,9 +134,6 @@ players agree that they are finished. Again, each specific aspect may only be
 invoked once per roll, so if both players want to invoke the same aspect the
 group should decide for which character it would be more beneficial. If no
 agreement can be reached, neither player may invoke it.
-
-<!-- TODO: Make it clear that "re-rolling" the dice doesn't make it a new
-roll. Maybe we need a new word? Action? -->
 
 ### Declaring Aspects
 
@@ -164,15 +161,14 @@ Compelling an aspect allows the GM to take more narrative control of the story
 than normal in exchange for giving the effected players a Fate point.  To
 offer a compel, the GM explains how one of the Aspects in play would lead to
 story unfolding in a certain, unfavorable way for the PCs. The exact way in
-which things go wrong can be negotiated, but if the player which to avoid the
-compel entirely they must pay a Fate point instead. If they accept the compel,
-they receive a Fate Point and the GM narrates the results; there are no rolls
-made and no skills are used, the story simply unfolds as the GM dictates.
+which things go wrong can be negotiated. If they accept the compel, they
+receive a Fate Point and the GM narrates the results; there are no rolls made
+and no skills are used, the story simply unfolds as the GM dictates.
+
+The GM can compel a character Aspects:
 
 <!-- FIXME: This isn't great... But at least it's a start. It probably needs
 an complete rewrite. -->
-
-The GM can compel a character aspects:
 
 > Tor Byorn's group has snuck into Lord Kellett's chambers looking for a
 > missing artifact and have stopped to discus what to do with the large safe

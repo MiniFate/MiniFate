@@ -1,7 +1,3 @@
-# Example Dice Formatting
-
-foo bar \roll{+,-,0,+} fizz buzz
-
 # Introduction
 
 **MiniFate** is a tabletop roleplaying game based on [Evil Hat's Fate
