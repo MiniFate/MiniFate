@@ -12,3 +12,4 @@ Live iteration in `chapters`.
 
 - [Fate Core](https://www.evilhat.com/home/fate-core/)
 - [Fate Accelerated](https://fate-srd.com/fate-accelerated/get-started)
+- [FontAwesome License](https://fontawesome.com/license/free) (For dice glyphs)
