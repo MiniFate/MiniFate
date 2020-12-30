@@ -1,6 +1,6 @@
 /* Variable definitions */
 :root {
-    --dice-size: 20px;
+    --dice-size: 1em;
 }
 
 /* Document title */
@@ -45,6 +45,7 @@ blockquote {
     width: var(--dice-size);
     height: var(--dice-size);
     content: "";
+    vertical-align: middle;
 }
 
 .die-p {
