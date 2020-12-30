@@ -90,14 +90,28 @@ take in response to the story.
 >  Trouble: **Lost My Boat in a Game of Cards**
 > --------- ------------------------------------------------
 >
-> The captain of the _Angry Pig_ is Naka of Three Bridges, an Orc outcast from
+> His Skills are:
+>
+> ---- ------------------------------------------------
+>  +2  _Fight_
+>  +1  _Persuasion_, _Agility_ <!-- Do we want duplicates? -->
+> ---- ------------------------------------------------
+>
+> The captain of the _Angry Pig_ is Naka of Three Bridges, an Orc exiled from
 > her clan do to he affinity for fire magic, and who uses it liberally to keep
 > her mutinous crew in line.
 >
 > --------- ------------------------------------------------
->  Concept: **Never Met A Problem I Couldn't Ignite**
->  Trouble: **I Can't Trust My Crew or My Clan**
+>  Concept: **Never Met A Problem My Magic Couldn't Ignite**
+>  Trouble: **Can't Trust My Crew or My Clan**
 > --------- ------------------------------------------------
+>
+> Her skills are:
+>
+> ---- ------------------------------------------------
+>  +2  _Shoot_
+>  +1  _Agility_, _Performance_
+> ---- ------------------------------------------------
 
 ## Advancement
 
