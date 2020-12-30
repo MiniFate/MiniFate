@@ -1,0 +1,16 @@
+/* Pandoc uses h1 for the title */
+h1:first-child {
+    color: magenta;
+}
+
+table {
+    width: 100%;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}

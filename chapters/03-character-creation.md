@@ -31,9 +31,9 @@ need to come up with two aspects and three skills.
 Your Concept is the thing you would tell someone when they ask "Who are you
 playing?". It is an Aspect that describes broadly who the PC is and why
 they are unique, exciting people that we care about. Some example Concepts
-are: \aspect{Backwater Farm Boy Looking to Join The Academy}, \aspect{Rightful
-King Hiding in the Wild}, or \aspect{Master Swordsman Looking to Avenge His
-Father}.
+are: **Backwater Farm Boy Looking to Join The Academy**, **Rightful
+King Hiding in the Wild**, or **Master Swordsman Looking to Avenge His
+Father**.
 
 ## Trouble
 
@@ -50,13 +50,13 @@ trouble, especially if it would be boring to deal with in game.  Instead, a
 PC's trouble Aspect is a good way for the player to indicate what sort of
 problems they would find interesting to deal with.
 
-A hardboiled detective might drink excessively, but \aspect{Can't Resist a
-Drink} might not add much roleplaying potential, whereas \aspect{Softspot for
-Losers Like Me} offers the GM and other players a lot of story hooks.
+A hardboiled detective might drink excessively, but **Can't Resist a
+Drink** might not add much roleplaying potential, whereas **Soft Spot for
+Losers Like Me** offers the GM and other players a lot of story hooks.
 
-Some example Troubles are: \aspect{I Don't Know Which Side I'm On},
-\aspect{Everyone I Get Close To Ends Up In Trouble}, or \aspect{My Past Is A
-Dangerous Mystery; Even to Me}.
+Some example Troubles are: **I Don't Know Which Side I'm On**,
+**Everyone I Get Close To Ends Up In Trouble**, or **My Past Is A
+Dangerous Mystery; Even to Me**.
 
 ## Skills
 
@@ -99,14 +99,14 @@ guidelines:
 
 _Mild_: Recovers in a scene or two and does not impact the PCs function much.
 Generally the PC will have to spend a small amount of attention to fix it.
-Examples are: \aspect{Covered in Alien Slime} or \aspect{Dropped My Gun}.
+Examples are: **Covered in Alien Slime** or **Dropped My Gun**.
 
 _Moderate_: Recovers after many scenes, and impacts the PCs ability to use
-some skills as effectively as before. Examples are: \aspect{They Stole My
-Father's Sword} or \aspect{Out Of Ammo}.
+some skills as effectively as before. Examples are: **They Stole My
+Father's Sword** or **Out Of Ammo**.
 
 _Severe_: Recovery will involve actively working to fix it over several game
 sessions and the effects may linger for a long time. In the moment the PC is
 severely limited by it. This consequence is likely the most pressing thing for
-the PC to deal with while it exists. Examples include: \aspect{They Sundered
-My Family's Magic Shield} or \aspect{My Personality Split In Two}.
+the PC to deal with while it exists. Examples include: **They Sundered
+My Family's Magic Shield** or **My Personality Split In Two**.
