@@ -94,7 +94,7 @@ take in response to the story.
 >
 > ---- ------------------------------------------------
 >  +2  _Fight_
->  +1  _Persuasion_, _Agility_ <!-- Do we want duplicates? -->
+>  +1  _Persuasion_, _Network_
 > ---- ------------------------------------------------
 >
 > The captain of the _Angry Pig_ is Naka of Three Bridges, an Orc exiled from
