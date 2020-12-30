@@ -1,3 +1,8 @@
+/* Variable definitions */
+:root {
+    --dice-size: 20px;
+}
+
 /* Document title */
 header > h1 {
     color: magenta;
@@ -35,11 +40,11 @@ blockquote {
 }
 
 .die-p, .die-m, .die-z {
-    background-size: 20px 20px;
+    background-size: var(--dice-size) var(--dice-size);
     display: inline-block;
-    width: 20px;
-    height: 20px;
-    content:"";
+    width: var(--dice-size);
+    height: var(--dice-size);
+    content: "";
 }
 
 .die-p {
