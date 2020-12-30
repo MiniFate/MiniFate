@@ -43,6 +43,20 @@ Write these aspects down somewhere everyone can see them. Don't worry about
 making them perfect. They're just a starting point. You can come back and
 change them during character creation, or even after the story is underway!
 
+> <!--Do we need more of an intro? Like "We'll build an example world, example
+> characters, and use them to show you how to play..." ?-->
+> 
+> We decide to be sky pirates in a steampunk fantasy world. We want magic,
+> sword fights, and swashbuckling adventures in a world of intrigue where they
+> can never be sure if they're the conman or the mark. We write down the
+> following two Aspects:
+> 
+> - Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
+> - Trouble: \aspect{A Puppet-Master is Pulling All the Strings}
+> 
+> In the next chapter we'll build our characters; from then on we'll use that
+> setting for examples.
+
 ## Scenes
 
 Your game will take place across a number of scenes that exist within the
@@ -59,21 +73,3 @@ players. Some examples:
 Just as with setting aspects, don't be shy about updating scene aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
 think we've ever said this before.-->
-
-## Our World
-
-<!--Do we need more of an intro? Like "We'll build an example world, example
-characters, and use them to show you how to play..." ?-->
-
-Our players decide to be sky pirates in a steampunk fantasy world. They want
-magic, sword fights, morally gray adventures in a world of intrigue where
-they can never be sure if they're the conman or the mark. They write down the
-following two Aspects:
-
-- Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
-- Trouble: \aspect{A Puppet-Master is Pulling All the Strings}
-<!-- Trying to have a "ambiguous" aspect which we'll let the GM fill in the
-details of. -->
-
-In the next chapter we'll build their characters; from then on we'll use that
-setting for examples.
