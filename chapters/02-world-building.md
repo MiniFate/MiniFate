@@ -57,8 +57,8 @@ change them during character creation, or even after the story is underway!
 > can never be sure if they're the conman or the mark. We write down the
 > following two Aspects:
 > 
-> - Genre: \aspect{Steam-Powered Swashbuckling on the Seven Seas}
-> - Trouble: \aspect{A Puppet-Master is Pulling All the Strings}
+> - Genre: **Steam-Powered Swashbuckling on the Seven Seas**
+> - Trouble: **A Puppet-Master is Pulling All the Strings**
 > 
 > In the next chapter we'll build our characters; from then on we'll use that
 > setting for examples.
@@ -72,9 +72,9 @@ more aspects that describes it.
 The GM will often create these aspects as they describe the scene to the
 players. Some examples:
 
-- \aspect{An Army of Orcs Arrives at the Wall}
-- \aspect{Rust-Bucket Hovercraft in the Real World}
-- \aspect{Alien Bar Where The Authorities Dare Not Tread}
+- **An Army of Orcs Arrives at the Wall**
+- **Rust-Bucket Hovercraft in the Real World**
+- **Alien Bar Where The Authorities Dare Not Tread**
 
 Just as with setting aspects, don't be shy about updating scene aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
