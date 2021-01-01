@@ -2,9 +2,9 @@
 
 In MiniFate, character creation and setting creation happen together. Players
 and the GM may show up to the first session with rough ideas, but ultimately
-settings are defined by their characters and vice versa. A \aspect{Pirate
-Captain Who Hates Violence} in a world with \aspect{Magic is Suddenly Real} is
-very different than one on the \aspect{Blood Drenched Sands of the Caribbean}.
+settings are defined by their characters and vice versa. A **Pirate Captain
+Who Hates Violence** in a world with **Magic is Suddenly Real** is very
+different than one on the **Blood Drenched Sands of the Caribbean**.
 
 The game creation process should be collaborative, so it is often best to set
 aside the first session in order to design the setting and the PCs as a group.
