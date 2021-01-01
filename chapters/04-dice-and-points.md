@@ -2,6 +2,8 @@
 
 <!--- TODO: better name.
 
+- Deciding What Happens
+- Narrative Control
 - Game Mechanics
 - Mechanics
 - Taking Action
