@@ -1,10 +1,20 @@
 # Introduction
 
 <!-- TODO: Tighten this up. -->
-**MiniFate** is a roleplaying game that allows the players to tell a
-collaborative story. It has just enough rules to help the group decide what
-happens while staying out of the way of the narrative. It is based on [_Fate
-Core_][fate_core] and [_Fate Accelerated_][fae] by _Evil Hat_.
+**MiniFate** is a roleplaying game for telling collaborative stories with your
+friends. Do you want to play a group of rag-tag rebels fighting a galaxy-wide
+empire? How about a group of hackers trying to free humanity from the clutches
+of the machines we made? Or perhaps a group of fantasy adventurers trying to
+destroy an ancient artifact to seal away a great evil? You can do all that
+and more with MiniFate!
+
+MiniFate builds a shared understanding of the game world through
+aspects---short phrases the describe part of the narrative. Aspects allow all
+the players to control the story, while dice help add an element of surprise
+to keep the story exciting.
+
+MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
+_Evil Hat_.
 
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
