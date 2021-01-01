@@ -101,10 +101,10 @@ take in response to the story.
 > her clan do to he affinity for fire magic, and who uses it liberally to keep
 > her mutinous crew in line.
 >
-> --------- ------------------------------------------------
+> --------- -------------------------------------------------
 >  Concept: **Never Met A Problem My Magic Couldn't Ignite**
 >  Trouble: **Can't Trust My Crew or My Clan**
-> --------- ------------------------------------------------
+> --------- -------------------------------------------------
 >
 > Her skills are:
 >
