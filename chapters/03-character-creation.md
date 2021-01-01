@@ -80,37 +80,51 @@ A default list of skills is provided later, but generating a set of skills is
 a key part of game creation as it helps to define what actions the PCs will
 take in response to the story.
 
-> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen,
-> a former sky-boat captain and now first mate of the _Angry Pig_. He prefers
-> talking to fighting, but when it comes time for swords to be drawn he is
-> monster with his magical axe. His two aspects are:
+> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
+>
+> A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a
+> fearsome reputation. He once _TODO_ without spilling a single drop of blood. But he
+> lost everything in a night of drunken gambling. Now, disgraced, he serves as
+> second mate on the ramshackle _Angry Pig_.
 >
 > --------- ------------------------------------------------
 >  Concept: **Speak Softly and Carry a Magic Axe**
 >  Trouble: **Lost My Boat in a Game of Cards**
 > --------- ------------------------------------------------
 >
-> His Skills are:
+> Although Tor Byron prefers to intimidate people into doing what he wants (+1
+> `Persuasion`), he is exceptionally deadly with his magical axe (+2 `Fight`).
+> Tor Byorn made a lot of connections as a pirate captain---not all of them
+> friendly---and he isn't afraid to call in favors when it will help himself
+> or his crew (+1 `Network`).
 >
 > ---- ------------------------------------------------
->  +2  _Fight_
->  +1  _Persuasion_, _Network_
+>  +2  `Fight`
+>  +1  `Persuasion`, `Network`
 > ---- ------------------------------------------------
 >
-> The captain of the _Angry Pig_ is Naka of Three Bridges, an Orc exiled from
-> her clan do to he affinity for fire magic, and who uses it liberally to keep
-> her mutinous crew in line.
+> The second PC is Naka:
+
+> Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her
+> magic-fearing clan. She grew up on the streets of Three Bridges, where her
+> quick tongue and speedy reflexes kept her safe from the worst consequences
+> of her own actions. A loner with trust issues, she now finds herself
+> responsible for _Angry Pig_ and its crew.
 >
 > --------- -------------------------------------------------
 >  Concept: **Never Met A Problem My Magic Couldn't Ignite**
 >  Trouble: **Can't Trust My Crew or My Clan**
 > --------- -------------------------------------------------
 >
-> Her skills are:
+> Naka is a talented mage whose first instinct when cornered is to start
+> throwing fireballs (+2 `Shoot`). When that fails---or more likely only
+> increases the trouble she is in---she falls back to lying and shifting the
+> blame (+1 `Performance`) while looking for any opportunity to run for it (+1
+> `Agility`).
 >
 > ---- ------------------------------------------------
->  +2  _Shoot_
->  +1  _Agility_, _Performance_
+>  +2  `Shoot`
+>  +1  `Agility`, `Performance`
 > ---- ------------------------------------------------
 
 ## Advancement
