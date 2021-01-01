@@ -1,11 +1,25 @@
 # Dice and Fate Points
 
-<!--- TODO: better name -->
+<!--- TODO: better name.
 
-You don't need to roll that often, but you do want to roll *sometimes*.
-It adds an element of tension and unpredictability to your story.
+- Game Mechanics
+- Mechanics
+- Taking Action
+- Resolving Conflicts
 
-Fate points are a currency of narrative control. You can spend a fate point for a bonus on a roll, to modify a scene, or X
+-->
+
+Dice rolls in MiniFate should be used sparingly. They add an element of
+tension and unpredictability that keeps your story exciting; without them you
+might as well just write a novel! But PCs are competent heroes especially in
+the things their aspects imply they should be good at! If their is no
+interesting result of failing a roll, assume the action happens and move on
+with the story.
+
+Fate Points are a currency the players and GM use to buy control of the
+narrative. Players earn fate points by giving up control of their PC to the GM
+temporarily and they can spend them to improve their rolls or declare
+something about the world.
 
 ## Skill Rolls
 
@@ -58,3 +72,22 @@ Players can also compel the GM! Anyone can pay a fate point to add an aspect to 
 The fate point economy is a closed loop. When a player spends a fate point or compels the GM, that point goes to the GM. Same thing the other way. One exception: the GM can compel players even if they're out of fate points? In that case they just grab an extra fate point
 
 
+## Examples
+
+<!-- TODO: Where does this go? -->
+
+> The _Angry Pig_ is slowly navigating an aether storm when Tor Byron hears
+> the sound of grappling hooks biting into soft wood. "Goblin raiders! They
+> must have be stalking us through the storm!" he calls out.
+>
+> Too late to talk it out, Tor Byron's player declares that his PC hefts his
+> magic axe and charges the goblins, aiming to drive them off his boat. The
+> Goblins have the aspect **Cowerdly Except in Large Numbers**.
+>
+> The GM asks Tor Byron to roll
+
+Tor Byorn doesn't roll to see if he can steer a boat straight, we know he is a
+former captain, of course he can! Likewise when the _Angry Pig_ is boarded by
+aether Goblins Tor Byorn will roll `Fight` to drive them away, but his
+eventual success is not really in doubt, instead he rolls to see if he can
+defeat them before they make off with his treasure.
