@@ -104,7 +104,7 @@ take in response to the story.
 > ---- ------------------------------------------------
 >
 > The second PC is Naka:
-
+>
 > Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her
 > magic-fearing clan. She grew up on the streets of Three Bridges, where her
 > quick tongue and speedy reflexes kept her safe from the worst consequences
