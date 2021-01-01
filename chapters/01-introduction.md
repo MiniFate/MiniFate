@@ -51,14 +51,14 @@ players while the outcome of PC actions are judged by dice.
 MiniFate is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
-story and having a good time. MiniFate uses *Aspects* to help the
-players communicate their understanding of the world.
+story and having a good time. MiniFate uses _Aspects_ to help the players
+communicate their understanding of the world.
 
 ## Game Materials
 
 MineFate doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
-*Fate Points*.
+_Fate Points_.
 
 Each player needs a character sheet. That's where they'll write down their
 PC's skills and aspects, as well as any stress and consequences they pick up
@@ -67,11 +67,13 @@ grows throughout the course of their adventures to reflect who they have
 become. A sample character sheet is included at the end of these rules, but a
 sheet of paper (or even a notecard) works fine in a pinch.
 
-Fate dice (sometimes called Fudge dice) are six-sided dice marked with
-<img class="die-p"> on two sides, <img class="die-z"> on two sides, and
-<img class="die-m"> on two sides. Each roll uses four dice. To keep things
-moving quickly, it's best to have four dice for each player rather than passing
-them back and forth.
+Fate dice (sometimes called Fudge dice) are six-sided dice marked with <img
+class="die-p"> on two sides, <img class="die-z"> on two sides, and <img
+class="die-m"> on two sides. Each roll uses four dice. To keep things moving
+quickly, it's best to have four dice for each player rather than passing them
+back and forth. If you don't have specially marked Fate dice, you can use a
+normal six-side die and treat 1 and 2 as <img class="die-m">, 3 and 4 as <img
+class="die-z">, and 5 and 6 as <img class="die-p">.
 
 Finally, you'll need a way to keep track of fate points. It's possible to
 track them with tick marks on your character sheet, but much more satisfying
