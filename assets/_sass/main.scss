@@ -20,3 +20,13 @@ del::after {
     content: " [aspect end] ";
     display: none;
 }
+
+
+// Special alignment for skill and aspect tables
+table.key-def td {
+  text-align: left;
+}
+
+table.key-def td:first-child {
+  text-align: right;
+}

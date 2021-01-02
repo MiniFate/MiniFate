@@ -26,20 +26,20 @@ setting: hack-and-slash, somber mystery, zany romp, etc.
 
 For example, these aspects could set the stage for a sweeping fantasy epic:
 
-|----------:|:----------------------------------------------|
+{:.key-def}
 |    Genre: | ~~Magic Fades at the Dawn of the Age of Men~~ |
 | Conflict: | ~~Ancient Evil Returns After Millennia~~      |
 
 ...or a hyper-violent technological thriller:
 
-|----------:|:---------------------------------------------------|
+{:.key-def}
 |    Genre: | ~~Computers, Guns, and Mirror Shades~~             |
 | Conflict: | ~~Machines Enslaved Humanity After the First War~~ |
 
 
 ...or even a space opera with cowboys and sword fights:
 
-|----------:|:------------------------------------------------|
+{:.key-def}
 |    Genre: | ~~Outlaws and Prophecies on the Outer Planets~~ |
 | Conflict: | ~~Galaxy-Spanning Empire Tightens its Grip~~    |
 
@@ -55,8 +55,9 @@ change them during character creation, or even after the story is underway!
 > can never be sure if they're the conman or the mark. We write down the
 > following two Aspects:
 > 
-> - Genre: ~~Steam-Powered Swashbuckling on the Seven Seas~~
-> - Trouble: ~~A Puppet-Master is Pulling All the Strings~~
+> {:.key-def}
+> |    Genre: | ~~Steam-Powered Swashbuckling on the Seven Seas~~ |
+> | Conflict: | ~~A Puppet-Master is Pulling All the Strings~~    |
 > 
 > In the next chapter we'll build our characters; from then on we'll use that
 > setting for examples.
