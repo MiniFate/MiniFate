@@ -125,3 +125,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
