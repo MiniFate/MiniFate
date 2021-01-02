@@ -9,3 +9,9 @@ author: Alexander Gude and Charles Fyfe
   two_skills="Test"
   one_skills="test, test"
 %}
+
+# CSS
+
+{:.skill-table}
+| Long Word to Test | `Fight`  |
+| +1 | `Persuasion`, `Network` |
