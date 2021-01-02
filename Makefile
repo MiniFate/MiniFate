@@ -1,26 +1,35 @@
-IMAGE := pandoc-image
+IMAGE := jekyll-image
 MOUNT := /workspace
-INPUT := $(shell ls chapters/*.md | sort)
-NAME := MiniFate
-PANDOC_FLAGS := --pdf-engine=wkhtmltopdf -c style.css
 
-.PHONY: all clean pdf debug
+.PHONY: all serve drafts debug image refresh
 
-all: pdf
+all: serve
 
-# By default, Pandoc creates PDFs using LaTeX. Let's do HTML instead so we can
-# tweak styles via CSS rather than by writing LaTeX macros.
-pdf: image $(INPUT)
-	docker run --rm -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) pandoc $(PANDOC_FLAGS) $(INPUT) -o $(NAME).pdf
+# Serve the site as it will appear when published.
+serve: image
+	docker run --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) bundle exec jekyll serve
 
-debug: image $(INPUT)
-	docker run --rm -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) pandoc $(INPUT) -o $(NAME).html
+# Serve the site but also publish drafts.
+drafts: image
+	docker run --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) bundle exec jekyll serve --drafts
 
-image: Dockerfile
-	docker build . -f Dockerfile -t $(IMAGE)
+# Interactive session within the image so you can poke around.
+debug: image
+	docker run -it --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE)
 
-refresh: Dockerfile
-	docker build . -f Dockerfile -t $(IMAGE) --no-cache
+# Don't send the whole repo to Docker. All we need is the Gemfile.
+BUILDDIR := /tmp/jekyll-docker
 
-clean:
-	rm -f *.pdf
+image: Dockerfile Gemfile
+	rm -rf $(BUILDDIR)
+	mkdir -p $(BUILDDIR)
+	cp Gemfile $(BUILDDIR)
+	docker build $(BUILDDIR) -f Dockerfile -t $(IMAGE)
+
+# Rebuilding from halfway using a cached image can sometimes cause
+# problems. Use `make refresh` to rebuild the image from the ground up.
+refresh: Dockerfile Gemfile
+	rm -rf $(BUILDDIR)
+	mkdir -p $(BUILDDIR)
+	cp Gemfile $(BUILDDIR)
+	docker build $(BUILDDIR) -f Dockerfile -t $(IMAGE) --no-cache
