@@ -65,18 +65,18 @@ Dangerous Mystery; Even to Me~~.
 Skills give PCs mechanical weight and allow them to interact with the game
 world. PCs begin with one skill at rank +2, and two skills at rank +1.
 
-| Skill       | Used For                                                            |
-|:------------|:--------------------------------------------------------------------|
-| Agility     | Climbing, dodging, moving, including mounts and vehicles            |
-| Fight       | Engaging in armed and unarmed melee combat                          |
-| Insight     | Searching, tracking, finding, noticing, knowing                     |
-| Network     | Knowing people, having access to things, having items on you        |
-| Performance | Lying, singing, dancing, disguising                                 |
-| Persuasion  | Negotiating, bargaining, flattering, empathizing                    |
-| Physique    | Lifting, smashing, resisting poison and exposure                    |
-| Shoot       | Attacking with ranged and thrown weapons                            |
-| Stealth     | Hiding, moving silently, concealing objects on your person          |
-| Tinker      | Picking locks, disarming traps, hacking computers, repairing things |
+| Skill         | Used For                                                            |
+|:--------------|:--------------------------------------------------------------------|
+| `Agility`     | Climbing, dodging, moving, including mounts and vehicles            |
+| `Fight`       | Engaging in armed and unarmed melee combat                          |
+| `Insight`     | Searching, tracking, finding, noticing, knowing                     |
+| `Network`     | Knowing people, having access to things, having items on you        |
+| `Performance` | Lying, singing, dancing, disguising                                 | 
+| `Persuasion`  | Negotiating, bargaining, flattering, empathizing                    |
+| `Physique`    | Lifting, smashing, resisting poison and exposure                    |
+| `Shoot`       | Attacking with ranged and thrown weapons                            |
+| `Stealth`     | Hiding, moving silently, concealing objects on your person          |
+| `Tinker`      | Picking locks, disarming traps, hacking computers, repairing things |
 
 A default list of skills is provided later, but generating a set of skills is
 a key part of game creation as it helps to define what actions the PCs will
@@ -89,10 +89,9 @@ take in response to the story.
 > lost everything in a night of drunken gambling. Now, disgraced, he serves as
 > second mate on the ramshackle _Angry Pig_.
 >
-> --------- ------------------------------------------------
->  Concept: ~~Speak Softly and Carry a Magic Axe~~
->  Trouble: ~~Lost My Boat in a Game of Cards~~
-> --------- ------------------------------------------------
+> |---------:|:---------------------------------------|
+> | Concept: | ~~Speak Softly and Carry a Magic Axe~~ |
+> | Trouble: | ~~Lost My Boat in a Game of Cards~~    |
 >
 > Although Tor Byron prefers to intimidate people into doing what he wants (+1
 > `Persuasion`), he is exceptionally deadly with his magical axe (+2 `Fight`).
@@ -100,10 +99,9 @@ take in response to the story.
 > friendly---and he isn't afraid to call in favors when it will help himself
 > or his crew (+1 `Network`).
 >
-> ---- ------------------------------------------------
->  +2  `Fight`
->  +1  `Persuasion`, `Network`
-> ---- ------------------------------------------------
+> |---:|:------------------------|
+> | +2 | `Fight`                 |
+> | +1 | `Persuasion`, `Network` |
 >
 > The second PC is Naka:
 
@@ -113,10 +111,9 @@ take in response to the story.
 > of her own actions. A loner with trust issues, she now finds herself
 > responsible for _Angry Pig_ and its crew.
 >
-> --------- -------------------------------------------------
->  Concept: ~~Never Met A Problem My Magic Couldn't Ignite~~
->  Trouble: ~~Can't Trust My Crew or My Clan~~
-> --------- -------------------------------------------------
+> |---------:|:-------------------------------------------------|
+> | Concept: | ~~Never Met A Problem My Magic Couldn't Ignite~~ |
+> | Trouble: | ~~Can't Trust My Crew or My Clan~~               |
 >
 > Naka is a talented mage whose first instinct when cornered is to start
 > throwing fireballs (+2 `Shoot`). When that fails---or more likely only
@@ -124,10 +121,9 @@ take in response to the story.
 > blame (+1 `Performance`) while looking for any opportunity to run for it (+1
 > `Agility`).
 >
-> ---- ------------------------------------------------
->  +2  `Shoot`
->  +1  `Agility`, `Performance`
-> ---- ------------------------------------------------
+> |---:|:-------------------------|
+> | +2 | `Shoot`                  |
+> | +1 | `Agility`, `Performance` |
 
 ## Advancement
 
