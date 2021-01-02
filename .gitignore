@@ -34,7 +34,6 @@
 
 #Secondary products of the make file
 *.odt
-*.html
 *.log
 *.tex
 
