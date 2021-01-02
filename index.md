@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+{% comment %}
+Dump the content of each chapter here in order to create one
+giant page.
+{% endcomment %}
+{% assign sorted_chapters = site.chapters | sort %}
+{% for chapter in sorted_chapters %}
+  {{ chapter }}
+{% endfor %}
