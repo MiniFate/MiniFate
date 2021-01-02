@@ -42,3 +42,8 @@ exclude:
     - LICENSE.md
     - README.md
     - redirects.json
+
+dice:
+  pos: <span style="color:ForestGreen">+1</span>
+  neg: <span style="color:Red">-1</span>
+  blank: <span style="color:black">_</span>
