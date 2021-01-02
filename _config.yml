@@ -35,6 +35,8 @@ sass:
 # to override the default setting.
 exclude:
     - CNAME
+    - Dockerfile
+    - Makefile
     - Gemfile
     - Gemfile.lock
     - LICENSE.md
