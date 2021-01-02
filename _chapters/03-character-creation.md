@@ -65,18 +65,18 @@ Dangerous Mystery; Even to Me~~.
 Skills give PCs mechanical weight and allow them to interact with the game
 world. PCs begin with one skill at rank +2, and two skills at rank +1.
 
-| Skill       | Used For                                                            |
-|:------------|:--------------------------------------------------------------------|
-| Agility     | Climbing, dodging, moving, including mounts and vehicles            |
-| Fight       | Engaging in armed and unarmed melee combat                          |
-| Insight     | Searching, tracking, finding, noticing, knowing                     |
-| Network     | Knowing people, having access to things, having items on you        |
-| Performance | Lying, singing, dancing, disguising                                 |
-| Persuasion  | Negotiating, bargaining, flattering, empathizing                    |
-| Physique    | Lifting, smashing, resisting poison and exposure                    |
-| Shoot       | Attacking with ranged and thrown weapons                            |
-| Stealth     | Hiding, moving silently, concealing objects on your person          |
-| Tinker      | Picking locks, disarming traps, hacking computers, repairing things |
+| Skill         | Used For                                                            |
+|:--------------|:--------------------------------------------------------------------|
+| `Agility`     | Climbing, dodging, moving, including mounts and vehicles            |
+| `Fight`       | Engaging in armed and unarmed melee combat                          |
+| `Insight`     | Searching, tracking, finding, noticing, knowing                     |
+| `Network`     | Knowing people, having access to things, having items on you        |
+| `Performance` | Lying, singing, dancing, disguising                                 | 
+| `Persuasion`  | Negotiating, bargaining, flattering, empathizing                    |
+| `Physique`    | Lifting, smashing, resisting poison and exposure                    |
+| `Shoot`       | Attacking with ranged and thrown weapons                            |
+| `Stealth`     | Hiding, moving silently, concealing objects on your person          |
+| `Tinker`      | Picking locks, disarming traps, hacking computers, repairing things |
 
 A default list of skills is provided later, but generating a set of skills is
 a key part of game creation as it helps to define what actions the PCs will
