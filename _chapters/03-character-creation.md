@@ -89,7 +89,7 @@ take in response to the story.
 > lost everything in a night of drunken gambling. Now, disgraced, he serves as
 > second mate on the ramshackle _Angry Pig_.
 >
-> |---------:|:---------------------------------------|
+> {:.key-def}
 > | Concept: | ~~Speak Softly and Carry a Magic Axe~~ |
 > | Trouble: | ~~Lost My Boat in a Game of Cards~~    |
 >
@@ -99,7 +99,7 @@ take in response to the story.
 > friendly---and he isn't afraid to call in favors when it will help himself
 > or his crew (+1 `Network`).
 >
-> |---:|:------------------------|
+> {:.key-def}
 > | +2 | `Fight`                 |
 > | +1 | `Persuasion`, `Network` |
 >
@@ -111,7 +111,7 @@ take in response to the story.
 > of her own actions. A loner with trust issues, she now finds herself
 > responsible for _Angry Pig_ and its crew.
 >
-> |---------:|:-------------------------------------------------|
+> {:.key-def}
 > | Concept: | ~~Never Met A Problem My Magic Couldn't Ignite~~ |
 > | Trouble: | ~~Can't Trust My Crew or My Clan~~               |
 >
@@ -121,7 +121,7 @@ take in response to the story.
 > blame (+1 `Performance`) while looking for any opportunity to run for it (+1
 > `Agility`).
 >
-> |---:|:-------------------------|
+> {:.key-def}
 > | +2 | `Shoot`                  |
 > | +1 | `Agility`, `Performance` |
 

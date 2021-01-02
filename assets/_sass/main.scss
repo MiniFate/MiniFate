@@ -23,10 +23,10 @@ del::after {
 
 
 // Special alignment for skill and aspect tables
-.skill-table td {
+table.key-def td {
   text-align: left;
 }
 
-.skill-table td:first-child {
+table.key-def td:first-child {
   text-align: right;
 }
