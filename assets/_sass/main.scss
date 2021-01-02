@@ -1,4 +1,3 @@
-
 div.content-wrap {
     margin: 0 auto;
     width: 100%;
@@ -6,15 +5,19 @@ div.content-wrap {
     background-color: #bdf;
 }
 
+del {
+    text-decoration: none;
+    color: magenta;
+}
+
+// del::before/after apparently help with accessibility:
+// https://adrianroselli.com/2017/12/tweaking-text-level-styles.html#DelSR
 del::before {
     content: " [aspect start] ";
+    display: none;
 }
 
 del::after {
     content: " [aspect end] ";
-}
-
-del {
-    text-decoration: none;
-    color: magenta;
+    display: none;
 }
