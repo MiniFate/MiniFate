@@ -4,9 +4,9 @@
 
 In MiniFate, character creation and setting creation happen together. Players
 and the GM may show up to the first session with rough ideas, but ultimately
-settings are defined by their characters and vice versa. A **Pirate Captain
-Who Hates Violence** in a world with **Magic is Suddenly Real** is very
-different than one on the **Blood Drenched Sands of the Caribbean**.
+settings are defined by their characters and vice versa. A ~~Pirate Captain
+Who Hates Violence~~ in a world with ~~Magic is Suddenly Real~~ is very
+different than one on the ~~Blood Drenched Sands of the Caribbean~~.
 
 The game creation process should be collaborative, so it is often best to set
 aside the first session in order to design the setting and the PCs as a group.
@@ -28,24 +28,22 @@ space travel, both, or neither.
 
 For example, these aspects could set the stage for a sweeping fantasy epic:
 
----------- ----------------------------------------------
-    Genre: **Magic Fades at the Dawn of the Age of Men**
- Conflict: **Ancient Evil Returns After Millennia**
----------- ----------------------------------------------
+|:----------|:----------------------------------------------|
+|    Genre: | ~~Magic Fades at the Dawn of the Age of Men~~ |
+| Conflict: | ~~Ancient Evil Returns After Millennia~~      |
 
 ...or a hyper-violent technological thriller:
 
----------- ---------------------------------------------------
-    Genre: **Computers, Guns, and Mirror Shades**
- Conflict: **Machines Enslaved Humanity After the First War**
----------- ---------------------------------------------------
+|:----------|:---------------------------------------------------|
+|    Genre: | ~~Computers, Guns, and Mirror Shades~~             |
+| Conflict: | ~~Machines Enslaved Humanity After the First War~~ |
+
 
 ...or even a space opera with cowboys and sword fights:
 
----------- ------------------------------------------------
-    Genre: **Outlaws and Prophecies on the Outer Planets**
- Conflict: **Galaxy-Spanning Empire Tightens its Grip**
----------- ------------------------------------------------
+|:----------|:------------------------------------------------|
+|    Genre: | ~~Outlaws and Prophecies on the Outer Planets~~ |
+| Conflict: | ~~Galaxy-Spanning Empire Tightens its Grip~~    |
 
 Write these aspects down somewhere everyone can see them. Don't worry about
 making them perfect. They're just a starting point. You can come back and
@@ -59,8 +57,8 @@ change them during character creation, or even after the story is underway!
 > can never be sure if they're the conman or the mark. We write down the
 > following two Aspects:
 > 
-> - Genre: **Steam-Powered Swashbuckling on the Seven Seas**
-> - Trouble: **A Puppet-Master is Pulling All the Strings**
+> - Genre: ~~Steam-Powered Swashbuckling on the Seven Seas~~
+> - Trouble: ~~A Puppet-Master is Pulling All the Strings~~
 > 
 > In the next chapter we'll build our characters; from then on we'll use that
 > setting for examples.
@@ -74,9 +72,9 @@ more aspects that describes it.
 The GM will often create these aspects as they describe the scene to the
 players. Some examples:
 
-- **An Army of Orcs Arrives at the Wall**
-- **Rust-Bucket Hovercraft in the Real World**
-- **Alien Bar Where The Authorities Dare Not Tread**
+- ~~An Army of Orcs Arrives at the Wall~~
+- ~~Rust-Bucket Hovercraft in the Real World~~
+- ~~Alien Bar Where The Authorities Dare Not Tread~~
 
 Just as with setting aspects, don't be shy about updating scene aspects if the
 story calls for it. Remember: aspects are always true! <!-- TODO: I don't
