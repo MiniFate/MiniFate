@@ -22,9 +22,7 @@ why of the setting's biggest source of dramatic tension. Between the two of
 them, everyone should also be on the same page as far as the feel of the
 setting: hack-and-slash, somber mystery, zany romp, etc.
 
-[^1]: You don't need to spell everything out explicitly. But after reading the
-genre aspect, a stranger should be able to guess if the setting has magic,
-space travel, both, or neither.
+[^1]: You don't need to spell everything out explicitly. But after reading the genre aspect, a stranger should be able to guess if the setting has magic, space travel, both, or neither.
 
 For example, these aspects could set the stage for a sweeping fantasy epic:
 
@@ -51,7 +49,7 @@ change them during character creation, or even after the story is underway!
 
 > <!--Do we need more of an intro? Like "We'll build an example world, example
 > characters, and use them to show you how to play..." ?-->
-> 
+>
 > We decide to be sky pirates in a steampunk fantasy world. We want magic,
 > sword fights, and swashbuckling adventures in a world of intrigue where they
 > can never be sure if they're the conman or the mark. We write down the
