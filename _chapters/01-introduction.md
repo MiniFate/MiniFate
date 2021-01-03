@@ -3,32 +3,32 @@
 # Introduction
 
 <!-- TODO: Tighten this up. -->
-**MiniFate** is a roleplaying game for telling collaborative stories with your
-friends. Do you want to play a group of rag-tag rebels fighting a galaxy-wide
-empire? How about a group of hackers trying to free humanity from the clutches
-of the machines we made? Or perhaps a group of fantasy adventurers trying to
-destroy an ancient artifact to seal away a great evil? You can do all that
-and more with MiniFate!
+_MiniFate_ is a roleplaying game for telling collaborative stories with your
+friends. The system is flexible and light, letting the story shine through.
+You can use it for any setting where the most important thing is the
+narrative, from spaceships in the far future, to make in the distant past, to
+political intrigue in the present day.
 
-MiniFate builds a shared understanding of the game world through
-aspects---short phrases the describe part of the narrative. Aspects allow all
-the players to control the story, while dice help add an element of surprise
-to keep the story exciting.
-
-MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
-_Evil Hat_.
+MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated]_[fae] by
+Evil Hat and uses the same fundamental mechanics: skills and aspects. Skills
+are numerical bonuses applied to die rolls, ensuring the story is exciting and
+unpredictable but not random. Aspects are short, improvised phrases to keep
+the whole table on the page about what's important to the story and to provide
+a framework for players to riff off each other in creative and constructive
+ways.
 
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
 
+<!-- TODO: Do we need a final sentence? -->
+
 ## Roleplaying with MiniFate
 
-MiniFate is played with one gamemaster (*GM*) and one or more
-*players*. Each player takes on the role of a player character
-(*PC*) which they create as the game begins. The GM plays the rest of
-the world around the PCs, including its cast of non-player characters
-(*NPCs*), which could be anything from from friendly space pirates to
-rival adventurers to hideous dungeon monsters.
+MiniFate is played with one gamemaster (_GM_) and one or more _players_. Each
+player takes on the role of a player character (_PC_) which they create as the
+game begins. The GM plays the rest of the world around the PCs, including its
+cast of non-player characters (_NPCs_), which could be anything from from
+friendly space pirates to rival adventurers to hideous dungeon monsters.
 
 The GM generally opens each scene with a quick description. Play proceeds
 conversationally from there as the players and GM improvise back and forth.
@@ -53,8 +53,7 @@ players while the outcome of PC actions are judged by dice.
 MiniFate is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
-story and having a good time. MiniFate uses _Aspects_ to help the players
-communicate their understanding of the world.
+story and having a good time.
 
 ## Game Materials
 
