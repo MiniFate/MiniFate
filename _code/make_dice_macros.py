@@ -14,5 +14,5 @@ for combo in product(DIE_FACES.keys(), repeat=4):
     for char in combo:
         value += DIE_FACES[char]
 
-    line = f"{{% capture {key} %}}{value}{{% endcapture %}}"
+    line = f'{{% capture {key} %}}<span class="dice-roll">{value}</span>{{% endcapture %}}'
     print(line)
