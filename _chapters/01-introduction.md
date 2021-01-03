@@ -9,7 +9,7 @@ You can use it for any setting where the most important thing is the
 narrative, from spaceships in the far future, to make in the distant past, to
 political intrigue in the present day.
 
-MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated]_[fae] by
+MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
 Evil Hat and uses the same fundamental mechanics: skills and aspects. Skills
 are numerical bonuses applied to die rolls, ensuring the story is exciting and
 unpredictable but not random. Aspects are short, improvised phrases to keep
