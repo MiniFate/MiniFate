@@ -33,9 +33,9 @@ need to come up with two aspects and three skills.
 Your Concept is the thing you would tell someone when they ask "Who are you
 playing?". It is an Aspect that describes broadly who the PC is and why
 they are unique, exciting people that we care about. Some example Concepts
-are: **Backwater Farm Boy Looking to Join The Academy**, **Rightful
-King Hiding in the Wild**, or **Master Swordsman Looking to Avenge His
-Father**.
+are: ~~Backwater Farm Boy Looking to Join The Academy~~, ~~Rightful
+King Hiding in the Wild~~, or ~~Master Swordsman Looking to Avenge His
+Father~~.
 
 ## Trouble
 
@@ -52,31 +52,31 @@ trouble, especially if it would be boring to deal with in game.  Instead, a
 PC's trouble Aspect is a good way for the player to indicate what sort of
 problems they would find interesting to deal with.
 
-A hardboiled detective might drink excessively, but **Can't Resist a
-Drink** might not add much roleplaying potential, whereas **Soft Spot for
-Losers Like Me** offers the GM and other players a lot of story hooks.
+A hardboiled detective might drink excessively, but ~~Can't Resist a
+Drink~~ might not add much roleplaying potential, whereas ~~Soft Spot for
+Losers Like Me~~ offers the GM and other players a lot of story hooks.
 
-Some example Troubles are: **I Don't Know Which Side I'm On**,
-**Everyone I Get Close To Ends Up In Trouble**, or **My Past Is A
-Dangerous Mystery; Even to Me**.
+Some example Troubles are: ~~I Don't Know Which Side I'm On~~,
+~~Everyone I Get Close To Ends Up In Trouble~~, or ~~My Past Is A
+Dangerous Mystery; Even to Me~~.
 
 ## Skills
 
 Skills give PCs mechanical weight and allow them to interact with the game
 world. PCs begin with one skill at rank +2, and two skills at rank +1.
 
-| Skill       | Used For                                                            |
-|:------------|:--------------------------------------------------------------------|
-| Agility     | Climbing, dodging, moving, including mounts and vehicles            |
-| Fight       | Engaging in armed and unarmed melee combat                          |
-| Insight     | Searching, tracking, finding, noticing, knowing                     |
-| Network     | Knowing people, having access to things, having items on you        |
-| Performance | Lying, singing, dancing, disguising                                 |
-| Persuasion  | Negotiating, bargaining, flattering, empathizing                    |
-| Physique    | Lifting, smashing, resisting poison and exposure                    |
-| Shoot       | Attacking with ranged and thrown weapons                            |
-| Stealth     | Hiding, moving silently, concealing objects on your person          |
-| Tinker      | Picking locks, disarming traps, hacking computers, repairing things |
+| Skill         | Used For                                                            |
+|:--------------|:--------------------------------------------------------------------|
+| `Agility`     | Climbing, dodging, moving, including mounts and vehicles            |
+| `Fight`       | Engaging in armed and unarmed melee combat                          |
+| `Insight`     | Searching, tracking, finding, noticing, knowing                     |
+| `Network`     | Knowing people, having access to things, having items on you        |
+| `Performance` | Lying, singing, dancing, disguising                                 | 
+| `Persuasion`  | Negotiating, bargaining, flattering, empathizing                    |
+| `Physique`    | Lifting, smashing, resisting poison and exposure                    |
+| `Shoot`       | Attacking with ranged and thrown weapons                            |
+| `Stealth`     | Hiding, moving silently, concealing objects on your person          |
+| `Tinker`      | Picking locks, disarming traps, hacking computers, repairing things |
 
 A default list of skills is provided later, but generating a set of skills is
 a key part of game creation as it helps to define what actions the PCs will
@@ -89,10 +89,9 @@ take in response to the story.
 > lost everything in a night of drunken gambling. Now, disgraced, he serves as
 > second mate on the ramshackle _Angry Pig_.
 >
-> --------- ------------------------------------------------
->  Concept: **Speak Softly and Carry a Magic Axe**
->  Trouble: **Lost My Boat in a Game of Cards**
-> --------- ------------------------------------------------
+> {:.key-def}
+> | Concept: | ~~Speak Softly and Carry a Magic Axe~~ |
+> | Trouble: | ~~Lost My Boat in a Game of Cards~~    |
 >
 > Although Tor Byron prefers to intimidate people into doing what he wants (+1
 > `Persuasion`), he is exceptionally deadly with his magical axe (+2 `Fight`).
@@ -100,10 +99,9 @@ take in response to the story.
 > friendly---and he isn't afraid to call in favors when it will help himself
 > or his crew (+1 `Network`).
 >
-> ---- ------------------------------------------------
->  +2  `Fight`
->  +1  `Persuasion`, `Network`
-> ---- ------------------------------------------------
+> {:.key-def}
+> | +2 | `Fight`                 |
+> | +1 | `Persuasion`, `Network` |
 >
 > The second PC is Naka:
 
@@ -113,10 +111,9 @@ take in response to the story.
 > of her own actions. A loner with trust issues, she now finds herself
 > responsible for _Angry Pig_ and its crew.
 >
-> --------- -------------------------------------------------
->  Concept: **Never Met A Problem My Magic Couldn't Ignite**
->  Trouble: **Can't Trust My Crew or My Clan**
-> --------- -------------------------------------------------
+> {:.key-def}
+> | Concept: | ~~Never Met A Problem My Magic Couldn't Ignite~~ |
+> | Trouble: | ~~Can't Trust My Crew or My Clan~~               |
 >
 > Naka is a talented mage whose first instinct when cornered is to start
 > throwing fireballs (+2 `Shoot`). When that fails---or more likely only
@@ -124,10 +121,9 @@ take in response to the story.
 > blame (+1 `Performance`) while looking for any opportunity to run for it (+1
 > `Agility`).
 >
-> ---- ------------------------------------------------
->  +2  `Shoot`
->  +1  `Agility`, `Performance`
-> ---- ------------------------------------------------
+> {:.key-def}
+> | +2 | `Shoot`                  |
+> | +1 | `Agility`, `Performance` |
 
 ## Advancement
 
@@ -161,14 +157,14 @@ guidelines:
 
 _Mild_: Recovers in a scene or two and does not impact the PCs function much.
 Generally the PC will have to spend a small amount of attention to fix it.
-Examples are: **Covered in Alien Slime** or **Dropped My Gun**.
+Examples are: ~~Covered in Alien Slime~~ or ~~Dropped My Gun~~.
 
 _Moderate_: Recovers after many scenes, and impacts the PCs ability to use
-some skills as effectively as before. Examples are: **They Stole My
-Father's Sword** or **Out Of Ammo**.
+some skills as effectively as before. Examples are: ~~They Stole My
+Father's Sword~~ or ~~Out Of Ammo~~.
 
 _Severe_: Recovery will involve actively working to fix it over several game
 sessions and the effects may linger for a long time. In the moment the PC is
 severely limited by it. This consequence is likely the most pressing thing for
-the PC to deal with while it exists. Examples include: **They Sundered
-My Family's Magic Shield** or **My Personality Split In Two**.
+the PC to deal with while it exists. Examples include: ~~They Sundered
+My Family's Magic Shield~~ or ~~My Personality Split In Two~~.

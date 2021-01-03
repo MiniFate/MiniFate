@@ -23,11 +23,11 @@ plugins:
 
 # Hack to prevent external styles from leaking in. For details, see
 # https://github.com/jekyll/jekyll/issues/7478#issuecomment-454346783.
-#theme: null
+theme: null
 
 # SASS
 sass:
-    sass_dir: _sass
+    sass_dir: assets/_sass
     style: compressed
 
 # Exclude from processing.
@@ -44,6 +44,6 @@ exclude:
     - redirects.json
 
 dice:
-  pos: <span style="color:ForestGreen">+1</span>
-  neg: <span style="color:Red">-1</span>
-  blank: <span style="color:black">_</span>
+  pos: '<img src="/images/plus.svg" alt="+1" class="die positive-die" style="height: 1em; width: 1em; vertical-align: middle;">'
+  neg: '<img src="/images/minus.svg" alt="-1" class="die negative-die" style="height: 1em; width: 1em; vertical-align: middle;">'
+  blank: '<img src="/images/zero.svg" alt="blank" class="die blank-die" style="height: 1em; width: 1em; vertical-align: middle;">'
