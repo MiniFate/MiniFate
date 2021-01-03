@@ -5,7 +5,7 @@ from itertools import product
 DIE_FACES = {
     "p": "{{pos}}",
     "n": "{{neg}}",
-    "b": "{{blank}}",
+    "z": "{{zero}}",
 }
 
 output = []
