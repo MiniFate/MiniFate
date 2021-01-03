@@ -8,7 +8,6 @@ DIE_FACES = {
     "z": "{{zero}}",
 }
 
-output = []
 for combo in product(DIE_FACES.keys(), repeat=4):
     key = f"dice-{''.join(combo)}"
     value = ""
