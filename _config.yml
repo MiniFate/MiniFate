@@ -42,8 +42,3 @@ exclude:
     - LICENSE.md
     - README.md
     - redirects.json
-
-dice:
-  pos: '<img src="/images/plus.svg" alt="+1" class="die positive-die" style="height: 1em; width: 1em; vertical-align: middle;">'
-  neg: '<img src="/images/minus.svg" alt="-1" class="die negative-die" style="height: 1em; width: 1em; vertical-align: middle;">'
-  blank: '<img src="/images/zero.svg" alt="blank" class="die blank-die" style="height: 1em; width: 1em; vertical-align: middle;">'

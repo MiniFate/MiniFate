@@ -21,7 +21,6 @@ del::after {
     display: none;
 }
 
-
 // Special alignment for skill and aspect tables
 table.key-def td {
   text-align: left;
@@ -29,4 +28,13 @@ table.key-def td {
 
 table.key-def td:first-child {
   text-align: right;
+}
+
+// Inline dice images
+$dice-size: 1em;
+
+img.die {
+  height: $dice-size;
+  width: $dice-size;
+  vertical-align: middle;
 }
