@@ -13,12 +13,11 @@
 
 -->
 
-Dice rolls in MiniFate should be used sparingly. They add an element of
-tension and unpredictability that keeps your story exciting; without them you
-might as well just write a novel! But PCs are competent heroes especially in
-the things their aspects imply they should be good at! If their is no
-interesting result of failing a roll, assume the action happens and move on
-with the story.
+Dice rolls add an element of tension and unpredictability that keeps your
+story exciting; without them you might as well just write a novel! But they
+should be used sparingly. PCs are competent heroes especially in the things
+their aspects imply they should be good at! If their is no interesting result
+of failing a roll, assume the action happens and move on with the story.
 
 Fate Points are a currency the players and GM use to buy control of the
 narrative. Players earn fate points by giving up control of their PC to the GM
