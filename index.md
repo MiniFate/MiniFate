@@ -9,6 +9,9 @@ layout: default
 Dump the content of each chapter here in order to create one
 giant page.
 {% endcomment %}
+
+# {{ site.title }}
+
 {% for chapter in site.chapters %}
   {{ chapter.content }}
 {% endfor %}

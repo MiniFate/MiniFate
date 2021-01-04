@@ -1,6 +1,6 @@
 ---
 ---
-# Dice and Fate Points
+## Dice and Fate Points
 
 <!--- TODO: better name -->
 
@@ -9,7 +9,7 @@ It adds an element of tension and unpredictability to your story.
 
 Fate points are a currency of narrative control. You can spend a fate point for a bonus on a roll, to modify a scene, or X
 
-## Skill Rolls
+### Skill Rolls
 
 From time to time, players will encounter situations where both success and failure are interesting.
 
@@ -32,7 +32,7 @@ Roll outcomes:
 - Succeed
 - Succeed with Style
 
-## Stress and Consequences
+### Stress and Consequences
 
 When a PC fails to defend themselves against an attack, they have three options:
 
@@ -42,7 +42,7 @@ When a PC fails to defend themselves against an attack, they have three options:
 
 "Out of the fight" doesn't typically mean "dead." But it does mean the PC takes no more actions for the rest of the scene.
 
-## Invoking Aspects
+### Invoking Aspects
 
 Spend a fate point to:
 
@@ -51,7 +51,7 @@ Spend a fate point to:
 
 <!--- TODO: is two options dumb? -->
 
-## Compels
+### Compels
 
 Sometimes the GM will come up with a fun twist that makes a PC's life difficult.
 

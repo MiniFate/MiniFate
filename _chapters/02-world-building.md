@@ -1,6 +1,6 @@
 ---
 ---
-# World Building
+## World Building
 
 In MiniFate, character creation and setting creation happen together. Players
 and the GM may show up to the first session with rough ideas, but ultimately
@@ -13,7 +13,7 @@ aside the first session in order to design the setting and the PCs as a group.
 It is good to start with a very broad definition of the setting and then build
 PCs, using their creation to find out more details of the setting.
 
-## Setting
+### Setting
 
 Write down two aspects to describe your setting: one for the genre, and one
 for the conflict. The genre aspect should give a sense for what, when, and
@@ -62,7 +62,7 @@ change them during character creation, or even after the story is underway!
 > In the next chapter we'll build our characters; from then on we'll use that
 > setting for examples.
 
-## Scenes
+### Scenes
 
 Your game will take place across a number of scenes that exist within the
 larger setting. Just as with your overall setting, each scene will have one or

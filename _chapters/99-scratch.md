@@ -1,16 +1,16 @@
 ---
 ---
-# Homeless Sections
+## Homeless Sections
 
-## Character Advancement
+### Character Advancement
 
-## Refresh
+### Refresh
 
-## Aspect-Based Narration
+### Aspect-Based Narration
 
-## Story Arcs
+### Story Arcs
 
-## More About Aspects
+### More About Aspects
 
 Aspects are always true
 

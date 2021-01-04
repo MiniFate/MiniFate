@@ -1,6 +1,6 @@
 ---
 ---
-# Character Creation
+## Character Creation
 
 <!-- TODO: Example characters?
 
@@ -27,7 +27,7 @@ On the last page you'll find a character sheet. All PCs have a refresh score,
 stress boxes, and consequences---more on those later. To create your PC, you
 need to come up with two aspects and three skills.
 
-## Concept
+### Concept
 
 <!-- TODO: Rewrite this to avoid ?". -->
 Your Concept is the thing you would tell someone when they ask "Who are you
@@ -37,7 +37,7 @@ are: ~~Backwater Farm Boy Looking to Join The Academy~~, ~~Rightful
 King Hiding in the Wild~~, or ~~Master Swordsman Looking to Avenge His
 Father~~.
 
-## Trouble
+### Trouble
 
 <!-- TODO: It's ok (even good!) if your Concept sometimes causes you trouble. It's
 ok (even good!) if your trouble sometimes works to your benefit. The whole
@@ -60,7 +60,7 @@ Some example Troubles are: ~~I Don't Know Which Side I'm On~~,
 ~~Everyone I Get Close To Ends Up In Trouble~~, or ~~My Past Is A
 Dangerous Mystery; Even to Me~~.
 
-## Skills
+### Skills
 
 Skills give PCs mechanical weight and allow them to interact with the game
 world. PCs begin with one skill at rank +2, and two skills at rank +1.
@@ -125,23 +125,23 @@ take in response to the story.
 > | +2 | `Shoot`                  |
 > | +1 | `Agility`, `Performance` |
 
-## Advancement
+### Advancement
 
 <!-- TODO: Do we need this here? -->
 
-## Non-Player Characters
+### Non-Player Characters
 
 <!-- TODO: Write this. -->
 
 <!-- TODO: Do groups go here? -->
 
 
-## Mechanical Stuff <!-- TODO: This moves to another section, right? -->
+### Mechanical Stuff <!-- TODO: This moves to another section, right? -->
 
 A PC's Refresh determines how many Fate Points they start each session with.
 PCs begin with a refresh of 2. <!-- TODO: Does this change? -->
 
-### Stress and Consequences
+#### Stress and Consequences
 
 <!-- TODO: Do these numbers change? -->
 PCs begin with three stress boxes and three consequences. When a PC is harmed

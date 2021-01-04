@@ -3,7 +3,7 @@
 
 {% include macros.html %}
 
-# Introduction
+## Introduction
 
 <!-- TODO: Tighten this up. -->
 _MiniFate_ is a roleplaying game for telling collaborative stories with your
@@ -25,7 +25,7 @@ ways.
 
 <!-- TODO: Do we need a final sentence? -->
 
-## Roleplaying with MiniFate
+### Roleplaying with MiniFate
 
 MiniFate is played with one gamemaster (_GM_) and one or more _players_. Each
 player takes on the role of a player character (_PC_) which they create as the
@@ -58,7 +58,7 @@ communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
 story and having a good time.
 
-## Game Materials
+### Game Materials
 
 MineFate doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
