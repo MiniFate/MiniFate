@@ -10,5 +10,5 @@ Dump the content of each chapter here in order to create one
 giant page.
 {% endcomment %}
 {% for chapter in site.chapters %}
-  {{ chapter }}
+  {{ chapter.content }}
 {% endfor %}

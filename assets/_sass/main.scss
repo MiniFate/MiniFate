@@ -1,0 +1,40 @@
+div.content-wrap {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+del {
+    text-decoration: none;
+    color: magenta;
+}
+
+// del::before/after apparently help with accessibility:
+// https://adrianroselli.com/2017/12/tweaking-text-level-styles.html#DelSR
+del::before {
+    content: " [aspect start] ";
+    display: none;
+}
+
+del::after {
+    content: " [aspect end] ";
+    display: none;
+}
+
+// Special alignment for skill and aspect tables
+table.key-def td {
+  text-align: left;
+}
+
+table.key-def td:first-child {
+  text-align: right;
+}
+
+// Inline dice images
+$dice-size: 1em;
+
+img.die {
+  height: $dice-size;
+  width: $dice-size;
+  vertical-align: middle;
+}

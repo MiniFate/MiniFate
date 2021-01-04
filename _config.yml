@@ -23,11 +23,11 @@ plugins:
 
 # Hack to prevent external styles from leaking in. For details, see
 # https://github.com/jekyll/jekyll/issues/7478#issuecomment-454346783.
-#theme: null
+theme: null
 
 # SASS
 sass:
-    sass_dir: _sass
+    sass_dir: assets/_sass
     style: compressed
 
 # Exclude from processing.
@@ -42,8 +42,3 @@ exclude:
     - LICENSE.md
     - README.md
     - redirects.json
-
-dice:
-  pos: <span style="color:ForestGreen">+1</span>
-  neg: <span style="color:Red">-1</span>
-  blank: <span style="color:black">_</span>
