@@ -5,6 +5,9 @@ $root-line-height: 1.5;
 html {
     font-family: $root-font-family;
     line-height: $root-line-height;
+}
+
+main {
     margin: 0 auto;
     width: 100%;
     max-width: 800px;
