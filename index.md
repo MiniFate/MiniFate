@@ -4,6 +4,7 @@
 
 layout: default
 title: MiniFate
+author: Alexander Gude and Charles Fyfe
 ---
 
 <h1 class="page-title">{{ page.title }}</h1>
