@@ -13,26 +13,24 @@
 
 -->
 
-MiniFate uses dice to add an element of tension and unpredictability to the story.
-Without them, you might as well be writing a novel!
-That said, you don't need to roll for every little thing. 
-As a general rule, the GM should prompt players for a roll in situations where a competent hero might reasonably fail *and* failure adds an interesting twist to the story.
-
-Fate Points are a currency the players and GM use to buy control of the
-narrative. Players earn fate points by giving up control of their PC to the GM
-temporarily and they can spend them to improve their rolls or declare
-something about the world.
+MiniFate uses dice to add an element of unpredictability to the story. Without
+them, you might as well be writing a novel! That said, it's not all up to
+chance. Players can spend fate points to re-roll the dice at dramatically
+appropriate moments, or even invent new aspects about the world. But watch
+out---the GM has fate points as well, which they can use to complicate the
+PCs' lives at just the wrong moment.
 
 ## Skill Rolls
 
-From time to time, players will encounter situations where both success and failure are interesting.
+Dice are an important part of MiniFate, but that doesn't mean you need to roll
+for every little thing. As a general rule, the GM should prompt players for a
+roll in situations where a competent hero might reasonably fail _and_ failure
+adds an interesting twist to the story. For example, a ~~Swashbuckling
+Genius~~ probably doesn't need to roll to fend off an attack by a ~~Nameless
+Deck-Hand~~... but she might roll `Fight` to subdue him before his friends
+escape, or `Network` to recognize him as a ~~Student of the Blade Dancers~~.
 
-A ~~Fearsome Captain~~ doesn't need to roll to defend himself from a
-~~Nameless Deck-Hand~~. There's no contest. But:
-
-- Does he subdue the attacker before the others escape, burning the only bridge behind them?
-- Maybe he recognizes the attacker?
-- Maybe the attacker is scared, and can be calmed down with kind words?
+<!-- TODO: turn to prose -->
 
 Players can roll to:
 
