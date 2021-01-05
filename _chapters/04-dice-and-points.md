@@ -1,6 +1,6 @@
 ---
 ---
-# Dice and Fate Points
+## Dice and Fate Points
 
 <!--- TODO: better name.
 
@@ -20,7 +20,7 @@ appropriate moments, or even invent new aspects about the world. But watch
 out---the GM has fate points as well, which they can use to complicate the
 PCs' lives at just the wrong moment.
 
-## Skill Rolls
+### Skill Rolls
 
 Dice are an important part of MiniFate, but that doesn't mean you need to roll
 for every little thing. As a general rule, the GM should prompt players for a
@@ -45,7 +45,7 @@ Roll outcomes:
 - Succeed
 - Succeed with Style
 
-## Stress and Consequences
+### Stress and Consequences
 
 When a PC fails to defend themselves against an attack, they have three options:
 
@@ -55,7 +55,7 @@ When a PC fails to defend themselves against an attack, they have three options:
 
 "Out of the fight" doesn't typically mean "dead." But it does mean the PC takes no more actions for the rest of the scene.
 
-## Invoking Aspects
+### Invoking Aspects
 
 Spend a fate point to:
 
@@ -64,7 +64,7 @@ Spend a fate point to:
 
 <!--- TODO: is two options dumb? -->
 
-## Compels
+### Compels
 
 Sometimes the GM will come up with a fun twist that makes a PC's life difficult.
 
