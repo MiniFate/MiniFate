@@ -27,7 +27,8 @@ something about the world.
 
 From time to time, players will encounter situations where both success and failure are interesting.
 
-A **Fearsome Captain** doesn't need to roll to defend himself from a **Nameless Deck-Hand**. There's no contest. But:
+A ~~Fearsome Captain~~ doesn't need to roll to defend himself from a
+~~Nameless Deck-Hand~~. There's no contest. But:
 
 - Does he subdue the attacker before the others escape, burning the only bridge behind them?
 - Maybe he recognizes the attacker?
