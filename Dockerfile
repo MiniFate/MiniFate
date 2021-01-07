@@ -22,6 +22,7 @@ RUN apt-get -y update \
 ADD Gemfile .
 RUN gem install bundler \
     && gem update --system \
-    && bundle install
+    && bundle install \
+    && bundle update  # This prevents Bug #39, would love to remove it
 
 CMD ["/bin/bash"]
