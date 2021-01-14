@@ -2,12 +2,38 @@
 layout: compress
 ---
 
+
+{% assign content = content | split: '<pre' %}
+
+{% for parts in content %}
+
+  {% assign part = parts | split: '</pre>' %}
+  {% assign c = part.first %}
+  {% assign t = part.last %}
+
+  {% assign t = t
+    | replace: '((', '<span class="aspect">'
+    | replace: '))', '</span>'
+    | replace: '<<', '<span class="skill">'
+    | replace: '>>', '</span>'
+  %}
+
+  {% if part.size == 2 %}
+
+    {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+
+  {% endif %}
+
+  {% capture output %}{{ output }}{{ t }}{% endcapture %}
+
+{% endfor %}
+
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
   <body>
     <main role="main">
-      {{ content }}
+    {{ output }}
     </main>
   </body>
 </html>
