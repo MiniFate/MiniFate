@@ -14,8 +14,6 @@ layout: compress
   {% assign t = t
     | replace: '((', '<span class="aspect">'
     | replace: '))', '</span>'
-    | replace: '<<', '<span class="skill">'
-    | replace: '>>', '</span>'
   %}
 
   {% if part.size == 2 %}
@@ -33,7 +31,7 @@ layout: compress
   {% include head.html %}
   <body>
     <main role="main">
-    {{ output }}
+      {{ output }}
     </main>
   </body>
 </html>
