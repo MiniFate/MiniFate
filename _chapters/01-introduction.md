@@ -3,12 +3,6 @@
 
 {% include macros.html %}
 
-<!-- This is an aspect -->
-((TEST TEST TEST))
-
-<!-- But not this-->
-(Not)
-
 ## Introduction
 
 <!-- TODO: Tighten this up. -->
