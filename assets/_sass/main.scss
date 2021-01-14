@@ -22,21 +22,27 @@ a {
   text-decoration: none;
 }
 
-del {
-    text-decoration: none;
+span.aspect {
     color: magenta;
+    font-family: $sans-font-family;
 }
 
-// del::before/after apparently help with accessibility:
-// https://adrianroselli.com/2017/12/tweaking-text-level-styles.html#DelSR
-del::before {
+// ::before/after apparently help with accessibility:
+// https://adrianroselli.com/2017/12/tweaking-text-level-styles.html
+span.aspect::before {
     content: " [aspect start] ";
     display: none;
 }
 
-del::after {
+span.aspect::after {
     content: " [aspect end] ";
     display: none;
+}
+
+span.skill {
+    color: blue;
+    text-transform: capitalize;
+    font-family: monospace;
 }
 
 // Special alignment for skill and aspect tables
