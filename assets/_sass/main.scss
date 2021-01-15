@@ -66,3 +66,10 @@ img.die {
 span.nowrap {
   white-space: nowrap;
 }
+
+// Example gameplay uses blockquotes
+blockquote {
+  border-left: 0.4em solid grey;
+  margin: 0.5em 0 0.5em 2em;
+  padding: 0 0.5em;
+}
