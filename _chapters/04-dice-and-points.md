@@ -162,6 +162,8 @@ happens next.
 > the other players "Tor Byorn, I took out their steering! But it looks like
 > they're heading right for us! Brace for impact!"
 
+<!-- TODO: Edit more below -->
+
 Players can also compel the GM! Anyone can pay a fate point to add an aspect
 to the scene. The GM is allowed to refuse.
 
