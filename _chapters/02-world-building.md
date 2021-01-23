@@ -2,16 +2,18 @@
 ---
 ## World Building
 
-In MiniFate, character creation and setting creation happen together. Players
-and the GM may show up to the first session with rough ideas, but ultimately
-settings are defined by their characters and vice versa. A ~~Pirate Captain
-Who Hates Violence~~ in a world with ~~Magic is Suddenly Real~~ is very
-different than one on the ~~Blood Drenched Sands of the Caribbean~~.
+In MiniFate, character creation and setting creation happen together. It is
+good to have a rough idea of what type of game the players and GM want to
+play, but ultimately settings are defined by their characters and vice versa.
+A ~~Pirate Captain Who Hates Violence~~ in a world where ~~Magic is Suddenly
+Real~~ is very different than one on the ~~Blood Drenched Sands of the
+Caribbean~~.
 
 The game creation process should be collaborative, so it is often best to set
 aside the first session in order to design the setting and the PCs as a group.
-It is good to start with a very broad definition of the setting and then build
-PCs, using their creation to find out more details of the setting.
+A good way to structure world building is to come up with a broad definition
+of the setting and then build the PCs. This lets you use character creation to
+define the details of the world.
 
 ### Setting
 
