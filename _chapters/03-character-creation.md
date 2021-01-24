@@ -2,40 +2,28 @@
 ---
 ## Character Creation
 
-<!-- TODO: Example characters?
-
-- Captain Ahab
-- Captain Nemo
-- Dracula
-- Jean Valjean
-- King Arthur
-- Merlin
-- Robin Hood
-- Mulan
-
--->
-
 <!-- TODO: This paragraph is clunky but important. Rewrite. -->
 
 PCs in MiniFate are mechanically simple but narratively diverse. Starting PCs
-have of two Aspects---their Concept and Trouble---and a set of skills. All PCs
-have three Stress Boxes, three Consequences, and a Refresh of 2. Aspects and
+have of two aspects---their Concept and Trouble---and a set of skills. All PCs
+have three Stress Boxes, three Consequences, and a Refresh of 2. aspects and
 Skills are covered in depth later.
 
 <!-- TODO: integrate this and remove redundancy -->
-On the last page you'll find a character sheet. All PCs have a refresh score,
-stress boxes, and consequences---more on those later. To create your PC, you
-need to come up with two aspects and three skills.
+On the last page you'll find a [character sheet][pc_sheet]. All PCs have a
+refresh score, stress boxes, and consequences---more on those later. To create
+your PC, you need to come up with two aspects and three skills.
+
+[pc_sheet]: TODO
 
 ### Concept
 
 <!-- TODO: Rewrite this to avoid ?". -->
-Your Concept is the thing you would tell someone when they ask "Who are you
-playing?". It is an Aspect that describes broadly who the PC is and why
-they are unique, exciting people that we care about. Some example Concepts
-are: ~~Backwater Farm Boy Looking to Join The Academy~~, ~~Rightful
-King Hiding in the Wild~~, or ~~Master Swordsman Looking to Avenge His
-Father~~.
+Your Concept answers the question "Who are you playing?". It is an aspect that
+describes broadly who the PC is and why they are unique, exciting characters.
+Some example Concepts are: ~~Rightful King Hiding in the Wild~~, ~~Loner
+Hacker Who Knows The World Is Not What It Seems~~, or ~~Backwater Farm Boy
+Looking to Join The Academy~~.
 
 ### Trouble
 
@@ -45,11 +33,11 @@ point of aspects is that they prompt the players to riff off each other in fun
 and unexpected ways.-->
 
 <!-- TODO: Can we make this POP as much as the first sentence above? -->
-The PC's second Aspect is their Trouble; it describes the sort of things that
-get in the PC's way and make their story interesting. The trouble Aspect
+The PC's second aspect is their Trouble; it describes the sort of things that
+get in the PC's way and make their story interesting. The trouble aspect
 should not necessarily be the thing that is most likely to cause the PC
 trouble, especially if it would be boring to deal with in game.  Instead, a
-PC's trouble Aspect is a good way for the player to indicate what sort of
+PC's trouble aspect is a good way for the player to indicate what sort of
 problems they would find interesting to deal with.
 
 A hardboiled detective might drink excessively, but ~~Can't Resist a
@@ -171,7 +159,7 @@ PCs begin with a refresh of 2. <!-- TODO: Does this change? -->
 PCs begin with three stress boxes and three consequences. When a PC is harmed
 from losing a Skills contest (covered in the Skills section) they check off
 their Stress Boxes. If no Stress Boxes remain, they must instead write a new
-Aspect for their character in one of the consequences slots.
+aspect for their character in one of the consequences slots.
 
 Each level of consequence is more impactful and lasts for longer. Here are the
 guidelines:
