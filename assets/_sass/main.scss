@@ -1,9 +1,15 @@
-$root-font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+$serif-font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 $sans-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 $root-line-height: 1.5;
 
+// Some colors
+$tango-red:       hsl(  0, 100%, 40%); 
+$tango-dark-red:  hsl(  0, 100%, 32%);
+$tango-blue:      hsl(214,  52%, 42%);
+$tango-dark-blue: hsl(216,  62%, 33%);
+
 html {
-    font-family: $root-font-family;
+    font-family: $serif-font-family;
     line-height: $root-line-height;
 }
 
@@ -23,8 +29,9 @@ a {
 }
 
 span.aspect {
-    color: magenta;
-    font-family: $sans-font-family;
+    color: $tango-dark-red;
+    font-variant: small-caps;
+    text-transform: lowercase;
 }
 
 // ::before/after apparently help with accessibility:
@@ -40,7 +47,7 @@ span.aspect::after {
 }
 
 span.skill {
-    color: blue;
+    color: $tango-dark-blue;
     text-transform: capitalize;
     font-family: monospace;
 }
