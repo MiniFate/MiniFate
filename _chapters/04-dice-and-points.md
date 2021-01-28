@@ -48,7 +48,8 @@ so, the player states their intention and the DM sets a difficulty from 0
 dice, sums the result, and adds their skill value (0 if they don't have the
 skill). If this total meets or beats the DMs difficulty, they succeed. When
 creating an aspect, the player gets one free invocation; they get an
-additional one if they beat the target number by 2 or more.
+additional invocation if they succeed with style by beating the target number
+by 2 or more.
 
 > Tor Byron and Naka were waiting in a warehouse up by the docks for a contact
 > when they notice some thugs approaching. True to her aspect ~~Never Met A
@@ -80,6 +81,19 @@ difference between to the two sums is the amount of stress inflicted.
 <!-- Shoot, do we have to talk about stress now!? -->
 
 Roll outcomes:
+
+<!-- TODO: Do these move up higher on the page? Is fail missing the target and
+succeed at a cost... equaling? 
+
+- Fail when < target
+- Succeed at a Cost when = target
+- Succeed when > target
+- Succeed with Style > target + 1 
+
+Seems very compressed around 0, 1, 2
+
+-->
+
 
 - Fail
 - Succeed at a Cost
