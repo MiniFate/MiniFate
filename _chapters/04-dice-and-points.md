@@ -64,7 +64,7 @@ additional one if they beat the target number by 2 or more.
 > them now!
 
 Rolling to inflict or defend against stress involves opposed rolls. The
-attacking character rolls their dice and adds their skill to the total and so
+attacking character rolls their dice and adds their skill to the total. So
 does the defending character. If the attacker's total is higher, the
 difference between to the two sums is the amount of stress inflicted.
 
