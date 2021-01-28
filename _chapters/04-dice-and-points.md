@@ -42,13 +42,14 @@ Players can roll to:
 -->
 
 Sometimes the aspects describing a scene aren't the ones you want. Your
-character can act to create new ones or destroy existing ones easily. The
-player states their intention and the DM sets a difficulty from 0 (easy) to 6
-(hard) and what skill is required. The player rolls their dice, sums the
-result, and adds their skill value (0 if they don't have the skill). If this
-total meets or beats the DMs difficulty, they succeed. When creating an
-aspect, the player gets one free invocation; they get an additional one if
-they beat the target number by 2 or more.
+character can create new aspects or destroy existing ones with a role. To do
+so, the player states their intention and the DM sets a difficulty from 0
+(easy) to 6 (hard) and which skill needs to be rolled. The player rolls their
+dice, sums the result, and adds their skill value (0 if they don't have the
+skill). If this total meets or beats the DMs difficulty, they succeed. When
+creating an aspect, the player gets one free invocation; they get an
+additional invocation if they succeed with style by beating the target number
+by 2 or more.
 
 > Tor Byron and Naka were waiting in a warehouse up by the docks for a contact
 > when they notice some thugs approaching. True to her aspect ~~Never Met A
@@ -59,12 +60,12 @@ they beat the target number by 2 or more.
 >
 > Naka rolls {{dice--pmpp}} and adds her +2 `Shoot` for a total of 4, easily
 > beating the target. The GM writes ~~Billowing Smokey Inferno~~ on a note
-> card, draws one box on it to represent Naka's free invocation, and places it
-> on the table. It's going to be a lot harder for the ambushers to find them
-> now!
+> card, draws two boxes on it to represent Naka's free invocations, and places
+> it on the table. It's going to be a lot harder for the ambushers to find
+> them now!
 
 Rolling to inflict or defend against stress involves opposed rolls. The
-attacking character rolls their dice and adds their skill to the total, and so
+attacking character rolls their dice and adds their skill to the total. So
 does the defending character. If the attacker's total is higher, the
 difference between to the two sums is the amount of stress inflicted.
 
@@ -80,6 +81,19 @@ difference between to the two sums is the amount of stress inflicted.
 <!-- Shoot, do we have to talk about stress now!? -->
 
 Roll outcomes:
+
+<!-- TODO: Do these move up higher on the page? Is fail missing the target and
+succeed at a cost... equaling? 
+
+- Fail when < target
+- Succeed at a Cost when = target
+- Succeed when > target
+- Succeed with Style > target + 1 
+
+Seems very compressed around 0, 1, 2
+
+-->
+
 
 - Fail
 - Succeed at a Cost
