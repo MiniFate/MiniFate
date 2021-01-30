@@ -38,18 +38,6 @@ span.aspect {
     text-transform: lowercase;
 }
 
-// ::before/after apparently help with accessibility:
-// https://adrianroselli.com/2017/12/tweaking-text-level-styles.html
-span.aspect::before {
-    content: " [aspect start] ";
-    display: none;
-}
-
-span.aspect::after {
-    content: " [aspect end] ";
-    display: none;
-}
-
 span.skill {
     color: $tango-dark-blue;
     text-transform: capitalize;
