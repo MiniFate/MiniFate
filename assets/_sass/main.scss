@@ -72,6 +72,12 @@ img.die {
   vertical-align: middle;
 }
 
+span.dice-roll {
+  img.die {
+    padding: 0.05em;
+  }
+}
+
 span.nowrap {
   white-space: nowrap;
 }
