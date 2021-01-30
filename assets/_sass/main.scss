@@ -3,10 +3,12 @@ $sans-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neu
 $root-line-height: 1.5;
 
 // Some colors
-$tango-red:       hsl(  0, 100%, 40%); 
-$tango-dark-red:  hsl(  0, 100%, 32%);
-$tango-blue:      hsl(214,  52%, 42%);
-$tango-dark-blue: hsl(216,  62%, 33%);
+$tango-red:        hsl(  0, 100%, 40%);
+$tango-dark-red:   hsl(  0, 100%, 32%);
+$tango-blue:       hsl(214,  52%, 42%);
+$tango-dark-blue:  hsl(216,  62%, 33%);
+$tango-light-grey: hsl( 60,   6%, 97%);
+$tango-dark-grey:  hsl( 90,   2%, 33%);
 
 html {
     font-family: $serif-font-family;
@@ -76,7 +78,8 @@ span.nowrap {
 
 // Example gameplay uses blockquotes
 blockquote {
-  border-left: 0.4em solid grey;
+  border-left: 0.3em solid $tango-dark-grey; 
   margin: 0.5em 0 0.5em 2em;
-  padding: 0 0.5em;
+  padding: 0.05em 0.5em;
+  background-color: $tango-light-grey;
 }
