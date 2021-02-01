@@ -150,7 +150,7 @@ happens next.
 > She rolls `Shoot` against the Goblins' `Agility` as they try to steer around
 > the fireball. Naka rolls extremely well with {{dice-pppp}} for a +6, while
 > the GM rolls poorly for the Goblins.
-> 
+>
 > The GM turns to Naka: "A one in a million shot! Your fireball takes out all
 > the rigging, the wheel, and even starts a major fire. The barge should sink
 > right through the clouds without causing you any more trouble... Or" he
