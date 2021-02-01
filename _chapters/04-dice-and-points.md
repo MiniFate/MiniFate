@@ -34,22 +34,33 @@ escape, or `Network` to recognize him as a ~~Student of the Blade Dancers~~.
 
 Players can roll to:
 
-- Create a scene aspect with a free invocation
-- Destroy a scene aspect
-- Inflict stress on another character (typically an NPC)
-- Defend against someone inflicting stress on them
+- **Create a scene aspect** with a free invocation
+- **Destroy a scene aspect**
+- **Inflict stress** on another character (typically an NPC)
+- **Defend against stress** inflicted on them
 <!-- What about making people believe you? Is that stress? Is that an aspect?
 -->
 
+To do so, the player states their intention and the GM tells them what skill
+they need to roll. The player then rolls their dice, sums the result, and adds
+their skill rank (which is 0 if they don't have the skill). They compare this
+number to the target number. For creating and destroying aspects, the target
+number is chosen by the GM to reflect the difficulty (from 0 for _very easy_
+up to 6 for _very difficult_). For inflicting and defending against stress,
+the target number is the number rolled by the opposing character.
+
+When they roll there are four possible outcomes:
+
+| Condition                | Outcome              | Result                                                                                           |
+|:-------------------------|:---------------------|:-------------------------------------------------------------------------------------------------|
+| Below target             |  _Fail_              | The action fails and things get worse for the character.                                         |
+| Equal target             | _Succeed at cost_    | The action succeeds, but not in the way the player intended.                                     |
+| Beat target              | _Succeed_            | The action succeeds as the player intended.                                                      |
+| Beat target by 3 or more | _Succeed with style_ | The action is wildly successful! Create an aspect describing the success with a free invocation. |
+
 Sometimes the aspects describing a scene aren't the ones you want. Your
-character can create new aspects or destroy existing ones with a role. To do
-so, the player states their intention and the DM sets a difficulty from 0
-(easy) to 6 (hard) and which skill needs to be rolled. The player rolls their
-dice, sums the result, and adds their skill value (0 if they don't have the
-skill). If this total meets or beats the DMs difficulty, they succeed. When
-creating an aspect, the player gets one free invocation; they get an
-additional invocation if they succeed with style by beating the target number
-by 2 or more.
+character can create new aspects or destroy existing ones with a role.
+
 
 > Tor Byron and Naka were waiting in a warehouse up by the docks for a contact
 > when they notice some thugs approaching. True to her aspect ~~Never Met A
@@ -72,8 +83,8 @@ difference between to the two sums is the amount of stress inflicted.
 > Naka's helmsmen has stepped out of line one too many times; the last straw
 > was selling them out to a rival crew and trying to take over the ship in the
 > confusion! He lunges at Naka with his sword as she tries to leap out of the
-> way. He rolls his dice and gets {{dice-pznp}} which is 1. He adds his
-> `Fight` score of +1 for a total of 2.
+> way. The GM rolls the dice and gets {{dice-pznp}} which is 1. The helmsmen
+> adds his `Fight` score of +1 for a total of 2.
 >
 > Naka's `Agility` is +1 but she rolls {{dice-nznz}} to dodge giving her a
 > total of -1. The difference between the attack and her defense is 3, so she
