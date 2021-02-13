@@ -16,7 +16,7 @@ MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
 Evil Hat and uses the same fundamental mechanics: skills and aspects. Skills
 are numerical bonuses applied to dice rolls, ensuring the story is exciting
 and unpredictable but not random. Aspects are short, improvised phrases to
-keep the whole table on the page about what's important to the story and to
+keep the whole group on the page about what's important to the story and to
 provide a framework for players to riff off each other in creative and
 constructive ways.
 
@@ -83,7 +83,7 @@ class="nowrap">{{zero}},</span> and 5 and 6 as <span
 class="nowrap">{{pos}}.</span>
 
 Finally, you'll need a way to keep track of fate points. The best way is to
-have something physical to pass back and forth--poker chips are excellent for
+have something physical to pass back and forth---poker chips are excellent for
 this---but you can track them by just making a mark on your character sheet as
 well. In a pinch, you could even use polyhedral dice since you won't need them
 in MiniFate.

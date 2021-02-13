@@ -43,10 +43,10 @@ Players can roll to:
 
 Sometimes the aspects describing a scene aren't the ones you want. Your
 character can create new aspects or destroy existing ones with a role. To do
-so, the player states their intention and the DM sets a difficulty from 0
+so, the player states their intention and the GM sets a difficulty from 0
 (easy) to 6 (hard) and which skill needs to be rolled. The player rolls their
 dice, sums the result, and adds their skill value (0 if they don't have the
-skill). If this total meets or beats the DMs difficulty, they succeed. When
+skill). If this total meets or beats the GMs difficulty, they succeed. When
 creating an aspect, the player gets one free invocation; they get an
 additional invocation if they succeed with style by beating the target number
 by 2 or more.
