@@ -45,12 +45,40 @@ span.skill {
 }
 
 // Special alignment for skill and aspect tables
-table.key-def td {
-  text-align: left;
+table.key-def {
+  border-width: 0;
+  td {
+    text-align: left;
+  }
+
+  td:first-child {
+    text-align: right;
+  }
 }
 
-table.key-def td:first-child {
-  text-align: right;
+// Other tables
+table {
+  font-size: 1em;
+  font-variant-numeric: lining-nums tabular-nums;
+  border-collapse: collapse;
+  border-width: 0.12em 0;
+  border-color: $tango-dark-grey;
+  border-style: solid;
+}
+
+thead {
+  border-bottom: 0.06em;
+  border-bottom-style: solid;
+  border-bottom-color: $tango-dark-grey;
+}
+
+td,
+th {
+  padding: .25em .5em;
+}
+
+th {
+  text-align: left;
 }
 
 // Inline dice images
