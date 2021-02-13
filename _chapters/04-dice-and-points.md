@@ -22,7 +22,7 @@ appropriate moments, or even invent new aspects about the world. But watch
 out---the GM has fate points as well, which they can use to complicate the
 PCs' lives at just the wrong moment.
 
-### Skill Rolls
+### Skill Rolls <!-- TODO #58 Clean up skills: https://github.com/MiniFate/MiniFate/issues/58 -->
 
 Dice are an important part of MiniFate, but that doesn't mean you need to roll
 for every little thing. As a general rule, the GM should prompt players for a
@@ -100,7 +100,7 @@ Seems very compressed around 0, 1, 2
 - Succeed
 - Succeed with Style
 
-### Stress and Consequences
+### Stress and Consequences <!-- TODO #57 Rewrite Stress https://github.com/MiniFate/MiniFate/issues/57 -->
 
 When a PC fails to defend themselves against an attack, they have three options:
 
@@ -148,9 +148,9 @@ character is attempting to take in a new light, and may then either:
 > and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
 > Pig_ is released, for now.
 
-<!--- TODO: is two options dumb? -->
+<!--- TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 -->
 
-### Compels
+### Compels <!-- TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 -->
 
 Sometimes the GM will come up with a fun twist that makes a PC's life
 difficult. In this case they may offer the PC's player a compel: they GM will
