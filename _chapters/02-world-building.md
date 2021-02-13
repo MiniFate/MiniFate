@@ -10,24 +10,20 @@ Real~~ is very different than one on the ~~Blood Drenched Sands of the
 Caribbean~~.
 
 The game creation process should be collaborative, so it is often best to set
-aside the first session in order to design the setting and the PCs together. A
-good way to structure world building is to come up with a broad definition of
-the setting and then build the PCs. This lets you use character creation to
-define the details of the world.
+aside the first game session in order to design the setting and the PCs
+together. A good way to structure world building is to come up with a broad
+definition of the setting and then build the PCs. This lets you use character
+creation to define the details of the world.
 
 ### Setting
 
 Write down two aspects to describe your setting: one for the genre, and one
 for the conflict. The genre aspect should give a sense for what, when, and
-where the story is about[^world_aspects]. The conflict aspect should introduce the who and
-why of the setting's biggest source of dramatic tension. Between the two of
-them, everyone should be on the same page as far as the feel of the setting:
-hack-and-slash, somber mystery, zany romp, etc.
-
-[^world_aspects]: 
-    You don't need to spell everything out explicitly. But after reading the
-    genre aspect, a stranger should be able to guess if the setting has magic,
-    space travel, both, or neither.
+where the story is about. The conflict aspect should introduce the who and
+why of the setting's biggest source of dramatic tension.
+You don't need to spell everything out, but between the two of them, everyone
+should be on the same page as far as the feel of the setting: hack-and-slash,
+somber mystery, zany romp, etc.
 
 For example, these aspects could set the stage for a sweeping fantasy epic:
 
@@ -47,14 +43,13 @@ For example, these aspects could set the stage for a sweeping fantasy epic:
 |    Genre: | ~~Outlaws and Prophecies on the Outer Planets~~ |
 | Conflict: | ~~Galaxy-Spanning Empire Tightens its Grip~~    |
 
-Write these aspects down somewhere everyone can see them. Don't worry about
+Write the aspects down somewhere everyone can see them. Don't worry about
 making them perfect; they're just a starting point. You can come back and
 change them during character creation, or even after the story is underway!
 
-> <!--Do we need more of an intro? Like "We'll build an example world, example
-> characters, and use them to show you how to play..." ?-->
->
-> We decide to be sky pirates in a steampunk fantasy world. We want magic,
+Here are the aspects we decided on for our world:
+
+> We want to play sky pirates in a steampunk fantasy world. We want magic,
 > sword fights, and swashbuckling adventures in a world of intrigue where we
 > can never be sure if we're the conman or the mark. We write down the
 > following two Aspects:
@@ -62,9 +57,9 @@ change them during character creation, or even after the story is underway!
 > {:.key-def}
 > |    Genre: | ~~Steam-Powered Swashbuckling on the Seven Seas~~ |
 > | Conflict: | ~~A Puppet-Master is Pulling All the Strings~~    |
-> 
-> In the next chapter we'll build our characters; from then on we'll use that
-> setting for examples.
+ 
+In the next chapter we'll build our characters; from then on we'll use our
+setting for examples.
 
 ### Scenes
 
