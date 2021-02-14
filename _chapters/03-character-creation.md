@@ -154,6 +154,46 @@ difference is how you handle the narration: instead of Tor Byron intimidating
 a single person into doing what he wants with `Persuasion`, describe him as
 convincing a part of the mob to disperse.
 
+> Our campaign needs some NPCs, so the GM builds some while the rest of the
+> players are figuring out their PCs.
+>
+> Lord Kellett is the leader of the Empire's armed forces and a formidable
+> warrior himself. He presents as honorable to earn the players' trust but,
+> like most powerful characters in our world, he is primarily looking out for
+> himself.
+>
+> {:.key-def}
+> | Concept: | ~~Lord Commander of the Empire and Hero of the Goblin Wars~~ |
+> | Trouble: | ~~The Empire's Last Hope for survival~~               |
+>
+> Kellett is a powerful warrior (+5 `Fight`), but an even more cunning plotter
+> (+5 `Persuasion`). As Lord Commander he can deploy an almost unlimited
+> number of soldiers and ships (+4 `Network`) against his enemies. He has
+> unnatural strength (+3 `Physique`) and speed (+3 `Agility`).
+> strong (
+>
+> {:.key-def}
+> | +5 | `Persuasion`                  |
+> | +4 | `Fight`, `Network` |
+> | +3 | `Physique`, `Agility`                  |
+> | +2 | `Agility`, `Performance` |
+> | +1 | `Shoot`                  |
+
+Insight
+Performance
+Shoot
+Stealth
+Tinker
+
+> Captain Archibald Grofhurst is a privateer who is a constant thorn in the
+> side of the crew of the _Angry Pig_ and her crew. Grofhurst is nominally
+> working to advance the Empire's interested, but his obsession with the
+> _Angry Pig_ is personal.
+>
+> {:.key-def}
+> | Concept: | ~~Privateer Captain bringing order to the outer edge~~ |
+> | Trouble: | ~~Never forgets a slight~~               |
+
 <!-- TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 -->
 
 ### Mechanical Stuff <!-- TODO #56: Update Mechanical Stuff https://github.com/MiniFate/MiniFate/issues/56 -->
