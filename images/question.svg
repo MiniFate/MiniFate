@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<mask id="remove_middle">
+ <rect id="all" width="100%" height="100%" fill="white"/>
+ <rect id="middle" x="5" y="5" width="90" height="90" rx="14.45" fill="black"/>
+</mask>
+ <rect id="border" width="100" height="100" rx="17" fill="black" mask="url(#remove_middle)"/>
+  <g
+     aria-label="?"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text895">
+    <path
+       d="m 72.945312,35.140625 q 0,3.234375 -0.890625,5.671875 -0.84375,2.4375 -2.296875,4.359375 -1.453125,1.921875 -3.328125,3.46875 -1.828125,1.546875 -3.75,2.953125 -1.921875,1.359375 -3.796875,2.765625 -1.828125,1.359375 -3.328125,2.953125 -1.453125,1.59375 -2.390625,3.5625 -0.890625,1.921875 -0.9375,4.5 h -8.203125 q 0.09375,-3.140625 0.984375,-5.53125 0.9375,-2.390625 2.390625,-4.265625 1.453125,-1.921875 3.28125,-3.421875 1.828125,-1.546875 3.703125,-2.90625 1.875,-1.40625 3.65625,-2.765625 1.828125,-1.40625 3.234375,-3 1.40625,-1.59375 2.25,-3.515625 0.890625,-1.96875 0.890625,-4.453125 0,-2.578125 -0.984375,-4.546875 Q 62.492187,29 60.664062,27.6875 q -1.78125,-1.359375 -4.359375,-2.0625 -2.53125,-0.703125 -5.71875,-0.703125 -3.1875,0 -5.8125,0.890625 -2.578125,0.890625 -4.5,2.578125 -1.921875,1.640625 -3.09375,4.03125 -1.171875,2.34375 -1.5,5.25 l -8.625,-0.5625 q 0.5625,-4.21875 2.296875,-7.734375 1.734375,-3.5625 4.6875,-6.09375 2.953125,-2.53125 7.078125,-3.9375 4.125,-1.453125 9.375,-1.453125 5.0625,0 9.1875,1.125 4.171875,1.125 7.125,3.328125 2.953125,2.15625 4.546875,5.390625 1.59375,3.1875 1.59375,7.40625 z M 43.648437,82.109375 V 72.6875 h 9.140625 v 9.421875 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:128.99999619%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';writing-mode:lr-tb"
+       id="path897" />
+  </g>
+</svg>
