@@ -52,6 +52,17 @@ rolling; if a roll is made to break a grapple, the ~~Grappled~~ Aspect is
 destroyed. Story Aspects also are destroyed when they are no longer relevant,
 or no longer make sense. When the sun rises, ~~Pitch Blackness~~ is destroyed.
 
+> Tor Byorn is leading a raiding party to steal a rival crew's cargo right out
+> of their storehouse. The GM writes down the aspect ~~Abnormally Dark and
+> Rainy~~ as he describes the scene. A few moments later Tor Byron heres a
+> whistling shriek as a special arrow misses his head by an inch but finds its
+> target in the man behind him.
+> 
+> Tor Byorn's player asks the GM if he can roll `Insight` to locate the
+> assassin, but GM declines; the aspect on the scene prevents Tor Byorn.
+> Undiscouraged, the Dwarf starts looking for a way to brighten up the night,
+> perhaps with some fire...
+
 #### Hidden Aspects
 
 Most character and story Aspects are visible to everyone at the table, but not
