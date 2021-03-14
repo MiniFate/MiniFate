@@ -18,17 +18,16 @@ Aspects are the heart and soul of MiniFate. They have four roles, each of
 which is crucial to the game (and each of which will be explained in detail
 later):
 
+- **Aspects are always true, so they govern the sorts of play that make
+  sense.** For example, if Tor Byorn is ~~Grappled~~, it wouldn't make sense
+  for him to run away, swing his hammer, or do anything else that requires
+  free movement until he escaped the grapple.
 - **Aspects can be invoked for bonuses on rolls.** For example, if a roll goes
   poorly while Eyegor is trying to sneak past some guards, he could pay a fate
   point to invoke ~~Dark and Stormy Night~~ to improve the roll. It makes
   sense that the dark would work to his advantage.
 - **Aspects can be compelled to create engaging plot twists and complications.**
   For example, ~~blah blah blah~~.
-- **Aspects are always true, so they govern the sorts of play that make
-  sense.**
-  For example, if Tor Byorn is ~~Grappled~~, it wouldn't make sense for him to
-  run away, swing his hammer, or do anything else that requires free movement
-  until he escaped the grapple.
 - **Aspects can be used to flavor character skills and rolls, called
   Aspect-Based Narration.** The _Shoot_ skill applies to all manner of
   projectiles, from arrows to javelins to magic attacks. ~~SAMPLE
@@ -115,11 +114,11 @@ free invocations.
 Declaring an aspect can be used to establish a connection with an new NPC
 (~~The Barkeep Is From My Hometown~~) or dictate their motives (~~Traitorous
 Minon~~), give a PC an item they need but might not have on them (~~Put My
-Hair up with Lock Picks this Morning~~), impose unfortunate circumstances on an
-enemy (~~Knock-off AK-47s Jam a Lot!~~), or even change the weather or scenery
-(~~Sudden Snowstorm~~).  The power of declaring an aspect comes from the fact
-that Aspects are true and so making the Aspect is just revealing a previously
-unknown piece of the story.
+Hair up with Lock Picks this Morning~~), impose unfortunate circumstances on
+an enemy (~~Knock-off AK-47s Jam a Lot!~~), or even change the weather or
+scenery (~~Sudden Snowstorm~~).  The power of declaring an aspect comes from
+the fact that Aspects are true and so making the Aspect is just revealing a
+previously unknown piece of the story.
 
 The GM may declare aspects without paying a Fate point; narrating the in-game
 world and deciding the actions of all the NPCs is specifically the purview of
@@ -213,16 +212,6 @@ The GM can also compel story aspects:
 > Naka's player thinks for a moment, takes the fate point, and calls out to
 > the other players "Tor Byorn, I took out their steering! But it looks like
 > they're heading right for us! Brace for impact!"
-
-<!-- TODO: Edit more below -->
-
-Players can also compel the GM! Anyone can pay a fate point to add an aspect
-to the scene. The GM is allowed to refuse.
-
-The fate point economy is a closed loop. When a player spends a fate point or
-compels the GM, that point goes to the GM. Same thing the other way. One
-exception: the GM can compel players even if they're out of fate points? In
-that case they just grab an extra fate point
 
 ## Examples
 
