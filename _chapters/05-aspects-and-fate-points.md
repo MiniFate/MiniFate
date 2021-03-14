@@ -208,23 +208,3 @@ The GM can also compel story aspects:
 > Naka's player thinks for a moment, takes the fate point, and calls out to
 > the other players "Tor Byorn, I took out their steering! But it looks like
 > they're heading right for us! Brace for impact!"
-
-## Examples
-
-<!-- TODO: Where does this go? -->
-
-> The _Angry Pig_ is slowly navigating an aether storm when Tor Byron hears
-> the sound of grappling hooks biting into soft wood. "Goblin raiders! They
-> must have be stalking us through the storm!" he calls out.
->
-> Too late to talk it out, Tor Byron's player declares that his PC hefts his
-> magic axe and charges the goblins, aiming to drive them off his boat. The
-> Goblins have the aspect ~~Cowardly Except in Large Numbers~~.
->
-> The GM asks Tor Byron to roll
-
-Tor Byorn doesn't roll to see if he can steer a boat straight, we know he is a
-former captain, of course he can! Likewise when the _Angry Pig_ is boarded by
-aether Goblins Tor Byorn will roll `Fight` to drive them away, but his
-eventual success is not really in doubt, instead he rolls to see if he can
-defeat them before they make off with his treasure.
