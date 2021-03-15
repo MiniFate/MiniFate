@@ -189,20 +189,18 @@ an complete rewrite. -->
 
 The GM can also compel story aspects:
 
-> A goblin barge got the drop on the _Angry Pig_ by sailing too close to an
-> aether storm. Although the barge is roughed up from the storm, its cannons
-> have lined up a perfect shot on the _Pig's_ unarmored stern. Naka orders the
-> crew to prepare to fight as she tosses a desperate fireball at the barge.
-> She rolls `Shoot` against the Goblins' `Agility` as they try to steer around
-> the fireball. Naka rolls extremely well while the GM rolls poorly for the
-> Goblins.
+> A goblin barge got the drop on the _Angry Pig_ and while the crew works
+> frantically to swing the ship around, Naka toss desperate fireball at the
+> barge. She rolls `Shoot` against the Goblins' `Agility` as they try to steer
+> around the fireball. Naka rolls extremely well while the GM rolls poorly for
+> the Goblins.
 >
 > The GM turns to Naka: "A one in a million shot! Your fireball takes out all
 > the rigging, the wheel, and even starts a major fire." The GM writes down
 > the aspect ~~Out of control Inferno~~. "The barge should sink right through
 > the clouds without causing you any more trouble... Or" he holds up a fate
 > point, "Is the flaming wreck now on a collision course, sure to tangle with
-> your rigging, and allowing dozens of goblins to spill out onto the _Angery
+> your rigging, and allowing dozens of goblins to spill out onto the _Angry
 > Pig's_ deck as you fight the flames?"
 >
 > Naka's player thinks for a moment, takes the fate point, and calls out to
