@@ -4,6 +4,12 @@
 
 {% include macros.html %}
 
+### Starting
+
+#### Zones
+
+#### Turn Order
+
 ### Challenges
 
 In normal play, the characters will occasionally roll a skill to determine the
