@@ -15,7 +15,7 @@
 
 -->
 
-MiniFate uses dice to add an element of unpredictability to the story. Without
+{GameName} uses dice to add an element of unpredictability to the story. Without
 them, you might as well be writing a novel! That said, it's not all up to
 chance. Players can spend fate points to re-roll the dice at dramatically
 appropriate moments, or even invent new aspects about the world. But watch
@@ -24,7 +24,7 @@ PCs' lives at just the wrong moment.
 
 ### Skill Rolls <!-- TODO #58 Clean up skills: https://github.com/MiniFate/MiniFate/issues/58 -->
 
-Dice are an important part of MiniFate, but that doesn't mean you need to roll
+Dice are an important part of {GameName}, but that doesn't mean you need to roll
 for every little thing. As a general rule, the GM should prompt players for a
 roll in situations where a competent hero might reasonably fail _and_ failure
 adds an interesting twist to the story. For example, a ~~Swashbuckling

@@ -4,7 +4,7 @@
 
 <!-- TODO: This paragraph is clunky but important. Rewrite. -->
 
-PCs in MiniFate are mechanically simple but narratively diverse. Starting PCs
+PCs in {GameName} are mechanically simple but narratively diverse. Starting PCs
 have of two aspects---their Concept and Trouble---and a set of skills. All PCs
 have three Stress Boxes, three Consequences, and a Refresh of two. Aspects and
 Skills are covered in depth later. <!-- TODO are they? -->

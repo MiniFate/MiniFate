@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: MiniFate
 author: Alexander Gude and Charles Fyfe
 ---
 
-<h1 class="page-title">{{ page.title }}</h1>
+<h1 class="page-title">{GameName}</h1>
 
 {% comment %}
 Dump the content of each chapter here in order to create one
