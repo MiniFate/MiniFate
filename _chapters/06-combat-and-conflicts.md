@@ -18,6 +18,13 @@ During
 
 #### Turn Order
 
+Turn order is decided by the narrative. Look to the aspects on the scene and
+use them to determine which group should have momentum going into the
+encounter. That group decides which of their characters will act first. When
+that character has acted, their player picks a character---on either side of
+the conflict---to go next. The last player to go during the turn picks the
+character to go first in the next round, including themselves.
+
 ### Challenges
 
 In normal play, the characters will occasionally role a skill to determine the
