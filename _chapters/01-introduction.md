@@ -6,13 +6,13 @@
 ## Introduction
 
 <!-- TODO: Tighten this up. -->
-_MiniFate_ is a roleplaying game for telling collaborative stories with your
+{GameName} is a roleplaying game for telling collaborative stories with your
 friends. The system is flexible and light, letting the story shine through.
 You can use it for any setting where the most important thing is the
 narrative, from spaceships in the far future, to magic in the distant past, to
 political intrigue in the present day.
 
-MiniFate is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
+{GameName} is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
 Evil Hat and uses the same fundamental mechanics: skills and aspects. Skills
 are numerical bonuses applied to dice rolls, ensuring the story is exciting
 and unpredictable but not random. Aspects are short, improvised phrases to
@@ -25,9 +25,9 @@ constructive ways.
 
 <!-- TODO: Do we need a final sentence? -->
 
-### Roleplaying with MiniFate
+### Roleplaying with {GameName}
 
-MiniFate is played with one gamemaster (_GM_) and one or more _players_. Each
+{GameName} is played with one gamemaster (_GM_) and one or more _players_. Each
 player takes on the role of a player character (_PC_) which they create as the
 game begins. The GM plays the rest of the world around the PCs, including its
 cast of non-player characters (_NPCs_), which could be anything from friendly
@@ -53,14 +53,14 @@ adds an interesting twist to the story. That's where the dice come in. Dice
 rolls mediate the divide between player and PC; PC choices are made by the
 players while the outcome of PC actions are judged by dice.
 
-MiniFate is a social game. As such, the most important element is
+{GameName} is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: having a good time
 while telling an engaging story.
 
 ### Game Materials
 
-MineFate doesn't require a lot to get started: pens to write with and paper to
+{GameName} doesn't require a lot to get started: pens to write with and paper to
 record your character on, a set of Fate dice, and some tokens to represent
 _Fate Points_.
 
@@ -86,4 +86,4 @@ Finally, you'll need a way to keep track of fate points. The best way is to
 have something physical to pass back and forth---poker chips are excellent for
 this---but you can track them by just making a mark on your character sheet as
 well. In a pinch, you could even use polyhedral dice since you won't need them
-in MiniFate.
+in {GameName}.

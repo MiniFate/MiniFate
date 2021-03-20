@@ -2,7 +2,7 @@
 ---
 ## World Building
 
-In MiniFate, character creation and setting creation happen together. It is
+In {GameName}, character creation and setting creation happen together. It is
 good to have a rough idea of what type of game the players and GM want to
 play, but ultimately settings are defined by their characters and vice versa.
 A ~~Pirate Captain Who Hates Violence~~ in a world where ~~Magic is Suddenly

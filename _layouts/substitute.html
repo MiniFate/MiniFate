@@ -2,7 +2,6 @@
 layout: compress
 ---
 
-
 {% comment %}
 To make writing in Markdown easy, we use ~~Aspect~~ and `Skill`, but this
 produces <del>Aspect</del> and <code>Skill</code> tags, which doesn't follow
@@ -11,11 +10,15 @@ the HTML semantic elements.
 So after the page is rendered, this layout replaces <del> with <span
     class="aspect"> and <code> with <span class="skill>.
 {% endcomment %}
+
+{% capture game_name_span %}<span class="game-title">{{ site.title }}</span>{% endcapture %}
+
 {% assign output = content
     | replace: '<del>', '<span class="aspect">'
     | replace: '</del>', '</span>'
     | replace: '<code class="language-plaintext highlighter-rouge">', '<span class="skill">'
     | replace: '</code>', '</span>'
+    | replace: '{GameName}', game_name_span
 %}
 
 {{output}}
