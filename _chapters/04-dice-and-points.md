@@ -115,19 +115,6 @@ the hero or villain meet an apparent end only to show up at an opportune
 moment. But it does mean the PC takes no more actions for the rest of the
 scene.
 
-### Fate Points
-
-Fate Points are a currency that can be spent to assert narrative control over
-the game. Both the players and the GM have pools of Fate Points available to
-spend. Players start each session with a number of Fate Points equal to their
-PC's Refresh; additional Fate Points are earned by accepting compels during
-the session.
-
-The GM start each scene with as many Fate Points as there are PCs active in
-the scene. Additionally, there is an unlimited pool of Fate Points that the
-players and GM return their Fate Points to when they spend them, and from
-which the GM pays players Fate Points for compels.
-
 ### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 
 Sometimes the GM will come up with a fun twist that makes a PC's life
