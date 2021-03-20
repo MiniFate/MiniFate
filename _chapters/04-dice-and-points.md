@@ -128,28 +128,6 @@ the scene. Additionally, there is an unlimited pool of Fate Points that the
 players and GM return their Fate Points to when they spend them, and from
 which the GM pays players Fate Points for compels.
 
-### Invoking Aspects
-
-The players and the GM may pay a Fate Point after rolling the dice to invoke
-a relevant aspect. They explain how the aspect casts the action their
-character is attempting to take in a new light, and may then either:
-
-- Re-roll the dice
-- Add a +2 bonus to the previous roll
-
-> The _Angry Pig_ has been impounded for failure to pay import taxes and Tor
-> Byorn is trying to convince the officials to let it go in exchange for a
-> future payment. After rolling his `Persuasion` against their `Insight`,
-> the margin is -1, failure.
->
-> Tor Byorn's player holds up one of the poker chips the group uses for fate
-> points and says "As you know, I have ~~Lost My Boat in a Game of Cards~~
-> before, and I'm not keen to lose another one." The GM takes the fate point
-> and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
-> Pig_ is released, for now.
-
-<!--- TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 -->
-
 ### Compels <!-- TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 -->
 
 Sometimes the GM will come up with a fun twist that makes a PC's life

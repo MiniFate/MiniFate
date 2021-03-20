@@ -108,33 +108,6 @@ Fate Points are spent to do one of two things:
 1. Invoke an Aspect
 2. Declaring an Aspect
 
-### Invoking Aspects
-
-Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
-player or GM spends a Fate Point, explains how one of the Aspects in play
-would help the character making the roll or hinder their opponents, and then
-either adds +2 to the result of the roll or re-throw all four of their dice.
-Invoking an Aspect must make sense; the group should agree that the Aspect is
-applicable with the GM being the final arbiter.
-
-Players may spend Fate points to invoke Aspects for their own rolls and the GM
-may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
-Multiple aspects can be invoked on the same roll, but the same aspect cannot
-be invoked more than once on the same roll (even if a fate point is used to
-throw the dice again). 
-
-Aspects need not be invoked all at once; a player my see whether they would
-succeed with a roll before deciding whether to invoke any aspects. After
-invoking an aspect, they may again see what the result would be before
-deciding to let it stand, or invoking other aspects to gain a further bonus.
-
-If two players are invoking aspects on a roll (for example, if a player's PC
-is attack one of the GM's NPCs), then the roll is resolved only after both
-players agree that they are finished. Again, each specific aspect may only be
-invoked once per roll, so if both players want to invoke the same aspect the
-group should decide for which character it would be more beneficial. If no
-agreement can be reached, neither player may invoke it.
-
 ### Declaring Aspects
 
 Declaring an Aspects gives the players a chance to narrate a story detail.
