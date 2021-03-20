@@ -2,12 +2,12 @@
 ---
 ## Character Creation
 
-<!-- TODO: This paragraph is clunky but important. Rewrite. -->
+{% comment %} TODO: This paragraph is clunky but important. Rewrite. {% endcomment %}
 
 PCs in {GameName} are mechanically simple but narratively diverse. Starting PCs
 have of two aspects---their Concept and Trouble---and a set of skills. All PCs
 have three Stress Boxes, three Consequences, and a Refresh of two. Aspects and
-Skills are covered in depth later. <!-- TODO are they? -->
+Skills are covered in depth later. {% comment %} TODO are they? {% endcomment %}
 
 On the last page you'll find a [character sheet][pc_sheet] to record your PC.
 
@@ -27,12 +27,12 @@ Looking to Join The Academy~~.
 
 ### Trouble
 
-<!-- TODO: It's ok (even good!) if your Concept sometimes causes you trouble. It's
+{% comment %} TODO: It's ok (even good!) if your Concept sometimes causes you trouble. It's
 ok (even good!) if your trouble sometimes works to your benefit. The whole
 point of aspects is that they prompt the players to riff off each other in fun
-and unexpected ways.-->
+and unexpected ways.{% endcomment %}
 
-<!-- TODO: Can we make this POP as much as the first sentence above? -->
+{% comment %} TODO: Can we make this POP as much as the first sentence above? {% endcomment %}
 The PC's second aspect is their Trouble; it describes the sort of things that
 get in the PC's way and make their story interesting. A PC's trouble aspect is
 a good way for the player to indicate what sort of problems they would find
@@ -121,7 +121,7 @@ take in response to the story.
 
 ### Advancement
 
-<!-- TODO #54: https://github.com/MiniFate/MiniFate/issues/54 -->
+{% comment %} TODO #54: https://github.com/MiniFate/MiniFate/issues/54 {% endcomment %}
 
 ### Non-Player Characters
 
@@ -154,18 +154,18 @@ difference is how you handle the narration: instead of Tor Byron intimidating
 a single person into doing what he wants with `Persuasion`, describe him as
 convincing a part of the mob to disperse.
 
-<!-- TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 -->
+{% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
-### Mechanical Stuff <!-- TODO #56: Update Mechanical Stuff https://github.com/MiniFate/MiniFate/issues/56 -->
+### Mechanical Stuff {% comment %} TODO #56: Update Mechanical Stuff https://github.com/MiniFate/MiniFate/issues/56 {% endcomment %}
 
 A PC's Refresh determines how many Fate Points they start each session with.
-PCs begin with a refresh of 2. <!-- TODO: Does this change? -->
+PCs begin with a refresh of 2. {% comment %} TODO: Does this change? {% endcomment %}
 
 #### Stress and Consequences
 
-<!-- TODO: #57 Update stress and consequences: https://github.com/MiniFate/MiniFate/issues/57 -->
+{% comment %} TODO: #57 Update stress and consequences: https://github.com/MiniFate/MiniFate/issues/57 {% endcomment %}
 
-<!-- TODO: Do these numbers change? -->
+{% comment %} TODO: Do these numbers change? {% endcomment %}
 PCs begin with three stress boxes and three consequences. When a PC is harmed
 from losing a Skills contest (covered in the Skills section) they check off
 their Stress Boxes. If no Stress Boxes remain, they must instead write a new
@@ -174,8 +174,8 @@ aspect for their character in one of the consequences slots.
 Each level of consequence is more impactful and lasts for longer. Here are the
 guidelines:
 
-<!-- TODO: Can we just number consequences? -->
-<!-- TODO: Can we nail down how long they last? Have we defined "Session". -->
+{% comment %} TODO: Can we just number consequences? {% endcomment %}
+{% comment %} TODO: Can we nail down how long they last? Have we defined "Session". {% endcomment %}
 
 _Mild_: Recovers in a scene or two and does not impact the PCs function much.
 Generally the PC will have to spend a small amount of attention to fix it.

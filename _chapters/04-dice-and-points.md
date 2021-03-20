@@ -4,7 +4,7 @@
 
 {% include macros.html %}
 
-<!--- TODO: better name.
+{% comment %}- TODO: better name.
 
 - Deciding What Happens
 - Narrative Control
@@ -13,7 +13,7 @@
 - Taking Action
 - Resolving Conflicts
 
--->
+{% endcomment %}
 
 {GameName} uses dice to add an element of unpredictability to the story. Without
 them, you might as well be writing a novel! That said, it's not all up to
@@ -22,7 +22,7 @@ appropriate moments, or even invent new aspects about the world. But watch
 out---the GM has fate points as well, which they can use to complicate the
 PCs' lives at just the wrong moment.
 
-### Skill Rolls <!-- TODO #58 Clean up skills: https://github.com/MiniFate/MiniFate/issues/58 -->
+### Skill Rolls {% comment %} TODO #58 Clean up skills: https://github.com/MiniFate/MiniFate/issues/58 {% endcomment %}
 
 Dice are an important part of {GameName}, but that doesn't mean you need to roll
 for every little thing. As a general rule, the GM should prompt players for a
@@ -38,8 +38,8 @@ Players can roll to:
 - Destroy a scene aspect
 - Inflict stress on another character (typically an NPC)
 - Defend against someone inflicting stress on them
-<!-- What about making people believe you? Is that stress? Is that an aspect?
--->
+{% comment %} What about making people believe you? Is that stress? Is that an aspect?
+{% endcomment %}
 
 Sometimes the aspects describing a scene aren't the ones you want. Your
 character can create new aspects or destroy existing ones with a role. To do
@@ -78,11 +78,11 @@ difference between to the two sums is the amount of stress inflicted.
 > Naka's `Agility` is +1 but she rolls {{dice-nznz}} to dodge giving her a
 > total of -1. The difference between the attack and her defense is 3, so she
 > takes 3 stress.
-<!-- Shoot, do we have to talk about stress now!? -->
+{% comment %} Shoot, do we have to talk about stress now!? {% endcomment %}
 
 Roll outcomes:
 
-<!-- TODO: Do these move up higher on the page? Is fail missing the target and
+{% comment %} TODO: Do these move up higher on the page? Is fail missing the target and
 succeed at a cost... equaling? 
 
 - Fail when < target
@@ -92,7 +92,7 @@ succeed at a cost... equaling?
 
 Seems very compressed around 0, 1, 2
 
--->
+{% endcomment %}
 
 
 - Fail
@@ -100,7 +100,7 @@ Seems very compressed around 0, 1, 2
 - Succeed
 - Succeed with Style
 
-### Stress and Consequences <!-- TODO #57 Rewrite Stress https://github.com/MiniFate/MiniFate/issues/57 -->
+### Stress and Consequences {% comment %} TODO #57 Rewrite Stress https://github.com/MiniFate/MiniFate/issues/57 {% endcomment %}
 
 When a PC fails to defend themselves against an attack, they have three options:
 
@@ -108,7 +108,7 @@ When a PC fails to defend themselves against an attack, they have three options:
   Each PC has three stress boxes, valued 1, 2, and 3.
 - Add a consequence of valued N or greater, where N is the margin of the roll.
   Each PC has three consequence slots, valued 2, 4, and 6.
-- Be out of the fight. <!-- Should you have to write an aspect for this? -->
+- Be out of the fight. {% comment %} Should you have to write an aspect for this? {% endcomment %}
 
 "Out of the fight" doesn't typically mean "dead"---many classic stories have
 the hero or villain meet an apparent end only to show up at an opportune
@@ -148,9 +148,9 @@ character is attempting to take in a new light, and may then either:
 > and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
 > Pig_ is released, for now.
 
-<!--- TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 -->
+{% comment %}- TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 {% endcomment %}
 
-### Compels <!-- TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 -->
+### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 
 Sometimes the GM will come up with a fun twist that makes a PC's life
 difficult. In this case they may offer the PC's player a compel: they GM will
@@ -176,7 +176,7 @@ happens next.
 > the other players "Tor Byorn, I took out their steering! But it looks like
 > they're heading right for us! Brace for impact!"
 
-<!-- TODO: Edit more below -->
+{% comment %} TODO: Edit more below {% endcomment %}
 
 Players can also compel the GM! Anyone can pay a fate point to add an aspect
 to the scene. The GM is allowed to refuse.
@@ -188,7 +188,7 @@ that case they just grab an extra fate point
 
 ## Examples
 
-<!-- TODO: Where does this go? -->
+{% comment %} TODO: Where does this go? {% endcomment %}
 
 > The _Angry Pig_ is slowly navigating an aether storm when Tor Byron hears
 > the sound of grappling hooks biting into soft wood. "Goblin raiders! They

@@ -16,4 +16,4 @@
 
 #### Invoking Aspects
 
-### Compels <!-- TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 -->
+### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
