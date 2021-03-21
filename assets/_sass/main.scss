@@ -10,9 +10,25 @@ $tango-dark-blue:  hsl(216,  62%, 33%);
 $tango-light-grey: hsl( 60,   6%, 97%);
 $tango-dark-grey:  hsl( 90,   2%, 33%);
 
+:root {
+  // body font size
+  --text-base-size: 1em;
+  
+  // type scale
+  --text-scale-ratio: 1.2;
+  --text-xs: calc((1em / var(--text-scale-ratio)) / var(--text-scale-ratio));
+  --text-sm: calc(var(--text-xs) * var(--text-scale-ratio));
+  --text-md: calc(var(--text-sm) * var(--text-scale-ratio) * var(--text-scale-ratio));
+  --text-lg: calc(var(--text-md) * var(--text-scale-ratio));
+  --text-xl: calc(var(--text-lg) * var(--text-scale-ratio));
+  --text-xxl: calc(var(--text-xl) * var(--text-scale-ratio));
+  --text-xxxl: calc(var(--text-xxl) * var(--text-scale-ratio));
+}
+
 html {
     font-family: $serif-font-family;
     line-height: $root-line-height;
+    font-size: var(--text-base-size);
 }
 
 main {
@@ -27,6 +43,21 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0;
 }
+
+h1 {
+  margin-top: 0;
+  font-size: var(--text-xxxl);
+}
+
+h2 {font-size: var(--text-xxl);}
+
+h3 {font-size: var(--text-xl);}
+
+h4 {font-size: var(--text-lg);}
+
+h5 {font-size: var(--text-md);}
+
+small, .text_small {font-size: var(--text-small);}
 
 a {
   text-decoration: none;
