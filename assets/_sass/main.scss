@@ -10,25 +10,25 @@ $tango-dark-blue:  hsl(216,  62%, 33%);
 $tango-light-grey: hsl( 60,   6%, 97%);
 $tango-dark-grey:  hsl( 90,   2%, 33%);
 
-:root {
-  // body font size
-  --text-base-size: 1em;
-  
-  // type scale
-  --text-scale-ratio: 1.2;
-  --text-xs: calc((1em / var(--text-scale-ratio)) / var(--text-scale-ratio));
-  --text-sm: calc(var(--text-xs) * var(--text-scale-ratio));
-  --text-md: calc(var(--text-sm) * var(--text-scale-ratio) * var(--text-scale-ratio));
-  --text-lg: calc(var(--text-md) * var(--text-scale-ratio));
-  --text-xl: calc(var(--text-lg) * var(--text-scale-ratio));
-  --text-xxl: calc(var(--text-xl) * var(--text-scale-ratio));
-  --text-xxxl: calc(var(--text-xxl) * var(--text-scale-ratio));
-}
+// body font size
+$text-base-size: 1rem;
+
+// type scale
+$text-scale-ratio: 1.2;
+$text-xs: ($text-base-size / $text-scale-ratio) / $text-scale-ratio;
+$text-sm: $text-xs * $text-scale-ratio;
+// $text-md multiplies $text-scale-ratio because there is a "missing step"
+// here, which is already defined by $text-base-size
+$text-md: ($text-sm * $text-scale-ratio) * $text-scale-ratio;
+$text-lg: $text-md * $text-scale-ratio;
+$text-xl: $text-lg * $text-scale-ratio;
+$text-xxl: $text-xl * $text-scale-ratio;
+$text-xxxl: $text-xxl * $text-scale-ratio;
 
 html {
     font-family: $serif-font-family;
     line-height: $root-line-height;
-    font-size: var(--text-base-size);
+    font-size: $text-base-size;
 }
 
 main {
@@ -46,18 +46,18 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: var(--text-xxxl);
+  font-size: $text-xxxl;
 }
 
-h2 {font-size: var(--text-xxl);}
+h2 {font-size: $text-xxl;}
 
-h3 {font-size: var(--text-xl);}
+h3 {font-size: $text-xl;}
 
-h4 {font-size: var(--text-lg);}
+h4 {font-size: $text-lg;}
 
-h5 {font-size: var(--text-md);}
+h5 {font-size: $text-md;}
 
-small, .text_small {font-size: var(--text-small);}
+small, .text_small {font-size: $text-sm;}
 
 a {
   text-decoration: none;
