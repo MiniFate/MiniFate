@@ -33,7 +33,7 @@ $text-base-size: 1rem;
 
 // Type Scale
 // Note: pow(..., 0) is just $text-base-size, which is already defined
-$text-scale-ratio: 1.2;
+$text-scale-ratio: 1.25;
 $text-xs:   $text-base-size * pow($text-scale-ratio, -2);
 $text-sm:   $text-base-size * pow($text-scale-ratio, -1);
 $text-md:   $text-base-size * pow($text-scale-ratio, 1);
