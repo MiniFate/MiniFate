@@ -10,20 +10,37 @@ $tango-dark-blue:  hsl(216,  62%, 33%);
 $tango-light-grey: hsl( 60,   6%, 97%);
 $tango-dark-grey:  hsl( 90,   2%, 33%);
 
-// body font size
+// Positive or negative power function
+// Via: https://css-tricks.com/snippets/sass/power-function/
+@function pow($number, $exponent) {
+  $value: 1;
+
+  @if $exponent > 0 {
+    @for $i from 1 through $exponent {
+      $value: $value * $number;
+    }
+  } @else if $exponent < 0 {
+    @for $i from 1 through -$exponent {
+      $value: $value / $number;
+    }
+  }
+
+  @return $value;
+}
+
+// Body font size
 $text-base-size: 1rem;
 
-// type scale
+// Type Scale
+// Note: pow(..., 0) is just $text-base-size, which is already defined
 $text-scale-ratio: 1.2;
-$text-xs: ($text-base-size / $text-scale-ratio) / $text-scale-ratio;
-$text-sm: $text-xs * $text-scale-ratio;
-// $text-md multiplies $text-scale-ratio because there is a "missing step"
-// here, which is already defined by $text-base-size
-$text-md: ($text-sm * $text-scale-ratio) * $text-scale-ratio;
-$text-lg: $text-md * $text-scale-ratio;
-$text-xl: $text-lg * $text-scale-ratio;
-$text-xxl: $text-xl * $text-scale-ratio;
-$text-xxxl: $text-xxl * $text-scale-ratio;
+$text-xs:   $text-base-size * pow($text-scale-ratio, -2);
+$text-sm:   $text-base-size * pow($text-scale-ratio, -1);
+$text-md:   $text-base-size * pow($text-scale-ratio, 1);
+$text-lg:   $text-base-size * pow($text-scale-ratio, 2);
+$text-xl:   $text-base-size * pow($text-scale-ratio, 3);
+$text-xxl:  $text-base-size * pow($text-scale-ratio, 4);
+$text-xxxl: $text-base-size * pow($text-scale-ratio, 5);
 
 html {
     font-family: $serif-font-family;
