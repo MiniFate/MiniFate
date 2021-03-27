@@ -9,6 +9,9 @@ $tango-blue:       hsl(214,  52%, 42%);
 $tango-dark-blue:  hsl(216,  62%, 33%);
 $tango-light-grey: hsl( 60,   6%, 97%);
 $tango-dark-grey:  hsl( 90,   2%, 33%);
+$tango-light-blue: hsl(211, 49%, 92%);
+$tango-light-purple: hsl(307, 22%, 85%);
+$tango-light-red:   hsl(  0, 100%, 96%);
 
 // Positive or negative power function
 // Via: https://css-tricks.com/snippets/sass/power-function/
@@ -81,9 +84,15 @@ a {
 }
 
 span.aspect {
-    color: $tango-dark-red;
+    //color: $tango-dark-red;
     font-variant: small-caps;
     text-transform: lowercase;
+    background-color: $tango-light-red;
+    border-radius: 0.5em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    padding-bottom: 0.1em;
+    vertical-align: middle;
 }
 
 span.skill {
