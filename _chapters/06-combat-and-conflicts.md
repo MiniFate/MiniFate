@@ -8,10 +8,16 @@ describes it all... -->
 
 {% include macros.html %}
 
-Most of the gameplay in MiniFate is roleplaying punctuated by the occasional
-dice roll. But sometimes the players will want or need to do something that
-requires many skill checks within a short amount of time, at which point they
-turn to Conflicts.
+Most of the gameplay in MiniFate is roleplaying with the occasional dice roll
+to determine which path the story continues down. But sometimes the players
+will want to do something that requires many skill checks within a short
+amount of time, at which point they turn to _TODO_.
+
+A _contest_ is for when the characters are trying to accomplish something that
+requires multiple tasks to be accomplished at roughly the same time.
+
+A _conflict_ is for when the characters are directly opposed by another group
+and actively attempting to harm them.
 
 A conflict could be fighting a group of henchmen or deciphering the cult's
 demonic texts before the party is discovered. During a conflict play becomes
