@@ -13,7 +13,7 @@ understanding of the characters, the setting, and the current scene.
 Some Aspects are attached to characters, allowing the player or GM to
 express in their own words what makes the character unique and interesting.
 Other Aspects refer to the world around the characters, or the story taking
-place in it; an Aspect can be a detail within the current scene, a summary of
+place in it. An Aspect can be a detail within the current scene, a summary of
 the overarching plot arc, or literally any other phrase that the players or GM
 find pertinent.
 
@@ -26,10 +26,10 @@ Aspects have three roles, each of which is crucial to the game:
   their `Shoot` attack will probably take the form of a conjured fireball; and
   they would be absolutely helpless if asked to pick up a crossbow.
 - **Aspects can be invoked for a bonus on a roll**: If the dice say that
-  ~~Sherwood Forest's Greatest Archer~~ is about to miss a tough shot, the
+  ~~Sherwood's Greatest Archer~~ is about to miss a tough shot, the
   player can spend a fate point to get a bonus on the roll.
 - **Aspects can be compelled to create engaging plot twists**: Twists and
-  turns make an engaging story; MiniFate encourages plot twists be
+  turns make an engaging story; MiniFate encourages plot twists by
   compensating players when the narrative turns against them.
 
 ### Aspects
