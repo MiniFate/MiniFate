@@ -8,20 +8,20 @@
 
 #### Story Aspects
 
-Any Aspect not attached to a character is a story Aspect. Like character
-Aspects, story Aspects are always true; unlike those Aspects, story Aspects
+Any aspect not attached to a character is a story aspect. Like character
+aspects, story aspects are always true; unlike those aspects, story aspects
 are dynamic. Creating an effect in the fiction is synonymous with creating a
-story Aspect. Reversing that effect destroys the Aspect.
+story aspect. Reversing that effect destroys the aspect.
 
-Story Aspects can be introduced by the GM to help set a scene. For example,
-maybe ~~It's Raining Hard~~ or ~~Everyone Seems On-Edge~~.
-They can also be created as a result of skill rolls during gameplay. Quenching
-a campfire can create ~~Pitch Blackness~~; wrestling someone to the ground
-creates ~~Grappled~~.
+Story aspects can be introduced by the GM to help set a scene. For example,
+maybe ~~It's Raining Hard~~ or ~~Everyone Seems On-Edge~~. They can also be
+created as a result of skill rolls during gameplay. Quenching a campfire can
+create ~~Pitch Blackness~~; wrestling someone to the ground creates
+~~Grappled~~.
 
-The destruction of Aspects is similar. They can be destroyed manually by
-rolling; if a roll is made to break a grapple, the ~~Grappled~~ Aspect is
-destroyed. Story Aspects also are destroyed when they are no longer relevant,
+The destruction of aspects is similar. They can be destroyed manually by
+rolling; if a roll is made to break a grapple, the ~~Grappled~~ aspect is
+destroyed. Story aspects also are destroyed when they are no longer relevant,
 or no longer make sense. When the sun rises, ~~Pitch Blackness~~ is destroyed.
 
 > Tor Byorn is leading a raiding party to steal a rival crew's cargo right out
