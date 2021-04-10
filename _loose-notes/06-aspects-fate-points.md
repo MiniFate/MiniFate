@@ -48,22 +48,6 @@ high concept and trouble aspect?-->
 
 ### Story Aspects
 
-Any Aspect not attached to a character is a story Aspect. Like character
-Aspects, story Aspects are always true; unlike those Aspects, story Aspects
-are dynamic. Creating an effect in the fiction is synonymous with creating a
-story Aspect. Reversing that effect destroys the Aspect.
-
-Story Aspects can be introduced by the GM to help set a scene; for example, it
-may bear noting that **It's Raining Hard** or that **Everyone Seems On-Edge**.
-They can also be created as a result of skill rolls during gameplay. Quenching
-a campfire can create **Pitch Blackness**; wrestling someone to the ground
-creates **Grappled**.
-
-The destruction of Aspects is similar. They can be destroyed manually by
-rolling; if a roll is made to break a grapple, the **Grappled** Aspect is
-destroyed. Story Aspects also are destroyed when they are no longer relevant,
-or no longer make sense. When the sun rises, **Pitch Blackness** is destroyed.
-
 ### Hidden Aspects
 
 Most character and story Aspects are visible to everyone at the table, but not
