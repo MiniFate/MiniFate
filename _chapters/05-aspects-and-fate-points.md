@@ -13,8 +13,8 @@ Aspects, story Aspects are always true; unlike those Aspects, story Aspects
 are dynamic. Creating an effect in the fiction is synonymous with creating a
 story Aspect. Reversing that effect destroys the Aspect.
 
-Story Aspects can be introduced by the GM to help set a scene; for example, it
-may bear noting that ~~It's Raining Hard~~ or that ~~Everyone Seems On-Edge~~.
+Story Aspects can be introduced by the GM to help set a scene. For example,
+maybe ~~It's Raining Hard~~ or ~~Everyone Seems On-Edge~~.
 They can also be created as a result of skill rolls during gameplay. Quenching
 a campfire can create ~~Pitch Blackness~~; wrestling someone to the ground
 creates ~~Grappled~~.
@@ -30,8 +30,8 @@ or no longer make sense. When the sun rises, ~~Pitch Blackness~~ is destroyed.
 > whistling shriek as a special arrow misses his head by an inch but finds its
 > target in the man behind him.
 > 
-> Tor Byorn's player asks the GM if he can roll `Insight` to locate the
-> assassin, but GM declines; the aspect on the scene prevents Tor Byorn.
+> Tor Byorn's player asks the GM if he can roll `Insight` to spot the
+> assassin, but GM declines; it wouldn't make sense with the story aspect.
 > Undiscouraged, the Dwarf starts looking for a way to brighten up the night,
 > perhaps with some fire...
 
