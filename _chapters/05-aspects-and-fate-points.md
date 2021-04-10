@@ -50,7 +50,8 @@ agreement can be reached, neither player may invoke it.
 > points and says "As you know, I have ~~Lost My Boat in a Game of Cards~~
 > before, and I'm not keen to lose another one." The GM takes the fate point
 > and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
-> Pig_ is released, for now.
+> Pig_ is released, for now, and the GM makes a note to come back to Tor
+> Byorn's promise later.
 
 <!--- TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 -->
 
