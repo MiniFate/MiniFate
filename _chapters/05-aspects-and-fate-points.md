@@ -41,7 +41,7 @@ invoked once per roll, so if both players want to invoke the same aspect the
 group should decide for which character it would be more beneficial. If no
 agreement can be reached, neither player may invoke it.
 
-> The _Angry Pig_ has been impounded for failure to pay import taxes and Tor
+> The _Angry Pig_ has been impounded for failure to pay import taxes. Tor
 > Byorn is trying to convince the officials to let it go in exchange for a
 > future payment. After rolling his `Persuasion` against their `Insight`,
 > the margin is -1, failure.
