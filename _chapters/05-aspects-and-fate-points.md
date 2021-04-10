@@ -4,10 +4,10 @@
 
 {% include macros.html %}
 
-An Aspect is a short phrase written about the in-game world by a player or the
-GM. They are how the narrative interacts with the mechanics of the game,
-allowing what makes a good story to drive what happens when the dice are
-rolled. Aspects are how the players and the GM come to an agreed upon
+An Aspect is a short, improvised phrase written about the in-game world by a
+player or the GM. They are how the narrative interacts with the mechanics of
+the game, allowing what makes a good story to drive what happens when the dice
+are rolled. Aspects are how the players and the GM come to an agreed upon
 understanding of the characters, the setting, and the current scene.
 
 Some Aspects are attached to characters, allowing the player or GM to
@@ -30,7 +30,8 @@ Aspects have three roles, each of which is crucial to the game:
   player can spend a fate point to get a bonus on the roll.
 - **Aspects can be compelled to create engaging plot twists**: Twists and
   turns make an engaging story; MiniFate encourages plot twists by
-  compensating players when the narrative turns against them.
+  compensating players when the narrative turns against them. This helps to
+  ensure that the players have fun even when their characters aren't.
 
 ### Aspects
 
@@ -45,3 +46,6 @@ Aspects have three roles, each of which is crucial to the game:
 #### Invoking Aspects
 
 ### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
+
+{% comment %} Make sure to mention that players should be on board and have
+fun with compels. If they aren't, then it's wrong.{% endcomment %}
