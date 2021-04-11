@@ -124,8 +124,8 @@ aspect would lead to the story unfolding in a manner unfavorable to the PC and
 the player may decide to accept the narration in exchange for a fate point.
 
 The exact way in which things go wrong can be negotiated. If the player
-accepts the compel, they receive a Fate Point and the GM narrates the results;
-there are no rolls made and no skills are used, the story simply unfolds as
+accepts the compel, they receive a Fate Point and the GM narrates the results.
+There are no rolls made and no skills are used, the story simply unfolds as
 the GM dictates.
 
 The GM can compel a character aspects:
@@ -133,32 +133,34 @@ The GM can compel a character aspects:
 {% comment %} FIXME: This isn't great... But at least it's a start. It probably needs
 an complete rewrite. {% endcomment %}
 
-> Tor Byorn's group has snuck into Lord Kellett's chambers looking for a
+> Tor Byorn and Naka have snuck into Lord Kellett's chambers looking for a
 > missing artifact and have stopped to discus what to do with the large safe
-> they found.  While they talk, GM turns to Tor Byorn's player, holds up a
-> Fate Point, and says, "Tor Byorn, ~~Why Are We Still Talking?~~ Just break
-> the safe open with your hammer! Of course, it'll alert every guard in the
-> building to your whereabouts but you can handle them." Tor Byron's player
-> smiles and accepts the Fate point, so the GM narrates the result: "Tor Byorn
-> walks over and slams his hammer into the safe's door, which makes a loud,
-> booming sound that shakes the whole room..."
+> they found. While they talk, the GM turns to Naka's player, holds up a Fate
+> Point, and says, "Naka, I am pretty sure you have ~~Never met a problem your
+> magic couldn't ignite~~! Just melt the safe. Of course, the whole room will
+> be engulfed in flames alerting every guard in the building to your
+> whereabouts but you can handle them."
+>
+> Naka's player smiles and accepts the Fate point, so the GM narrates the
+> result: "Naka pushes past Tor Byron while he's talking and blasts the safe
+> with a constant stream of flame. The door sags off its hinges, but the
+> drapes, carpet, and walls are all burning, sending smoke rolling out the
+> windows. You hear a guard shout 'Fire!' and a bell starts ringing..."
 
 The GM can also compel story aspects:
 
-> A goblin barge got the drop on the _Angry Pig_ and while the crew works
-> frantically to swing the ship around, Naka toss desperate fireball at the
-> barge. She rolls `Shoot` against the Goblins' `Agility` as they try to steer
-> around the fireball. Naka rolls extremely well while the GM rolls poorly for
-> the Goblins.
+> A goblin barge got the drop on the _Angry Pig_. Tor Byorn leaps to the barge
+> to distract the attackers while Naka and the rest of the crew prepare to
+> make a run for it.
 >
-> The GM turns to Naka: "A one in a million shot! Your fireball takes out all
-> the rigging, the wheel, and even starts a major fire." The GM writes down
-> the aspect ~~Out of control Inferno~~. "The barge should sink right through
-> the clouds without causing you any more trouble... Or" he holds up a fate
-> point, "Is the flaming wreck now on a collision course, sure to tangle with
-> your rigging, and allowing dozens of goblins to spill out onto the _Angry
-> Pig's_ deck as you fight the flames?"
+> Tor Byorn lands next to the helm and begins his attack with his trusty magic
+> axe. His player rolls well, so the GM narrates: "You smash the helmsmen
+> across the deck and cut the wheel in half as you do. The barge is crippled!"
+> He writes down a new aspect ~~Spinning in circles~~. "The won't be able to
+> follow you now... Or" he holds up a fate point, "Are they now on a collision
+> course with the _Angry Pig_, sure to tangle with your rigging and allowing
+> dozens of goblins to spill out on to your decks?"
 >
-> Naka's player thinks for a moment, takes the fate point, and calls out to
-> the other players "Tor Byorn, I took out their steering! But it looks like
-> they're heading right for us! Brace for impact!"
+> Tor Byorn's player thinks for a moment, takes the fate point, and calls out
+> to the other players "Nake, I took out their steering! But it looks like
+> they're heading right for you! Brace for impact!"
