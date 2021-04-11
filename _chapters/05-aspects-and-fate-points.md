@@ -128,6 +128,14 @@ accepts the compel, they receive a Fate Point and the GM narrates the results.
 There are no rolls made and no skills are used, the story simply unfolds as
 the GM dictates.
 
+Compels add excitement and unpredictability to the story at the cost of a
+player's agency. The fate point is meant to compensate them and to help them
+feel good about the outcome, even if their character is disadvantage. Still,
+players don't like being picked on. Spread the compels out so that no single
+character is always the one being beaten up. And be on the lookout for how the
+players feel. If you get the sense the one of them is unhappy, fate points
+alone won't fix it.
+
 The GM can compel a character aspects:
 
 > Tor Byorn and Naka have snuck into Lord Kellett's chambers looking for a
