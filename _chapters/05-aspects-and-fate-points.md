@@ -4,16 +4,16 @@
 
 {% include macros.html %}
 
-An Aspect is a short, improvised phrase written about the in-game world by a
+An aspect is a short, improvised phrase written about the in-game world by a
 player or the GM. They are how the narrative interacts with the mechanics of
 the game, allowing what makes a good story to drive what happens when the dice
 are rolled. Aspects are how the players and the GM come to an agreed upon
 understanding of the characters, the setting, and the current scene.
 
-Some Aspects are attached to characters, allowing the player or GM to
+Some aspects are attached to characters, allowing the player or GM to
 express in their own words what makes the character unique and interesting.
-Other Aspects refer to the world around the characters, or the story taking
-place in it. An Aspect can be a detail within the current scene, a summary of
+Other aspects refer to the world around the characters, or the story taking
+place in it. An aspect can be a detail within the current scene, a summary of
 the overarching plot arc, or literally any other phrase that the players or GM
 find pertinent.
 
@@ -68,24 +68,24 @@ destroyed.
 
 #### Hidden Aspects
 
-Most character and story Aspects are visible to everyone at the table, but not
-all of them. The GM may choose to keep some Aspects hidden.  Obvious examples
+Most character and story aspects are visible to everyone at the table, but not
+all of them. The GM may choose to keep some aspects hidden.  Obvious examples
 include monster weaknesses (**Missing Scale Over His Heart**), imminent
 ambushes (**Those Bushes Look Suspiciously Like Orcs**), and the schemes and
 motivations of NPCs (**Lord Grofhurst Is My Unknowing Puppet**). Hidden
-Aspects serve more or less as the GM's notes; if invoked or compelled, they
+aspects serve more or less as the GM's notes; if invoked or compelled, they
 must be revealed to everyone.
 
 Sometimes the story revolves around an NPC with a secret or a hidden
 motivation that should be revealed slowly. In this case, it is often best to
-start with slightly suspicious public Aspects and then change them as the
+start with slightly suspicious public aspects and then change them as the
 players catch on.
 
 > Lord Kellett is a Dragon using his magic to masquerade as the human general
-> of the Empire's armies. He starts with the Aspect **Strong as Ten Men**
+> of the Empire's armies. He starts with the aspect **Strong as Ten Men**
 > which indicates his incredible strength, but is poetic enough to be
 > overlooked.  Later, as the PCs observe him performing more and more
-> superhuman feats, his Aspect changes to **No Man Could Be As Strong**, still
+> superhuman feats, his aspect changes to **No Man Could Be As Strong**, still
 > indicating his strength, but hinting more directly at its hidden origins.
 > Finally, when the players discover his true nature, his aspect is replaced
 > with **Strength of a Dragon**.
