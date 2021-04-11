@@ -128,14 +128,6 @@ accepts the compel, they receive a Fate Point and the GM narrates the results.
 There are no rolls made and no skills are used, the story simply unfolds as
 the GM dictates.
 
-Compels add excitement and unpredictability to the story at the cost of a
-player's agency. The fate point is meant to compensate them and to help them
-feel good about the outcome, even if their character is disadvantage. Still,
-players don't like being picked on. Spread the compels out so that no single
-character is always the one being beaten up. And be on the lookout for how the
-players feel. If you get the sense the one of them is unhappy, fate points
-alone won't fix it.
-
 The GM can compel a character aspects:
 
 > Tor Byorn and Naka have snuck into Lord Kellett's chambers looking for a
@@ -169,3 +161,9 @@ The GM can also compel story aspects:
 > Tor Byorn's player thinks for a moment, takes the fate point, and calls out
 > to the other players "Naka, I took out their steering! But it looks like
 > they're heading right for you! Brace for impact!"
+
+Compels compensate players for their loss of agency, but it can still feel
+bad. Spreading out compels and using them sparingly can help prevent anyone
+from feeling picked on. Still, some players will love them and want more while
+other players will not. Listen to how your players respond and adjust to suit
+them.
