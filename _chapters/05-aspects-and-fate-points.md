@@ -128,7 +128,7 @@ accepts the compel, they receive a Fate Point and the GM narrates the results;
 there are no rolls made and no skills are used, the story simply unfolds as
 the GM dictates.
 
-The GM can compel a character Aspects:
+The GM can compel a character aspects:
 
 {% comment %} FIXME: This isn't great... But at least it's a start. It probably needs
 an complete rewrite. {% endcomment %}
