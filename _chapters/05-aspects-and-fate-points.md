@@ -130,9 +130,6 @@ the GM dictates.
 
 The GM can compel a character aspects:
 
-{% comment %} FIXME: This isn't great... But at least it's a start. It probably needs
-an complete rewrite. {% endcomment %}
-
 > Tor Byorn and Naka have snuck into Lord Kellett's chambers looking for a
 > missing artifact and have stopped to discus what to do with the large safe
 > they found. While they talk, the GM turns to Naka's player, holds up a Fate
