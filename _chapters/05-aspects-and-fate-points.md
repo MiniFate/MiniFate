@@ -29,10 +29,10 @@ Multiple aspects can be invoked on the same roll, but the same aspect cannot
 be invoked more than once on the same roll (even if a fate point is used to
 throw the dice again). 
 
-Aspects need not be invoked all at once; a player may see whether they would
+Aspects need not be invoked all at once. A player may see whether they would
 succeed with a roll before deciding whether to invoke any aspects. After
 invoking an aspect, they may again see what the result would be before
-deciding to let it stand, or invoking other aspects to gain a further bonus.
+deciding to let it stand or invoking other aspects to gain a further bonus.
 
 If two players are invoking aspects on a roll (for example, if a player's PC
 is attack one of the GM's NPCs), then the roll is resolved only after both
