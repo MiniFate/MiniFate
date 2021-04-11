@@ -16,15 +16,15 @@
 
 #### Invoking Aspects
 
-Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
-player or GM spends a Fate Point, explains how one of the Aspects in play
-would help the character making the roll or hinder their opponents, and then
-either adds +2 to the result of the roll or re-throw all four of their dice.
-Invoking an Aspect must make sense; the group should agree that the Aspect is
-applicable with the GM being the final arbiter.
+Fate Points can be spent to invoke aspects for bonuses to rolls. To do so, the
+player spends a Fate Point, explains how one of the aspects in play would help
+the character making the roll or hinder their opponents, and then either adds
++2 to the result of the roll or re-throw all four of their dice. Invoking an
+aspect must make sense. The group should agree that the aspect is applicable
+with the GM being the final arbiter.
 
-Players may spend Fate points to invoke Aspects for their own rolls and the GM
-may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
+Players may spend Fate points to invoke aspects for their own rolls and the GM
+may spend Fate Points to invoke aspects on rolls he makes for his NPCs.
 Multiple aspects can be invoked on the same roll, but the same aspect cannot
 be invoked more than once on the same roll (even if a fate point is used to
 throw the dice again). 
