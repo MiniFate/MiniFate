@@ -5,7 +5,7 @@
 
 ## Introduction
 
-<!-- TODO: Tighten this up. -->
+{% comment %} TODO: Tighten this up. {% endcomment %}
 {GameName} is a roleplaying game for telling collaborative stories with your
 friends. The system is flexible and light, letting the story shine through.
 You can use it for any setting where the most important thing is the
@@ -23,7 +23,7 @@ constructive ways.
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
 
-<!-- TODO: Do we need a final sentence? -->
+{% comment %} TODO: Do we need a final sentence? {% endcomment %}
 
 ### Roleplaying with {GameName}
 
@@ -38,7 +38,7 @@ conversationally from there as the players and GM improvise back and forth.
 Players speak as their PCs and describe their actions while the GM illustrates
 how the world responds.
 
-<!-- I want to include this out of character part, and I'd like to wrap it in
+{% comment %} I want to include this out of character part, and I'd like to wrap it in
 with "You can use questions to define the world..." But I don't have the right
 way to do it yet.
 
@@ -46,7 +46,7 @@ way to do it yet.
 >
 > Players may also ask the GM for specific details to help them immerse themselves in the PCs' surroundings.
 
--->
+{% endcomment %}
 
 From time to time, players will encounter a situation where a PC's failure
 adds an interesting twist to the story. That's where the dice come in. Dice

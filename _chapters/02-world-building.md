@@ -75,5 +75,5 @@ players. Some examples:
 - ~~Alien Bar Where The Authorities Dare Not Tread~~
 
 Just as with setting aspects, don't be shy about updating scene aspects if the
-story calls for it. Remember: aspects are always true! <!-- TODO: I don't
-think we've ever said this before.-->
+story calls for it. Remember: aspects are always true! {% comment %} TODO: I don't
+think we've ever said this before.{% endcomment %}

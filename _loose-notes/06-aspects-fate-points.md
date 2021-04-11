@@ -2,36 +2,6 @@
 
 ## Aspects
 
-An Aspect is a short phrase written about the in-game world by a player or the
-GM. Some Aspects are attached to characters, allowing the player or GM to
-express in their own words what makes the character unique and interesting.
-Other Aspects refer to the world around the characters, or the story taking
-place in it; an Aspect can be a detail within the current scene, a summary of
-the overarching plot arc, or literally any other phrase that the players or GM
-find pertinent.
-
-Aspects are the heart and soul of MiniFate. They have four roles, each of
-which is crucial to the game (and each of which will be explained in detail
-later):
-
-- **Aspects can be invoked for bonuses on rolls.** For example, if a roll goes
-  poorly while Eyegor is trying to sneak past some guards, he could pay a fate
-  point to invoke **Dark and Stormy Night** to improve the roll. It makes
-  sense that the dark would work to his advantage.
-- **Aspects can be compelled to create engaging plot twists and complications.**
-  For example, **blah blah blah**.
-- **Aspects are always true, so they govern the sorts of play that make
-  sense.**
-  For example, if Tor Byorn is **Grappled**, it wouldn't make sense for him to
-  run away, swing his hammer, or do anything else that requires free movement
-  until he escaped the grapple.
-- **Aspects can be used to flavor character skills and rolls, called
-  Aspect-Based Narration.** The _Shoot_ skill applies to all manner of
-  projectiles, from arrows to javelins to magic attacks. **SAMPLE
-  SORCERESS**'s Aspect **PYROMANCER Aspect** indicates that when she rolls
-  Shoot, she's probably doing so to throw a fireball... and that she probably
-  can't make any Shoot rolls if her fire magic is somehow suppressed.
-
 Each character is created with two Aspects (see the character creation rules
 in chapter **X**). The player can use these Aspects to showcase whatever they
 feel is important about their character, such as their job (**Deep-Woods
@@ -47,22 +17,6 @@ character advancement rules in chapter **Y**).
 high concept and trouble aspect?-->
 
 ### Story Aspects
-
-Any Aspect not attached to a character is a story Aspect. Like character
-Aspects, story Aspects are always true; unlike those Aspects, story Aspects
-are dynamic. Creating an effect in the fiction is synonymous with creating a
-story Aspect. Reversing that effect destroys the Aspect.
-
-Story Aspects can be introduced by the GM to help set a scene; for example, it
-may bear noting that **It's Raining Hard** or that **Everyone Seems On-Edge**.
-They can also be created as a result of skill rolls during gameplay. Quenching
-a campfire can create **Pitch Blackness**; wrestling someone to the ground
-creates **Grappled**.
-
-The destruction of Aspects is similar. They can be destroyed manually by
-rolling; if a roll is made to break a grapple, the **Grappled** Aspect is
-destroyed. Story Aspects also are destroyed when they are no longer relevant,
-or no longer make sense. When the sun rises, **Pitch Blackness** is destroyed.
 
 ### Hidden Aspects
 
@@ -85,33 +39,6 @@ Fate Points are spent to do one of two things:
 
 1. Invoke an Aspect
 2. Declaring an Aspect
-
-### Invoking Aspects
-
-Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
-player or GM spends a Fate Point, explains how one of the Aspects in play
-would help the character making the roll or hinder their opponents, and then
-either adds +2 to the result of the roll or re-throw all four of their dice.
-Invoking an Aspect must make sense; the group should agree that the Aspect is
-applicable with the GM being the final arbiter.
-
-Players may spend Fate points to invoke Aspects for their own rolls and the GM
-may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
-Multiple aspects can be invoked on the same roll, but the same aspect cannot
-be invoked more than once on the same roll (even if a fate point is used to
-throw the dice again). 
-
-Aspects need not be invoked all at once; a player my see whether they would
-succeed with a roll before deciding whether to invoke any aspects. After
-invoking an aspect, they may again see what the result would be before
-deciding to let it stand, or invoking other aspects to gain a further bonus.
-
-If two players are invoking aspects on a roll (for example, if a player's PC
-is attack one of the GM's NPCs), then the roll is resolved only after both
-players agree that they are finished. Again, each specific aspect may only be
-invoked once per roll, so if both players want to invoke the same aspect the
-group should decide for which character it would be more beneficial. If no
-agreement can be reached, neither player may invoke it.
 
 ### Declaring Aspects
 
