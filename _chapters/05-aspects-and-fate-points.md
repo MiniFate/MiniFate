@@ -37,6 +37,35 @@ Aspects have three roles, each of which is crucial to the game:
 
 #### Story Aspects
 
+Any aspect not attached to a character is a story aspect. Like character
+aspects, story aspects are always true. Unlike those aspects, story aspects
+can change from moment to moment: creating an effect in the fiction is
+represented by creating a story aspect and reversing that effect removes the
+aspect.
+
+Story aspects can be introduced by the GM to help set a scene. For example,
+maybe ~~It's Raining Hard~~ or ~~Everyone Seems On-Edge~~. They can also be
+created as a result of skill rolls during gameplay. Quenching a campfire can
+create ~~Pitch Blackness~~ while wrestling someone to the ground creates
+~~Grappled~~.
+
+The changing or removing an aspect is similar. A character can modify an
+aspect by rolling; if a roll is made to break a grapple, the ~~Grappled~~
+aspect is destroyed. Story aspects also are removed when they are no longer
+relevant, or no longer make sense. When the sun rises, ~~Pitch Blackness~~ is
+destroyed.
+
+> Tor Byorn is leading a raiding party to steal a rival crew's cargo right out
+> of their storehouse. The GM writes down the aspect ~~Abnormally Dark and
+> Rainy~~ as he describes the scene. A few moments later Tor Byron heres a
+> whistling shriek as a special arrow misses his head by an inch but finds its
+> target in the man behind him.
+> 
+> Tor Byorn's player asks the GM if he can roll `Insight` to spot the
+> assassin, but GM declines; it wouldn't make sense with the story aspect.
+> Undiscouraged, the Dwarf starts looking for a way to brighten up the night,
+> perhaps with some fire...
+
 #### Hidden Aspects
 
 ### Fate Points
@@ -44,6 +73,45 @@ Aspects have three roles, each of which is crucial to the game:
 #### Declaring Aspects
 
 #### Invoking Aspects
+
+Fate Points can be spent to invoke aspects for bonuses to rolls. To do so, the
+player spends a Fate Point, explains how one of the aspects in play would help
+the character making the roll or hinder their opponents, and then either adds
++2 to the result of the roll or re-throw all four of their dice. Invoking an
+aspect must make sense. The group should agree that the aspect is applicable
+with the GM being the final arbiter.
+
+Players may spend Fate points to invoke aspects for their own rolls and the GM
+may spend Fate Points to invoke aspects on rolls he makes for his NPCs.
+Multiple aspects can be invoked on the same roll, but the same aspect cannot
+be invoked more than once on the same roll (even if a fate point is used to
+throw the dice again). 
+
+Aspects need not be invoked all at once. A player may see whether they would
+succeed with a roll before deciding whether to invoke any aspects. After
+invoking an aspect, they may again see what the result would be before
+deciding to let it stand or invoking other aspects to gain a further bonus.
+
+If two players are invoking aspects on a roll (for example, if a player's PC
+is attack one of the GM's NPCs), then the roll is resolved only after both
+players agree that they are finished. Again, each specific aspect may only be
+invoked once per roll, so if both players want to invoke the same aspect the
+group should decide for which character it would be more beneficial. If no
+agreement can be reached, neither player may invoke it.
+
+> The _Angry Pig_ has been impounded for failure to pay import taxes. Tor
+> Byorn is trying to convince the officials to let it go in exchange for a
+> future payment. After rolling his `Persuasion` against their `Insight`,
+> the margin is -1, failure.
+>
+> Tor Byorn's player holds up one of the poker chips the group uses for fate
+> points and says "As you know, I have ~~Lost My Boat in a Game of Cards~~
+> before, and I'm not keen to lose another one." The GM takes the fate point
+> and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
+> Pig_ is released, for now, and the GM makes a note to come back to Tor
+> Byorn's promise later.
+
+{% comment %} TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 {% endcomment %}
 
 ### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 

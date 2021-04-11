@@ -79,8 +79,9 @@ take in response to the story.
 > It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
 >
 > A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a
-> fearsome reputation. He once _TODO_ without spilling a single drop of blood. But he
-> lost everything in a night of drunken gambling. Now, disgraced, he serves as
+> fearsome reputation. He once stole the emperor's summer fashion shipment
+> from a privateer's without spilling a single drop of blood. But he lost
+> everything in a night of drunken gambling. Now, disgraced, he serves as
 > second mate on the ramshackle _Angry Pig_.
 >
 > {:.key-def}

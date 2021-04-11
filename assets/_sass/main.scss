@@ -7,6 +7,7 @@ $tango-red:        hsl(  0, 100%, 40%);
 $tango-dark-red:   hsl(  0, 100%, 32%);
 $tango-blue:       hsl(214,  52%, 42%);
 $tango-dark-blue:  hsl(216,  62%, 33%);
+$tango-purple:     hsl(292,  21%, 40%);
 $tango-light-grey: hsl( 60,   6%, 97%);
 $tango-dark-grey:  hsl( 90,   2%, 33%);
 
@@ -78,6 +79,19 @@ small, .text_small {font-size: $text-sm;}
 
 a {
   text-decoration: none;
+  color: $tango-blue;
+  text-decoration: none;
+
+  &:hover {
+    color: $tango-red;
+    border-bottom-color: $tango-red;
+    text-decoration: underline;
+  }
+
+  &:visited {
+    color: $tango-purple;
+    border-bottom-color: $tango-purple;
+  }
 }
 
 span.aspect {
@@ -180,9 +194,14 @@ h1:hover .anchor-link-img, h2:hover .anchor-link-img, h3:hover .anchor-link-img,
 }
 
 .anchor-link-img {
-  fill: $tango-red;
+  fill: $tango-blue;
   padding: 0;
   vertical-align: middle;
+
+  &:hover {
+    fill: $tango-red;
+    text-decoration: underline;
+  }
 }
 
 // Use dash for bullets

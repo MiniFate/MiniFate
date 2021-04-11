@@ -18,22 +18,6 @@ high concept and trouble aspect?-->
 
 ### Story Aspects
 
-Any Aspect not attached to a character is a story Aspect. Like character
-Aspects, story Aspects are always true; unlike those Aspects, story Aspects
-are dynamic. Creating an effect in the fiction is synonymous with creating a
-story Aspect. Reversing that effect destroys the Aspect.
-
-Story Aspects can be introduced by the GM to help set a scene; for example, it
-may bear noting that **It's Raining Hard** or that **Everyone Seems On-Edge**.
-They can also be created as a result of skill rolls during gameplay. Quenching
-a campfire can create **Pitch Blackness**; wrestling someone to the ground
-creates **Grappled**.
-
-The destruction of Aspects is similar. They can be destroyed manually by
-rolling; if a roll is made to break a grapple, the **Grappled** Aspect is
-destroyed. Story Aspects also are destroyed when they are no longer relevant,
-or no longer make sense. When the sun rises, **Pitch Blackness** is destroyed.
-
 ### Hidden Aspects
 
 Most character and story Aspects are visible to everyone at the table, but not
@@ -77,33 +61,6 @@ Fate Points are spent to do one of two things:
 
 1. Invoke an Aspect
 2. Declaring an Aspect
-
-### Invoking Aspects
-
-Fate Points can be spent to invoke Aspects for bonuses to rolls. To do so, the
-player or GM spends a Fate Point, explains how one of the Aspects in play
-would help the character making the roll or hinder their opponents, and then
-either adds +2 to the result of the roll or re-throw all four of their dice.
-Invoking an Aspect must make sense; the group should agree that the Aspect is
-applicable with the GM being the final arbiter.
-
-Players may spend Fate points to invoke Aspects for their own rolls and the GM
-may spend Fate Points to invoke Aspects on rolls he makes for his NPCs.
-Multiple aspects can be invoked on the same roll, but the same aspect cannot
-be invoked more than once on the same roll (even if a fate point is used to
-throw the dice again). 
-
-Aspects need not be invoked all at once; a player my see whether they would
-succeed with a roll before deciding whether to invoke any aspects. After
-invoking an aspect, they may again see what the result would be before
-deciding to let it stand, or invoking other aspects to gain a further bonus.
-
-If two players are invoking aspects on a roll (for example, if a player's PC
-is attack one of the GM's NPCs), then the roll is resolved only after both
-players agree that they are finished. Again, each specific aspect may only be
-invoked once per roll, so if both players want to invoke the same aspect the
-group should decide for which character it would be more beneficial. If no
-agreement can be reached, neither player may invoke it.
 
 ### Declaring Aspects
 
