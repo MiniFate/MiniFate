@@ -19,11 +19,11 @@ find pertinent.
 
 Aspects have three roles, each of which is crucial to the game:
 
-- **Aspects are always true**: They dictate what sort of play makes sense and
-  what form a skill takes. If a character is ~~Grappled~~, it would not make
-  sense for them to run away, swing a weapon, or do anything that requires
-  free movement. If a character is a ~~Pyromancer of the Dancing Flame~~ then
-  their `Shoot` attack will probably take the form of a conjured fireball; and
+- **Aspects are always true**: They are how the table judges what play makes
+  sense based on the story. If a character is ~~Grappled~~, they obviously
+  cannot run away, swing a weapon, or do anything that requires free movement.
+  Similarly, if a character is a ~~Pyromancer of the Dancing Flame~~ then
+  their `Shoot` attack will probably take the form of a conjured fireball and
   they would be absolutely helpless if asked to pick up a crossbow.
 - **Aspects can be invoked for a bonus on a roll**: If the dice say that
   ~~Sherwood's Greatest Archer~~ is about to miss a tough shot, the
