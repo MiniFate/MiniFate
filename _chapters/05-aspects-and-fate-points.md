@@ -159,5 +159,5 @@ The GM can also compel story aspects:
 > dozens of goblins to spill out on to your decks?"
 >
 > Tor Byorn's player thinks for a moment, takes the fate point, and calls out
-> to the other players "Nake, I took out their steering! But it looks like
+> to the other players "Naka, I took out their steering! But it looks like
 > they're heading right for you! Brace for impact!"
