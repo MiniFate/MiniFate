@@ -134,9 +134,7 @@ The GM can compel a character aspects:
 > missing artifact and have stopped to discus what to do with the large safe
 > they found. While they talk, the GM turns to Naka's player, holds up a Fate
 > Point, and says, "Naka, I am pretty sure you have ~~Never met a problem your
-> magic couldn't ignite~~! Just melt the safe. Of course, the whole room will
-> be engulfed in flames alerting every guard in the building to your
-> whereabouts but you can handle them."
+> magic couldn't ignite~~! Just melt the safe. What's the worst that could happen?"
 >
 > Naka's player smiles and accepts the Fate point, so the GM narrates the
 > result: "Naka pushes past Tor Byron while he's talking and blasts the safe
