@@ -115,5 +115,51 @@ agreement can be reached, neither player may invoke it.
 
 ### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 
-{% comment %} Make sure to mention that players should be on board and have
-fun with compels. If they aren't, then it's wrong.{% endcomment %}
+Sometimes the GM will come up with a fun twist that makes a PC's life
+difficult. In this case they may compel a PC: the GM explain how a certain
+aspect would lead to the story unfolding in a manner unfavorable to the PC and
+the player may decide to accept the narration in exchange for a fate point.
+
+The exact way in which things go wrong can be negotiated. If the player
+accepts the compel, they receive a Fate Point and the GM narrates the results.
+There are no rolls made and no skills are used, the story simply unfolds as
+the GM dictates.
+
+The GM can compel a character aspects:
+
+> Tor Byorn and Naka have snuck into Lord Kellett's chambers looking for a
+> missing artifact and have stopped to discus what to do with the large safe
+> they found. While they talk, the GM turns to Naka's player, holds up a Fate
+> Point, and says, "Naka, I am pretty sure you have ~~Never met a problem your
+> magic couldn't ignite~~! Just melt the safe. What's the worst that could 
+> happen?"
+>
+> Naka's player smiles and accepts the Fate point, so the GM narrates the
+> result: "Naka pushes past Tor Byron while he's talking and blasts the safe
+> with a constant stream of flame. The door sags off its hinges, but the
+> drapes, carpet, and walls are all burning, sending smoke rolling out the
+> windows. You hear a guard shout 'Fire!' and a bell starts ringing..."
+
+The GM can also compel story aspects:
+
+> A goblin barge got the drop on the _Angry Pig_. Tor Byorn leaps to the barge
+> to distract the attackers while Naka and the rest of the crew prepare to
+> make a run for it.
+>
+> Tor Byorn lands next to the helm and begins his attack with his trusty magic
+> axe. His player rolls well, so the GM narrates: "You smash the helmsmen
+> across the deck and cut the wheel in half as you do. The barge is crippled!"
+> He writes down a new aspect ~~Spinning in circles~~. "The won't be able to
+> follow you now... Or" he holds up a fate point, "Are they now on a collision
+> course with the _Angry Pig_, sure to tangle with your rigging and allowing
+> dozens of goblins to spill out on to your decks?"
+>
+> Tor Byorn's player thinks for a moment, takes the fate point, and calls out
+> to the other players "Naka, I took out their steering! But it looks like
+> they're heading right for you! Brace for impact!"
+
+Compels compensate players for their loss of agency, but it can still feel
+bad. Spreading out compels and using them sparingly can help prevent anyone
+from feeling picked on. Still, some players will love them and want more while
+other players will not. Listen to how your players respond and adjust to suit
+them.
