@@ -115,9 +115,6 @@ agreement can be reached, neither player may invoke it.
 
 ### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 
-{% comment %} Make sure to mention that players should be on board and have
-fun with compels. If they aren't, then it's wrong.{% endcomment %}
-
 Sometimes the GM will come up with a fun twist that makes a PC's life
 difficult. In this case they may compel a PC: the GM explain how a certain
 aspect would lead to the story unfolding in a manner unfavorable to the PC and
@@ -134,7 +131,8 @@ The GM can compel a character aspects:
 > missing artifact and have stopped to discus what to do with the large safe
 > they found. While they talk, the GM turns to Naka's player, holds up a Fate
 > Point, and says, "Naka, I am pretty sure you have ~~Never met a problem your
-> magic couldn't ignite~~! Just melt the safe. What's the worst that could happen?"
+> magic couldn't ignite~~! Just melt the safe. What's the worst that could 
+> happen?"
 >
 > Naka's player smiles and accepts the Fate point, so the GM narrates the
 > result: "Naka pushes past Tor Byron while he's talking and blasts the safe
