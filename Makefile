@@ -1,5 +1,6 @@
 IMAGE := jekyll-image
 MOUNT := /workspace
+DOCKER_BUILD := DOCKER_BUILDKIT=1 docker build
 
 .PHONY: all clean serve drafts debug image refresh
 
@@ -28,7 +29,7 @@ image: Dockerfile Gemfile
 	rm -rf $(BUILDDIR)
 	mkdir -p $(BUILDDIR)
 	cp Gemfile $(BUILDDIR)
-	docker build $(BUILDDIR) -f Dockerfile -t $(IMAGE)
+	$(DOCKER_BUILD) $(BUILDDIR) -f Dockerfile -t $(IMAGE)
 
 # Rebuilding from halfway using a cached image can sometimes cause
 # problems. Use `make refresh` to rebuild the image from the ground up.
@@ -36,4 +37,4 @@ refresh: Dockerfile Gemfile
 	rm -rf $(BUILDDIR)
 	mkdir -p $(BUILDDIR)
 	cp Gemfile $(BUILDDIR)
-	docker build $(BUILDDIR) -f Dockerfile -t $(IMAGE) --no-cache
+	$(DOCKER_BUILD) $(BUILDDIR) -f Dockerfile -t $(IMAGE) --no-cache
