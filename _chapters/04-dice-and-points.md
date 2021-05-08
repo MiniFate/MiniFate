@@ -115,18 +115,41 @@ the hero or villain meet an apparent end only to show up at an opportune
 moment. But it does mean the PC takes no more actions for the rest of the
 scene.
 
-### Fate Points
+### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 
-Fate Points are a currency that can be spent to assert narrative control over
-the game. Both the players and the GM have pools of Fate Points available to
-spend. Players start each session with a number of Fate Points equal to their
-PC's Refresh; additional Fate Points are earned by accepting compels during
-the session.
+Sometimes the GM will come up with a fun twist that makes a PC's life
+difficult. In this case they may offer the PC's player a compel: they GM will
+give the player a fate point and the player will let the GM dictate what
+happens next.
 
-The GM start each scene with as many Fate Points as there are PCs active in
-the scene. Additionally, there is an unlimited pool of Fate Points that the
-players and GM return their Fate Points to when they spend them, and from
-which the GM pays players Fate Points for compels.
+> A goblin barge got the drop on the _Angry Pig_ by sailing too close to an
+> aether storm. Although the barge is roughed up from the storm, its cannons
+> have lined up a perfect shot on the _Pig's_ unarmored stern. Naka orders the
+> crew to prepare to fight as she tosses a desperate fireball at the barge.
+> She rolls `Shoot` against the Goblins' `Agility` as they try to steer around
+> the fireball. Naka rolls extremely well with {{dice-pppp}} for a +6, while
+> the GM rolls poorly for the Goblins.
+>
+> The GM turns to Naka: "A one in a million shot! Your fireball takes out all
+> the rigging, the wheel, and even starts a major fire. The barge should sink
+> right through the clouds without causing you any more trouble... Or" he
+> holds up a fate point, "Is the flaming wreck now on a collision course, sure
+> to tangle with your rigging, and allowing dozens of goblins to spill out
+> onto the _Angery Pig's_ deck as you fight the flames?"
+>
+> Naka's player thinks for a moment, takes the fate point, and calls out to
+> the other players "Tor Byorn, I took out their steering! But it looks like
+> they're heading right for us! Brace for impact!"
+
+{% comment %} TODO: Edit more below {% endcomment %}
+
+Players can also compel the GM! Anyone can pay a fate point to add an aspect
+to the scene. The GM is allowed to refuse.
+
+The fate point economy is a closed loop. When a player spends a fate point or
+compels the GM, that point goes to the GM. Same thing the other way. One
+exception: the GM can compel players even if they're out of fate points? In
+that case they just grab an extra fate point
 
 ## Examples
 
