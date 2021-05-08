@@ -93,6 +93,32 @@ players catch on.
 
 #### Declaring Aspects
 
+Declaring an aspect gives the players a chance to narrate a story detail. The
+player propose a new aspect and, if the GM accepts it, they pay a Fate point
+to bring the aspect into being. Declaring an aspect does not grant any free
+invocations.
+
+Declaring an aspect can be used to:
+
+- Establish a connection with an new NPC (~~The Barkeep Is From My Hometown~~).
+- Dictate an NPC's motives (~~Traitorous Minon~~).
+- Give a PC an item they need but might not have on them (~~Put My Hair up with Lock Picks this Morning~~).
+- Impose unfortunate circumstances on an enemy (~~Knock-off AK-47s Jam a Lot!~~).
+- Or even change the weather or scenery (~~Sudden Snowstorm~~).
+
+The power of declaring an aspect comes from the fact that aspects are always
+true and so making the aspect is just revealing a previously unknown piece of
+the story.
+
+The GM may declare aspects without paying a Fate point. Narrating the in-game
+world and deciding the actions of all the NPCs is specifically the purview of
+the GM, it is only players that need to pay for the privilege.
+
+The GM can use declared aspects by the players to help collaboratively build
+the world by setting up the large-scale themes of the world while allowing the
+details to be filled in during play. This allows the players to shape the
+story while adding an element of surprise for the GM.
+
 #### Invoking Aspects
 
 Fate Points can be spent to invoke aspects for bonuses to rolls. To do so, the
