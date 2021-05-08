@@ -15,14 +15,3 @@ character advancement rules in chapter **Y**).
 
 <!--TODO: Can they really showcase whatever they want at creation if we have a
 high concept and trouble aspect?-->
-
-### Story Aspects
-
-### Hidden Aspects
-
-## Fate Points
-
-Fate Points are spent to do one of two things:
-
-1. Invoke an Aspect
-2. Declaring an Aspect
