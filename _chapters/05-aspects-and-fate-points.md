@@ -71,12 +71,12 @@ destroyed.
 ### Fate Points
 
 Fate Points are a currency that can be spent to assert narrative control over
-the game. Both the players and the GM have pools of Fate Points available to
-spend. Players start each session with a number of Fate Points equal to their
+the game. Each player has a pool of fate points to spend from, as does the
+GM. Players start each session with a number of Fate Points equal to their
 PC's Refresh; additional Fate Points are earned by accepting compels during
 the session.
 
-The GM start each scene with as many Fate Points as there are PCs active in
+The GM starts each scene with one fate point for each PC in
 the scene. Additionally, there is an unlimited pool of Fate Points that the
 players and GM return their Fate Points to when they spend them, and from
 which the GM pays players Fate Points for compels.
