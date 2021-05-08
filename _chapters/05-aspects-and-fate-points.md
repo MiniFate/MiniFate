@@ -93,6 +93,11 @@ The GM may declare aspects without paying a Fate point. Narrating the in-game
 world and deciding the actions of all the NPCs is specifically the purview of
 the GM, it is only players that need to pay for the privilege.
 
+The GM can use declared aspects by the players to help collaboratively build
+the world by setting up the large-scale themes of the world while allowing the
+details to be filled in during play. This allows the players to shape the
+story while adding an element of surprise for the GM.
+
 #### Invoking Aspects
 
 Fate Points can be spent to invoke aspects for bonuses to rolls. To do so, the
