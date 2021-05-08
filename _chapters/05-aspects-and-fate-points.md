@@ -70,9 +70,9 @@ destroyed.
 
 Most character and story aspects are visible to everyone at the table, but not
 all of them. The GM may choose to keep some aspects hidden.  Obvious examples
-include monster weaknesses (**Missing Scale Over His Heart**), imminent
-ambushes (**Those Bushes Look Suspiciously Like Orcs**), and the schemes and
-motivations of NPCs (**Lord Grofhurst Is My Unknowing Puppet**). Hidden
+include monster weaknesses (~~Missing Scale Over His Heart~~), imminent
+ambushes (~~Those Bushes Look Suspiciously Like Orcs~~), and the schemes and
+motivations of NPCs (~~Lord Grofhurst Is My Unknowing Puppet~~). Hidden
 aspects serve more or less as the GM's notes; if invoked or compelled, they
 must be revealed to everyone.
 
@@ -82,12 +82,12 @@ start with slightly suspicious public aspects and then change them as the
 players catch on.
 
 > Lord Kellett is secretly a Dragon in human form. He starts with the aspect
-> **Strong as Ten Men** which indicates his incredible strength, but is poetic
+> ~~Strong as Ten Men~~ which indicates his incredible strength, but is poetic
 > enough to be overlooked.  Later, as the PCs observe him performing more and
-> more superhuman feats, his aspect changes to **No Man Could Be As Strong**,
+> more superhuman feats, his aspect changes to ~~No Man Could Be As Strong~~,
 > still indicating his strength, but hinting more directly at its hidden
 > origins. Finally, when the players discover his true nature, his aspect is
-> replaced with **Strength of a Dragon**.
+> replaced with ~~Strength of a Dragon~~.
 
 ### Fate Points
 
