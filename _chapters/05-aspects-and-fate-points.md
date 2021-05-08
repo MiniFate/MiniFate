@@ -86,7 +86,7 @@ scenery (~~Sudden Snowstorm~~). The power of declaring an aspect comes from
 the fact that aspects are true and so making the aspect is just revealing a
 previously unknown piece of the story.
 
-The GM may declare aspects without paying a Fate point; narrating the in-game
+The GM may declare aspects without paying a Fate point. Narrating the in-game
 world and deciding the actions of all the NPCs is specifically the purview of
 the GM, it is only players that need to pay for the privilege.
 
