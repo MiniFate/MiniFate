@@ -81,8 +81,8 @@ motivation that should be revealed slowly. In this case, it is often best to
 start with slightly suspicious public aspects and then change them as the
 players catch on.
 
-> Lord Kellett is a Dragon using his magic to masquerade as the human general
-> of the Empire's armies. He starts with the aspect **Strong as Ten Men**
+> Lord Kellett is secretly a Dragon in human
+form. He starts with the aspect **Strong as Ten Men**
 > which indicates his incredible strength, but is poetic enough to be
 > overlooked.  Later, as the PCs observe him performing more and more
 > superhuman feats, his aspect changes to **No Man Could Be As Strong**, still
