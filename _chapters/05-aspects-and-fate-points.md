@@ -77,14 +77,17 @@ player propose a new aspect and, if the GM accepts it, they pay a Fate point
 to bring the aspect into being. Declaring an aspect does not grant any free
 invocations.
 
-Declaring an aspect can be used to establish a connection with an new NPC
-(~~The Barkeep Is From My Hometown~~) or dictate their motives (~~Traitorous
-Minon~~), give a PC an item they need but might not have on them (~~Put My
-Hair up with Lock Picks this Morning~~), impose unfortunate circumstances on
-an enemy (~~Knock-off AK-47s Jam a Lot!~~), or even change the weather or
-scenery (~~Sudden Snowstorm~~). The power of declaring an aspect comes from
-the fact that aspects are true and so making the aspect is just revealing a
-previously unknown piece of the story.
+Declaring an aspect can be used to:
+
+- Establish a connection with an new NPC (~~The Barkeep Is From My Hometown~~).
+- Dictate an NPC's motives (~~Traitorous Minon~~).
+- Give a PC an item they need but might not have on them (~~Put My Hair up with Lock Picks this Morning~~).
+- Impose unfortunate circumstances on an enemy (~~Knock-off AK-47s Jam a Lot!~~).
+- Or even change the weather or scenery (~~Sudden Snowstorm~~).
+
+The power of declaring an aspect comes from the fact that aspects are always
+true and so making the aspect is just revealing a previously unknown piece of
+the story.
 
 The GM may declare aspects without paying a Fate point. Narrating the in-game
 world and deciding the actions of all the NPCs is specifically the purview of
