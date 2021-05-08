@@ -10,11 +10,11 @@ the game, allowing what makes a good story to drive what happens when the dice
 are rolled. Aspects are how the players and the GM come to an agreed upon
 understanding of the characters, the setting, and the current scene.
 
-Some aspects are attached to characters, allowing the player or GM to
-express in their own words what makes the character unique and interesting.
-Other aspects refer to the world around the characters, or the story taking
-place in it. An aspect can be a detail within the current scene, a summary of
-the overarching plot arc, or literally any other phrase that the players or GM
+Some aspects are attached to characters, allowing the player or GM to express
+in their own words what makes the character unique and interesting. Other
+aspects refer to the world around the characters, or the story taking place in
+it. An aspect can be a detail within the current scene, a summary of the
+overarching plot arc, or literally any other phrase that the players or GM
 find pertinent.
 
 Aspects have three roles, each of which is crucial to the game:
@@ -26,8 +26,8 @@ Aspects have three roles, each of which is crucial to the game:
   their `Shoot` attack will probably take the form of a conjured fireball and
   they would be absolutely helpless if asked to pick up a crossbow.
 - **Aspects can be invoked for a bonus on a roll**: If the dice say that
-  ~~Sherwood's Greatest Archer~~ is about to miss a tough shot, the
-  player can spend a fate point to get a bonus on the roll.
+  ~~Sherwood's Greatest Archer~~ is about to miss a tough shot, the player can
+  spend a fate point to get a bonus on the roll.
 - **Aspects can be compelled to create engaging plot twists**: Twists and
   turns make an engaging story; MiniFate encourages plot twists by
   compensating players when the narrative turns against them. This helps to
@@ -92,15 +92,15 @@ players catch on.
 ### Fate Points
 
 Fate Points are a currency that can be spent to assert narrative control over
-the game. Each player has a pool of fate points to spend from, as does the
-GM. Players start each session with a number of Fate Points equal to their
-PC's Refresh; additional Fate Points are earned by accepting compels during
-the session.
+the game. Each player has a pool of fate points to spend from, as does the GM.
+Players start each session with a number of Fate Points equal to their PC's
+Refresh; additional Fate Points are earned by accepting compels during the
+session.
 
-The GM starts each scene with one fate point for each PC in
-the scene. Additionally, there is an unlimited pool of Fate Points that the
-players and GM return their Fate Points to when they spend them, and from
-which the GM pays players Fate Points for compels.
+The GM starts each scene with one fate point for each PC in the scene.
+Additionally, there is an unlimited pool of Fate Points that the players and
+GM return their Fate Points to when they spend them, and from which the GM
+pays players Fate Points for compels.
 
 #### Declaring Aspects
 
@@ -111,10 +111,13 @@ invocations.
 
 Declaring an aspect can be used to:
 
-- Establish a connection with an new NPC (~~The Barkeep Is From My Hometown~~).
+- Establish a connection with an new NPC (~~The Barkeep Is From My
+  Hometown~~).
 - Dictate an NPC's motives (~~Traitorous Minon~~).
-- Give a PC an item they need but might not have on them (~~Put My Hair up with Lock Picks this Morning~~).
-- Impose unfortunate circumstances on an enemy (~~Knock-off AK-47s Jam a Lot!~~).
+- Give a PC an item they need but might not have on them (~~Put My Hair up
+  with Lock Picks this Morning~~).
+- Impose unfortunate circumstances on an enemy (~~Knock-off AK-47s Jam a
+  Lot!~~).
 - Or even change the weather or scenery (~~Sudden Snowstorm~~).
 
 The power of declaring an aspect comes from the fact that aspects are always
@@ -159,8 +162,8 @@ agreement can be reached, neither player may invoke it.
 
 > The _Angry Pig_ has been impounded for failure to pay import taxes. Tor
 > Byorn is trying to convince the officials to let it go in exchange for a
-> future payment. After rolling his `Persuasion` against their `Insight`,
-> the margin is -1, failure.
+> future payment. After rolling his `Persuasion` against their `Insight`, the
+> margin is -1, failure.
 >
 > Tor Byorn's player holds up one of the poker chips the group uses for fate
 > points and says "As you know, I have ~~Lost My Boat in a Game of Cards~~
@@ -189,7 +192,7 @@ The GM can compel a character aspects:
 > missing artifact and have stopped to discus what to do with the large safe
 > they found. While they talk, the GM turns to Naka's player, holds up a Fate
 > Point, and says, "Naka, I am pretty sure you have ~~Never met a problem your
-> magic couldn't ignite~~! Just melt the safe. What's the worst that could 
+> magic couldn't ignite~~! Just melt the safe. What's the worst that could
 > happen?"
 >
 > Naka's player smiles and accepts the Fate point, so the GM narrates the
