@@ -81,14 +81,13 @@ motivation that should be revealed slowly. In this case, it is often best to
 start with slightly suspicious public aspects and then change them as the
 players catch on.
 
-> Lord Kellett is secretly a Dragon in human
-form. He starts with the aspect **Strong as Ten Men**
-> which indicates his incredible strength, but is poetic enough to be
-> overlooked.  Later, as the PCs observe him performing more and more
-> superhuman feats, his aspect changes to **No Man Could Be As Strong**, still
-> indicating his strength, but hinting more directly at its hidden origins.
-> Finally, when the players discover his true nature, his aspect is replaced
-> with **Strength of a Dragon**.
+> Lord Kellett is secretly a Dragon in human form. He starts with the aspect
+> **Strong as Ten Men** which indicates his incredible strength, but is poetic
+> enough to be overlooked.  Later, as the PCs observe him performing more and
+> more superhuman feats, his aspect changes to **No Man Could Be As Strong**,
+> still indicating his strength, but hinting more directly at its hidden
+> origins. Finally, when the players discover his true nature, his aspect is
+> replaced with **Strength of a Dragon**.
 
 ### Fate Points
 
