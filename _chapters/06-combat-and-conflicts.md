@@ -49,13 +49,13 @@ character can move or act over a zone boundary.
 > zones on the board: The _Angry Pig_, the sky, and the outpost. The sky has
 > the aspect ~~A Very Long Way Down~~.
 >
-> Tor Byorn is stuck on the _Angry Pig_, unable to bring his hammer to bear on
-> the canons poking holes in his ship since he can't cross the sky. Tor
-> Byorn's player decides the Dwarf has had enough enough and roles `Agility`
-> to create the aspect ~~Flying Leap~~ which gives him the ability to cross
-> the intervening zones. If the Dwarf rolls well his aspect will allow him to
-> jump the gap between the ship and outpost, if he rolls poorly... Well, it is
-> a very long way down.
+> Tor Byorn is stuck on the _Angry Pig_, unable to bring his axe to bear on
+> the canons poking holes in his ship since the sky's aspect indicates that he
+> can't cross the zone. Tor Byorn's player decides the Dwarf has had enough
+> enough and roles `Agility` to create the aspect ~~Flying Leap~~ which gives
+> him the ability to cross the intervening zones. If the Dwarf's rolls
+> succeeds, his aspect will allow him to jump the gap between the ship and
+> outpost, if he rolls poorly... Well, it is a very long way down.
 
 {% comment %} TODO: Do you create an aspect, or just role to move? Aspect
 seems cleaner. {% endcomment %}
@@ -68,8 +68,8 @@ encounter. That group decides which of their characters will act first.
 
 When that character has acted, their player picks a character---on either side
 of the conflict---to go next. Players continue picking characters until each
-one has acted. Then the last player to go picks the character to go first in
-the next round, which may include themselves.
+one has acted. The last player to go picks the character to go first in the
+next round, which may include themselves.
 
 ### Challenges
 
