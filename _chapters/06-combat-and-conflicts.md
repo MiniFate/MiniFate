@@ -93,6 +93,8 @@ task to determine the outcome of the challenge. Some tasks will likely fail,
 but this doesn't mean the challenge failed. Instead use those failures to
 flavor the outcome, adding interesting twists to the outcome.
 
+> TODO: Come up with an example.
+
 ### Contests
 
 ### Conflict
