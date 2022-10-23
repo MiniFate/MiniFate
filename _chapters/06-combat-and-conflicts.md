@@ -49,7 +49,7 @@ flavor the outcome, adding interesting twists to the outcome.
 > attempting to use) in the air and storms back up to the main deck.
 >
 > Meanwhile Tor Byorn has been getting ready to "help" Naka decipher the book
-> by gather _every other written work on the boat_ into a big pile. He rolled
+> by gathering _every other written work on the boat_ into a big pile. He rolled
 > `Network` (+1) to create the aspect ~~Big Pile of study material~~ with a
 > free invocation for Naka.
 > 
