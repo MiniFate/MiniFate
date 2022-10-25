@@ -5,8 +5,9 @@
 
 Robin Hood is a beloved outlaw, skilled with both sword and bow.
 He leads a band of Merry Men against the tyrannical Sheriff of Nottingham.
+He's loyal to King Richard in the face of the usurper Prince John.
 And he's in love with Maid Marian.
-With just those three sentences, we're ready for a story.
+With just those few sentences, we're ready to tell a story.
 Everything else --- where he's from, what he carries, when the story is set --- can wait until it becomes important.
 
 {gameName} is a role-playing game that takes that same theatricality to heart.
@@ -14,19 +15,23 @@ Players get to decide what sort of story they're telling, and what details matte
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
 
-
-
-
 The core mechanic of {gameName} is Aspects: short improvised phrases about the in-game world.
-
-
-
-
-
 
 ## Game Materials
 
-## Special Thanks
+## Acknowledgements
+
+
+Bryan Fowler,
+Andy Julin,
+Andy Pokel,
+Roxanne Radpour,
+Allan Straub,
+Alan Wu,
+and
+Jan Zirnstein.
+
+Call out Evil Hat here too?
 
 # Your First Session
 
