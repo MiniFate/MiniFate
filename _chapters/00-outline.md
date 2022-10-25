@@ -10,7 +10,7 @@ He leads a band of Merry Men against the tyrannical Sheriff of Nottingham.
 He's loyal to King Richard in the face of the usurper Prince John.
 And he's in love with Maid Marian.
 With just those few sentences, we're ready to tell a story.
-Everything else --- where he's from, what he carries, when the story is set --- can wait until it becomes important.
+Everything else --- where he's from, what he carries, and the state of the world --- can wait until it becomes important.
 
 {gameName} is a role-playing game that takes that same theatricality to heart.
 Players get to decide what sort of story they're telling, and what details matter.
@@ -37,17 +37,14 @@ Jan Zirnstein.
 
 Call out Evil Hat here too?
 
-# Your First Session
-
-It's ok to spend a whole evening figuring out what kind of game you want to play.
-You're still doing creative and fun things!
+# Getting Started
 
 ## Core Concept: Aspects
 
 could alternatively see this in the intro?
 definitely want to hit it in a dedicated section, rather than tack it onto world building or character creation
 
-## Genre & Conflict
+## World Building
 
 ## Character Creation
 
@@ -57,32 +54,42 @@ declare the rest (stress, consequences, refresh?) but define them later
 
 ## Non-Player Characters
 
-# How To Play
+Like a PC, but can have as many aspects as you want (or as few) and at whatever numbers you want.
+Mobs.
+
+# How to Play
 
 ## Setting the Scene
 
-## Rolls, Stress, and Consequences
+## Rolling the Dice
 
-I think this is two sections.
-It's too much to be one due to combat.
-Not sure yet how to break it up though.
+## Fate Points
 
-## Compels and Invocations
+Compel and invoke
 
-# Advanced Rules
+# Conflicts
 
-Other possible names for this chapter:
-- Tips & Tricks
-- Optional Rules
-- Appendix
+Pretty much the same as roleplaying, but:
+- Different pacing due to lots of rolls
+- Map, optionally, depending on the situation
+- Worrying about stress and consequences
 
-## Character Advancement
+Note: "conflict" is pretty broad.
+It can be anything where the party is up against opponents
+It can be a negotiation.
+It can be a race.
+It can be anything where these mechanics feel right.
 
-Add a new aspect after every story arc.
-Bump the rest up.
-Linear, not pyramid.
+## Stress and Consequences
 
-## Combat with a Map
+you get a fate point for taking a consequence?
+recovery fits here too
+
+## Drawing a Map
+
+Probably the top priority section for diagrams!
+
+# Appendix
 
 ## Mages, Mechs, and Mercs
 
@@ -91,7 +98,14 @@ Aspect-based narration.
 Skills were actually the thing that made this weird.
 With just aspects, you can roll for whatever makes sense
 
+## Character Advancement
 
+Add a new aspect after every story arc.
+Bump the rest up.
+Linear, not pyramid.
+Unclear if this is a core rule or not
+
+## Other Things?
 
 
 [fate_core]: https://www.evilhat.com/home/fate-core/
