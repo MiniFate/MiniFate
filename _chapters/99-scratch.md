@@ -3,7 +3,30 @@
 
 # Introduction
 
+Robin Hood is a beloved outlaw, skilled with both sword and bow.
+He leads a band of Merry Men against the tyrannical Sheriff of Nottingham.
+And he's in love with Maid Marian.
+With just those three sentences, we're ready for a story.
+Everything else --- where he's from, what he carries, when the story is set --- can wait until it becomes important.
+
+{gameName} is a role-playing game that takes that same theatricality to heart.
+Players get to decide what sort of story they're telling, and what details matter.
+Everything else is allowed to slide.
+The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
+
+
+
+
+The core mechanic of {gameName} is Aspects: short improvised phrases about the in-game world.
+
+
+
+
+
+
 ## Game Materials
+
+## Special Thanks
 
 # Your First Session
 
