@@ -17,7 +17,7 @@ Players get to decide what sort of story they're telling, and what details matte
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
 
-The core mechanic of {gameName} is Aspects: short improvised phrases about the in-game world.
+The core mechanic of {GameName} is Aspects: short improvised phrases about the in-game world.
 
 ## Game Materials
 
