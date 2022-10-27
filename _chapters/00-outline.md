@@ -12,12 +12,12 @@ And he's in love with Maid Marian.
 With just those few sentences, we're ready to tell a story.
 Everything else --- where he's from, what he carries, and the state of the world --- can wait until it becomes important.
 
-{gameName} is a role-playing game that takes that same theatricality to heart.
+{GameName} is a role-playing game that takes that same theatricality to heart.
 Players get to decide what sort of story they're telling, and what details matter.
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
 
-The core mechanic of {gameName} is Aspects: short improvised phrases about the in-game world.
+The core mechanic of {GameName} is Aspects: short improvised phrases about the in-game world.
 
 ## Game Materials
 
