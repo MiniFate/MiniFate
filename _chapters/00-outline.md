@@ -35,14 +35,18 @@ Evelyn Wu,
 and
 Jan Zirnstein.
 
-Call out Evil Hat here too?
+TODO: Call out Evil Hat here too
 
 # Getting Started
 
-## Core Concept: Aspects
+Not 100% sure about where to introduce aspects, but I think the flow here makes sense:
 
-could alternatively see this in the intro?
-definitely want to hit it in a dedicated section, rather than tack it onto world building or character creation
+- OK, want to get started? Great! Here we go!
+- The most important thing is aspects! They power everything.
+- You use aspects to build your world.
+- You use aspects to build your character.
+
+## Core Concept: Aspects
 
 ## World Building
 
