@@ -49,7 +49,8 @@ That is, the player decides which NPCs to attack and which to barter with.
 The dice show whether a sword strikes home or a lie rings true.
 This dichotomy gives each PC quantitative strengths and weaknesses while still allowing players the freedom to play their PCs however they like.
 
-{GameName} is a social game. As such, the most important element is communication.
+{GameName} is a social game.
+As such, the most important element is communication.
 The players and the GM are not opponents (even though the PCs and NPCs may well be enemies).
 Everyone has the same goals: having a good time while telling an engaging story.
 If anyone is unsatisfied in either respect, play should be put on hold to talk it out.
