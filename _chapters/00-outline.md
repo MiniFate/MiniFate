@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include macros.html %}
+
 > NOTE: this outline is for dev work only. the final product will have an auto-generated TOC if any
 
 # Introduction
@@ -27,7 +29,7 @@ Fate dice (sometimes called Fudge dice) are six-sided dice marked with {{pos}} o
 To keep things moving quickly, it's best to have a set of four dice for each player rather than passing them back and forth.
 If you don't have specially marked Fate dice, you can use a normal six-side die and treat 1 and 2 as <span class="nowrap">{{neg}},</span> 3 and 4 as <span class="nowrap">{{zero}},</span> and 5 and 6 as <span class="nowrap">{{pos}}.</span>
 
-Finally, you'll need a way to keep track of fate points.
+You'll also need a way to keep track of fate points.
 The best way is to have something physical to pass back and forth---poker chips are excellent for this---but you can track them by just making a mark on your character sheet as well.
 In a pinch, you could even use polyhedral dice since you won't otherwise need them in {GameName}.
 
