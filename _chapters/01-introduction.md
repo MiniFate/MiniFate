@@ -27,36 +27,33 @@ constructive ways.
 
 ### Roleplaying with {GameName}
 
-{GameName} is played with one gamemaster (_GM_) and one or more _players_. Each
-player takes on the role of a player character (_PC_) which they create as the
-game begins. The GM plays the rest of the world around the PCs, including its
-cast of non-player characters (_NPCs_), which could be anything from friendly
-space pirates to rival adventurers to hideous dungeon monsters.
+{GameName} is played with one gamemaster (GM) and one or more players.
+Each player takes on the role of a player character (PC) which they create as the
+game begins.
+The GM plays the rest of the world around the PCs, including its cast of non-player characters (NPCs), which could be anything from friendly space pirates to rival adventurers to hideous dungeon monsters.
 
-The GM generally opens each scene with a quick description. Play proceeds
-conversationally from there as the players and GM improvise back and forth.
-Players speak as their PCs and describe their actions while the GM illustrates
-how the world responds.
+The players and the GM work together to tell stories about the adventures of the PCs.
+They could tell an action story, where the PCs hack away at bloodthirsty monsters in defense of civilization.
+Or it could be a story of exploration, where the PCs venture into deep space in search of a new home.
+It could even be a tale of political intrigue, where PCs build influence through secrets and scandals.
 
-{% comment %} I want to include this out of character part, and I'd like to wrap it in
-with "You can use questions to define the world..." But I don't have the right
-way to do it yet.
+Stories play out scene-by-scene.
+The GM generally opens each scene with a quick description.
+Play proceeds conversationally from there as the players and GM improvise back and forth.
+Players speak as their PCs and describe their actions while the GM illustrates how the world responds.
+Players may also ask the GM for further details to help them immerse themselves in the PCs' surroundings.
 
-> Players can also ask questions of the GM or other players about the world
->
-> Players may also ask the GM for specific details to help them immerse themselves in the PCs' surroundings.
+Play is punctuated by die rolls, which mediate the divide between player and PC.
+PC choices are made by the players, while the success of PC actions is judged by dice.
+That is, the player decides which NPCs to attack and which to barter with.
+The dice show whether a sword strikes home or a lie rings true.
+This dichotomy gives each PC quantitative strengths and weaknesses while still allowing players the freedom to play their PCs however they like.
 
-{% endcomment %}
-
-From time to time, players will encounter a situation where a PC's failure
-adds an interesting twist to the story. That's where the dice come in. Dice
-rolls mediate the divide between player and PC; PC choices are made by the
-players while the outcome of PC actions are judged by dice.
-
-{GameName} is a social game. As such, the most important element is
-communication. The players and the GM are not opponents (even though the PCs
-and NPCs may well be enemies). Everyone has the same goals: having a good time
-while telling an engaging story.
+{GameName} is a social game.
+As such, the most important element is communication.
+The players and the GM are not opponents (even though the PCs and NPCs may well be enemies).
+Everyone has the same goals: having a good time while telling an engaging story.
+If anyone is unsatisfied in either respect, play should be put on hold to talk it out.
 
 ### Game Materials
 
