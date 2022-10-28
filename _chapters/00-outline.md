@@ -21,10 +21,10 @@ The core mechanic of {GameName} is Aspects: short improvised phrases about the i
 
 ## Game Materials
 
-{GameName} doesn't require a lot to get started: just pens to write with, paper to record your character on, a set of Fate dice, and some tokens to represent _Fate Points_.
+{GameName} doesn't require a lot to get started: just pens to write with, paper to record your character on, a set of four Fate dice, and some tokens to represent _Fate Points_.
 
 Fate dice (sometimes called Fudge dice) are six-sided dice marked with {{pos}} on two sides, {{zero}} on two sides, and {{neg}} on two sides.
-To keep things moving quickly, it's best to have a set of dice for each player rather than passing them back and forth.
+To keep things moving quickly, it's best to have a set of four dice for each player rather than passing them back and forth.
 If you don't have specially marked Fate dice, you can use a normal six-side die and treat 1 and 2 as <span class="nowrap">{{neg}},</span> 3 and 4 as <span class="nowrap">{{zero}},</span> and 5 and 6 as <span class="nowrap">{{pos}}.</span>
 
 Finally, you'll need a way to keep track of fate points.
