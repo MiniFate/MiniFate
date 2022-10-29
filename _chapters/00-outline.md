@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include macros.html %}
+
 > NOTE: this outline is for dev work only. the final product will have an auto-generated TOC if any
 
 # Introduction
@@ -21,8 +23,25 @@ The core mechanic of {GameName} is Aspects: short improvised phrases about the i
 
 ## Game Materials
 
-poker chips, dice, paper.
-keep it concise
+{GameName} doesn't require a lot to get started:
+just pens to write with,
+paper to record your character on,
+a set of four Fate dice,
+and some tokens to represent Fate Points.
+
+Fate dice (sometimes called Fudge dice) are six-sided dice.
+They are marked with {{pos}} on two sides, {{zero}} on two sides, and {{neg}} on two sides.
+To keep things moving quickly, it's best to have a set of four dice for each player.
+If you don't have specially marked Fate dice, you can use normal six-side dice as follows:
+
+| D6 Roll  | Fate Roll |
+|:--------:|:---------:|
+| 1 or 2   | {{neg}}   |
+| 3 or 4   | {{zero}}  |
+| 5 or 6   | {{pos}}   |
+
+You'll also need a way to keep track of fate points for each player. 
+Poker chips are perfect for this, but in a pinch you can just mark them down with pencil and paper.
 
 ## Acknowledgements
 

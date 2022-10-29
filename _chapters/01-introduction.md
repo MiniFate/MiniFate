@@ -57,9 +57,7 @@ If anyone is unsatisfied in either respect, play should be put on hold to talk i
 
 ### Game Materials
 
-{GameName} doesn't require a lot to get started: pens to write with and paper to
-record your character on, a set of Fate dice, and some tokens to represent
-_Fate Points_.
+<!-- Ripped out some here-->
 
 Each player needs a character sheet. That's where they'll write down their
 PC's skills and aspects, as well as any stress and consequences they pick up
@@ -69,18 +67,3 @@ become. A [sample character sheet][pc_sheet] is included at the end of these
 rules, but a plain piece of paper (or even a notecard) works fine in a pinch.
 
 [pc_sheet]: TODO
-
-Fate dice (sometimes called Fudge dice) are six-sided dice marked with {{pos}}
-on two sides, {{zero}} on two sides, and {{neg}} on two sides. Each roll uses
-four dice. To keep things moving quickly, it's best to have a set of dice for
-each player rather than passing them back and forth. If you don't have
-specially marked Fate dice, you can use a normal six-side die and treat 1 and
-2 as <span class="nowrap">{{neg}},</span> 3 and 4 as <span
-class="nowrap">{{zero}},</span> and 5 and 6 as <span
-class="nowrap">{{pos}}.</span>
-
-Finally, you'll need a way to keep track of fate points. The best way is to
-have something physical to pass back and forth---poker chips are excellent for
-this---but you can track them by just making a mark on your character sheet as
-well. In a pinch, you could even use polyhedral dice since you won't need them
-in {GameName}.
