@@ -45,6 +45,7 @@ Poker chips are perfect for this, but in a pinch you can just mark them down wit
 
 ## Acknowledgements
 
+Thanks to
 Bryan Fowler,
 Andy Julin,
 Andy Pokel,
@@ -53,6 +54,8 @@ Allan Straub,
 Evelyn Wu,
 and
 Jan Zirnstein.
+
+We were fortunate enough to have you help us playtest {GameName}; we could not have made it without you.
 
 TODO: Call out Evil Hat here too
 
