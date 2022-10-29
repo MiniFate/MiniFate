@@ -27,7 +27,7 @@ The core mechanic of {GameName} is Aspects: short improvised phrases about the i
 just pens to write with,
 paper to record your character on,
 a set of four Fate dice,
-and some tokens to represent _Fate Points_.
+and some tokens to represent Fate Points.
 
 Fate dice (sometimes called Fudge dice) are six-sided dice.
 They are marked with {{pos}} on two sides, {{zero}} on two sides, and {{neg}} on two sides.
