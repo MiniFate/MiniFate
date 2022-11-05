@@ -69,6 +69,23 @@ Not 100% sure about where to introduce aspects, but I think the flow here makes 
 
 ## World Building
 
+<!--
+QUESTION:
+I keep saying game, setting, world.
+Do we want one word for these? World aspects? Setting aspects?
+-->
+
+A game's setting helps players understand how their characters fit into the world.
+Aspects make sure everyone understands how 
+
+The setting of the adventure in {GameName} is described the same way as everything else: Aspects.
+
+Start with two aspects: a Genre and a Conflict.
+The genre aspect gives a sense of what, when, and where the story takes place
+The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
+As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
+
+
 ## Character Creation
 
 do this as a character sheet walkthrough
