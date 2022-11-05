@@ -86,7 +86,8 @@ The conflict aspect introduces the who and the why of the setting's biggest sour
 
 Write the aspects down somewhere everyone can see them.
 Don't worry about making them perfect; they're just a starting point.
-As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
+As the story progresses the setting may change.
+When this happens feel free to add or modify setting aspects.
 
 ## Character Creation
 
