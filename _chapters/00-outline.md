@@ -78,7 +78,7 @@ Do we want one word for these? World aspects? Setting aspects?
 A game's setting helps players understand how their characters fit into the world.
 Aspects make sure everyone understands how 
 
-The setting of the adventure in {GameName} is described the same way as everything else: Aspects.
+Just like everything else in {GameName}, the setting is defined by its aspects.
 
 Start with two aspects to describe the world: a genre and a conflict.
 The genre aspect gives a sense of what, when, and where the story takes place.
