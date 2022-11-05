@@ -80,11 +80,13 @@ Aspects make sure everyone understands how
 
 The setting of the adventure in {GameName} is described the same way as everything else: Aspects.
 
-Start with two aspects: a Genre and a Conflict.
-The genre aspect gives a sense of what, when, and where the story takes place
+Start with two aspects to describe the world: a genre and a conflict.
+The genre aspect gives a sense of what, when, and where the story takes place.
 The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
-As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
+Write the aspects down somewhere everyone can see them.
+Don't worry about making them perfect; they're just a starting point.
+As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
 ## Character Creation
 
