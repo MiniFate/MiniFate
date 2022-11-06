@@ -76,7 +76,7 @@ Do we want one word for these? World aspects? Setting aspects?
 -->
 
 A game's setting helps players understand how their characters fit into the world.
-Aspects make sure everyone understands how 
+Aspects make sure everyone is on the same page.
 
 
 Just like everything else in {GameName}, the setting is defined by its aspects.
