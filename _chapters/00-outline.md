@@ -39,7 +39,7 @@ If you don't have specially marked Fate dice, you can use normal six-side dice a
 | 5 or 6   | {{pos}}   |
 
 You'll also need a way to keep track of fate points for each player.
-Poker chips are perfect for this, but in a pinch you can just mark them down with pencil and paper.
+Poker chips are perfect for this, but in a pinch you can just mark them down with pencil.
 
 ## Acknowledgements
 
@@ -65,16 +65,7 @@ And {D}, thinking back to the childhood movie, is looking forward to the talking
 
 <!-- passive voice or not? probably go through and make this consistent at the end -->
 Before starting the game, everyone needs to be on the same page.
-In {GameName}, that's done using aspects.
-
-
-
-And {GameName} provides a tool to help: aspects.
-
-
-
-The core mechanic of {GameName} is Aspects: short improvised phrases about the in-game world.
-
+{GameName} provides a powerful tool for that: aspects.
 
 <!--
 Can Robin Hood be our example characters?
@@ -92,6 +83,27 @@ Easy to keep track of so we can introduce them once, use player and PC names as 
 -->
 
 ## Core Concept: Aspects
+
+<!-- better to write rough notes than nothing! -->
+
+An aspect is a short, improvised phrase about the in-game world.
+Aspects draw emphasis, just like music or lighting in a movie.
+They show what's important.
+They frame important things.
+
+Aspects are true.
+You can rewrite an aspect if it makes sense to do so.
+If an aspect no longer makes sense, erase it.
+
+the way you write an aspect matters.
+A duel can be scary or sad or sexy.
+
+Do we also introduce fate points here?
+Maybe mention in passing, or maybe not at all.
+
+Aspects can also provide bonuses on rolls.
+More on this later.
+It all comes down to (1) what makes sense, (2) what's important to the players
 
 ## World Building
 
