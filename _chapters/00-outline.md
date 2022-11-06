@@ -90,9 +90,28 @@ As the story progresses the setting may change; when this happens feel free to a
 
 ## Character Creation
 
-do this as a character sheet walkthrough
-discuss concept and trouble, since you set those right away
-declare the rest (stress, consequences, refresh?) but define them later
+Player characters (PCs) are mechanically simple but narratively diverse.
+To start each PC has two aspects: their concept and their trouble.
+
+A PC's concept aspect answers the question "Who are you playing?"
+It describes what makes the PC a unique, exciting character.
+Some example concepts are:
+~~Rightful King Hiding in the Wild~~,
+~~Loner Hacker Who Knows The World Is Not What It Seems~~,
+or ~~Backwater Farm Boy Looking to Join The Academy~~.
+
+A PC's trouble aspect describes the sort of things that get in the PC's way and make their story interesting.
+It does not need to be the most likely thing to cause the PC trouble.
+It is a good way for the player to indicate what sort of problems they would find interesting to deal with.
+
+Some example troubles are:
+~~I Don't Know Which Side I'm On~~,
+~~Everyone I Get Close To Ends Up In Trouble~~,
+or ~~My Past Is A Dangerous Mystery; Even to Me~~.
+
+Neither PC aspect is entirely good or entirely bad.
+The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
+Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
 
 ## Non-Player Characters
 
