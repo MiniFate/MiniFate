@@ -56,10 +56,10 @@ TODO: Call out Evil Hat here too
 
 # Getting Started
 
-Before your first session, the group decides they want to play "a story about Robin Hood".
+Before your first session, the group decides they want their game to be "steampunk Robin Hood".
 As it turns out, that can mean a bunch of different things. <!-- lose this line? -->
-To {A}, that means a swashbuckling adventure with castles, knights, and damsels in distress.
-{B} is picturing something gritty; warriors return from the Crusades to find that England no longer feels like home.
+To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
+{B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
 {C} doesn't much care about the setting, as long as she can play as a wizard.
 And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
 
