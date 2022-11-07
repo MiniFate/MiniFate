@@ -88,6 +88,19 @@ Write the aspects down somewhere everyone can see them.
 Don't worry about making them perfect as they're just a starting point.
 As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
+> Our players know they want to play a "steampunk Robin Hood" game, but that means something different to each of them.
+> They start out with the genre aspect ~~Kind Outlaws in Steampunk England~~ but each player still has a different idea of what that means.
+> To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
+> {B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
+> {C} doesn't much care about the setting, as long as she can play as a wizard.
+> And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
+> After some more discussion about the setting they would like to play in they settle on:
+> ~~Weary soldiers return to find a steam a magic revolution has changed England~~
+>
+> TODO: ~~Robbing from the rich and giving to the poor isn't as easy as it sounds~~
+> ~~Rich vs poor doesn't matter when there is magic~~
+> ~~Something something sheriff~~
+
 ## Character Creation
 
 Player characters (PCs) are mechanically simple but narratively diverse.
