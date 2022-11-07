@@ -79,7 +79,7 @@ A game's setting helps players understand how their characters fit into the worl
 Aspects make sure everyone is on the same page.
 
 
-Just like everything else in {GameName}, the setting is defined by its aspects.
+The setting is {GameName} is given aspects just like everything else narratively important.
 Start with two aspects to describe the world: a genre and a conflict.
 The genre aspect gives a sense of what, when, and where the story takes place.
 The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
