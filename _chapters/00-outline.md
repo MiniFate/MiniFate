@@ -41,6 +41,23 @@ If you don't have specially marked Fate dice, you can use normal six-side dice a
 You'll also need a way to keep track of fate points for each player.
 Poker chips are perfect for this, but in a pinch you can just mark them down with pencil.
 
+## PCs, NPCs, and the GM
+
+<!-- not sure if this goes here or in "getting started", but probably does make sense to have it be its own section -->
+
+{GameName} needs at least two people.
+Three to six is best.
+One person is the GM (game master).
+Everyone else is a player.
+Each player takes on the role of a player character (PC).
+The GM controls the rest of the world, including the cast of non-player characters (NPCs).
+
+> Rowan plays Robin Hood
+> Morgan plays Maid Marian
+> Lee/Jordan plays Little John
+> Frankie/Taylor plays Friar Tuck
+> Gabby is the GM
+
 ## Acknowledgements
 
 Bryan Fowler,
