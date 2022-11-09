@@ -12,6 +12,19 @@ On the last page you'll find a [character sheet][pc_sheet] to record your PC.
 
 ### Concept
 
+<<<<<<< HEAD
+=======
+Your Concept answers the question "Who are you playing?" It is an aspect that
+describes broadly who the PC is and why they are unique, exciting characters.
+Your PC's concept considered alongside the setting aspects should give a good
+idea of who they are and how they'll play.
+
+Some example Concepts are: ~~Rightful King Hiding in the Wild~~, ~~Loner
+Hacker Who Knows The World Is Not What It Seems~~, or ~~Backwater Farm Boy
+Looking to Join The Academy~~.
+
+
+>>>>>>> dd97540 (spitballing)
 ### Trouble
 
 ### Skills
@@ -25,7 +38,7 @@ world. PCs begin with one skill at rank +2, and two skills at rank +1.
 | `Fight`       | Engaging in armed and unarmed melee combat                          |
 | `Insight`     | Searching, tracking, finding, noticing, knowing                     |
 | `Network`     | Knowing people, having access to things, having items on you        |
-| `Performance` | Lying, singing, dancing, disguising                                 | 
+| `Performance` | Lying, singing, dancing, disguising                                 |
 | `Persuasion`  | Negotiating, bargaining, flattering, empathizing                    |
 | `Physique`    | Lifting, smashing, resisting poison and exposure                    |
 | `Shoot`       | Attacking with ranged and thrown weapons                            |
