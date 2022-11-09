@@ -30,7 +30,7 @@ $tango-dark-grey:  hsl( 90,   2%, 33%);
 }
 
 // Body font size
-$text-base-size: 1rem;
+$text-base-size: 1.2rem;
 
 // Type Scale
 // Note: pow(..., 0) is just $text-base-size, which is already defined
@@ -120,6 +120,8 @@ table.key-def {
 
 // Other tables
 table {
+  margin-right: auto;
+  margin-left: auto;
   font-size: 1em;
   font-variant-numeric: lining-nums tabular-nums;
   border-collapse: collapse;
@@ -207,11 +209,11 @@ h1:hover .anchor-link-img, h2:hover .anchor-link-img, h3:hover .anchor-link-img,
 // Use dash for bullets
 ul {
   list-style-type: none;
-  padding-left: 3em;  
+  padding-left: 3em;
 }
 
-ul > li:before { 
-  content: "—"; /* em dash */ 
-  position: absolute; 
-  margin-left: -1.5em; 
-} 
+ul > li:before {
+  content: "—"; /* em dash */
+  position: absolute;
+  margin-left: -1.5em;
+}
