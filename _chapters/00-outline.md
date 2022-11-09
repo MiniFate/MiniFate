@@ -25,13 +25,9 @@ To play {GameName}, you need one GM (game master) and at least two players.
 Each player takes on the role of a PC (player character).
 The GM is responsible for the world around the PCs, including its cast of NPCs (non-player characters).
 
-
-
-> Rowan plays Robin Hood
-> Morgan plays Maid Marian
-> Lee/Jordan plays Little John
-> Frankie/Taylor plays Friar Tuck
-> Gabby is the GM
+The GM and PCs are not opponents, even though the PCs and NPCs will often be enemies.
+Play is collaborative.
+Everyone at the table has the same goal: telling a good story and having a good time.
 
 ## What You Need
 
@@ -82,22 +78,18 @@ Before starting the game, everyone needs to be on the same page.
 {GameName} provides a powerful tool for that: aspects.
 
 <!--
-Can Robin Hood be our example characters?
-Really nice to be able to lean on pop culture.
-Fantasy setting is easy enough, with or without magic.
-English legend has Merlin, Lady of the Lake.
-There was a Frank Sinatra gangster movie sorta about Robin Hood.
-Steampunk/cyberpunk/space Robin Hood? Would that be too much?
--->
-
-<!--
 Alliterative player and PC names?
 Easy to keep track of so we can introduce them once, use player and PC names as convenient.
+
+Rowan plays Robin Hood
+Morgan plays Maid Marian
+Lee/Jordan plays Little John
+Frankie/Taylor plays Friar Tuck
+Gabby is the GM
 -->
 
-## Core Concept: Aspects
 
-<!-- better to write rough notes than nothing! -->
+## Core Concept: Aspects
 
 An aspect is a short, improvised phrase about the in-game world.
 Aspects draw emphasis, just like music or lighting in a movie.
@@ -110,6 +102,35 @@ If an aspect no longer makes sense, erase it.
 
 the way you write an aspect matters.
 A duel can be scary or sad or sexy.
+
+Aspects can lean on pop culture.
+
+Anything important can be an aspect.
+Characters have aspects.
+The setting has aspects.
+Scenes have aspects.
+
+
+Some examples of different ways to flavor the same general idea.
+
+Robin's concept:
+- `Veteran of the New Crusades`
+- `Beloved Bandit`
+
+
+Night:
+- `It's Quiet... Too Quiet` (ominous/tense)
+- `Deep Dark Shadows`
+
+Rain:
+- `Pissing Rain`
+- `Raining Cats and Dogs`
+- `Thunderous Downpour`
+- `Cold and Wet`
+- `Better to Stay Inside`
+- `Slick Bricks`
+
+
 
 Do we also introduce fate points here?
 Maybe mention in passing, or maybe not at all.
