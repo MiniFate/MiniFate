@@ -21,14 +21,11 @@ The result is a punchy, quick-moving game with plenty of opportunities for memor
 
 ## Who You Need
 
-<!-- not married to this ordering -->
+To play {GameName}, you need one GM (game master) and at least two players.
+Each player takes on the role of a PC (player character).
+The GM is responsible for the world around the PCs, including its cast of NPCs (non-player characters).
 
-{GameName} needs at least two people.
-Three to six is best.
-One person is the GM (game master).
-Everyone else is a player.
-Each player takes on the role of a player character (PC).
-The GM controls the rest of the world, including the cast of non-player characters (NPCs).
+
 
 > Rowan plays Robin Hood
 > Morgan plays Maid Marian
