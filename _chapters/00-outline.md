@@ -114,8 +114,10 @@ Scenes have aspects.
 Some examples of different ways to flavor the same general idea.
 
 Robin's concept:
-- `Veteran of the New Crusades`
+- `Veteran of the Tenth Crusade`
 - `Beloved Bandit`
+- `Rob from the Rich, Give to the Poor`
+
 
 
 Night:
