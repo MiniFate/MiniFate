@@ -31,6 +31,8 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 ## What You Need
 
+<!-- todo: don't start on a negative. and can we do this in two paragraphs? -->
+
 {GameName} doesn't require a lot to get started:
 just pens to write with,
 paper to record your character on,
@@ -90,6 +92,8 @@ Gabby is the GM
 
 
 ## Core Concept: Aspects
+
+Aspects are the secret sauce that makes {GameName} work.
 
 An aspect is a short, improvised phrase about the in-game world.
 Aspects draw emphasis, just like music or lighting in a movie.
