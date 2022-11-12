@@ -2,12 +2,9 @@
 ---
 ## Character Creation
 
-{% comment %} TODO: This paragraph is clunky but important. Rewrite. {% endcomment %}
-
-PCs in {GameName} are mechanically simple but narratively diverse. Starting PCs
-have of two aspects---their Concept and Trouble---and a set of skills. All PCs
-have three Stress Boxes, three Consequences, and a Refresh of two. Aspects and
-Skills are covered in depth later. {% comment %} TODO are they? {% endcomment %}
+All PCs have three Stress Boxes, three Consequences, and a Refresh of two.
+Aspects and Skills are covered in depth later.
+{% comment %} TODO are they? {% endcomment %}
 
 On the last page you'll find a [character sheet][pc_sheet] to record your PC.
 
@@ -15,44 +12,7 @@ On the last page you'll find a [character sheet][pc_sheet] to record your PC.
 
 ### Concept
 
-Your Concept answers the question "Who are you playing?" It is an aspect that
-describes broadly who the PC is and why they are unique, exciting characters.
-Your PC's concept considered alongside the setting aspects should give a good
-idea of who they are and how they'll play. 
-
-Some example Concepts are: ~~Rightful King Hiding in the Wild~~, ~~Loner
-Hacker Who Knows The World Is Not What It Seems~~, or ~~Backwater Farm Boy
-Looking to Join The Academy~~.
-
-
 ### Trouble
-
-{% comment %} TODO: It's ok (even good!) if your Concept sometimes causes you trouble. It's
-ok (even good!) if your trouble sometimes works to your benefit. The whole
-point of aspects is that they prompt the players to riff off each other in fun
-and unexpected ways.{% endcomment %}
-
-{% comment %} TODO: Can we make this POP as much as the first sentence above? {% endcomment %}
-The PC's second aspect is their Trouble; it describes the sort of things that
-get in the PC's way and make their story interesting. A PC's trouble aspect is
-a good way for the player to indicate what sort of problems they would find
-interesting to deal with.
-
-The trouble aspect should not necessarily be the thing that is most likely to
-cause the PC trouble, especially if it would be boring to deal with in game. A
-hardboiled detective might drink excessively, but ~~Can't Resist a Drink~~
-might not add much roleplaying potential, whereas ~~Soft Spot for Losers Like
-Me~~ offers the GM and other players a lot of story hooks.
-
-However, just because an aspect is your trouble doesn't mean it can't help you
-from time to time. Likewise, your concept is not purely positive and can lead
-to difficulties for the character. Aspects should be interpreted broadly;
-looking for opportunities to see them from other angles will add character
-depth and make the game more exciting.
-
-Some example Troubles are: ~~I Don't Know Which Side I'm On~~,
-~~Everyone I Get Close To Ends Up In Trouble~~, or ~~My Past Is A
-Dangerous Mystery; Even to Me~~.
 
 ### Skills
 
