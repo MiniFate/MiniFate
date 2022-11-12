@@ -30,11 +30,11 @@ Everyone else is a player.
 Each player takes on the role of a player character (PC).
 The GM controls the rest of the world, including the cast of non-player characters (NPCs).
 
-> Rowan plays Robin Hood
-> Morgan plays Maid Marian
-> Lee/Jordan plays Little John
-> Frankie/Taylor plays Friar Tuck
-> Gabby is the GM
+> {RobinPlayer} plays {RobinPC}
+> {MarianPlayer} plays {MarianPC}
+> {JohnPlayer} plays {JohnPC}
+> {TuckPlayer} plays {TuckPC}
+> {GM} is the GM
 
 ## What You Need
 
@@ -169,7 +169,7 @@ Some example concepts are:
 ~~Loner Hacker Who Knows The World Is Not What It Seems~~,
 or ~~Backwater Farm Boy Looking to Join The Academy~~.
 
-Your PC's trouble aspect describes the sort of things that get in the PC's way and make their story interesting.
+Your PC's trouble aspect describes the sort of things that get in the PC's way and gives them depth.
 The trouble aspect is a good way for the player to indicate what sort of problems they would find interesting to deal with.
 
 The trouble aspect should not necessarily be the thing that is most likely to cause the PC trouble, especially if it would be boring to deal with in game.
