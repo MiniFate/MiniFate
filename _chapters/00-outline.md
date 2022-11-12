@@ -69,27 +69,28 @@ Not 100% sure about where to introduce aspects, but I think the flow here makes 
 
 ## World Building
 
-<!--
-QUESTION:
-I keep saying game, setting, world.
-Do we want one word for these? World aspects? Setting aspects?
--->
+In {GameName}, setting creation and character creation happen together.
+It is good to have a rough idea of what type of game the players and GM want to play, but ultimately settings are defined by their characters and vice versa.
+A ~~Pirate Captain Who Hates Violence~~ in a world where ~~Magic is Suddenly Real~~ is very different than one on the ~~Blood Drenched Sands of the Caribbean~~.
 
-A game's setting helps players understand how their characters fit into the world.
-Aspects make sure everyone is on the same page.
+The game creation process should be collaborative, so it is often best to set aside the first game session in order to design the setting and the PCs together.
+A good way to structure world building is to come up with a broad definition of the setting and then build the PCs.
+This lets you use character creation to define the details of the world.
 
+## Setting Creation
 
 The setting is {GameName} is given aspects just like everything else narratively important.
 Start with two aspects to describe the world: a genre and a conflict.
 The genre aspect gives a sense of what, when, and where the story takes place.
 The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
 
-Write the aspects down somewhere everyone can see them.
-Don't worry about making them perfect as they're just a starting point.
+Write the aspects down somewhere everyone can see them, but don't worry about making them perfect as they're just a starting point.
 As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
+> TODO: Fix this section
 > Our players know they want to play a "steampunk Robin Hood" game, but that means something different to each of them.
 > They start out with the genre aspect ~~Kind Outlaws in Steampunk England~~ but each player still has a different idea of what that means.
+>
 > To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
 > {B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
 > {C} doesn't much care about the setting, as long as she can play as a wizard.
@@ -106,23 +107,26 @@ As the story progresses the setting may change; when this happens feel free to a
 Player characters (PCs) are mechanically simple but narratively diverse.
 To start each PC has two aspects: their concept and their trouble.
 
-A PC's concept aspect answers the question "Who are you playing?"
+Your PC's concept aspect answers the question "Who are you playing?"
 It describes what makes the PC a unique, exciting character.
+A character's concept alongside the setting aspects should give a good idea of who they are and how they'll play.
 Some example concepts are:
 ~~Rightful King Hiding in the Wild~~,
 ~~Loner Hacker Who Knows The World Is Not What It Seems~~,
 or ~~Backwater Farm Boy Looking to Join The Academy~~.
 
-A PC's trouble aspect describes the sort of things that get in the PC's way and make their story interesting.
-It does not need to be the most likely thing to cause the PC trouble.
-It is a good way for the player to indicate what sort of problems they would find interesting to deal with.
+Your PC's trouble aspect describes the sort of things that get in the PC's way and make their story interesting.
+The trouble aspect is a good way for the player to indicate what sort of problems they would find interesting to deal with.
+
+The trouble aspect should not necessarily be the thing that is most likely to cause the PC trouble, especially if it would be boring to deal with in game.
+A hardboiled detective might drink excessively, but ~~Can't Resist a Drink~~ might not add much roleplaying potential, whereas ~~Soft Spot for Losers Like Me~~ offers the GM and other players a lot of story hooks.
 
 Some example troubles are:
 ~~I Don't Know Which Side I'm On~~,
 ~~Everyone I Get Close To Ends Up In Trouble~~,
 or ~~My Past Is A Dangerous Mystery, Even to Me~~.
 
-Neither PC aspect is entirely good or entirely bad.
+Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
 Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
 
