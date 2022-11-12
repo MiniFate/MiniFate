@@ -120,7 +120,7 @@ It is a good way for the player to indicate what sort of problems they would fin
 Some example troubles are:
 ~~I Don't Know Which Side I'm On~~,
 ~~Everyone I Get Close To Ends Up In Trouble~~,
-or ~~My Past Is A Dangerous Mystery; Even to Me~~.
+or ~~My Past Is A Dangerous Mystery, Even to Me~~.
 
 Neither PC aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
