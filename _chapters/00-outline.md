@@ -150,7 +150,11 @@ As the story progresses the setting may change; when this happens feel free to a
 > {C} doesn't much care about the setting, as long as she can play as a wizard.
 > And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
 > After some more discussion about the setting they would like to play in they settle on:
-> ~~Weary soldiers return to find a steam a magic revolution has changed England~~
+> ~~Weary soldiers return to find a steam and magic revolution has changed England~~
+>
+> {:.key-def}
+> | Genre:    | ~~~~ |
+> | Conflict: | ~~~~ |
 >
 > TODO: ~~Robbing from the rich and giving to the poor isn't as easy as it sounds~~
 > ~~Rich vs poor doesn't matter when there is magic~~
@@ -183,6 +187,26 @@ or ~~My Past Is A Dangerous Mystery, Even to Me~~.
 Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
 Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
+
+> {RobinPlayer} is playing {RobinPC}, but one who is disillusioned after returning from the failed 10th crusade.
+> He feels like an outsider in his own country after the steam revolution and downfall of Richard the Lionhearted.
+> He wishes to return to a simpler time, at any cost.
+>
+> {RobinPlayer} chooses the following aspects to convey this:
+>
+> {:.key-def}
+> | Concept: | ~~Loyal archer to a deposed king~~ |
+> | Trouble: | ~~Steam powered changed everything expect me; I'll change it back~~ |
+>
+> {MarianPlayer}'s PC is {MarianPC}, a genius tinkerer partially responsible for ushering in the steam revolution.
+> She can fix anything and she has a gadget for every situation.
+> However, her love of building leaves her blind to character and she has built some evil devices for evil men.
+>
+> {:.key-def}
+> | Concept: | ~~The best tinkerer in Nottingham; maybe anywhere~~ |
+> | Trouble: | ~~Machines I can trust when people betray me~~ |
+>
+> {JohnPC} is playing {JohnPlayer}.
 
 ## Non-Player Characters
 
