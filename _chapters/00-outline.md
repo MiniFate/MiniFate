@@ -71,7 +71,7 @@ TODO: Call out Evil Hat here too
 Before your first session, the group decides they want their game to be "steampunk Robin Hood".
 As it turns out, that can mean a bunch of different things. <!-- lose this line? -->
 To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
-{B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
+{B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home. <!-- is dystopian steampunk allowed? or is steampunk supposed to be optimistic? -->
 {C} doesn't much care about the setting, as long as she can play as a wizard.
 And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
 
@@ -95,67 +95,12 @@ Gabby is the GM
 
 At face value, an aspect is just a short phrase written down for the whole table to see.
 
-Aspects are the secret sauce that makes {GameName} work.
-
-Mechanically, they provide bonuses on rolls --- there's a whole chapter about this later.
-They're also critical to the storytelling dynamic.
-
-Aspects are like the director's notes for a movie.
-
-marking a thing as important, and also framing HOW and WHY it's important
-implying things about the world to be fleshed out later
-
-Can be about characters, places, scenes, relationships, or even the setting overall
-
-An aspect is a short, improvised phrase about the in-game world.
-Aspects draw emphasis, just like music or lighting in a movie.
-They show what's important.
-They frame important things.
-
-Aspects are true.
-You can rewrite an aspect if it makes sense to do so.
-If an aspect no longer makes sense, erase it.
-
-the way you write an aspect matters.
-A duel can be scary or sad or sexy.
-
-Aspects can lean on pop culture.
-
-Anything important can be an aspect.
-Characters have aspects.
-The setting has aspects.
-Scenes have aspects.
-
-
-Some examples of different ways to flavor the same general idea.
-
-Robin's concept:
-- `Veteran of the Tenth Crusade`
-- `Beloved Bandit`
-- `Rob from the Rich, Give to the Poor`
-
-
-
-Night:
-- `It's Quiet... Too Quiet` (ominous/tense)
-- `Deep Dark Shadows`
-
-Rain:
-- `Pissing Rain`
-- `Raining Cats and Dogs`
-- `Thunderous Downpour`
-- `Cold and Wet`
-- `Better to Stay Inside`
-- `Slick Bricks`
-
-
-
-Do we also introduce fate points here?
-Maybe mention in passing, or maybe not at all.
-
-Aspects can also provide bonuses on rolls.
-More on this later.
-It all comes down to (1) what makes sense, (2) what's important to the players
+- aspects are short improvised phrases. can be about anything: people, places, things, relationships, scenes, overall setting.
+- aspects are true. otherwise, rewrite it or get rid of it.
+- aspects keep everyone on the same page about what's important. the focus of the scene. like lighting or music or director's notes in a movie. depending on the framing, FOOBAR can be tense or sad or sexy.
+- aspects provide scaffolding for building out the story/world. introduce things that you can come back to later: people, places, relationships, technologies. `Hunted by the Sheriff of Nottingham`, `Disheartened Veteran of the Tenth Crusade` `something flying boat something`
+- aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
+- writing good aspects. you can lean on inside jokes and pop culture.
 
 ## World Building
 
