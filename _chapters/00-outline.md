@@ -33,7 +33,7 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 
 {GameName} requires a few things to get started:
-just pens to write with,
+pens to write with,
 paper to record your character on,
 a set of four Fate dice,
 and some tokens to represent Fate Points.
