@@ -5,32 +5,7 @@
 
 ## Introduction
 
-{% comment %} TODO: Tighten this up. {% endcomment %}
-{GameName} is a roleplaying game for telling collaborative stories with your
-friends. The system is flexible and light, letting the story shine through.
-You can use it for any setting where the most important thing is the
-narrative, from spaceships in the far future, to magic in the distant past, to
-political intrigue in the present day.
-
-{GameName} is based on [_Fate Core_][fate_core] and [_Fate Accelerated_][fae] by
-Evil Hat and uses the same fundamental mechanics: skills and aspects. Skills
-are numerical bonuses applied to dice rolls, ensuring the story is exciting
-and unpredictable but not random. Aspects are short, improvised phrases to
-keep the whole group on the page about what's important to the story and to
-provide a framework for players to riff off each other in creative and
-constructive ways.
-
-[fate_core]: https://www.evilhat.com/home/fate-core/
-[fae]: https://www.evilhat.com/home/fae/
-
-{% comment %} TODO: Do we need a final sentence? {% endcomment %}
-
 ### Roleplaying with {GameName}
-
-{GameName} is played with one gamemaster (GM) and one or more players.
-Each player takes on the role of a player character (PC) which they create as the
-game begins.
-The GM plays the rest of the world around the PCs, including its cast of non-player characters (NPCs), which could be anything from friendly space pirates to rival adventurers to hideous dungeon monsters.
 
 The players and the GM work together to tell stories about the adventures of the PCs.
 They could tell an action story, where the PCs hack away at bloodthirsty monsters in defense of civilization.
@@ -48,22 +23,3 @@ PC choices are made by the players, while the success of PC actions is judged by
 That is, the player decides which NPCs to attack and which to barter with.
 The dice show whether a sword strikes home or a lie rings true.
 This dichotomy gives each PC quantitative strengths and weaknesses while still allowing players the freedom to play their PCs however they like.
-
-{GameName} is a social game.
-As such, the most important element is communication.
-The players and the GM are not opponents (even though the PCs and NPCs may well be enemies).
-Everyone has the same goals: having a good time while telling an engaging story.
-If anyone is unsatisfied in either respect, play should be put on hold to talk it out.
-
-### Game Materials
-
-<!-- Ripped out some here-->
-
-Each player needs a character sheet. That's where they'll write down their
-PC's skills and aspects, as well as any stress and consequences they pick up
-along the way. The information contained on the sheet is updated as your PC
-grows throughout the course of their adventures to reflect who they have
-become. A [sample character sheet][pc_sheet] is included at the end of these
-rules, but a plain piece of paper (or even a notecard) works fine in a pinch.
-
-[pc_sheet]: TODO

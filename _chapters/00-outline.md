@@ -21,25 +21,19 @@ The result is a punchy, quick-moving game with plenty of opportunities for memor
 
 ## Who You Need
 
-<!-- not married to this ordering -->
+To play {GameName}, you need one GM (game master) and at least two players.
+Each player takes on the role of a PC (player character).
+The GM is responsible for the world around the PCs, including its cast of NPCs (non-player characters).
 
-{GameName} needs at least two people.
-Three to six is best.
-One person is the GM (game master).
-Everyone else is a player.
-Each player takes on the role of a player character (PC).
-The GM controls the rest of the world, including the cast of non-player characters (NPCs).
-
-> Rowan plays Robin Hood
-> Morgan plays Maid Marian
-> Lee/Jordan plays Little John
-> Frankie/Taylor plays Friar Tuck
-> Gabby is the GM
+The GM and PCs are not opponents, even though the PCs and NPCs will often be enemies.
+Play is collaborative.
+Everyone at the table has the same goal: telling a good story and having a good time.
 
 ## What You Need
 
-{GameName} doesn't require a lot to get started:
-just pens to write with,
+
+{GameName} requires a few things to get started:
+pens to write with,
 paper to record your character on,
 a set of four Fate dice,
 and some tokens to represent Fate Points.
@@ -76,7 +70,7 @@ TODO: Call out Evil Hat here too
 Before your first session, the group decides they want their game to be "steampunk Robin Hood".
 As it turns out, that can mean a bunch of different things. <!-- lose this line? -->
 To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
-{B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
+{B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home. <!-- is dystopian steampunk allowed? or is steampunk supposed to be optimistic? -->
 {C} doesn't much care about the setting, as long as she can play as a wizard.
 And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
 
@@ -85,41 +79,27 @@ Before starting the game, everyone needs to be on the same page.
 {GameName} provides a powerful tool for that: aspects.
 
 <!--
-Can Robin Hood be our example characters?
-Really nice to be able to lean on pop culture.
-Fantasy setting is easy enough, with or without magic.
-English legend has Merlin, Lady of the Lake.
-There was a Frank Sinatra gangster movie sorta about Robin Hood.
-Steampunk/cyberpunk/space Robin Hood? Would that be too much?
--->
-
-<!--
 Alliterative player and PC names?
 Easy to keep track of so we can introduce them once, use player and PC names as convenient.
+
+Rowan plays Robin Hood
+Morgan plays Maid Marian
+Lee/Jordan plays Little John
+Frankie/Taylor plays Friar Tuck
+Gabby is the GM
 -->
+
 
 ## Core Concept: Aspects
 
-<!-- better to write rough notes than nothing! -->
+At face value, an aspect is just a short phrase written down for the whole table to see.
 
-An aspect is a short, improvised phrase about the in-game world.
-Aspects draw emphasis, just like music or lighting in a movie.
-They show what's important.
-They frame important things.
-
-Aspects are true.
-You can rewrite an aspect if it makes sense to do so.
-If an aspect no longer makes sense, erase it.
-
-the way you write an aspect matters.
-A duel can be scary or sad or sexy.
-
-Do we also introduce fate points here?
-Maybe mention in passing, or maybe not at all.
-
-Aspects can also provide bonuses on rolls.
-More on this later.
-It all comes down to (1) what makes sense, (2) what's important to the players
+- aspects are short improvised phrases. can be about anything: people, places, things, relationships, scenes, overall setting.
+- aspects are true. otherwise, rewrite it or get rid of it.
+- aspects keep everyone on the same page about what's important. the focus of the scene. like lighting or music or director's notes in a movie. depending on the framing, TODO FOOBAR can be tense or sad or sexy.
+- aspects provide scaffolding for building out the story/world. introduce things that you can come back to later: people, places, relationships, technologies. `Hunted by the Sheriff of Nottingham`, `Disheartened Veteran of the Tenth Crusade` `something flying boat something`
+- aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
+- writing good aspects. you can lean on inside jokes and pop culture.
 
 ## World Building
 
