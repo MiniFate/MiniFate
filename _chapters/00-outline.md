@@ -33,7 +33,7 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 <!-- todo: don't start on a negative. and can we do this in two paragraphs? -->
 
-{GameName} doesn't require a lot to get started:
+{GameName} requires a few things to get started:
 just pens to write with,
 paper to record your character on,
 a set of four Fate dice,
