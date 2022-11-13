@@ -31,7 +31,6 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 ## What You Need
 
-<!-- todo: don't start on a negative. and can we do this in two paragraphs? -->
 
 {GameName} requires a few things to get started:
 just pens to write with,
