@@ -97,7 +97,7 @@ At face value, an aspect is just a short phrase written down for the whole table
 
 - aspects are short improvised phrases. can be about anything: people, places, things, relationships, scenes, overall setting.
 - aspects are true. otherwise, rewrite it or get rid of it.
-- aspects keep everyone on the same page about what's important. the focus of the scene. like lighting or music or director's notes in a movie. depending on the framing, FOOBAR can be tense or sad or sexy.
+- aspects keep everyone on the same page about what's important. the focus of the scene. like lighting or music or director's notes in a movie. depending on the framing, TODO FOOBAR can be tense or sad or sexy.
 - aspects provide scaffolding for building out the story/world. introduce things that you can come back to later: people, places, relationships, technologies. `Hunted by the Sheriff of Nottingham`, `Disheartened Veteran of the Tenth Crusade` `something flying boat something`
 - aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
 - writing good aspects. you can lean on inside jokes and pop culture.
