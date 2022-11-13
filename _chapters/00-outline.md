@@ -93,7 +93,19 @@ Gabby is the GM
 
 ## Core Concept: Aspects
 
+At face value, an aspect is just a short phrase written down for the whole table to see.
+
 Aspects are the secret sauce that makes {GameName} work.
+
+Mechanically, they provide bonuses on rolls --- there's a whole chapter about this later.
+They're also critical to the storytelling dynamic.
+
+Aspects are like the director's notes for a movie.
+
+marking a thing as important, and also framing HOW and WHY it's important
+implying things about the world to be fleshed out later
+
+Can be about characters, places, scenes, relationships, or even the setting overall
 
 An aspect is a short, improvised phrase about the in-game world.
 Aspects draw emphasis, just like music or lighting in a movie.
