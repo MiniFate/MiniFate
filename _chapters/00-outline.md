@@ -30,12 +30,6 @@ Everyone else is a player.
 Each player takes on the role of a player character (PC).
 The GM controls the rest of the world, including the cast of non-player characters (NPCs).
 
-> {RobinPlayer} plays {RobinPC}
-> {MarianPlayer} plays {MarianPC}
-> {JohnPlayer} plays {JohnPC}
-> {TuckPlayer} plays {TuckPC}
-> {GM} is the GM
-
 ## What You Need
 
 {GameName} doesn't require a lot to get started:
@@ -217,7 +211,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Concept: | ~~The best tinkerer in Nottingham; maybe anywhere~~ |
 > | Trouble: | ~~Machines I can trust when people betray me~~ |
 >
-> {TuckPC} is playing {TuckPlayer}. 
+> {TuckPlayer} is playing {TuckPC}. 
 > Formerly a good, godfearing man, {TuckPC} has started to question his faith now that magic is seeping into the world.
 > The magic has given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
 >
