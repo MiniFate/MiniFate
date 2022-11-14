@@ -141,24 +141,34 @@ The conflict aspect introduces the who and the why of the setting's biggest sour
 Write the aspects down somewhere everyone can see them, but don't worry about making them perfect as they're just a starting point.
 As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
-> TODO: Fix this section
-> Our players know they want to play a "steampunk Robin Hood" game, but that means something different to each of them.
-> They start out with the genre aspect ~~Kind Outlaws in Steampunk England~~ but each player still has a different idea of what that means.
->
-> To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
-> {B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
-> {C} doesn't much care about the setting, as long as she can play as a wizard.
-> And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
-> After some more discussion about the setting they would like to play in they settle on:
-> ~~Weary soldiers return to find a steam and magic revolution has changed England~~
+> Our players want to adventure as "Robin Hood in steampunk England", but that means something slightly different to each of them.
+> They start by writing down two placeholder aspects while they brainstorm variations:
 >
 > {:.key-def}
-> | Genre:    | ~~~~ |
-> | Conflict: | ~~~~ |
+> | Genre:    | ~~Kind Outlaws in Steampunk England~~ |
+> | Conflict: | ~~The sheriff is working with the usurper, King John~~ |
 >
+> {RobinPlayer} wants a bit of a dark, gritter setting.
+> They propose modified aspects that hint at the sudden change society went through and the lingering political chaos:
+>
+> {:.key-def}
+> | Genre:    | ~~England's steam revolution was sudden and violent~~ |
+> | Conflict: | ~~King John used the chaos to usurp the throne~~ |
+>
+> {MarianPlayer} is fine with that, but wants to make sure the grit doesn't erase all the cool gadgets and airships!
+> {TuckPlayer} is also OK with dark and gritty, but he envisions his character as a magic user.
+> Together, the propose:
+>
+> {:.key-def}
+> | Genre:    | ~~Steam power and magic have up-ended society, but the feudal system grinds on~~ |
+> | Conflict: | ~~King John used the chaos to usurp the throne~~ |
+>
+> They propose working some magic into the 
 > TODO: ~~Robbing from the rich and giving to the poor isn't as easy as it sounds~~
 > ~~Rich vs poor doesn't matter when there is magic~~
 > ~~Something something sheriff~~
+
+Once you're happy with your setting, it's time to build the characters that will inhabit it
 
 ## Character Creation
 
