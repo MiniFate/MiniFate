@@ -86,37 +86,6 @@ take in response to the story.
 
 ### Non-Player Characters
 
-NPCs are the characters in the story that fill out the world. They're played
-by the GM and include everyone from background characters at a pirate bar, to
-marauding goblins bent on steal treasure, to the general of the empire's army
-who is more than he seems.
-
-NPCs are more free form than PCs; give them just enough aspects and skills to
-perform their role in the narrative. Recurring characters can be built exactly
-like PCs with two aspects and as many skills as needed. NPCs who are intended to
-challenge the group of PCs should have higher level skills than PCs, as
-they're competing against the entire group.
-
-Background characters show up once or twice an general serve a simple role in
-the narrative. They can generally get away with a single aspect and a skill or
-two. The bartender who makes small talk and drops a few rumors could be
-represented with ~~In Vino Veritas~~ and `Performance` or `Persuasion`. A set
-of guards keeping Tor Byron out of the royal ball might only need an aspect
-like ~~Somewhat Loyal and Underpaid Guards~~ and the skills `Fight` and
-`Persuasion` in case Tor Byorn tries to force or bribe his way in. If a
-background character suddenly becomes important to story, you can give them
-more skills and aspects to reflect their newfound narrative weight.
-
-Sometimes the story calls for a very large number of NPCs, for example during
-a riot you might need hundreds or thousands of people. The best way to handle
-these situations is to create a single NPC to represent the group. Give the
-group NPC aspects and skills just like any other character. The only
-difference is how you handle the narration: instead of Tor Byron intimidating
-a single person into doing what he wants with `Persuasion`, describe him as
-convincing a part of the mob to disperse.
-
-{% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
-
 ### Mechanical Stuff {% comment %} TODO #56: Update Mechanical Stuff https://github.com/MiniFate/MiniFate/issues/56 {% endcomment %}
 
 A PC's Refresh determines how many Fate Points they start each session with.

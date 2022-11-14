@@ -232,8 +232,21 @@ We will talk about how these work later when we talk about performing actions.
 
 ## Non-Player Characters
 
-Like a PC, but can have as many aspects as you want (or as few) and at whatever numbers you want.
-Mobs.
+NPCs are the characters in the story that fill out the world.
+They're played by the GM and include everyone from background characters at a pirate bar, to marauding goblins bent on steal treasure, to the general of the empire's army who is more than he seems.
+
+NPCs are more free-form than PCs.
+They use all the same components---aspects, refresh, consequences---but just enough to fulfill their role in the story.
+Background characters can often get by with only a name.
+Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need just an aspect about their motivation.
+Recurring characters can be given a few aspects with appropriate values.
+If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight; in fact doing so is a great way to organically develop the story line and characters.
+
+Sometimes the story calls for a very large number of NPCs, for example during a riot you might need hundreds or thousands of people.
+The best way to handle these situations is to create a single NPC to represent the entire mob.
+Build them just like a normal NPC with aspects; the only difference is how you narrate their actions.
+
+{% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
 # How to Play
 
