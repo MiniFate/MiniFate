@@ -215,6 +215,11 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Concept: | ~~Friar turned hedge-wizard using his new power for good~~ |
 > | Trouble: | ~~My order can never find out about my gift, but it's getting harder to hide~~ |
 
+Characters in {GameName} also have some mechanical "crunch".
+The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
+Characters also have a refresh of two and three consequences.
+We will talk about how these work later when we talk about performing actions.
+
 ## Non-Player Characters
 
 Like a PC, but can have as many aspects as you want (or as few) and at whatever numbers you want.
