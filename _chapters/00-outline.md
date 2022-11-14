@@ -188,7 +188,9 @@ Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
 Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
 
-> {RobinPlayer} is playing {RobinPC}, but one who is disillusioned after returning from the failed 10th crusade.
+> Now that the group has a setting, they turn to building their characters.
+>
+{RobinPlayer} is playing {RobinPC}, but one who is disillusioned after returning from the failed 10th crusade.
 > He feels like an outsider in his own country after the steam revolution and downfall of Richard the Lionhearted.
 > He wishes to return to a simpler time, at any cost.
 >
@@ -199,15 +201,15 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Trouble: | ~~Steam powered changed everything expect me; I'll change it back~~ |
 >
 > {MarianPlayer}'s PC is {MarianPC}, a genius tinkerer partially responsible for ushering in the steam revolution.
-> She loves building new gadgets and does not particularly care about who is funding her work or what they plan to use it for.
+> She loves building new gadgets and ignores who is funding her work or what they plan to use it for.
 >
 > {:.key-def}
 > | Concept: | ~~The best tinkerer in Nottingham; maybe anywhere~~ |
 > | Trouble: | ~~Machines I can trust when people betray me~~ |
 >
 > {TuckPC} is playing {TuckPlayer}. 
-> Formerly a good, godfearing man, {TuckPC} has started started to question his faith now that magic is seeping into the world.
-> The magic given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
+> Formerly a good, godfearing man, {TuckPC} has started to question his faith now that magic is seeping into the world.
+> The magic has given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
 >
 > {:.key-def}
 > | Concept: | ~~Friar turned hedge-wizard using his new power for good~~ |
