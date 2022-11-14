@@ -133,7 +133,7 @@ This lets you use character creation to define the details of the world.
 
 ## Setting Creation
 
-The setting is {GameName} is given aspects just like everything else narratively important.
+The setting is {GameName} is given aspects just like everything else important to the narrative.
 Start with two aspects to describe the world: a genre and a conflict.
 The genre aspect gives a sense of what, when, and where the story takes place.
 The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
@@ -199,14 +199,19 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Trouble: | ~~Steam powered changed everything expect me; I'll change it back~~ |
 >
 > {MarianPlayer}'s PC is {MarianPC}, a genius tinkerer partially responsible for ushering in the steam revolution.
-> She can fix anything and she has a gadget for every situation.
-> However, her love of building leaves her blind to character and she has built some evil devices for evil men.
+> She loves building new gadgets and does not particularly care about who is funding her work or what they plan to use it for.
 >
 > {:.key-def}
 > | Concept: | ~~The best tinkerer in Nottingham; maybe anywhere~~ |
 > | Trouble: | ~~Machines I can trust when people betray me~~ |
 >
-> {JohnPC} is playing {JohnPlayer}.
+> {TuckPC} is playing {TuckPlayer}. 
+> Formerly a good, godfearing man, {TuckPC} has started started to question his faith now that magic is seeping into the world.
+> The magic given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
+>
+> {:.key-def}
+> | Concept: | ~~Friar turned hedge-wizard using his new power for good~~ |
+> | Trouble: | ~~My order can never find out about my gift, but it's getting harder to hide~~ |
 
 ## Non-Player Characters
 
