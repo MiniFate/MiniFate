@@ -25,7 +25,7 @@ world. PCs begin with one skill at rank +2, and two skills at rank +1.
 | `Fight`       | Engaging in armed and unarmed melee combat                          |
 | `Insight`     | Searching, tracking, finding, noticing, knowing                     |
 | `Network`     | Knowing people, having access to things, having items on you        |
-| `Performance` | Lying, singing, dancing, disguising                                 | 
+| `Performance` | Lying, singing, dancing, disguising                                 |
 | `Persuasion`  | Negotiating, bargaining, flattering, empathizing                    |
 | `Physique`    | Lifting, smashing, resisting poison and exposure                    |
 | `Shoot`       | Attacking with ranged and thrown weapons                            |
