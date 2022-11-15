@@ -31,7 +31,6 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 ## What You Need
 
-
 {GameName} requires a few things to get started:
 pens to write with,
 paper to record your character on,
@@ -89,7 +88,6 @@ Frankie/Taylor plays Friar Tuck
 Gabby is the GM
 -->
 
-
 ## Core Concept: Aspects
 
 At face value, an aspect is just a short phrase written down for the whole table to see.
@@ -125,7 +123,7 @@ As the story progresses the setting may change; when this happens feel free to a
 > They start by writing down two placeholder aspects while they brainstorm variations:
 >
 > {:.key-def}
-> | Genre:    | ~~Kind Outlaws in Steampunk England~~ |
+> | Genre:    | ~~Steampunk outlaws of Sherwood Forest~~ |
 > | Conflict: | ~~The sheriff is working with the usurper, King John~~ |
 >
 > {RobinPlayer} wants a bit of a dark, gritter setting.
@@ -277,7 +275,6 @@ Linear, not pyramid.
 Unclear if this is a core rule or not
 
 ## Other Things?
-
 
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
