@@ -45,8 +45,8 @@ take in response to the story.
 > second mate on the ramshackle _Angry Pig_.
 >
 > {:.key-def}
-> | Concept: | ~~Speak Softly and Carry a Magic Axe~~ |
-> | Trouble: | ~~Lost My Boat in a Game of Cards~~    |
+> | Concept: | `Speak Softly and Carry a Magic Axe` |
+> | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
 > Although Tor Byron prefers to intimidate people into doing what he wants (+1
 > `Persuasion`), he is exceptionally deadly with his magical axe (+2 `Fight`).
@@ -67,8 +67,8 @@ take in response to the story.
 > responsible for _Angry Pig_ and its crew.
 >
 > {:.key-def}
-> | Concept: | ~~Never Met A Problem My Magic Couldn't Ignite~~ |
-> | Trouble: | ~~Can't Trust My Crew or My Clan~~               |
+> | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
+> | Trouble: | `Can't Trust My Crew or My Clan`               |
 >
 > Naka is a talented mage whose first instinct when cornered is to start
 > throwing fireballs (+2 `Shoot`). When that fails---or more likely only
@@ -109,14 +109,14 @@ guidelines:
 
 _Mild_: Recovers in a scene or two and does not impact the PCs function much.
 Generally the PC will have to spend a small amount of attention to fix it.
-Examples are: ~~Covered in Alien Slime~~ or ~~Dropped My Gun~~.
+Examples are: `Covered in Alien Slime` or `Dropped My Gun`.
 
 _Moderate_: Recovers after many scenes, and impacts the PCs ability to use
-some skills as effectively as before. Examples are: ~~They Stole My
-Father's Sword~~ or ~~Out Of Ammo~~.
+some skills as effectively as before. Examples are: `They Stole My
+Father's Sword` or `Out Of Ammo`.
 
 _Severe_: Recovery will involve actively working to fix it over several game
 sessions and the effects may linger for a long time. In the moment the PC is
 severely limited by it. This consequence is likely the most pressing thing for
-the PC to deal with while it exists. Examples include: ~~They Sundered
-My Family's Magic Shield~~ or ~~My Personality Split In Two~~.
+the PC to deal with while it exists. Examples include: `They Sundered
+My Family's Magic Shield` or `My Personality Split In Two`.

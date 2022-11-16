@@ -103,7 +103,7 @@ At face value, an aspect is just a short phrase written down for the whole table
 
 In {GameName}, setting creation and character creation happen together.
 It is good to have a rough idea of what type of game the players and GM want to play, but ultimately settings are defined by their characters and vice versa.
-A ~~Pirate Captain Who Hates Violence~~ in a world where ~~Magic is Suddenly Real~~ is very different than one on the ~~Blood Drenched Sands of the Caribbean~~.
+A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
 
 The game creation process should be collaborative, so it is often best to set aside the first game session in order to design the setting and the PCs together.
 A good way to structure world building is to come up with a broad definition of the setting and then build the PCs.
@@ -123,28 +123,28 @@ As the story progresses the setting may change; when this happens feel free to a
 > They start by writing down two placeholder aspects while they brainstorm variations:
 >
 > {:.key-def}
-> | Genre:    | ~~Steampunk outlaws of Sherwood Forest~~ |
-> | Conflict: | ~~The sheriff is working with the usurper, King John~~ |
+> | Genre:    | `Steampunk outlaws of Sherwood Forest` |
+> | Conflict: | `The sheriff is working with the usurper, King John` |
 >
 > {RobinPlayer} wants a bit of a dark, gritter setting.
 > They propose modified aspects that hint at the sudden change society went through and the lingering political chaos:
 >
 > {:.key-def}
-> | Genre:    | ~~England's steam revolution was sudden and violent~~ |
-> | Conflict: | ~~King John used the chaos to usurp the throne~~ |
+> | Genre:    | `England's steam revolution was sudden and violent` |
+> | Conflict: | `King John used the chaos to usurp the throne` |
 >
 > {MarianPlayer} is fine with that, but wants to make sure the grit doesn't erase all the cool gadgets and airships!
 > {TuckPlayer} is also OK with dark and gritty, but he envisions his character as a magic user.
 > Together, the propose:
 >
 > {:.key-def}
-> | Genre:    | ~~Steam power and magic have up-ended society, but the feudal system grinds on~~ |
-> | Conflict: | ~~King John used the chaos to usurp the throne~~ |
+> | Genre:    | `Steam power and magic have up-ended society, but the feudal system grinds on` |
+> | Conflict: | `King John used the chaos to usurp the throne` |
 >
 > They propose working some magic into the 
-> TODO: ~~Robbing from the rich and giving to the poor isn't as easy as it sounds~~
-> ~~Rich vs poor doesn't matter when there is magic~~
-> ~~Something something sheriff~~
+> TODO: `Robbing from the rich and giving to the poor isn't as easy as it sounds`
+> `Rich vs poor doesn't matter when there is magic`
+> `Something something sheriff`
 
 Once you're happy with your setting, it's time to build the characters that will inhabit it
 
@@ -157,20 +157,20 @@ Your PC's concept aspect answers the question "Who are you playing?"
 It describes what makes the PC a unique, exciting character.
 A character's concept alongside the setting aspects should give a good idea of who they are and how they'll play.
 Some example concepts are:
-~~Rightful King Hiding in the Wild~~,
-~~Loner Hacker Who Knows The World Is Not What It Seems~~,
-or ~~Backwater Farm Boy Looking to Join The Academy~~.
+`Rightful King Hiding in the Wild`,
+`Loner Hacker Who Knows The World Is Not What It Seems`,
+or `Backwater Farm Boy Looking to Join The Academy`.
 
 Your PC's trouble aspect describes the sort of things that get in the PC's way and gives them depth.
 The trouble aspect is a good way for the player to indicate what sort of problems they would find interesting to deal with.
 
 The trouble aspect should not necessarily be the thing that is most likely to cause the PC trouble, especially if it would be boring to deal with in game.
-A hardboiled detective might drink excessively, but ~~Can't Resist a Drink~~ might not add much roleplaying potential, whereas ~~Soft Spot for Losers Like Me~~ offers the GM and other players a lot of story hooks.
+A hardboiled detective might drink excessively, but `Can't Resist a Drink` might not add much roleplaying potential, whereas `Soft Spot for Losers Like Me` offers the GM and other players a lot of story hooks.
 
 Some example troubles are:
-~~I Don't Know Which Side I'm On~~,
-~~Everyone I Get Close To Ends Up In Trouble~~,
-or ~~My Past Is A Dangerous Mystery, Even to Me~~.
+`I Don't Know Which Side I'm On`,
+`Everyone I Get Close To Ends Up In Trouble`,
+or `My Past Is A Dangerous Mystery, Even to Me`.
 
 Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
@@ -185,23 +185,23 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > {RobinPlayer} chooses the following aspects to convey this:
 >
 > {:.key-def}
-> | Concept: | ~~Loyal archer to a deposed king~~ |
-> | Trouble: | ~~Steam powered changed everything expect me; I'll change it back~~ |
+> | Concept: | `Loyal archer to a deposed king` |
+> | Trouble: | `Steam powered changed everything expect me; I'll change it back` |
 >
 > {MarianPlayer}'s PC is {MarianPC}, a genius tinkerer partially responsible for ushering in the steam revolution.
 > She loves building new gadgets and ignores who is funding her work or what they plan to use it for.
 >
 > {:.key-def}
-> | Concept: | ~~The best tinkerer in Nottingham; maybe anywhere~~ |
-> | Trouble: | ~~Machines I can trust when people betray me~~ |
+> | Concept: | `The best tinkerer in Nottingham; maybe anywhere` |
+> | Trouble: | `Machines I can trust when people betray me` |
 >
 > {TuckPlayer} is playing {TuckPC}. 
 > Formerly a good, godfearing man, {TuckPC} has started to question his faith now that magic is seeping into the world.
 > The magic has given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
 >
 > {:.key-def}
-> | Concept: | ~~Friar turned hedge-wizard using his new power for good~~ |
-> | Trouble: | ~~My order can never find out about my gift, but it's getting harder to hide~~ |
+> | Concept: | `Friar turned hedge-wizard using his new power for good` |
+> | Trouble: | `My order can never find out about my gift, but it's getting harder to hide` |
 
 Characters in {GameName} also have some mechanical "crunch".
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
