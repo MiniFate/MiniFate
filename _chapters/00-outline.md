@@ -124,27 +124,24 @@ As the story progresses the setting may change; when this happens feel free to a
 >
 > {:.key-def}
 > | Genre:    | `Steampunk outlaws of Sherwood Forest` |
-> | Conflict: | `The sheriff is working with the usurper, King John` |
+> | Conflict: | `Under the boot of the lecherous sheriff of Nottingham` |
 >
 > {RobinPlayer} wants a bit of a dark, gritter setting.
 > They propose modified aspects that hint at the sudden change society went through and the lingering political chaos:
 >
 > {:.key-def}
 > | Genre:    | `England's steam revolution was sudden and violent` |
-> | Conflict: | `King John used the chaos to usurp the throne` |
+> | Conflict: | `The throne sits empty while the king crusades` |
 >
 > {MarianPlayer} is fine with that, but wants to make sure the grit doesn't erase all the cool gadgets and airships!
 > {TuckPlayer} is also OK with dark and gritty, but he envisions his character as a magic user.
 > Together, the propose:
 >
 > {:.key-def}
-> | Genre:    | `Steam power and magic have up-ended society, but the feudal system grinds on` |
-> | Conflict: | `King John used the chaos to usurp the throne` |
+> | Genre:    | `In the shadow of steam-powered castles` |
+> | Conflict: | `The throne sits empty while the king crusades` |
 >
-> They propose working some magic into the 
-> TODO: `Robbing from the rich and giving to the poor isn't as easy as it sounds`
-> `Rich vs poor doesn't matter when there is magic`
-> `Something something sheriff`
+> Although it does not explicitly mention magic, everyone agrees that {TuckPlayer} will include it in their character's aspects.
 
 Once you're happy with your setting, it's time to build the characters that will inhabit it
 
