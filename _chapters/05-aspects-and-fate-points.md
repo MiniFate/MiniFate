@@ -20,13 +20,13 @@ find pertinent.
 Aspects have three roles, each of which is crucial to the game:
 
 - **Aspects are always true**: They are how the table judges what play makes
-  sense based on the story. If a character is ~~Grappled~~, they obviously
+  sense based on the story. If a character is `Grappled`, they obviously
   cannot run away, swing a weapon, or do anything that requires free movement.
-  Similarly, if a character is a ~~Pyromancer of the Dancing Flame~~ then
+  Similarly, if a character is a `Pyromancer of the Dancing Flame` then
   their `Shoot` attack will probably take the form of a conjured fireball and
   they would be absolutely helpless if asked to pick up a crossbow.
 - **Aspects can be invoked for a bonus on a roll**: If the dice say that
-  ~~Sherwood's Greatest Archer~~ is about to miss a tough shot, the player can
+  `Sherwood's Greatest Archer` is about to miss a tough shot, the player can
   spend a fate point to get a bonus on the roll.
 - **Aspects can be compelled to create engaging plot twists**: Twists and
   turns make an engaging story; MiniFate encourages plot twists by
@@ -44,20 +44,20 @@ represented by creating a story aspect and reversing that effect removes the
 aspect.
 
 Story aspects can be introduced by the GM to help set a scene. For example,
-maybe ~~It's Raining Hard~~ or ~~Everyone Seems On-Edge~~. They can also be
+maybe `It's Raining Hard` or `Everyone Seems On-Edge`. They can also be
 created as a result of skill rolls during gameplay. Quenching a campfire can
-create ~~Pitch Blackness~~ while wrestling someone to the ground creates
-~~Grappled~~.
+create `Pitch Blackness` while wrestling someone to the ground creates
+`Grappled`.
 
 The changing or removing an aspect is similar. A character can modify an
-aspect by rolling; if a roll is made to break a grapple, the ~~Grappled~~
+aspect by rolling; if a roll is made to break a grapple, the `Grappled`
 aspect is destroyed. Story aspects also are removed when they are no longer
-relevant, or no longer make sense. When the sun rises, ~~Pitch Blackness~~ is
+relevant, or no longer make sense. When the sun rises, `Pitch Blackness` is
 destroyed.
 
 > Tor Byorn is leading a raiding party to steal a rival crew's cargo right out
-> of their storehouse. The GM writes down the aspect ~~Abnormally Dark and
-> Rainy~~ as he describes the scene. A few moments later Tor Byron heres a
+> of their storehouse. The GM writes down the aspect `Abnormally Dark and
+> Rainy` as he describes the scene. A few moments later Tor Byron heres a
 > whistling shriek as a special arrow misses his head by an inch but finds its
 > target in the man behind him.
 > 
@@ -70,9 +70,9 @@ destroyed.
 
 Most character and story aspects are visible to everyone at the table, but not
 all of them. The GM may choose to keep some aspects hidden.  Obvious examples
-include monster weaknesses (~~Missing Scale Over His Heart~~), imminent
-ambushes (~~Those Bushes Look Suspiciously Like Orcs~~), and the schemes and
-motivations of NPCs (~~Lord Grofhurst Is My Unknowing Puppet~~). Hidden
+include monster weaknesses (`Missing Scale Over His Heart`), imminent
+ambushes (`Those Bushes Look Suspiciously Like Orcs`), and the schemes and
+motivations of NPCs (`Lord Grofhurst Is My Unknowing Puppet`). Hidden
 aspects serve more or less as the GM's notes; if invoked or compelled, they
 must be revealed to everyone.
 
@@ -82,12 +82,12 @@ start with slightly suspicious public aspects and then change them as the
 players catch on.
 
 > Lord Kellett is secretly a Dragon in human form. He starts with the aspect
-> ~~Strong as Ten Men~~ which indicates his incredible strength, but is poetic
+> `Strong as Ten Men` which indicates his incredible strength, but is poetic
 > enough to be overlooked.  Later, as the PCs observe him performing more and
-> more superhuman feats, his aspect changes to ~~No Man Could Be As Strong~~,
+> more superhuman feats, his aspect changes to `No Man Could Be As Strong`,
 > still indicating his strength, but hinting more directly at its hidden
 > origins. Finally, when the players discover his true nature, his aspect is
-> replaced with ~~Strength of a Dragon~~.
+> replaced with `Strength of a Dragon`.
 
 ### Fate Points
 
@@ -111,14 +111,14 @@ invocations.
 
 Declaring an aspect can be used to:
 
-- Establish a connection with an new NPC (~~The Barkeep Is From My
-  Hometown~~).
-- Dictate an NPC's motives (~~Traitorous Minon~~).
-- Give a PC an item they need but might not have on them (~~Put My Hair up
-  with Lock Picks this Morning~~).
-- Impose unfortunate circumstances on an enemy (~~Knock-off AK-47s Jam a
-  Lot!~~).
-- Or even change the weather or scenery (~~Sudden Snowstorm~~).
+- Establish a connection with an new NPC (`The Barkeep Is From My
+  Hometown`).
+- Dictate an NPC's motives (`Traitorous Minon`).
+- Give a PC an item they need but might not have on them (`Put My Hair up
+  with Lock Picks this Morning`).
+- Impose unfortunate circumstances on an enemy (`Knock-off AK-47s Jam a
+  Lot!`).
+- Or even change the weather or scenery (`Sudden Snowstorm`).
 
 The power of declaring an aspect comes from the fact that aspects are always
 true and so making the aspect is just revealing a previously unknown piece of
@@ -166,7 +166,7 @@ agreement can be reached, neither player may invoke it.
 > margin is -1, failure.
 >
 > Tor Byorn's player holds up one of the poker chips the group uses for fate
-> points and says "As you know, I have ~~Lost My Boat in a Game of Cards~~
+> points and says "As you know, I have `Lost My Boat in a Game of Cards`
 > before, and I'm not keen to lose another one." The GM takes the fate point
 > and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
 > Pig_ is released, for now, and the GM makes a note to come back to Tor
@@ -191,8 +191,8 @@ The GM can compel a character aspects:
 > Tor Byorn and Naka have snuck into Lord Kellett's chambers looking for a
 > missing artifact and have stopped to discus what to do with the large safe
 > they found. While they talk, the GM turns to Naka's player, holds up a Fate
-> Point, and says, "Naka, I am pretty sure you have ~~Never met a problem your
-> magic couldn't ignite~~! Just melt the safe. What's the worst that could
+> Point, and says, "Naka, I am pretty sure you have `Never met a problem your
+> magic couldn't ignite`! Just melt the safe. What's the worst that could
 > happen?"
 >
 > Naka's player smiles and accepts the Fate point, so the GM narrates the
@@ -210,7 +210,7 @@ The GM can also compel story aspects:
 > Tor Byorn lands next to the helm and begins his attack with his trusty magic
 > axe. His player rolls well, so the GM narrates: "You smash the helmsmen
 > across the deck and cut the wheel in half as you do. The barge is crippled!"
-> He writes down a new aspect ~~Spinning in circles~~. "The won't be able to
+> He writes down a new aspect `Spinning in circles`. "The won't be able to
 > follow you now... Or" he holds up a fate point, "Are they now on a collision
 > course with the _Angry Pig_, sure to tangle with your rigging and allowing
 > dozens of goblins to spill out on to your decks?"

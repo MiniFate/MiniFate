@@ -45,8 +45,8 @@ take in response to the story.
 > second mate on the ramshackle _Angry Pig_.
 >
 > {:.key-def}
-> | Concept: | ~~Speak Softly and Carry a Magic Axe~~ |
-> | Trouble: | ~~Lost My Boat in a Game of Cards~~    |
+> | Concept: | `Speak Softly and Carry a Magic Axe` |
+> | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
 > Although Tor Byron prefers to intimidate people into doing what he wants (+1
 > `Persuasion`), he is exceptionally deadly with his magical axe (+2 `Fight`).
@@ -67,8 +67,8 @@ take in response to the story.
 > responsible for _Angry Pig_ and its crew.
 >
 > {:.key-def}
-> | Concept: | ~~Never Met A Problem My Magic Couldn't Ignite~~ |
-> | Trouble: | ~~Can't Trust My Crew or My Clan~~               |
+> | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
+> | Trouble: | `Can't Trust My Crew or My Clan`               |
 >
 > Naka is a talented mage whose first instinct when cornered is to start
 > throwing fireballs (+2 `Shoot`). When that fails---or more likely only
@@ -85,37 +85,6 @@ take in response to the story.
 {% comment %} TODO #54: https://github.com/MiniFate/MiniFate/issues/54 {% endcomment %}
 
 ### Non-Player Characters
-
-NPCs are the characters in the story that fill out the world. They're played
-by the GM and include everyone from background characters at a pirate bar, to
-marauding goblins bent on steal treasure, to the general of the empire's army
-who is more than he seems.
-
-NPCs are more free form than PCs; give them just enough aspects and skills to
-perform their role in the narrative. Recurring characters can be built exactly
-like PCs with two aspects and as many skills as needed. NPCs who are intended to
-challenge the group of PCs should have higher level skills than PCs, as
-they're competing against the entire group.
-
-Background characters show up once or twice an general serve a simple role in
-the narrative. They can generally get away with a single aspect and a skill or
-two. The bartender who makes small talk and drops a few rumors could be
-represented with ~~In Vino Veritas~~ and `Performance` or `Persuasion`. A set
-of guards keeping Tor Byron out of the royal ball might only need an aspect
-like ~~Somewhat Loyal and Underpaid Guards~~ and the skills `Fight` and
-`Persuasion` in case Tor Byorn tries to force or bribe his way in. If a
-background character suddenly becomes important to story, you can give them
-more skills and aspects to reflect their newfound narrative weight.
-
-Sometimes the story calls for a very large number of NPCs, for example during
-a riot you might need hundreds or thousands of people. The best way to handle
-these situations is to create a single NPC to represent the group. Give the
-group NPC aspects and skills just like any other character. The only
-difference is how you handle the narration: instead of Tor Byron intimidating
-a single person into doing what he wants with `Persuasion`, describe him as
-convincing a part of the mob to disperse.
-
-{% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
 ### Mechanical Stuff {% comment %} TODO #56: Update Mechanical Stuff https://github.com/MiniFate/MiniFate/issues/56 {% endcomment %}
 
@@ -140,14 +109,14 @@ guidelines:
 
 _Mild_: Recovers in a scene or two and does not impact the PCs function much.
 Generally the PC will have to spend a small amount of attention to fix it.
-Examples are: ~~Covered in Alien Slime~~ or ~~Dropped My Gun~~.
+Examples are: `Covered in Alien Slime` or `Dropped My Gun`.
 
 _Moderate_: Recovers after many scenes, and impacts the PCs ability to use
-some skills as effectively as before. Examples are: ~~They Stole My
-Father's Sword~~ or ~~Out Of Ammo~~.
+some skills as effectively as before. Examples are: `They Stole My
+Father's Sword` or `Out Of Ammo`.
 
 _Severe_: Recovery will involve actively working to fix it over several game
 sessions and the effects may linger for a long time. In the moment the PC is
 severely limited by it. This consequence is likely the most pressing thing for
-the PC to deal with while it exists. Examples include: ~~They Sundered
-My Family's Magic Shield~~ or ~~My Personality Split In Two~~.
+the PC to deal with while it exists. Examples include: `They Sundered
+My Family's Magic Shield` or `My Personality Split In Two`.

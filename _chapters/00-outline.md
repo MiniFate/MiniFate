@@ -103,7 +103,7 @@ At face value, an aspect is just a short phrase written down for the whole table
 
 In {GameName}, setting creation and character creation happen together.
 It is good to have a rough idea of what type of game the players and GM want to play, but ultimately settings are defined by their characters and vice versa.
-A ~~Pirate Captain Who Hates Violence~~ in a world where ~~Magic is Suddenly Real~~ is very different than one on the ~~Blood Drenched Sands of the Caribbean~~.
+A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
 
 The game creation process should be collaborative, so it is often best to set aside the first game session in order to design the setting and the PCs together.
 A good way to structure world building is to come up with a broad definition of the setting and then build the PCs.
@@ -111,7 +111,7 @@ This lets you use character creation to define the details of the world.
 
 ## Setting Creation
 
-The setting is {GameName} is given aspects just like everything else narratively important.
+The setting is {GameName} is given aspects just like everything else important to the narrative.
 Start with two aspects to describe the world: a genre and a conflict.
 The genre aspect gives a sense of what, when, and where the story takes place.
 The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
@@ -119,20 +119,31 @@ The conflict aspect introduces the who and the why of the setting's biggest sour
 Write the aspects down somewhere everyone can see them, but don't worry about making them perfect as they're just a starting point.
 As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
-> TODO: Fix this section
-> Our players know they want to play a "steampunk Robin Hood" game, but that means something different to each of them.
-> They start out with the genre aspect ~~Steampunk Outlaws of Sherwood Forest~~ but each player still has a different idea of what that means.
+> Our players want to adventure as "Robin Hood in steampunk England", but that means something slightly different to each of them.
+> They start by writing down two placeholder aspects while they brainstorm variations:
 >
-> To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
-> {B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home.
-> {C} doesn't much care about the setting, as long as she can play as a wizard.
-> And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
-> After some more discussion about the setting they would like to play in they settle on:
-> ~~Weary soldiers return to find a steam a magic revolution has changed England~~
+> {:.key-def}
+> | Genre:    | `Steampunk outlaws of Sherwood Forest` |
+> | Conflict: | `Under the boot of the lecherous sheriff of Nottingham` |
 >
-> TODO: ~~Robbing from the rich and giving to the poor isn't as easy as it sounds~~
-> ~~Rich vs poor doesn't matter when there is magic~~
-> ~~Something something sheriff~~
+> {RobinPlayer} wants a bit of a dark, gritter setting.
+> They propose modified aspects that hint at the sudden change society went through and the lingering political chaos:
+>
+> {:.key-def}
+> | Genre:    | `England's steam revolution was sudden and violent` |
+> | Conflict: | `The throne sits empty while the king crusades` |
+>
+> {MarianPlayer} is fine with that, but wants to make sure the grit doesn't erase all the cool gadgets and airships!
+> {TuckPlayer} is also OK with dark and gritty, but he envisions his character as a magic user.
+> Together, the propose:
+>
+> {:.key-def}
+> | Genre:    | `In the shadow of steam-powered castles` |
+> | Conflict: | `The throne sits empty while the king crusades` |
+>
+> Although it does not explicitly mention magic, everyone agrees that {TuckPlayer} will include it in their character's aspects.
+
+Once you're happy with your setting, it's time to build the characters that will inhabit it
 
 ## Character Creation
 
@@ -143,20 +154,20 @@ Your PC's concept aspect answers the question "Who are you playing?"
 It describes what makes the PC a unique, exciting character.
 A character's concept alongside the setting aspects should give a good idea of who they are and how they'll play.
 Some example concepts are:
-~~Rightful King Hiding in the Wild~~,
-~~Loner Hacker Who Knows The World Is Not What It Seems~~,
-or ~~Backwater Farm Boy Looking to Join The Academy~~.
+`Rightful King Hiding in the Wild`,
+`Loner Hacker Who Knows The World Is Not What It Seems`,
+or `Backwater Farm Boy Looking to Join The Academy`.
 
 Your PC's trouble aspect describes the sort of things that get in the PC's way and make their story interesting.
 The trouble aspect is a good way for the player to indicate what sort of problems they would find interesting to deal with.
 
 The trouble aspect should not necessarily be the thing that is most likely to cause the PC trouble, especially if it would be boring to deal with in game.
-A hardboiled detective might drink excessively, but ~~Can't Resist a Drink~~ might not add much roleplaying potential, whereas ~~Soft Spot for Losers Like Me~~ offers the GM and other players a lot of story hooks.
+A hardboiled detective might drink excessively, but `Can't Resist a Drink` might not add much roleplaying potential, whereas `Soft Spot for Losers Like Me` offers the GM and other players a lot of story hooks.
 
 Some example troubles are:
-~~I Don't Know Which Side I'm On~~,
-~~Everyone I Get Close To Ends Up In Trouble~~,
-or ~~My Past Is A Dangerous Mystery, Even to Me~~.
+`I Don't Know Which Side I'm On`,
+`Everyone I Get Close To Ends Up In Trouble`,
+or `My Past Is A Dangerous Mystery, Even to Me`.
 
 Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.

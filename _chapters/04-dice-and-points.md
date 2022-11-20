@@ -27,10 +27,10 @@ PCs' lives at just the wrong moment.
 Dice are an important part of {GameName}, but that doesn't mean you need to roll
 for every little thing. As a general rule, the GM should prompt players for a
 roll in situations where a competent hero might reasonably fail _and_ failure
-adds an interesting twist to the story. For example, a ~~Swashbuckling
-Genius~~ probably doesn't need to roll to fend off an attack by a ~~Nameless
-Deck-Hand~~... but she might roll `Fight` to subdue him before his friends
-escape, or `Network` to recognize him as a ~~Student of the Blade Dancers~~.
+adds an interesting twist to the story. For example, a `Swashbuckling
+Genius` probably doesn't need to roll to fend off an attack by a `Nameless
+Deck-Hand`... but she might roll `Fight` to subdue him before his friends
+escape, or `Network` to recognize him as a `Student of the Blade Dancers`.
 
 Players can roll to:
 
@@ -52,14 +52,14 @@ additional invocation if they succeed with style by beating the target number
 by 2 or more.
 
 > Tor Byron and Naka were waiting in a warehouse up by the docks for a contact
-> when they notice some thugs approaching. True to her aspect ~~Never Met A
-> Problem My Magic Couldn't Ignite~~, Naka thinks things would go better if
+> when they notice some thugs approaching. True to her aspect `Never Met A
+> Problem My Magic Couldn't Ignite`, Naka thinks things would go better if
 > the warehouse were an inferno. The GM tells her it's full of dried tobacco
 > and should ignite easily, so her target is 1 and the skill she needs is
 > `Shoot`.
 >
 > Naka rolls {{dice--pmpp}} and adds her +2 `Shoot` for a total of 4, easily
-> beating the target. The GM writes ~~Billowing Smokey Inferno~~ on a note
+> beating the target. The GM writes `Billowing Smokey Inferno` on a note
 > card, draws two boxes on it to represent Naka's free invocations, and places
 > it on the table. It's going to be a lot harder for the ambushers to find
 > them now!

@@ -47,12 +47,12 @@ character can move or act over a zone boundary.
 > The _Angry Pig_ is circling a mountain outpost exchanging canon fire after a
 > failed attempt to bypass the Empire's northern boarder. There are three
 > zones on the board: The _Angry Pig_, the sky, and the outpost. The sky has
-> the aspect ~~A Very Long Way Down~~.
+> the aspect `A Very Long Way Down`.
 >
 > Tor Byorn is stuck on the _Angry Pig_, unable to bring his axe to bear on
 > the canons poking holes in his ship since the sky's aspect indicates that he
 > can't cross the zone. Tor Byorn's player decides the Dwarf has had enough
-> enough and roles `Agility` to create the aspect ~~Flying Leap~~ which gives
+> enough and roles `Agility` to create the aspect `Flying Leap` which gives
 > him the ability to cross the intervening zones. If the Dwarf's rolls
 > succeeds, his aspect will allow him to jump the gap between the ship and
 > outpost, if he rolls poorly... Well, it is a very long way down.
@@ -117,13 +117,13 @@ flavor the outcome, adding interesting twists to the outcome.
 >
 > Meanwhile Tor Byorn has been getting ready to "help" Naka decipher the book
 > by gathering _every other written work on the boat_ into a big pile. He rolled
-> `Network` (+1) to create the aspect ~~Big Pile of study material~~ with a
+> `Network` (+1) to create the aspect `Big Pile of study material` with a
 > free invocation for Naka.
 > 
 > The pyromancer frantically scans the pages, but books were never her best
 > subject (+0 `Insight`). She rolls ({{dice-pzpz}}) which isn't enough, even
 > with the +2 from Tor Byorn's aspect. She looks to the GM and says "I've
-> ~~Never met a problem my magic couldn't ignite~~. I might be a pyromaniac,
+> `Never met a problem my magic couldn't ignite`. I might be a pyromaniac,
 > but I'm also a trained mage. I have studied lots of arcane books before in
 > the imperial college before they tossed me out." The player hands over a
 > fate point and gets another +2, tying the difficulty.
