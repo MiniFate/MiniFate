@@ -158,7 +158,7 @@ Some example concepts are:
 `Loner Hacker Who Knows The World Is Not What It Seems`,
 or `Backwater Farm Boy Looking to Join The Academy`.
 
-Your PC's trouble aspect describes the sort of things that get in the PC's way and make their story interesting.
+Your PC's trouble aspect describes the sort of things that get in the PC's way and gives them depth.
 The trouble aspect is a good way for the player to indicate what sort of problems they would find interesting to deal with.
 
 The trouble aspect should not necessarily be the thing that is most likely to cause the PC trouble, especially if it would be boring to deal with in game.
@@ -173,10 +173,51 @@ Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
 Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
 
+{RobinPlayer} is playing {RobinPC}, but one who is disillusioned after returning from the failed 10th crusade.
+> He feels like an outsider in his own country after the steam revolution and downfall of Richard the Lionhearted.
+> He wishes to return to a simpler time, at any cost:
+>
+> {:.key-def}
+> | Concept: | `Loyal archer to a deposed king` |
+> | Trouble: | `Steam powered changed everything expect me; I'll change it back` |
+>
+> {MarianPlayer}'s PC is {MarianPC}, a genius tinkerer partially responsible for ushering in the steam revolution.
+> She loves building new gadgets and ignores who is funding her work or what they plan to use it for.
+>
+> {:.key-def}
+> | Concept: | `The best tinkerer in Nottingham; maybe anywhere` |
+> | Trouble: | `Machines I can trust when people betray me` |
+>
+> {TuckPlayer} is playing {TuckPC}.
+> Formerly a good, godfearing man, {TuckPC} has started to question his faith now that magic is seeping into the world.
+> The magic has given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
+>
+> {:.key-def}
+> | Concept: | `Friar turned hedge-wizard using his new power for good` |
+> | Trouble: | `My order can never find out about my gift, but it's getting harder to hide` |
+
+Characters in {GameName} also have some mechanical "crunch".
+The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
+Characters also have a refresh of two and three consequences.
+We will talk about how these work later when we talk about performing actions.
+
 ## Non-Player Characters
 
-Like a PC, but can have as many aspects as you want (or as few) and at whatever numbers you want.
-Mobs.
+NPCs are the characters in the story that fill out the world.
+They're played by the GM and include everyone from background characters at a pirate bar, to marauding goblins bent on steal treasure, to the general of the empire's army who is more than he seems.
+
+NPCs are more free-form than PCs.
+They use all the same components---aspects, refresh, consequences---but just enough to fulfill their role in the story.
+Background characters can often get by with only a name.
+Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need just an aspect about their motivation.
+Recurring characters can be given a few aspects with appropriate values.
+If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight; in fact doing so is a great way to organically develop the story line and characters.
+
+Sometimes the story calls for a very large number of NPCs, for example during a riot you might need hundreds or thousands of people.
+The best way to handle these situations is to create a single NPC to represent the entire mob.
+Build them just like a normal NPC with aspects; the only difference is how you narrate their actions.
+
+{% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
 # How to Play
 
