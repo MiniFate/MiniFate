@@ -108,13 +108,17 @@ The conflict aspect introduces the who and the why of the setting's biggest sour
 Write the aspects down somewhere everyone can see them, but don't worry about making them perfect as they're just a starting point.
 As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
-> Our players want to be sky pirates in a steampunk fantasy world.
-> They want magic, sword fights, and swashbuckling adventures in a world of intrigue where we can never be sure if we're the conman or the mark.
-> They write down the following two Aspects:
+> Our players want to be sky pirates in a steampunk fantasy world where they can use magic, have sword fights, and swagger around getting into and out of trouble.
+> They discuss a bit and then write down a genre aspect:
 >
 > {:.key-def}
 > |    Genre: | `Steam-Powered Swashbuckling above the Seven Seas` |
-> | Conflict: | `A Puppet-Master is Pulling All the Strings`    |
+> 
+> The players aren't exactly sure what conflicts would be exciting, but they know they want intrigue and suspense, where they can never be sure if they're the conman or the mark.
+> They write the conflict aspect:
+>
+> {:.key-def}
+> | Conflict: | `A Puppet-Master is Pulling All the Strings` | 
 
 Once you're happy with your setting, it's time to build the characters that will inhabit it.
 
