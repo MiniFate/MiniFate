@@ -77,17 +77,6 @@ And {D}, thinking back to the childhood movie, is looking forward to the talking
 Before starting the game, everyone needs to be on the same page.
 {GameName} provides a powerful tool for that: aspects.
 
-<!--
-Alliterative player and PC names?
-Easy to keep track of so we can introduce them once, use player and PC names as convenient.
-
-Rowan plays Robin Hood
-Morgan plays Maid Marian
-Lee/Jordan plays Little John
-Frankie/Taylor plays Friar Tuck
-Gabby is the GM
--->
-
 ## Core Concept: Aspects
 
 At face value, an aspect is just a short phrase written down for the whole table to see.
@@ -119,31 +108,19 @@ The conflict aspect introduces the who and the why of the setting's biggest sour
 Write the aspects down somewhere everyone can see them, but don't worry about making them perfect as they're just a starting point.
 As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
 
-> Our players want to adventure as "Robin Hood in steampunk England", but that means something slightly different to each of them.
-> They start by writing down two placeholder aspects while they brainstorm variations:
+> Our players want to be sky pirates in a steampunk fantasy world where they can use magic, have sword fights, and swagger around getting into and out of trouble.
+> They discuss a bit and then write down a genre aspect:
 >
 > {:.key-def}
-> | Genre:    | `Steampunk outlaws of Sherwood Forest` |
-> | Conflict: | `Under the boot of the lecherous sheriff of Nottingham` |
->
-> {RobinPlayer} wants a bit of a dark, gritter setting.
-> They propose modified aspects that hint at the sudden change society went through and the lingering political chaos:
->
-> {:.key-def}
-> | Genre:    | `England's steam revolution was sudden and violent` |
-> | Conflict: | `The throne sits empty while the king crusades` |
->
-> {MarianPlayer} is fine with that, but wants to make sure the grit doesn't erase all the cool gadgets and airships!
-> {TuckPlayer} is also OK with dark and gritty, but he envisions his character as a magic user.
-> Together, the propose:
+> |    Genre: | `Steam-Powered Swashbuckling above the Seven Seas` |
+> 
+> The players aren't exactly sure what conflicts would be exciting, but they know they want intrigue and suspense, where they can never be sure if they're the conman or the mark.
+> They write the conflict aspect:
 >
 > {:.key-def}
-> | Genre:    | `In the shadow of steam-powered castles` |
-> | Conflict: | `The throne sits empty while the king crusades` |
->
-> Although it does not explicitly mention magic, everyone agrees that {TuckPlayer} will include it in their character's aspects.
+> | Conflict: | `A Puppet-Master is Pulling All the Strings` | 
 
-Once you're happy with your setting, it's time to build the characters that will inhabit it
+Once you're happy with your setting, it's time to build the characters that will inhabit it.
 
 ## Character Creation
 

@@ -26,14 +26,6 @@ You can come back and change them during character creation, or even after the s
 
 Here are the aspects we decided on for our world:
 
-> We want to play sky pirates in a steampunk fantasy world. We want magic,
-> sword fights, and swashbuckling adventures in a world of intrigue where we
-> can never be sure if we're the conman or the mark. We write down the
-> following two Aspects:
-> 
-> {:.key-def}
-> |    Genre: | `Steam-Powered Swashbuckling on the Seven Seas` |
-> | Conflict: | `A Puppet-Master is Pulling All the Strings`    |
  
 In the next chapter we'll build our characters; from then on we'll use our
 setting for examples.
