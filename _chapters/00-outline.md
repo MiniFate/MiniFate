@@ -173,28 +173,28 @@ Neither character aspect is entirely good or entirely bad.
 The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
 Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
 
-{RobinPlayer} is playing {RobinPC}, but one who is disillusioned after returning from the failed 10th crusade.
-> He feels like an outsider in his own country after the steam revolution and downfall of Richard the Lionhearted.
-> He wishes to return to a simpler time, at any cost:
+> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
+>
+> A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a fearsome reputation.
+> He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
+> But he lost everything in a night of drunken gambling.
+> Now, disgraced, he serves as second mate on the ramshackle _Angry Pig_.
 >
 > {:.key-def}
-> | Concept: | `Loyal archer to a deposed king` |
-> | Trouble: | `Steam powered changed everything expect me; I'll change it back` |
+> | Concept: | `Speak Softly and Carry a Magic Axe` |
+> | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
-> {MarianPlayer}'s PC is {MarianPC}, a genius tinkerer partially responsible for ushering in the steam revolution.
-> She loves building new gadgets and ignores who is funding her work or what they plan to use it for.
+> Although Tor Byron prefers to intimidate people into doing what he wants, he is exceptionally deadly with his magical axe.
+> Tor Byorn made a lot of connections as a pirate captain---not all of them friendly---and he isn't afraid to call in favors when it will help himself or his crew.
 >
-> {:.key-def}
-> | Concept: | `The best tinkerer in Nottingham; maybe anywhere` |
-> | Trouble: | `Machines I can trust when people betray me` |
+> The second PC is Naka:
 >
-> {TuckPlayer} is playing {TuckPC}.
-> Formerly a good, godfearing man, {TuckPC} has started to question his faith now that magic is seeping into the world.
-> The magic has given the rotund friar great power to help those in need, but is also changing him in ways he does not understand.
+> Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
+> She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
+> A loner with trust issues, she now finds herself responsible for _Angry Pig_ and its crew.
 >
-> {:.key-def}
-> | Concept: | `Friar turned hedge-wizard using his new power for good` |
-> | Trouble: | `My order can never find out about my gift, but it's getting harder to hide` |
+> Naka is a talented mage whose first instinct when cornered is to start throwing fireballs.
+> When that fails---or more likely only increases the trouble she is in---she falls back to lying and shifting the blame while looking for any opportunity to run for it.
 
 Characters in {GameName} also have some mechanical "crunch".
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
