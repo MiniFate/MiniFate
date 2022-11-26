@@ -36,50 +36,6 @@ A default list of skills is provided later, but generating a set of skills is
 a key part of game creation as it helps to define what actions the PCs will
 take in response to the story.
 
-> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
->
-> A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a
-> fearsome reputation. He once stole the emperor's summer fashion shipment
-> from a privateer without spilling a single drop of blood. But he lost
-> everything in a night of drunken gambling. Now, disgraced, he serves as
-> second mate on the ramshackle _Angry Pig_.
->
-> {:.key-def}
-> | Concept: | `Speak Softly and Carry a Magic Axe` |
-> | Trouble: | `Lost My Boat in a Game of Cards`    |
->
-> Although Tor Byron prefers to intimidate people into doing what he wants (+1
-> `Persuasion`), he is exceptionally deadly with his magical axe (+2 `Fight`).
-> Tor Byorn made a lot of connections as a pirate captain---not all of them
-> friendly---and he isn't afraid to call in favors when it will help himself
-> or his crew (+1 `Network`).
->
-> {:.key-def}
-> | +2 | `Fight`                 |
-> | +1 | `Persuasion`, `Network` |
->
-> The second PC is Naka:
->
-> Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her
-> magic-fearing clan. She grew up on the streets of Three Bridges, where her
-> quick tongue and speedy reflexes kept her safe from the worst consequences
-> of her own actions. A loner with trust issues, she now finds herself
-> responsible for _Angry Pig_ and its crew.
->
-> {:.key-def}
-> | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Can't Trust My Crew or My Clan`               |
->
-> Naka is a talented mage whose first instinct when cornered is to start
-> throwing fireballs (+2 `Shoot`). When that fails---or more likely only
-> increases the trouble she is in---she falls back to lying and shifting the
-> blame (+1 `Performance`) while looking for any opportunity to run for it (+1
-> `Agility`).
->
-> {:.key-def}
-> | +2 | `Shoot`                  |
-> | +1 | `Agility`, `Performance` |
-
 ### Advancement
 
 {% comment %} TODO #54: https://github.com/MiniFate/MiniFate/issues/54 {% endcomment %}
