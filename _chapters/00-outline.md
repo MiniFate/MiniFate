@@ -184,21 +184,16 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
-> Although Tor Byron prefers to intimidate people into doing what he wants, he is exceptionally deadly with his magical axe.
-> Tor Byorn made a lot of connections as a pirate captain---not all of them friendly---and he isn't afraid to call in favors when it will help himself or his crew.
->
 > The second PC is Naka:
 >
 > Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
 > She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
 > A loner with trust issues, she now finds herself responsible for _Angry Pig_ and its crew.
 >
-> Naka is a talented mage whose first instinct when cornered is to start throwing fireballs.
-> When that fails---or more likely only increases the trouble she is in---she falls back to lying and shifting the blame while looking for any opportunity to run for it.
-
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Can't Trust My Crew or My Clan`               |
+> | Trouble: | `Old Habbits, New Responcibilities`            |
+
 Characters in {GameName} also have some mechanical "crunch".
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
 Characters also have a refresh of two and three consequences.
