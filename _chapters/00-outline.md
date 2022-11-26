@@ -196,6 +196,9 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > Naka is a talented mage whose first instinct when cornered is to start throwing fireballs.
 > When that fails---or more likely only increases the trouble she is in---she falls back to lying and shifting the blame while looking for any opportunity to run for it.
 
+> {:.key-def}
+> | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
+> | Trouble: | `Can't Trust My Crew or My Clan`               |
 Characters in {GameName} also have some mechanical "crunch".
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
 Characters also have a refresh of two and three consequences.
