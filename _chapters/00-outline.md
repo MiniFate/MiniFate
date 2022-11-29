@@ -113,12 +113,12 @@ As the story progresses the setting may change; when this happens feel free to a
 >
 > {:.key-def}
 > |    Genre: | `Steam-Powered Swashbuckling above the Seven Seas` |
-> 
+>
 > The players aren't exactly sure what conflicts would be exciting, but they know they want intrigue and suspense, where they can never be sure if they're the conman or the mark.
 > They write the conflict aspect:
 >
 > {:.key-def}
-> | Conflict: | `A Puppet-Master is Pulling All the Strings` | 
+> | Conflict: | `A Puppet-Master is Pulling All the Strings` |
 
 Once you're happy with your setting, it's time to build the characters that will inhabit it.
 
@@ -169,7 +169,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 >
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Old Habbits, New Responcibilities`            |
+> | Trouble: | `Old Habits, New Responcibilities`            |
 
 Characters in {GameName} also have some mechanical "crunch".
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
@@ -196,11 +196,42 @@ Build them just like a normal NPC with aspects; the only difference is how you n
 
 # How to Play
 
-## Setting the Scene
+The story in {GameName} plays out scene-by-scene.
+The GM generally opens each scene with a quick description.
+Play proceeds conversationally from there as the players and GM improvise back and forth.
+Players speak as their PCs and describe their actions, while the GM illustrates how the world responds.
+Players may also ask the GM for further details to help them immerse themselves in the PCs' surroundings.
+
+Play is punctuated by die rolls, which mediate the divide between player and PC.
+PC choices are made by the players, while the success of PC actions is judged by dice.
+That is, the player decides which NPCs to attack and which to barter with.
+The dice show whether a sword strikes home or a lie rings true.
+This dichotomy gives each PC quantitative strengths and weaknesses while still allowing players the freedom to play their PCs however they like.
 
 ## Rolling the Dice
 
+The GM may prompt players to roll at any time.
+
+Sometimes you roll because your PC is attempting to do something.
+- Naka throwing a fireball
+- TBY bluffing at cards
+
+Sometimes the GM prompts you to roll unexpectedly.
+- An ambush!
+- Notice that the new guy has cards up his sleeve.
+
+Rolling the dice isn't about difficulty.
+- Roll when either outcome feels like it would be interesting.
+- It's ok to suspend disbelief for the sake of theatricality.
+- Example of difficult but boring stuff...
+- Example of easy stuff where failure is interesting...
+
 ## Fate Points
+
+TBY's trouble tells us that he plays cards.
+Maybe he's bad, and a degenerate gambler?
+Maybe he's great, but got cheated?
+Tagging the aspect allows us to flesh out that part of the story.
 
 Compel and invoke
 
