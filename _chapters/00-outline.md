@@ -19,6 +19,13 @@ Players get to decide what sort of story they're telling, and what details matte
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
 
+---
+
+The players and the GM work together to tell stories about the adventures of the PCs.
+They could tell an action story, where the PCs hack away at bloodthirsty monsters in defense of civilization.
+Or it could be a story of exploration, where the PCs venture into deep space in search of a new home.
+It could even be a tale of political intrigue, where PCs build influence through secrets and scandals.
+
 ## Who You Need
 
 To play {GameName}, you need one GM (game master) and at least two players.
