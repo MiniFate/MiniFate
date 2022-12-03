@@ -226,6 +226,7 @@ Sometimes you roll because your PC is attempting to do something.
 Sometimes the GM prompts you to roll unexpectedly.
 - An ambush!
 - Notice that the new guy has cards up his sleeve.
+- We need to include something about "Don't roll 'spot' and then go 'I guess you don't see anything'", failure of a roll leads to immediate consequences.
 
 Rolling the dice isn't about difficulty.
 - Roll when either outcome feels like it would be interesting.
