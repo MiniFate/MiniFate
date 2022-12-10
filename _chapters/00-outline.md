@@ -163,6 +163,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
 > But he lost everything in a night of drunken gambling.
 > Now, disgraced, he serves as second mate on the ramshackle _Angry Pig_.
+> He still keeps his axe close, ready to defend his new crew.
 >
 > {:.key-def}
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
@@ -172,32 +173,34 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 >
 > Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
 > She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
-> A loner with trust issues, she now finds herself responsible for _Angry Pig_ and its crew.
+> A loner with trust issues, she now finds herself conflicted by her responsibility for _Angry Pig_ and its crew.
 >
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
 > | Trouble: | `Old Habits, New Responcibilities`            |
 
-Characters in {GameName} also have some mechanical "crunch".
+In {GameName}, characters have some mechanical "crunch" in addition to their aspects.
+Aspects are given ratings that help their character perform actions.
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
-Characters also have a refresh of two and three consequences.
-We will talk about how these work later when we talk about performing actions.
+Additionally, characters have a refresh rate of two and three consequences.
+More details on how these mechanics work will be discussed in the section on performing actions.
 
 ## Non-Player Characters
 
-NPCs are the characters in the story that fill out the world.
-They're played by the GM and include everyone from background characters at a pirate bar, to marauding goblins bent on steal treasure, to the general of the empire's army who is more than he seems.
+NPCs are the characters in the story that bring the world to life.
+They are created and played by the GM.
+NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a small village, to the general of the empire's army who is more than he seems.
 
 NPCs are more free-form than PCs.
-They use all the same components---aspects, refresh, consequences---but just enough to fulfill their role in the story.
-Background characters can often get by with only a name.
-Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need just an aspect about their motivation.
-Recurring characters can be given a few aspects with appropriate values.
-If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight; in fact doing so is a great way to organically develop the story line and characters.
+The GM should use whatever components---aspects, refresh, consequences---the character needs to fulfill their role in the narrative.
+For example, background characters may only need a name.
+Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need only a single aspect about their motivation.
+Recurring characters can have a few aspects with appropriate values.
+If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight which develops the character and their story organically.
 
-Sometimes the story calls for a very large number of NPCs, for example during a riot you might need hundreds or thousands of people.
-The best way to handle these situations is to create a single NPC to represent the entire mob.
-Build them just like a normal NPC with aspects; the only difference is how you narrate their actions.
+The GM can even bundle multiple characters together on the same character sheet!
+An unruly mob can be represented as a single NPC with the aspect Torches and Pitchforks.
+This allows the players to interact with the characters without needing to manage a large number of individual NPCs.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
