@@ -160,10 +160,10 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
 >
 > A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a fearsome reputation.
-> He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood, wielding his magical ax with skill and precision.
+> He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
 > But he lost everything in a night of drunken gambling.
 > Now, disgraced, he serves as second mate on the ramshackle _Angry Pig_.
-> He still keeps his ax close, ready to defend his new crew.
+> He still keeps his axe close, ready to defend his new crew.
 >
 > {:.key-def}
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
@@ -188,19 +188,19 @@ More details on how these mechanics work will be discussed in the section on per
 ## Non-Player Characters
 
 NPCs are the characters in the story that bring the world to life.
-They're played by the GM and include everyone from background characters at a pirate bar, to marauding goblins bent on stealing treasure, to the general of the empire's army who is more than he seems.
+They are created and played by the GM.
+NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a small village, to the general of the empire's army who is more than he seems.
 
 NPCs are more free-form than PCs.
-They use all the same components---aspects, refresh, consequences---but only to the extent needed for their role in the story.
-Background characters may only need a name.
+The GM should use whatever components---aspects, refresh, consequences---the character needs to fulfill their role in the narrative.
+For example, background characters may only need a name.
 Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need only a single aspect about their motivation.
 Recurring characters can have a few aspects with appropriate values.
 If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight which develops the character and their story organically.
 
-In some cases, the story may require a large number of NPCs, such as during a riot with hundreds or thousands of people.
-In these situations, it's best to create a single NPC to represent the mob as a whole.
-This NPC is built using the same mechanics as a regular NPC; the only difference is how the GM narrates their actions to reflect the larger group.
-This allows the players to interact with the mob without needing to manage a large number of individual NPCs.
+The GM can even bundle multiple characters together on the same character sheet!
+An unruly mob can be represented as a single NPC with the aspect Torches and Pitchforks.
+This allows the players to interact with the characters without needing to manage a large number of individual NPCs.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
