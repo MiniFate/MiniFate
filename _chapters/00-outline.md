@@ -7,12 +7,7 @@
 
 # Introduction
 
-Robin Hood is a beloved outlaw, skilled with both sword and bow.
-He leads a band of Merry Men against the tyrannical Sheriff of Nottingham.
-He's loyal to the absent King Richard in the face of the usurper Prince John.
-And he's in love with Maid Marian.
-With just those few sentences, we're ready to tell a story.
-Everything else --- where he's from, what he carries, and the state of the world --- can wait until it becomes important.
+TODO: you don't care about what's in Robin Hood's backpack. You don't care about the cooldown timer when Thor calls down lightning. That's not what the story is about. Be in the moment. Let everything else slide.
 
 {GameName} is a role-playing game that takes that same theatricality to heart.
 Players get to decide what sort of story they're telling, and what details matter.
@@ -73,16 +68,17 @@ TODO: Call out Evil Hat here too
 
 # Getting Started
 
-Before your first session, the group decides they want their game to be "steampunk Robin Hood".
-As it turns out, that can mean a bunch of different things. <!-- lose this line? -->
-To {A}, that means a swashbuckling adventure where bandits thumb their noses at the lecherous sheriff.
-{B} is picturing something gritty; soldiers return from a holy war to find that England no longer feels like home. <!-- is dystopian steampunk allowed? or is steampunk supposed to be optimistic? -->
-{C} doesn't much care about the setting, as long as she can play as a wizard.
-And {D}, thinking back to the childhood movie, is looking forward to the talking animals.
+Before you can tell a story, you need a setting and some characters.
 
-<!-- passive voice or not? probably go through and make this consistent at the end -->
-Before starting the game, everyone needs to be on the same page.
-{GameName} provides a powerful tool for that: aspects.
+- This is a collaborative process. The whole table works together.
+- Come in with a general idea then riff off each other. 
+  You can bounce back and forth between setting and aspects. 
+  More art than science.
+- A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
+- It can take a while.
+  Nice to set aside the whole first session to figure out the setting and characters. 
+  Also gives you time to percolate before the story starts.
+- Characters and setting are both defined by aspects (see next section).
 
 ## Core Concept: Aspects
 
@@ -95,39 +91,30 @@ At face value, an aspect is just a short phrase written down for the whole table
 - aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
 - writing good aspects. you can lean on inside jokes and pop culture.
 
-## World Building
-
-In {GameName}, setting creation and character creation happen together.
-It is good to have a rough idea of what type of game the players and GM want to play, but ultimately settings are defined by their characters and vice versa.
-A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
-
-The game creation process should be collaborative, so it is often best to set aside the first game session in order to design the setting and the PCs together.
-A good way to structure world building is to come up with a broad definition of the setting and then build the PCs.
-This lets you use character creation to define the details of the world.
-
 ## Setting Creation
 
-The setting is {GameName} is given aspects just like everything else important to the narrative.
-Start with two aspects to describe the world: a genre and a conflict.
-The genre aspect gives a sense of what, when, and where the story takes place.
-The conflict aspect introduces the who and the why of the setting's biggest source of dramatic tension.
+Your setting is defined by two aspects: a Genre and a Conflict.
+The Genre aspect gives a sense of what, when, and where the story takes place.
+The Conflict aspect is the source of dramatic tension.
 
-Write the aspects down somewhere everyone can see them, but don't worry about making them perfect as they're just a starting point.
-As the story progresses the setting may change; when this happens feel free to add or modify setting aspects.
+Write the aspects down somewhere everyone can see them, but don't worry about making them perfect.
+They're just a starting point.
+You can update them as the story unfolds.
 
-> Our players want to be sky pirates in a steampunk fantasy world where they can use magic, have sword fights, and swagger around getting into and out of trouble.
-> They discuss a bit and then write down a genre aspect:
+> Alex wants to play a swashbuckling pirate.
+> Barry wants to play a streetwise wizard.
+> After a bit of haggling, they settle on something that works for them both:
 >
 > {:.key-def}
-> |    Genre: | `Steam-Powered Swashbuckling above the Seven Seas` |
+> |    Genre: | `Swagger and Sorcery on the Seven Seas` |
 >
-> The players aren't exactly sure what conflicts would be exciting, but they know they want intrigue and suspense, where they can never be sure if they're the conman or the mark.
-> They write the conflict aspect:
+> The conflict is trickier.
+> They're not exactly looking for a hack-and-slash treasure hunt.
+> They want a bit of suspense and intrigue.
+> Planning out the whole conspiracy on the first day would spoil the fun, so instead they plant an ominous first clue:
 >
 > {:.key-def}
-> | Conflict: | `A Puppet-Master is Pulling All the Strings` |
-
-Once you're happy with your setting, it's time to build the characters that will inhabit it.
+> | Conflict: | `The Pirate King has Vanished Without a Trace` |
 
 ## Character Creation
 
@@ -176,7 +163,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 >
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Old Habits, New Responcibilities`            |
+> | Trouble: | `Old Habits, New Responsibilities`            |
 
 Characters in {GameName} also have some mechanical "crunch".
 The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
