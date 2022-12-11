@@ -115,13 +115,13 @@ table.key-def {
 
   td:first-child {
     text-align: right;
+    width: 25%;
   }
 }
 
 // Other tables
 table {
-  margin-right: auto;
-  margin-left: auto;
+  width: 100%;
   font-size: 1em;
   font-variant-numeric: lining-nums tabular-nums;
   border-collapse: collapse;
