@@ -192,15 +192,15 @@ They are created and played by the GM.
 NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a small village, to the general of the empire's army who is more than he seems.
 
 NPCs are more free-form than PCs.
-The GM should use whatever components---aspects, refresh, consequences---the character needs to fulfill their role in the narrative.
-For example, background characters may only need a name.
-Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need only a single aspect about their motivation.
-Recurring characters can have a few aspects with appropriate values.
-If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight which develops the character and their story organically.
+The GM should use whatever components---aspects, refresh, consequences---the NPCs needs to fulfill their role in the narrative.
+For example, background NPCs may only need a name.
+NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs out of the king's ball, need only a single aspect about their motivation.
+Recurring NPCs can have a few aspects with appropriate values.
+If a NPC suddenly becomes more important, you can add aspects as needed to give them more narrative weight which develops the character and their story organically.
 
-The GM can even bundle multiple characters together on the same character sheet!
+The GM can even bundle multiple NPCs together on the same character sheet!
 An unruly mob can be represented as a single NPC with the aspect Torches and Pitchforks.
-This allows the players to interact with the characters without needing to manage a large number of individual NPCs.
+This allows the players to interact with the NPCs without needing to manage a large number of individual characters.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
