@@ -225,10 +225,18 @@ Rolling the dice isn't about difficulty.
 At the beginning of each session, each player gets two fate points.
 
 Fate points can be spent to invoke an aspect.
-Basically, apply a bonus to a roll in a way that makes sense in light of that aspect.
+- Bonus on a roll that makes sense in light of an aspect
 
 Fate points are earned by accepting compels.
-A compel is a complication, typically suggested by the GM, that makes sense in light of an aspect.
+- Complication that makes sense in light of an aspect
+- Typically suggested by the GM
+- Often (but not always) related to a PC's trouble
+
+Players can also spend a fate point to assert a new aspect
+- Compelling the GM
+- Often related to a PC's past
+- I've been here before
+- That's my old boat
 
 TBY's trouble tells us that he plays cards.
 Maybe he's bad, and a degenerate gambler?
