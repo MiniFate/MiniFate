@@ -111,7 +111,7 @@ You can update them as the story unfolds.
 > The conflict is trickier.
 > They're not exactly looking for a hack-and-slash treasure hunt.
 > They want a bit of suspense and intrigue.
-> Planning out the whole conspiracy on the first day would spoil the fun, so instead they plant an ominous first clue:
+> Planning out the whole conspiracy on the first day would spoil the fun, so instead they plant an ominous clue to get them started:
 >
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
@@ -222,12 +222,18 @@ Rolling the dice isn't about difficulty.
 
 ## Fate Points
 
+At the beginning of each session, each player gets two fate points.
+
+Fate points can be spent to invoke an aspect.
+Basically, apply a bonus to a roll in a way that makes sense in light of that aspect.
+
+Fate points are earned by accepting compels.
+A compel is a complication, typically suggested by the GM, that makes sense in light of an aspect.
+
 TBY's trouble tells us that he plays cards.
 Maybe he's bad, and a degenerate gambler?
 Maybe he's great, but got cheated?
 Tagging the aspect allows us to flesh out that part of the story.
-
-Compel and invoke
 
 # Conflicts
 
