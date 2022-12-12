@@ -294,14 +294,13 @@ Recovery fits here too
 
 <!-- TODO: Diagrams -->
 
-The exact location of characters in the world often isn't important.
+The exact location of characters in the world is often unimportant.
 When the PCs are looking for exotic goods it is enough to narrate that they are wandering around the market.
 However, there are situations where to location of the characters is critical, such as during a sword duel or when jumping from one ship to another to take prisoners.
 In these cases it is helpful to draw a simple map to keep track of the characters' position and movement.
 
-In {GameName}, maps are not highly detailed, instead they make use of Zones, which are rough representations of the space where a conflict is taking place.
-Zones provide a general idea of the layout of the area without getting into specific measurements or details.
-This allows players and the GM to quickly and easily understand the layout of the space without getting bogged down in details that may not be important to the current situation.
+Maps make use of Zones, which are rough representations of the space where a conflict is taking place without getting into specific measurements or details.
+This allows players and the GM to quickly and easily understand the layout without getting bogged down in details that may not be important to the current situation.
 
 Characters in the same zone can interact with each other and any object in the zone.
 However, they need permission from one of their aspects to interact with things outside the zone.
