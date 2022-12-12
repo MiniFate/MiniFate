@@ -116,6 +116,8 @@ You can update them as the story unfolds.
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
 
+TODO: and just like that the players have created a new part of the world. There is a Pirate king, and he's gone missing. (But better writing)
+
 ## Character Creation
 
 Player characters (PCs) are mechanically simple but narratively diverse.
