@@ -265,10 +265,10 @@ Pretty much the same as roleplaying, but:
 
 ## Stress and Consequences
 
+<!-- TODO: Are all aspects rated? And you invoke them you get the bonus??! -->
 PCs have three Consequence aspects, with ratings of +1, +2, +3.
 These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
-Consequence aspects provide a way for players to track the effects of their actions and the impact they have on their PC.
-They allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
+Consequence aspects allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
 
 NPCs can have different number and ratings of Consequence aspects.
 For example, a very challenging NPC might have several low-rating Consequence aspects to allow them to withstand a lot of harm.
