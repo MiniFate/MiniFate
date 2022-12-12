@@ -247,7 +247,6 @@ Compel and invoke
 
 # Conflicts
 
-
 Most of the gameplay in {GameName} consists of roleplaying, with occasional dice rolls to determine the path the story takes.
 However, there are times when the PCs are acting in opposition to something or someone.
 These situations are where you use conflicts.
@@ -266,8 +265,20 @@ Pretty much the same as roleplaying, but:
 
 ## Stress and Consequences
 
+PCs have three Consequence aspects, with ratings of +1, +2, +3.
+These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
+Consequence aspects provide a way for players to track the effects of their actions and the impact they have on their PC.
+They allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
+
+NPCs can have different number and ratings of Consequence aspects.
+For example, a very challenging NPC might have several low-rating Consequence aspects to allow them to withstand a lot of harm.
+On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
+The number and rating of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
+ 
+<!-- TODO:
 you get a fate point for taking a consequence?
 recovery fits here too
+-->
 
 ## Drawing a Map
 
