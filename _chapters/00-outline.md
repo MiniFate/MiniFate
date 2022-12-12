@@ -247,16 +247,22 @@ Compel and invoke
 
 # Conflicts
 
+
+Most of the gameplay in {GameName} consists of roleplaying, with occasional dice rolls to determine the path the story takes.
+However, there are times when the PCs are acting in opposition to something or someone.
+These situations are where you use conflicts.
+
+A conflict is any situation where the PCs are up against opponents.
+This can include battles with mythical creatures or other enemies,
+negotiations to broker a peace treaty between warring factions,
+or even a race against time to see if the PCs can get to the capital ahead of their rival's army.
+
+<!-- TODO: Do we still have turns? -->
+
 Pretty much the same as roleplaying, but:
 - Different pacing due to lots of rolls
 - Map, optionally, depending on the situation
 - Worrying about stress and consequences
-
-Note: "conflict" is pretty broad.
-It can be anything where the party is up against opponents
-It can be a negotiation.
-It can be a race.
-It can be anything where these mechanics feel right.
 
 ## Stress and Consequences
 
@@ -275,6 +281,11 @@ How to do weird stuff.
 Aspect-based narration.
 Skills were actually the thing that made this weird.
 With just aspects, you can roll for whatever makes sense
+
+## Abstract Forces?
+
+Time can be an NPC?
+The Orcs march on the fortress is a stress track?
 
 ## Character Advancement
 
