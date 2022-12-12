@@ -110,11 +110,6 @@ When a PC fails to defend themselves against an attack, they have three options:
   Each PC has three consequence slots, valued 2, 4, and 6.
 - Be out of the fight. {% comment %} Should you have to write an aspect for this? {% endcomment %}
 
-"Out of the fight" doesn't typically mean "dead"---many classic stories have
-the hero or villain meet an apparent end only to show up at an opportune
-moment. But it does mean the PC takes no more actions for the rest of the
-scene.
-
 ### Compels {% comment %} TODO #59 Write compels: https://github.com/MiniFate/MiniFate/issues/59 {% endcomment %}
 
 Sometimes the GM will come up with a fun twist that makes a PC's life

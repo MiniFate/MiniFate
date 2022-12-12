@@ -274,10 +274,20 @@ NPCs can have different number and ratings of Consequence aspects.
 For example, a very challenging NPC might have several low-rating Consequence aspects to allow them to withstand a lot of harm.
 On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
 The number and rating of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
+
+If a character fills in all of their Consequence aspects, they are removed from the current conflict.
+This does not mean the character is "dead"---many classic stories have the hero or villain appear to meet their end only to show up at an critical moment.
+But it does mean the character takes no more actions for the rest of the scene.
+
+<!-- TODO: Really?
+How does this next part work in practice?
+Gotta get a fate point right because the GM is narrating your character! -->
+When a PC is taken out, the player shapes what happens to their character by writing down their final Consequence aspect.
+The GM uses this aspect to craft the narrative.
+The player is given a Fate Point when their character is taken out, because losing narrative control is a Compel.
  
 <!-- TODO:
-you get a fate point for taking a consequence?
-recovery fits here too
+Recovery fits here too
 -->
 
 ## Drawing a Map
