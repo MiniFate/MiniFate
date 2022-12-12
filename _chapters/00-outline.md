@@ -282,7 +282,7 @@ But it does mean the character takes no more actions for the rest of the scene.
 <!-- TODO: Really?
 How does this next part work in practice?
 Gotta get a fate point right because the GM is narrating your character! -->
-When a PC is taken out, the player shapes what happens to their character by writing down their final Consequence aspect.
+The player can shape what happens to their PC by writing down their final Consequence aspect.
 The GM uses this aspect to craft the narrative.
 The player is given a Fate Point when their character is taken out, because losing narrative control is a Compel.
  
