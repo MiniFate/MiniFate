@@ -304,9 +304,9 @@ This allows players and the GM to quickly and easily understand the layout witho
 
 Characters in the same zone can interact with each other and any object in the zone.
 However, they need permission from one of their aspects to interact with things outside the zone.
-A character may freely move to an adjacent zone on their turn in addition to their action.
+A character may move to an adjacent zone on their turn in addition to their action.
 
-Zones can have aspects, which may restrict free movement or visibility between zones. 
+Zones can also have aspects, which may restrict free movement or visibility between zones. 
 Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
 
 > The _Angry Pig_ is circling a mountain outpost exchanging canon fire after a failed attempt to bypass the Empire's northern boarder.
