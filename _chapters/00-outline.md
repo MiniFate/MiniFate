@@ -294,13 +294,10 @@ Recovery fits here too
 
 <!-- TODO: Diagrams -->
 
-The exact location of characters in the world is often unimportant.
-When the PCs are looking for exotic goods it is enough to narrate that they are wandering around the market.
-However, there are situations where to location of the characters is critical, such as during a sword duel or when jumping from one ship to another to take prisoners.
-In these cases it is helpful to draw a simple map to keep track of the characters' position and movement.
-
-Maps make use of Zones, which are rough representations of the space where a conflict is taking place without getting into specific measurements or details.
-This allows players and the GM to quickly and easily understand the layout without getting bogged down in details that may not be important to the current situation.
+In general the exact location of characters does not matter, but there are times when it is critical, such as during a sword fight.
+In these cases, maps can be used to keep track of characters' positions and movements.
+Maps are not highly detailed, instead they are broken up into broad Zones.
+This allows players and the GM to quickly and easily understand the layout of the space without getting bogged down in unnecessary details.
 
 Characters in the same zone can interact with each other and any object in the zone.
 However, they need permission from one of their aspects to interact with things outside the zone.
