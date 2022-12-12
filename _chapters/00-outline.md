@@ -292,7 +292,32 @@ Recovery fits here too
 
 ## Drawing a Map
 
-Probably the top priority section for diagrams!
+<!-- TODO: Diagrams -->
+
+The exact location of characters in the world often isn't important.
+When the PCs are looking for exotic goods it is enough to narrate that they are wandering around the market.
+However, there are situations where to location of the characters is critical, such as during a sword duel or when jumping from one ship to another to take prisoners.
+In these cases it is helpful to draw a simple map to keep track of the characters' position and movement.
+
+In {GameName}, maps are not highly detailed, instead they make use of Zones, which are rough representations of the space where a conflict is taking place.
+Zones provide a general idea of the layout of the area without getting into specific measurements or details.
+This allows players and the GM to quickly and easily understand the layout of the space without getting bogged down in details that may not be important to the current situation.
+
+Characters in the same zone can interact with each other and any object in the zone.
+However, they need permission from one of their aspects to interact with things outside the zone.
+A character may freely move to an adjacent zone on their turn in addition to their action.
+
+Zones can have aspects, which may restrict free movement or visibility between zones. 
+Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
+
+> The _Angry Pig_ is circling a mountain outpost exchanging canon fire after a failed attempt to bypass the Empire's northern boarder.
+> There are three zones on the board: The _Angry Pig_, the sky, and the outpost.
+> The sky has the aspect `A Very Long Way Down`.
+>
+> Tor Byorn is stuck on the _Angry Pig_, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
+> Tor Byorn's player decides the Dwarf has had enough enough and roles `Agility` to create the aspect `Flying Leap` which gives him the ability to cross the intervening zones.
+> If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
+> Well, it is a very long way down.
 
 # Appendix
 
