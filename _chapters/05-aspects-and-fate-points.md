@@ -60,7 +60,7 @@ destroyed.
 > Rainy` as he describes the scene. A few moments later Tor Byron heres a
 > whistling shriek as a special arrow misses his head by an inch but finds its
 > target in the man behind him.
-> 
+>
 > Tor Byorn's player asks the GM if he can roll `Insight` to spot the
 > assassin, but GM declines; it wouldn't make sense with the story aspect.
 > Undiscouraged, the Dwarf starts looking for a way to brighten up the night,

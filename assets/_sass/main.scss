@@ -108,6 +108,7 @@ span.skill {
 
 // Special alignment for skill and aspect tables
 table.key-def {
+  width: 100%;
   border-width: 0;
   td {
     text-align: left;
@@ -115,6 +116,7 @@ table.key-def {
 
   td:first-child {
     text-align: right;
+    width: 25%;
   }
 }
 
