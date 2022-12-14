@@ -208,6 +208,27 @@ This dichotomy gives each PC quantitative strengths and weaknesses, while still 
 
 ## Rolling the Dice
 
+Dice are an important part of {GameName} because they add unpredictability to the story, but that doesn't mean you need to roll for every little thing.
+As a general rule, the GM should prompt players for a roll in situations where a competent hero might reasonably fail _and_ failure adds an interesting twist to the story.
+For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off an attack by a `Nameless Deck-Hand`...
+but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
+
+Players can roll to:
+
+- Create an scene aspect with a free invocation
+- Destroy an scene aspect
+- Inflict stress on another character (typically an NPC)
+- Defend against someone inflicting stress on them
+
+Sometimes the aspects describing a scene aren't the ones you want.
+Your character can create new aspects or destroy existing ones with a role.
+To do so, the player states their intention and the GM sets a difficulty from 0 (easy) to 6 (hard).
+The player rolls their dice, sums the result, and adds any appropriate character aspect value (0 if none of their aspects fit the situation).
+If this total meets or beats the GM's difficulty, they succeed.
+When creating an aspect, the player gets one free invocation; they get an additional invocation if they succeed with style by beating the target number by 2 or more.
+
+<!-- TODO: Define invocation -->
+
 The GM may prompt players to roll at any time.
 
 Sometimes you roll because your PC is attempting to do something.
