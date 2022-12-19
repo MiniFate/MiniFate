@@ -117,7 +117,7 @@ difficult. In this case they may offer the PC's player a compel: they GM will
 give the player a fate point and the player will let the GM dictate what
 happens next.
 
-> A goblin barge got the drop on the _Angry Pig_ by sailing too close to an
+> A goblin barge got the drop on the {BoatName} by sailing too close to an
 > aether storm. Although the barge is roughed up from the storm, its cannons
 > have lined up a perfect shot on the _Pig's_ unarmored stern. Naka orders the
 > crew to prepare to fight as she tosses a desperate fireball at the barge.
@@ -150,7 +150,7 @@ that case they just grab an extra fate point
 
 {% comment %} TODO: Where does this go? {% endcomment %}
 
-> The _Angry Pig_ is slowly navigating an aether storm when Tor Byron hears
+> The {BoatName} is slowly navigating an aether storm when Tor Byron hears
 > the sound of grappling hooks biting into soft wood. "Goblin raiders! They
 > must have be stalking us through the storm!" he calls out.
 >
@@ -161,7 +161,7 @@ that case they just grab an extra fate point
 > The GM asks Tor Byron to roll
 
 Tor Byorn doesn't roll to see if he can steer a boat straight, we know he is a
-former captain, of course he can! Likewise when the _Angry Pig_ is boarded by
+former captain, of course he can! Likewise when the {BoatName} is boarded by
 aether Goblins Tor Byorn will roll `Fight` to drive them away, but his
 eventual success is not really in doubt, instead he rolls to see if he can
 defeat them before they make off with his treasure.

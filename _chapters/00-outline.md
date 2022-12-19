@@ -162,7 +162,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a fearsome reputation.
 > He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
 > But he lost everything in a night of drunken gambling.
-> Now, disgraced, he serves as second mate on the ramshackle _Angry Pig_.
+> Now, disgraced, he serves as second mate on the ramshackle {BoatName}.
 > He still keeps his axe close, ready to defend his new crew.
 >
 > {:.key-def}
@@ -173,7 +173,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 >
 > Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
 > She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
-> A loner with trust issues, she now finds herself conflicted by her responsibility for _Angry Pig_ and its crew.
+> A loner with trust issues, she now finds herself conflicted by her responsibility for {BoatName} and its crew.
 >
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
@@ -306,11 +306,11 @@ A character may move to an adjacent zone on their turn in addition to their acti
 Zones can also have aspects, which may restrict free movement or visibility between zones. 
 Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
 
-> The _Angry Pig_ is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
-> There are three zones on the board: The _Angry Pig_, the sky, and the outpost.
+> The {BoatName} is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
+> There are three zones on the board: The {BoatName}, the sky, and the outpost.
 > The sky has the aspect `A Very Long Way Down`.
 >
-> Tor Byorn is stuck on the _Angry Pig_, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
+> Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
 > Tor Byorn's player decides the Dwarf has had enough enough and roles `Agility` to create the aspect `Flying Leap` which gives him the ability to cross the intervening zones.
 > If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
 > Well, it is a very long way down.
