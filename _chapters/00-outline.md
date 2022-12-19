@@ -196,11 +196,11 @@ The GM should use whatever components---aspects, refresh, consequences---the NPC
 For example, background NPCs may only need a name.
 NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs out of the king's ball, need only a single aspect about their motivation.
 Recurring NPCs can have a few aspects with appropriate values.
-If a NPC suddenly becomes more important, you can add aspects as needed to give them more narrative weight which develops the character and their story organically.
+If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
 The GM can even bundle multiple NPCs together on the same character sheet!
-An unruly mob can be represented as a single NPC with the aspect Torches and Pitchforks.
-This allows the players to interact with the NPCs without needing to manage a large number of individual characters.
+An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
+This helps keep bookkeeping manageable, even as the PCs interact with a large number of NPCs.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
@@ -306,7 +306,7 @@ A character may move to an adjacent zone on their turn in addition to their acti
 Zones can also have aspects, which may restrict free movement or visibility between zones. 
 Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
 
-> The _Angry Pig_ is circling a mountain outpost exchanging canon fire after a failed attempt to bypass the Empire's northern boarder.
+> The _Angry Pig_ is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
 > There are three zones on the board: The _Angry Pig_, the sky, and the outpost.
 > The sky has the aspect `A Very Long Way Down`.
 >
