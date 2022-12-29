@@ -151,7 +151,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a fearsome reputation.
 > He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
 > But he lost everything in a night of drunken gambling.
-> Now, disgraced, he serves as second mate on the ramshackle _Angry Pig_.
+> Now, disgraced, he serves as second mate on the ramshackle {BoatName}.
 > He still keeps his axe close, ready to defend his new crew.
 >
 > {:.key-def}
@@ -162,7 +162,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 >
 > Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
 > She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
-> A loner with trust issues, she now finds herself conflicted by her responsibility for _Angry Pig_ and its crew.
+> A loner with trust issues, she now finds herself conflicted by her responsibility for {BoatName} and its crew.
 >
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
@@ -181,15 +181,15 @@ They are created and played by the GM.
 NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a small village, to the general of the empire's army who is more than he seems.
 
 NPCs are more free-form than PCs.
-The GM should use whatever components---aspects, refresh, consequences---the character needs to fulfill their role in the narrative.
-For example, background characters may only need a name.
-Characters intended to act as a minor obstacle, such as guards trying to keep the characters out of the king's ball, need only a single aspect about their motivation.
-Recurring characters can have a few aspects with appropriate values.
-If a character suddenly becomes more important, you can add aspects as needed to give them more narrative weight which develops the character and their story organically.
+The GM should use whatever components---aspects, refresh, consequences---the NPCs needs to fulfill their role in the narrative.
+For example, background NPCs may only need a name.
+NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs out of the king's ball, need only a single aspect about their motivation.
+Recurring NPCs can have a few aspects with appropriate values.
+If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
-The GM can even bundle multiple characters together on the same character sheet!
-An unruly mob can be represented as a single NPC with the aspect Torches and Pitchforks.
-This allows the players to interact with the characters without needing to manage a large number of individual NPCs.
+The GM can even bundle multiple NPCs together on the same character sheet!
+An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
+This helps keep bookkeeping manageable, even as the PCs interact with a large number of NPCs.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
@@ -250,25 +250,73 @@ Tagging the aspect allows us to flesh out that part of the story.
 
 # Conflicts
 
+<!-- TODO: Reword --> 
+Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
+But sometimes you will need to role a lot of dice; that is when you turn to conflicts.
+
+A conflict is any situation where the PCs are up against opponents.
+This can include battles with mythical creatures or other enemies,
+negotiations to broker a peace treaty between warring factions,
+or even a race against time to see if the PCs can get to the capital ahead of their rival's army.
+
+<!-- TODO: Do we still have turns? -->
+
 Pretty much the same as roleplaying, but:
 - Different pacing due to lots of rolls
 - Map, optionally, depending on the situation
 - Worrying about stress and consequences
 
-Note: "conflict" is pretty broad.
-It can be anything where the party is up against opponents
-It can be a negotiation.
-It can be a race.
-It can be anything where these mechanics feel right.
-
 ## Stress and Consequences
 
-you get a fate point for taking a consequence?
-recovery fits here too
+<!-- TODO: Are all aspects rated? And you invoke them you get the bonus??! -->
+PCs have three Consequence aspects, with ratings of +1, +2, +3.
+These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
+Consequence aspects allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
+
+NPCs can have different number and ratings of Consequence aspects.
+For example, a very challenging NPC might have several low-rating Consequence aspects to allow them to withstand a lot of harm.
+<!-- TODO: How does this all work? -->
+On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
+The number and rating of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
+
+If a character fills in all of their Consequence aspects, they are removed from the current conflict.
+This does not mean the character is "dead"---many classic stories have the hero or villain appear to meet their end only to show up at an critical moment.
+But it does mean the character takes no more actions for the rest of the scene.
+
+<!-- TODO: Really?
+How does this next part work in practice?
+Gotta get a fate point right because the GM is narrating your character! -->
+The player can shape what happens to their PC by writing down their final Consequence aspect.
+The GM uses this aspect to craft the narrative.
+The player is given a Fate Point when their character is taken out, because losing narrative control is a Compel.
+ 
+<!-- TODO:
+Recovery fits here too
+-->
 
 ## Drawing a Map
 
-Probably the top priority section for diagrams!
+<!-- TODO: Diagrams -->
+
+In a fight, you need to know who's within arm's reach, who's within a few paces, and who's within sight.
+{GameName} handles that with zones.
+Draw each zone on a map with as much or as little detail as needed.
+
+Characters in the same zone can interact with each other and any object in the zone.
+However, they need permission from one of their aspects to interact with things outside the zone.
+A character may move to an adjacent zone on their turn in addition to their action.
+
+Zones can also have aspects, which may restrict free movement or visibility between zones. 
+Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
+
+> The {BoatName} is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
+> There are three zones on the board: The {BoatName}, the sky, and the outpost.
+> The sky has the aspect `A Very Long Way Down`.
+>
+> Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
+> Tor Byorn's player decides the Dwarf has had enough enough and roles `Agility` to create the aspect `Flying Leap` which gives him the ability to cross the intervening zones.
+> If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
+> Well, it is a very long way down.
 
 # Appendix
 
@@ -278,6 +326,11 @@ How to do weird stuff.
 Aspect-based narration.
 Skills were actually the thing that made this weird.
 With just aspects, you can roll for whatever makes sense
+
+## Abstract Forces?
+
+Time can be an NPC?
+The Orcs march on the fortress is a stress track?
 
 ## Character Advancement
 

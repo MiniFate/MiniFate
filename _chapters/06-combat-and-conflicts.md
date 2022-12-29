@@ -8,22 +8,6 @@ describes it all... -->
 
 {% include macros.html %}
 
-Most of the gameplay in MiniFate is roleplaying with the occasional dice roll
-to determine which path the story continues down. But sometimes the players
-will want to do something that requires many skill checks within a short
-amount of time, at which point they turn to _TODO_.
-
-A _contest_ is for when the characters are trying to accomplish something that
-requires multiple tasks to be accomplished at roughly the same time.
-
-A _conflict_ is for when the characters are directly opposed by another group
-and actively attempting to harm them.
-
-A conflict could be fighting a group of henchmen or deciphering the cult's
-demonic texts before the party is discovered. During a conflict play becomes
-more structured, each character gets a turn, and they roll dice to determine
-the outcome for almost all actions.
-
 ### Starting
 
 #### Zones
@@ -44,12 +28,12 @@ Zone aspects may restrict free movement or visibility between zones; consider
 what makes sense from a narrative perspective when deciding whether a
 character can move or act over a zone boundary.
 
-> The _Angry Pig_ is circling a mountain outpost exchanging canon fire after a
+> The {BoatName} is circling a mountain outpost exchanging canon fire after a
 > failed attempt to bypass the Empire's northern boarder. There are three
-> zones on the board: The _Angry Pig_, the sky, and the outpost. The sky has
+> zones on the board: The {BoatName}, the sky, and the outpost. The sky has
 > the aspect `A Very Long Way Down`.
 >
-> Tor Byorn is stuck on the _Angry Pig_, unable to bring his axe to bear on
+> Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on
 > the canons poking holes in his ship since the sky's aspect indicates that he
 > can't cross the zone. Tor Byorn's player decides the Dwarf has had enough
 > enough and roles `Agility` to create the aspect `Flying Leap` which gives
@@ -91,8 +75,8 @@ but this doesn't mean the challenge failed. Instead use those failures to
 flavor the outcome, adding interesting twists to the outcome.
 
 > A captured mage that Tor Byorn and Naka were transporting has escaped! On
-> her way out she sabotaged the _Angry Pig_, injured multiple crew members,
-> and accidentally left one of her books behind. Now the _Angry Pig_ is losing
+> her way out she sabotaged the {BoatName}, injured multiple crew members,
+> and accidentally left one of her books behind. Now the {BoatName} is losing
 > altitude over the great desert while the escapee's trail grows colder by the
 > moment.
 >
@@ -132,7 +116,7 @@ flavor the outcome, adding interesting twists to the outcome.
 >
 > "Due to some skillful (or lucky) piloting you avoid the massive cacti as the
 > ship careens down towards the desert floor. Unfortunately the damage is
-> beyond repair in the time you have so the _Angry Pig_ is going to have a
+> beyond repair in the time you have so the {BoatName} is going to have a
 > hard landing. Naka spent the last few minutes trying to read the book and
 > resisting the urge to set it on fire. Just before impact she looks up at Tor
 > Byorn with a confused look and mutters "I can't read this... It's written in
