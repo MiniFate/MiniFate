@@ -247,9 +247,9 @@ Compel and invoke
 
 # Conflicts
 
-Most of the gameplay in {GameName} consists of roleplaying, with occasional dice rolls to determine the path the story takes.
-However, there are times when the PCs are acting in opposition to something or someone.
-These situations are where you use conflicts.
+<!-- TODO: Reword --> 
+Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
+But sometimes you will need to role a lot of dice; that is when you turn to conflicts.
 
 A conflict is any situation where the PCs are up against opponents.
 This can include battles with mythical creatures or other enemies,
@@ -272,6 +272,7 @@ Consequence aspects allow players to choose how their PCs are affected by failur
 
 NPCs can have different number and ratings of Consequence aspects.
 For example, a very challenging NPC might have several low-rating Consequence aspects to allow them to withstand a lot of harm.
+<!-- TODO: How does this all work? -->
 On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
 The number and rating of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
 
@@ -294,10 +295,9 @@ Recovery fits here too
 
 <!-- TODO: Diagrams -->
 
-In general the exact location of characters does not matter, but there are times when it is critical, such as during a sword fight.
-In these cases, maps can be used to keep track of characters' positions and movements.
-Maps are not highly detailed, instead they are broken up into broad Zones.
-This allows players and the GM to quickly and easily understand the layout of the space without getting bogged down in unnecessary details.
+In a fight, you need to know who's within arm's reach, who's within a few paces, and who's within sight.
+{GameName} handles that with zones.
+Draw each zone on a map with as much or as little detail as needed.
 
 Characters in the same zone can interact with each other and any object in the zone.
 However, they need permission from one of their aspects to interact with things outside the zone.
