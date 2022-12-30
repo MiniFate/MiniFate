@@ -213,12 +213,36 @@ As a general rule, the GM should prompt players for a roll in situations where a
 For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off an attack by a `Nameless Deck-Hand`...
 but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
 
+Dice give aspects mechanical power.
+When you are called upon to roll, figure out with your group which of your character's aspects is most appropriate and note the rating.
+Then pick up four dice, throw them, and total up the results and add the rating to determine the result.
+Each die face has the following values:
+
+| Die Face  | Value |
+|:---------:|:-----:|
+| {{neg}}   | -1    |
+| {{zero}}  | 0     |
+| {{pos}}   | +1    |
+
+Compare the result to the opposition.
+Opposition is either passive or active.
+<!-- Passive is just creating an aspect -->
+Passive opposition is a target number set by the GM.
+<!-- Active is just harming people? -->
+Active opposition is determined by another player's roll.
+The difference between your result and the opposition is called the shift.
+For example, if your roll equals the opposition, you have 0 shifts.
+If you beat the opposition by 1, you have 1 shift.
+Shifts provide bonuses or penalties depending on the type of roll.
+
 Players can roll to:
 
 - Create an scene aspect with a free invocation
 - Destroy an scene aspect
 - Inflict stress on another character (typically an NPC)
 - Defend against someone inflicting stress on them
+
+### Creating An Aspect
 
 Sometimes the aspects describing a scene aren't the ones you want.
 Your character can create new aspects or destroy existing ones with a role.
