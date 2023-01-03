@@ -208,7 +208,7 @@ This dichotomy gives each PC quantitative strengths and weaknesses, while still 
 
 ## Rolling the Dice
 
-Dice are an important part of {GameName} because they add unpredictability to the story, but that doesn't mean you need to roll for every little thing.
+Dice are an important part of {GameName} because they add surprise and excitement to the story, but that doesn't mean you need to roll for every little thing.
 As a general rule, the GM should prompt players for a roll in situations where a competent hero might reasonably fail _and_ failure adds an interesting twist to the story.
 For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off an attack by a `Nameless Deck-Hand`...
 but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
@@ -224,12 +224,8 @@ Each die face has the following values:
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-Compare the result to the opposition.
-Opposition is either passive or active.
-<!-- Passive is just creating an aspect -->
-Passive opposition is a target number set by the GM.
-<!-- Active is just harming people? -->
-Active opposition is determined by another player's roll.
+The GM will also roll four dice in the same manner to determine the opposition.
+<!-- TODO: Where do we mention difficulty modifiers and NPC aspect modifiers?! -->
 The difference between your result and the opposition is called the shift.
 For example, if your roll equals the opposition, you have 0 shifts.
 If you beat the opposition by 1, you have 1 shift.
@@ -237,8 +233,9 @@ Shifts provide bonuses or penalties depending on the type of roll.
 
 Players can roll to:
 
-- Create an scene aspect with a free invocation
-- Destroy an scene aspect
+<!-- TODO: Is this it? -->
+
+- Create, modify, or destroy a scene aspect with a free invocation
 - Inflict stress on another character (typically an NPC)
 - Defend against someone inflicting stress on them
 
@@ -249,7 +246,10 @@ Your character can create new aspects or destroy existing ones with a role.
 To do so, the player states their intention and the GM sets a difficulty from 0 (easy) to 6 (hard).
 The player rolls their dice, sums the result, and adds any appropriate character aspect value (0 if none of their aspects fit the situation).
 If this total meets or beats the GM's difficulty, they succeed.
-When creating an aspect, the player gets one free invocation; they get an additional invocation if they succeed with style by beating the target number by 2 or more.
+When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style by having a shift of 2 or more.
+
+<!-- TODO: Add drawing of card/whiteboard with aspect, innvocation.
+Probably as a play example. -->
 
 <!-- TODO: Define invocation -->
 
