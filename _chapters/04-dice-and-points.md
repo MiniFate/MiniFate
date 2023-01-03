@@ -24,33 +24,6 @@ PCs' lives at just the wrong moment.
 
 ### Skill Rolls {% comment %} TODO #58 Clean up skills: https://github.com/MiniFate/MiniFate/issues/58 {% endcomment %}
 
-Dice are an important part of {GameName}, but that doesn't mean you need to roll
-for every little thing. As a general rule, the GM should prompt players for a
-roll in situations where a competent hero might reasonably fail _and_ failure
-adds an interesting twist to the story. For example, a `Swashbuckling
-Genius` probably doesn't need to roll to fend off an attack by a `Nameless
-Deck-Hand`... but she might roll `Fight` to subdue him before his friends
-escape, or `Network` to recognize him as a `Student of the Blade Dancers`.
-
-Players can roll to:
-
-- Create a scene aspect with a free invocation
-- Destroy a scene aspect
-- Inflict stress on another character (typically an NPC)
-- Defend against someone inflicting stress on them
-{% comment %} What about making people believe you? Is that stress? Is that an aspect?
-{% endcomment %}
-
-Sometimes the aspects describing a scene aren't the ones you want. Your
-character can create new aspects or destroy existing ones with a role. To do
-so, the player states their intention and the GM sets a difficulty from 0
-(easy) to 6 (hard) and which skill needs to be rolled. The player rolls their
-dice, sums the result, and adds their skill value (0 if they don't have the
-skill). If this total meets or beats the GMs difficulty, they succeed. When
-creating an aspect, the player gets one free invocation; they get an
-additional invocation if they succeed with style by beating the target number
-by 2 or more.
-
 > Tor Byron and Naka were waiting in a warehouse up by the docks for a contact
 > when they notice some thugs approaching. True to her aspect `Never Met A
 > Problem My Magic Couldn't Ignite`, Naka thinks things would go better if
