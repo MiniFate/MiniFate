@@ -169,9 +169,8 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Trouble: | `Old Habits, New Responsibilities`            |
 
 In {GameName}, characters have some mechanical "crunch" in addition to their aspects.
-Aspects are given ratings that help their character perform actions.
-The Concept aspect is rated at +2 and the Trouble aspect is rated at +1.
-Additionally, characters have a refresh rate of two and three consequences.
+They have a refresh rate of two and three consequences.
+<!-- TODO: Link to the right section -->
 More details on how these mechanics work will be discussed in the section on performing actions.
 
 ## Non-Player Characters
@@ -214,8 +213,12 @@ For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off 
 but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
 
 Dice give aspects mechanical power.
-When you are called upon to roll, figure out with your group which of your character's aspects is most appropriate and note the rating.
-Then pick up four dice, throw them, and total up the results and add the rating to determine the result.
+When you are called upon to roll you:
+
+1. Figure out with your group which if any of your character's aspects is most appropriate.
+2. If you have an appropriate aspect, get a +2 bonus.
+3. Then pick up four dice, throw them, and total up the results.
+
 Each die face has the following values:
 
 | Die Face  | Value |
@@ -225,11 +228,8 @@ Each die face has the following values:
 | {{pos}}   | +1    |
 
 The GM will also roll four dice in the same manner to determine the opposition.
-<!-- TODO: Where do we mention difficulty modifiers and NPC aspect modifiers?! -->
-The difference between your result and the opposition is called the shift.
-For example, if your roll equals the opposition, you have 0 shifts.
-If you beat the opposition by 1, you have 1 shift.
-Shifts provide bonuses or penalties depending on the type of roll.
+If you role ties or beats the opposition, then you succeed.
+If you beat the opposition by 2 or more you succeed with style, which gives you an extra bonus depending on the type of roll.
 
 Players can roll to:
 
@@ -246,7 +246,7 @@ Your character can create new aspects or destroy existing ones with a role.
 To do so, the player states their intention and the GM sets a difficulty from 0 (easy) to 6 (hard).
 The player rolls their dice, sums the result, and adds any appropriate character aspect value (0 if none of their aspects fit the situation).
 If this total meets or beats the GM's difficulty, they succeed.
-When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style by having a shift of 2 or more.
+When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style.
 
 <!-- TODO: Add drawing of card/whiteboard with aspect, innvocation.
 Probably as a play example. -->
@@ -314,15 +314,15 @@ Pretty much the same as roleplaying, but:
 ## Stress and Consequences
 
 <!-- TODO: Are all aspects rated? And you invoke them you get the bonus??! -->
-PCs have three Consequence aspects, with ratings of +1, +2, +3.
+PCs have three Consequence aspects.
 These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
 Consequence aspects allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
 
-NPCs can have different number and ratings of Consequence aspects.
-For example, a very challenging NPC might have several low-rating Consequence aspects to allow them to withstand a lot of harm.
+NPCs can have different number of Consequence aspects.
+For example, a very challenging NPC might have several Consequence aspects to allow them to withstand a lot of harm.
 <!-- TODO: How does this all work? -->
 On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
-The number and rating of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
+The number of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
 
 If a character fills in all of their Consequence aspects, they are removed from the current conflict.
 This does not mean the character is "dead"---many classic stories have the hero or villain appear to meet their end only to show up at an critical moment.
