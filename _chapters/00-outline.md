@@ -215,9 +215,9 @@ but she might roll to subdue him before his friends escape, or to recognize him 
 Dice give aspects mechanical power.
 When you are called upon to roll you:
 
-1. Figure out with your group which if any of your character's aspects is most appropriate.
-2. If you have an appropriate aspect, get a +2 bonus.
-3. Then pick up four dice, throw them, and total up the results.
+1. Roll four dice and add up result.
+2. Invoke one of your character aspects for free, if it is appropriate for the action. Invoking an aspect gives a +2 bonus.
+3. You may also invoke additional aspects that make narrative sense. Each invocation costs one fate point and gives a +2 bonus.
 
 Each die face has the following values:
 
@@ -227,9 +227,13 @@ Each die face has the following values:
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
+<!-- TODO: Should this be a list? Table? Very verbose right now. -->
+<!-- TODO: Also should we have keywords (like 'succeed at cost') special in someway? -->
 The GM will also roll four dice in the same manner to determine the opposition.
-If you role ties or beats the opposition, then you succeed.
-If you beat the opposition by 2 or more you succeed with style, which gives you an extra bonus depending on the type of roll.
+If your roll ties the opposition, you succeed at cost.
+If your roll beats the opposition you succeed.
+If your roll beats the opposition by 2 or more you succeed with style, which gives you an extra bonus depending on the type of roll.
+Otherwise you fail.
 
 Players can roll to:
 
