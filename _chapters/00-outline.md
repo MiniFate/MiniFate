@@ -370,9 +370,10 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 > </figure>
 >
 > Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
-> Tor Byorn's player decides the Dwarf has had enough enough and roles `Agility` to create the aspect `Flying Leap` which gives him the ability to cross the intervening zones.
+> Tor Byorn's player decides the Dwarf has had enough enough.
+> He roles to create the aspect `Flying Leap` which would give him the ability to cross the intervening zones.
 > If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
-> Well, it is a very long way down.
+> Well, it is `A Very Long Way Down`.
 
 # Appendix
 
