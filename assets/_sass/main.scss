@@ -166,6 +166,20 @@ span.nowrap {
   white-space: nowrap;
 }
 
+// Map images
+figure.map {
+
+  img {
+    display: block;
+    margin: auto;
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: $text-sm;
+  }
+}
+
 // Example gameplay uses blockquotes
 blockquote {
   border: 0.15em solid $tango-dark-grey;
