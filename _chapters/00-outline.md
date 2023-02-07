@@ -361,11 +361,19 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 > The {BoatName} is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
 > There are three zones on the board: The {BoatName}, the sky, and the outpost.
 > The sky has the aspect `A Very Long Way Down`.
+> <figure class="map">
+>   <img
+      src="images/boat_and_tower_map.svg"
+      alt="A map showing a roughly boat shapped object on the left labeled '{BoatName}'. On the boat is drawn a cirlce labeled 'Tor Byorn'. On the right side is a rounded square labeled 'Outpost'. Between the boat and the outpost are the text 'Sky' and the aspect 'A very long way down' written under it in a smaller font."
+    />
+>   <figcaption>The map sketched by the GM, showing the three zones, the aspect for the Sky, and Tor Byorn's position.</figcaption>
+> </figure>
 >
 > Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
-> Tor Byorn's player decides the Dwarf has had enough enough and roles `Agility` to create the aspect `Flying Leap` which gives him the ability to cross the intervening zones.
+> Tor Byorn's player decides the Dwarf has had enough enough.
+> He roles to create the aspect `Flying Leap` which would give him the ability to cross the intervening zones.
 > If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
-> Well, it is a very long way down.
+> Well, it is `A Very Long Way Down`.
 
 # Appendix
 
