@@ -168,10 +168,17 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
 > | Trouble: | `Old Habits, New Responsibilities`            |
 
+Each PC also has a space for a third aspect, called a Consequence.
+Leave this one blank for now.
+It'll get filled in during conflicts.
+
+TODO: do PCs gain aspects as they level up? Probably yes, so tweak above wording
+
 In {GameName}, characters have some mechanical "crunch" in addition to their aspects.
-They have a refresh rate of two and three consequences.
-<!-- TODO: Link to the right section -->
-More details on how these mechanics work will be discussed in the section on performing actions.
+
+TODO: refresh. Is this a property of the character or does everyone just get two?
+
+TODO: PCs also have three stress boxes. Or maybe just two? These are used to soak up damage during conflicts (see ...)
 
 ## Non-Player Characters
 
@@ -186,9 +193,14 @@ NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs 
 Recurring NPCs can have a few aspects with appropriate values.
 If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
+TODO: Is the mob an NPC, or is each character within the mob an NPC? Need to make sure we are consistent.
+
 The GM can even bundle multiple NPCs together on the same character sheet!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even as the PCs interact with a large number of NPCs.
+
+NPCs generally have one stress box per aspect.
+However, the GM may want to add a few extra boxes if they're using a single character sheet to represent a group of NPCs.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
@@ -212,14 +224,14 @@ As a general rule, the GM should prompt players for a roll in situations where a
 For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off an attack by a `Nameless Deck-Hand`...
 but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
 
-Dice give aspects mechanical power.
-When you are called upon to roll you:
+TODO: make this pretty
 
-1. Roll four dice and add up result.
-2. Invoke one of your character aspects for free, if it is appropriate for the action. Invoking an aspect gives a +2 bonus.
-3. You may also invoke additional aspects that make narrative sense. Each invocation costs one fate point and gives a +2 bonus.
-
-Each die face has the following values:
+- The GM sets a target number for the roll. This is public. Don't roll until the target is set. 
+- TODO: does the GM pull a target out of their ass? Do they (like players) start from zero and invoke aspects? Do bigger baddies just start with more fate points?
+- TODO: Does the GM always roll, even when there is no opposing NPC? I think yes, for a consistent probability distribution
+- When prompted, roll four dice and add them up per the table
+- You may also invoke aspects for bonuses. More on that below
+- If you have multiple free invokes on the same aspect, can you burn them all at once?
 
 | Die Face  | Value |
 |:---------:|:-----:|
@@ -227,21 +239,44 @@ Each die face has the following values:
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-<!-- TODO: Should this be a list? Table? Very verbose right now. -->
-<!-- TODO: Also should we have keywords (like 'succeed at cost') special in someway? -->
-The GM will also roll four dice in the same manner to determine the opposition.
-If your roll ties the opposition, you succeed at cost.
-If your roll beats the opposition you succeed.
-If your roll beats the opposition by 2 or more you succeed with style, which gives you an extra bonus depending on the type of roll.
-Otherwise you fail.
+If the player's roll (plus bonuses) matches or beats the target number, the player succeeds. 
+Success means the player gets to do one of the following:
 
-Players can roll to:
+- Create a scene aspect with a free invocation (usually just write a checkbox next to the aspect)
+- Add an additional free invocation to an existing scene aspect
+- Modify a scene aspect and add an additional free invocation (yuck we are talking about this a lot considering it's not defined yet)
+- Remove a scene aspect (any remaining free invocations are lost) 
+- Check a stress box on an opposing PC or NPC. If they have no boxes left, they're out of the scene. 
 
-<!-- TODO: Is this it? -->
+As with everything in {GameName}, the bottom line is it has to make sense with the story.
+If TBY is rolling to bluff at cards, it probably doesn't make sense to check a stress box on the bartender or create a scene aspect `Building On Fire`.
 
-- Create, modify, or destroy a scene aspect with a free invocation
-- Inflict stress on another character (typically an NPC)
-- Defend against someone inflicting stress on them
+Knocking a character out of the scene means just that: they don't get to do anything else until the scene is over.
+It's less about hurting the character and more about moving the story forward.
+
+- In a fight, it can mean they're killed. Or it can mean they're knocked unconscious, or they lose their nerve and flee, or they get jostled off the boat, etc. 
+- In a drinking contest, they're passed out or puking
+- In a game of cards, they're out of chips
+
+If a player succeeds by 3 (?) or more, they double the effect.
+The two effects need not be the same.
+For example, options incllude:
+
+- Create a scene aspect with two free invocations
+- Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
+- Modify `foo` to `bar`, adding a free invocation to it, and remove `baz`
+
+If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
+
+Rather than getting knocked out of the scene, a PC can take a consequence.
+This can only happen once (until it clears at the end of the story arc, see X).
+If you get hit again, you're out, and you keep the consequence.
+TODO: can big bad NPCs take consequences?
+
+Every roll has an immediate outcome.
+You never fail silently.
+But sometimes you might fail in a way that you don't yet understand.
+Example? TBY is keeping watch. GM asks for a roll. No good. GM creates the aspect `Sawing Logs` to suggest that TBY has fallen asleep at his post
 
 ### Creating An Aspect
 
