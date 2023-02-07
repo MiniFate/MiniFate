@@ -7,7 +7,7 @@ DOCKER_BUILD := DOCKER_BUILDKIT=1 docker build
 all: serve
 
 serve: image
-	docker run --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) bundle exec jekyll serve
+	docker run --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) bundle exec jekyll serve --watch --livereload
 
 # Interactive session within the image so you can poke around.
 debug: image

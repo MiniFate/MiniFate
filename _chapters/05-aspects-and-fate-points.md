@@ -160,7 +160,7 @@ invoked once per roll, so if both players want to invoke the same aspect the
 group should decide for which character it would be more beneficial. If no
 agreement can be reached, neither player may invoke it.
 
-> The _Angry Pig_ has been impounded for failure to pay import taxes. Tor
+> The {BoatName} has been impounded for failure to pay import taxes. Tor
 > Byorn is trying to convince the officials to let it go in exchange for a
 > future payment. After rolling his `Persuasion` against their `Insight`, the
 > margin is -1, failure.
@@ -168,8 +168,8 @@ agreement can be reached, neither player may invoke it.
 > Tor Byorn's player holds up one of the poker chips the group uses for fate
 > points and says "As you know, I have `Lost My Boat in a Game of Cards`
 > before, and I'm not keen to lose another one." The GM takes the fate point
-> and Tor Byorn adds +2 to his roll, converting it into a success. The _Angry
-> Pig_ is released, for now, and the GM makes a note to come back to Tor
+> and Tor Byorn adds +2 to his roll, converting it into a success. The {BoatName}
+> is released, for now, and the GM makes a note to come back to Tor
 > Byorn's promise later.
 
 {% comment %} TODO #60: is two options dumb? https://github.com/MiniFate/MiniFate/issues/60 {% endcomment %}
@@ -203,7 +203,7 @@ The GM can compel a character aspects:
 
 The GM can also compel story aspects:
 
-> A goblin barge got the drop on the _Angry Pig_. Tor Byorn leaps to the barge
+> A goblin barge got the drop on the {BoatName}. Tor Byorn leaps to the barge
 > to distract the attackers while Naka and the rest of the crew prepare to
 > make a run for it.
 >
@@ -212,7 +212,7 @@ The GM can also compel story aspects:
 > across the deck and cut the wheel in half as you do. The barge is crippled!"
 > He writes down a new aspect `Spinning in circles`. "The won't be able to
 > follow you now... Or" he holds up a fate point, "Are they now on a collision
-> course with the _Angry Pig_, sure to tangle with your rigging and allowing
+> course with the {BoatName}, sure to tangle with your rigging and allowing
 > dozens of goblins to spill out on to your decks?"
 >
 > Tor Byorn's player thinks for a moment, takes the fate point, and calls out
