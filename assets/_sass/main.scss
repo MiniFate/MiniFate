@@ -233,3 +233,26 @@ ul > li:before {
   position: absolute;
   margin-left: -1.5em;
 }
+
+// Rule TODOs
+.todo {
+  border: 0.15em solid $tango-dark-grey;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: $tango-dark-grey;
+  color: white;
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
