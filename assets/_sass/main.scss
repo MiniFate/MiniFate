@@ -65,9 +65,13 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: $text-xxxl;
+  text-align: center;
 }
 
-h2 {font-size: $text-xxl;}
+h2 {
+  font-size: $text-xxl;
+  text-transform: uppercase;
+}
 
 h3 {font-size: $text-xl;}
 
