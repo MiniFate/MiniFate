@@ -13,6 +13,8 @@ So after the page is rendered, this layout replaces <del> with <span
 {% capture game_name_span %}<span class="game-title">{{ site.title }}</span>{% endcapture %}
 
 {% assign output = content
+    | replace: '<pre class="highlight"><code>', '<div class="todo">'
+    | replace: '</code></pre>', '</div>'
     | replace: '<code class="language-plaintext highlighter-rouge">', '<span class="aspect">'
     | replace: '</code>', '</span>'
     | replace: '{GameName}', game_name_span

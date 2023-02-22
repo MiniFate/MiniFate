@@ -172,13 +172,19 @@ Each PC also has a space for a third aspect, called a Consequence.
 Leave this one blank for now.
 It'll get filled in during conflicts.
 
-TODO: do PCs gain aspects as they level up? Probably yes, so tweak above wording
+```
+do PCs gain aspects as they level up? Probably yes, so tweak above wording
+```
 
 In {GameName}, characters have some mechanical "crunch" in addition to their aspects.
 
-TODO: refresh. Is this a property of the character or does everyone just get two?
+```
+refresh. Is this a property of the character or does everyone just get two?
+```
 
-TODO: PCs also have three stress boxes. Or maybe just two? These are used to soak up damage during conflicts (see ...)
+```
+PCs also have three stress boxes. Or maybe just two? These are used to soak up damage during conflicts (see ...)
+```
 
 ## Non-Player Characters
 
@@ -193,7 +199,9 @@ NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs 
 Recurring NPCs can have a few aspects with appropriate values.
 If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
-TODO: Is the mob an NPC, or is each character within the mob an NPC? Need to make sure we are consistent.
+```
+Is the mob an NPC, or is each character within the mob an NPC? Need to make sure we are consistent.
+```
 
 The GM can even bundle multiple NPCs together on the same character sheet!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
@@ -226,12 +234,14 @@ but she might roll to subdue him before his friends escape, or to recognize him 
 
 TODO: make this pretty
 
+```
 - The GM sets a target number for the roll. This is public. Don't roll until the target is set. 
 - TODO: does the GM pull a target out of their ass? Do they (like players) start from zero and invoke aspects? Do bigger baddies just start with more fate points?
 - TODO: Does the GM always roll, even when there is no opposing NPC? I think yes, for a consistent probability distribution
 - When prompted, roll four dice and add them up per the table
 - You may also invoke aspects for bonuses. More on that below
 - If you have multiple free invokes on the same aspect, can you burn them all at once?
+```
 
 | Die Face  | Value |
 |:---------:|:-----:|
@@ -271,7 +281,10 @@ If the player's roll falls short of the target, the results are the same, but it
 Rather than getting knocked out of the scene, a PC can take a consequence.
 This can only happen once (until it clears at the end of the story arc, see X).
 If you get hit again, you're out, and you keep the consequence.
-TODO: can big bad NPCs take consequences?
+
+```
+can big bad NPCs take consequences?
+```
 
 Every roll has an immediate outcome.
 You never fail silently.
@@ -343,7 +356,9 @@ This can include battles with mythical creatures or other enemies,
 negotiations to broker a peace treaty between warring factions,
 or even a race against time to see if the PCs can get to the capital ahead of their rival's army.
 
-<!-- TODO: Do we still have turns? -->
+```
+Do we still have turns?
+```
 
 Pretty much the same as roleplaying, but:
 - Different pacing due to lots of rolls
@@ -352,14 +367,21 @@ Pretty much the same as roleplaying, but:
 
 ## Stress and Consequences
 
-<!-- TODO: Are all aspects rated? And you invoke them you get the bonus??! -->
+```
+Are all aspects rated? And you invoke them you get the bonus??!
+```
+
 PCs have three Consequence aspects.
 These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
 Consequence aspects allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
 
 NPCs can have different number of Consequence aspects.
 For example, a very challenging NPC might have several Consequence aspects to allow them to withstand a lot of harm.
-<!-- TODO: How does this all work? -->
+
+```
+How does this all work?
+```
+
 On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
 The number of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
 
@@ -367,16 +389,19 @@ If a character fills in all of their Consequence aspects, they are removed from 
 This does not mean the character is "dead"---many classic stories have the hero or villain appear to meet their end only to show up at an critical moment.
 But it does mean the character takes no more actions for the rest of the scene.
 
-<!-- TODO: Really?
+```
+Really?
 How does this next part work in practice?
-Gotta get a fate point right because the GM is narrating your character! -->
+Gotta get a fate point right because the GM is narrating your character!
+```
+
 The player can shape what happens to their PC by writing down their final Consequence aspect.
 The GM uses this aspect to craft the narrative.
 The player is given a Fate Point when their character is taken out, because losing narrative control is a Compel.
  
-<!-- TODO:
+```
 Recovery fits here too
--->
+```
 
 ## Drawing a Map
 
