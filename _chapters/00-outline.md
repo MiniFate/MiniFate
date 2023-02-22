@@ -5,7 +5,7 @@
 
 > NOTE: this outline is for dev work only. the final product will have an auto-generated TOC if any
 
-# Introduction
+## Introduction
 
 TODO: you don't care about what's in Robin Hood's backpack. You don't care about the cooldown timer when Thor calls down lightning. That's not what the story is about. Be in the moment. Let everything else slide.
 
@@ -21,7 +21,7 @@ They may tell an action story, where the PCs hack away at bloodthirsty monsters 
 Or it could be a story of exploration, where the PCs venture into deep space in search of a new home.
 It could even be a tale of political intrigue, where PCs build influence through secrets and scandals.
 
-## Who You Need
+### Who You Need
 
 To play {GameName}, you need one GM (game master) and at least two players.
 Each player takes on the role of a PC (player character).
@@ -33,7 +33,7 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 > TODO: introduce example players and GM. Also explain that these cutouts are for examples
 
-## What You Need
+### What You Need
 
 {GameName} requires a few things to get started:
 pens to write with,
@@ -59,7 +59,7 @@ Poker chips are perfect for this, but in a pinch you can just mark them down wit
 Do we need Fate dice? Not great to ask people to buy a weird thing, and not great that the modal outcome is zero.
 ```
 
-## Acknowledgements
+### Acknowledgements
 
 Bryan Fowler,
 Andy Julin,
@@ -72,7 +72,7 @@ Jan Zirnstein.
 
 TODO: Call out Evil Hat here too
 
-# Getting Started
+## Getting Started
 
 Before you can tell a story, you need a setting and some characters.
 
@@ -86,7 +86,7 @@ Before you can tell a story, you need a setting and some characters.
   Also gives you time to percolate before the story starts.
 - Characters and setting are both defined by aspects (see next section).
 
-## Core Concept: Aspects
+### Core Concept: Aspects
 
 At face value, an aspect is just a short phrase written down for the whole table to see.
 
@@ -97,7 +97,7 @@ At face value, an aspect is just a short phrase written down for the whole table
 - aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
 - writing good aspects. you can lean on inside jokes and pop culture.
 
-## Setting Creation
+### Setting Creation
 
 Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
@@ -129,7 +129,7 @@ Just write down enough to get you excited about it!
 > 
 > Who is the Pirate King? What authority does he hold? What happened to him? Alex, Barry, and the GM all start thinking about possible answers to those questions.
 
-## Character Creation
+### Character Creation
 
 Player characters (PCs) are mechanically simple but narratively diverse.
 To start each PC has two aspects: their concept and their trouble.
@@ -197,7 +197,7 @@ refresh. Is this a property of the character or does everyone just get two?
 PCs also have three stress boxes. Or maybe just two? These are used to soak up damage during conflicts (see ...)
 ```
 
-## Non-Player Characters
+### Non-Player Characters
 
 NPCs are the characters in the story that bring the world to life.
 They are created and played by the GM.
@@ -221,7 +221,7 @@ However, the GM may want to add a few extra boxes if they're using a single char
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
-# How to Play
+## How to Play
 
 The story in {GameName} plays out scene-by-scene.
 The GM generally opens each scene with a quick description.
@@ -234,7 +234,7 @@ That is, the player decides which NPCs to attack and which to barter with.
 The dice show whether a sword strikes home or a lie rings true.
 This dichotomy gives each PC quantitative strengths and weaknesses, while still allowing players the freedom to play their PCs in a way that feels true to them.
 
-## Rolling the Dice
+### Rolling the Dice
 
 Dice are an important part of {GameName} because they add surprise and excitement to the story, but that doesn't mean you need to roll for every little thing.
 As a general rule, the GM should prompt players for a roll in situations where a competent hero might reasonably fail _and_ failure adds an interesting twist to the story.
@@ -300,7 +300,7 @@ You never fail silently.
 But sometimes you might fail in a way that you don't yet understand.
 Example? TBY is keeping watch. GM asks for a roll. No good. GM creates the aspect `Sawing Logs` to suggest that TBY has fallen asleep at his post
 
-### Creating An Aspect
+#### Creating An Aspect
 
 Sometimes the aspects describing a scene aren't the ones you want.
 Your character can create new aspects or destroy existing ones with a role.
@@ -331,7 +331,7 @@ Rolling the dice isn't about difficulty.
 - Example of difficult but boring stuff...
 - Example of easy stuff where failure is interesting...
 
-## Fate Points
+### Fate Points
 
 At the beginning of each session, each player gets two fate points.
 
@@ -354,7 +354,7 @@ Maybe he's bad, and a degenerate gambler?
 Maybe he's great, but got cheated?
 Tagging the aspect allows us to flesh out that part of the story.
 
-# Conflicts
+## Conflicts
 
 <!-- TODO: Reword --> 
 Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
@@ -374,7 +374,7 @@ Pretty much the same as roleplaying, but:
 - Map, optionally, depending on the situation
 - Worrying about stress and consequences
 
-## Stress and Consequences
+### Stress and Consequences
 
 ```
 Are all aspects rated? And you invoke them you get the bonus??!
@@ -412,7 +412,7 @@ The player is given a Fate Point when their character is taken out, because losi
 Recovery fits here too
 ```
 
-## Drawing a Map
+### Drawing a Map
 
 <!-- TODO: Diagrams -->
 
@@ -444,28 +444,28 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 > If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
 > Well, it is `A Very Long Way Down`.
 
-# Appendix
+## Appendix
 
-## Mages, Mechs, and Mercs
+### Mages, Mechs, and Mercs
 
 How to do weird stuff.
 Aspect-based narration.
 Skills were actually the thing that made this weird.
 With just aspects, you can roll for whatever makes sense
 
-## Abstract Forces?
+### Abstract Forces?
 
 Time can be an NPC?
 The Orcs march on the fortress is a stress track?
 
-## Character Advancement
+### Character Advancement
 
 Add a new aspect after every story arc.
 Bump the rest up.
 Linear, not pyramid.
 Unclear if this is a core rule or not
 
-## Other Things?
+### Other Things?
 
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
