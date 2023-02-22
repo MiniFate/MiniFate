@@ -102,10 +102,15 @@ At face value, an aspect is just a short phrase written down for the whole table
 Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
+Talk them through as a group and write these two aspects down where everyone can see them.
+Don't worry about making them perfect. 
+You can come back and revise them later.
 
-Write the aspects down somewhere everyone can see them, but don't worry about making them perfect.
-They're just a starting point.
-You can update them as the story unfolds.
+Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
+This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
+Think of these aspects like the blurb on the back of a book, or the first trailer for a movie.
+The pieces don't all need to be there. 
+Just write down enough to get you excited about it!
 
 > Alex wants to play a swashbuckling pirate.
 > Barry wants to play a streetwise wizard.
@@ -121,8 +126,8 @@ You can update them as the story unfolds.
 >
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
-
-TODO: and just like that the players have created a new part of the world. There is a Pirate king, and he's gone missing. (But better writing)
+> 
+> Who is the Pirate King? What authority does he hold? What happened to him? Alex, Barry, and the GM all start thinking about possible answers to those questions.
 
 ## Character Creation
 
