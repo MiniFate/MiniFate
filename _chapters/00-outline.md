@@ -31,6 +31,8 @@ The GM and PCs are not opponents, even though the PCs and NPCs will often be ene
 Play is collaborative.
 Everyone at the table has the same goal: telling a good story and having a good time.
 
+> TODO: introduce example players and GM. Also explain that these cutouts are for examples
+
 ## What You Need
 
 {GameName} requires a few things to get started:
@@ -52,6 +54,10 @@ If you don't have specially marked Fate dice, you can use normal six-side dice a
 
 You'll also need a way to keep track of fate points for each player.
 Poker chips are perfect for this, but in a pinch you can just mark them down with pencil.
+
+```
+Do we need Fate dice? Not great to ask people to buy a weird thing, and not great that the modal outcome is zero.
+```
 
 ## Acknowledgements
 
@@ -166,7 +172,7 @@ Look for opportunities to interpret a PC's aspects in a way that gives the PC de
 >
 > {:.key-def}
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Old Habits, New Responsibilities`            |
+> | Trouble: | `Old Habits, New Responsibilities`             |
 
 Each PC also has a space for a third aspect, called a Consequence.
 Leave this one blank for now.
@@ -199,13 +205,11 @@ NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs 
 Recurring NPCs can have a few aspects with appropriate values.
 If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
-```
-Is the mob an NPC, or is each character within the mob an NPC? Need to make sure we are consistent.
-```
-
 The GM can even bundle multiple NPCs together on the same character sheet!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even as the PCs interact with a large number of NPCs.
+
+TODO: Is the mob a single NPC or many? Make sure our phrasing is consistent.
 
 NPCs generally have one stress box per aspect.
 However, the GM may want to add a few extra boxes if they're using a single character sheet to represent a group of NPCs.
