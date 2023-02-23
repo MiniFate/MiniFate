@@ -96,6 +96,7 @@ At face value, an aspect is just a short phrase written down for the whole table
 - aspects provide scaffolding for building out the story/world. introduce things that you can come back to later: people, places, relationships, technologies. `Hunted by the Sheriff of Nottingham`, `Disheartened Veteran of the Tenth Crusade` `something flying boat something`
 - aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
 - writing good aspects. you can lean on inside jokes and pop culture.
+- Building on each others' aspects is a big part of {GameName}. When writing them, you don't have to have the whole story figured out. Leave something to the imagination. Let the rest of the table poke at it and build on it.
 
 ### Setting Creation
 
@@ -131,31 +132,28 @@ Just write down enough to get you excited about it!
 
 ### Character Creation
 
-Player characters (PCs) are mechanically simple but narratively diverse.
-To start each PC has two aspects: their concept and their trouble.
+Each player character (PC) starts with two aspects.
+The first is the Concept.
+This aspect gives a high-level description of the character.
+Along with the setting aspects, a PC's concept should give a decent sense of who the PCs is and how they fit into the story.
+A few example Concepts to get your gears turning:
 
-Your PC's concept aspect answers the question "Who are you playing?"
-It describes what makes the PC a unique, exciting character.
-A character's concept alongside the setting aspects should give a good idea of who they are and how they'll play.
-Some example concepts are:
-`Rightful King Hiding in the Wild`,
-`Loner Hacker Who Knows The World Is Not What It Seems`,
-or `Backwater Farm Boy Looking to Join The Academy`.
+- `Cutthroat with a Conscience`
+- `Pastry Chef by Day, Freebooter by Night`
+- `The Queen's Favorite Pirate Hunter`
 
-Your PC's trouble aspect describes the sort of things that get in the PC's way and gives them depth.
-The trouble aspect is a good way for the player to indicate what sort of problems they would find interesting to deal with.
+```
+Are examples necessary here? (In addition to TBY and Naka below)
+```
 
-The trouble aspect should not necessarily be the thing that is most likely to cause the PC trouble, especially if it would be boring to deal with in game.
-A hardboiled detective might drink excessively, but `Can't Resist a Drink` might not add much roleplaying potential, whereas `Soft Spot for Losers Like Me` offers the GM and other players a lot of story hooks.
+A PC's other aspect is their Trouble.
+The Trouble fleshes out the PC by showing them from a less-flattering angle.
+It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
+Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path --- entangling them into the story in the process.
 
-Some example troubles are:
-`I Don't Know Which Side I'm On`,
-`Everyone I Get Close To Ends Up In Trouble`,
-or `My Past Is A Dangerous Mystery, Even to Me`.
-
-Neither character aspect is entirely good or entirely bad.
-The PC's concept could harm them from time-to-time while their trouble might actually help in certain circumstances.
-Look for opportunities to interpret a PC's aspects in a way that gives the PC depth or makes the game more exciting.
+- `Soft Spot for Losers Like Me`
+- `Everyone I Care About Gets Hurt`
+- `Secretly Two Kids in a Trenchcoat`
 
 > It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
 >
