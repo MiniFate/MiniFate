@@ -41,7 +41,10 @@
 <div class="character_sheet_section" markdown="1">
 ### Stress
 
-Stress Boxes: <input type="checkbox"> <input type="checkbox">
+<label class="stress-box-label">Stress Boxes:
+  <input class="stress" type="checkbox">
+  <input class="stress" type="checkbox">
+</label>
 
 <label class="aspect-label" for="consequence">Consequence</label>
 <input id="consequence" class="aspect-box" type="text" name="Concept Aspect" placeholder="consequence">
