@@ -273,8 +273,8 @@ div.character-sheet {
   grid-template-areas:
   "name name name"
   "backstory backstory backstory"
-  "aspect aspect refresh"
-  "stressbox consequence fatepoints";
+  "aspect aspect fatepoints"
+  "stressbox consequence consequence";
   justify-content: stretch;
   align-content: stretch;    
 }
@@ -299,6 +299,26 @@ div#aspects {
   grid-column: span 2;
 }
 
+div#aspects {
+  grid-area: "aspect";
+  grid-column: span 2;
+}
+
+div#fate-points {
+  grid-area: "fatepoints";
+  grid-column: span 1;
+  //border: 0.1em solid $tango-light-grey;
+}
+
+div#stress {
+  grid-area: "stressbox";
+  grid-column: span 1;
+}
+
+div#consequence {
+  grid-area: "consequence";
+  grid-column: span 2;
+}
 
 @mixin placeholder-text-style ($color, $font-variant, $text-transform) {
   &::-webkit-input-placeholder {

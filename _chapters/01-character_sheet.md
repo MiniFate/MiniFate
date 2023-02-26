@@ -10,6 +10,7 @@
 -->{% endcomment %}
 
 <div class="character-sheet">
+
 <div id="character-name" class="character-sheet-section" markdown="1">
 <h3 id="character-name"><label class="aspect-label" for="name">Name</label></h3>
 <input id="name" class="character-name" type="text" name="Character Name" placeholder="Character Name">
@@ -35,25 +36,24 @@
 
 </div>
 
-<div class="character-sheet-section" markdown="1">
-### Refresh
+<div id="fate-points" class="character-sheet-section" markdown="1">
+Fate Points: 2
 
-2
+Refresh: 2
 </div>
 
-<div class="character-sheet-section" markdown="1">
-### Fate Points
-
-2
-</div>
-
-<div class="character-sheet-section" markdown="1">
+<div id="stress" class="character-sheet-section" markdown="1">
 ### Stress
 
 <label class="stress-box-label">Stress Boxes:
   <input class="stress" type="checkbox">
   <input class="stress" type="checkbox">
 </label>
+
+</div>
+
+<div id="consequence" class="character-sheet-section" markdown="1">
+### Consequence
 
 <label class="aspect-label" for="consequence">Consequence</label>
 <input id="consequence" class="aspect-box" type="text" name="Concept Aspect" placeholder="consequence">
