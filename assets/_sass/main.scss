@@ -262,6 +262,44 @@ ul > li:before {
 }
 
 // Character Sheet
+div.character-sheet h3 {
+  margin-top: 0;
+}
+
+div.character-sheet {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 0.1fr repeat(3, 1fr);
+  grid-template-areas:
+  "name name name"
+  "backstory backstory backstory"
+  "aspect aspect refresh"
+  "stressbox consequence fatepoints";
+  justify-content: stretch;
+  align-content: stretch;    
+}
+
+div.character-sheet-section {
+  //justify-self: start;
+  //align-self: start;
+}
+
+div#character-name {
+  grid-area: "name";
+  grid-column: span 3;
+}
+
+div#character-backstory {
+  grid-area: "backstory";
+  grid-column: span 3;
+}
+
+div#aspects {
+  grid-area: "aspect";
+  grid-column: span 2;
+}
+
+
 @mixin placeholder-text-style ($color, $font-variant, $text-transform) {
   &::-webkit-input-placeholder {
     color: $color;
@@ -302,20 +340,35 @@ ul > li:before {
   }
 }
 
-input[type=text] {
-  width: 50%;
-  border: none;
-  border-bottom: 0.1em solid $tango-dark-grey;
-  // This text styling is just for entered text
+textarea {
+  border: 0.1em solid $tango-light-grey;
   font-family: $serif-font-family;
   font-size: $text-sm;
-  font-variant: small-caps;
-  text-transform: lowercase;
-  color: $tango-dark-red;
+}
+
+input[type=text] {
+  width: 80%;
+  border: none;
+  border-bottom: 0.1em solid $tango-dark-grey;
+  font-family: $serif-font-family;
+
+  &.character-name {
+    font-size: $text-lg;
+    color: black;
+  }
+
+  &.aspect-box {
+    font-size: $text-sm;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    color: $tango-dark-red;
+  }
 
   // Style placeholder text (which is different for every damn browser
   @include placeholder-text-style($tango-dark-grey, none, capitalize);
+}
 
+input[type=text].aspect-box {
 }
 
 // Stress checkboxes
