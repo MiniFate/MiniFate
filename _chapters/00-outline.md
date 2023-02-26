@@ -37,9 +37,11 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 {GameName} requires a few things to get started:
 pens to write with,
-paper to record your character on,
+paper to [record your character on][character_sheet],
 a set of four Fate dice,
 and some tokens to represent Fate Points.
+
+[character_sheet]: /character_sheet.html
 
 Fate dice (sometimes called Fudge dice) are six-sided dice.
 They are marked with {{pos}} on two sides, {{zero}} on two sides, and {{neg}} on two sides.
