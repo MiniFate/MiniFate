@@ -98,10 +98,14 @@ a {
   }
 }
 
-span.aspect {
+@mixin aspect-style () {
     color: $tango-dark-red;
     font-variant: small-caps;
     text-transform: lowercase;
+}
+
+span.aspect {
+  @include aspect-style();
 }
 
 span.skill {
@@ -260,3 +264,168 @@ ul > li:before {
     margin-bottom: 0;
   }
 }
+
+// Character Sheet
+div.character-sheet h3 {
+  margin-top: 0;
+}
+
+div.character-sheet {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 0.1fr repeat(3, 1fr);
+  grid-template-areas:
+  "name name name"
+  "backstory backstory backstory"
+  "aspect aspect fatepoints"
+  "stressbox consequence consequence";
+  justify-content: stretch;
+  align-content: stretch;    
+}
+
+div#character-name {
+  grid-area: name;
+  grid-column: span 3;
+}
+
+div#character-backstory {
+  grid-area: backstory;
+  grid-column: span 3;
+}
+
+div#aspects {
+  grid-area: aspect;
+  grid-column: span 2;
+}
+
+div#fate-points {
+  grid-area: fatepoints;
+  grid-column: span 1;
+  align-self: center;
+}
+
+div#stress {
+  grid-area: stressbox;
+  grid-column: span 1;
+}
+
+div#consequence {
+  grid-area: consequence;
+  grid-column: span 2;
+}
+
+label.stress-box-label, label.consequence-label {
+  display: none;
+}
+
+div#fate-points {
+  display: flex;
+}
+
+div.fate-points-block {
+  flex-grow: 1;
+  flex-basis: auto;
+  font-family: $serif-font-family;
+  font-size: $text-sm;
+  text-align: center;
+}
+
+span.fate-points-number {
+  font-size: $text-lg;
+}
+
+@mixin placeholder-text-style ($color, $font-variant, $text-transform) {
+  &::-webkit-input-placeholder {
+    color: $color;
+    font-variant: $font-variant;
+    text-transform: $text-transform;
+  }
+  /* Firefox 4-18 */
+  &:-moz-placeholder {
+    color: $color;
+    font-variant: $font-variant;
+    text-transform: $text-transform;
+    opacity: 1;
+  }
+  /* Firefox 19+ */
+  &::-moz-placeholder {
+    color: $color;
+    font-variant: $font-variant;
+    text-transform: $text-transform;
+    opacity: 1;
+  }
+  /* IE 10-11 */
+  &:-ms-input-placeholder {
+    color: $color;
+    font-variant: $font-variant;
+    text-transform: $text-transform;
+  }
+  /* Edge */
+  &::-ms-input-placeholder {
+    color: $color;
+    font-variant: $font-variant;
+    text-transform: $text-transform;
+  }
+  /* MODERN BROWSER */
+  &::placeholder {
+    color: $color;
+    font-variant: $font-variant;
+    text-transform: $text-transform;
+  }
+}
+
+textarea {
+  border: 0.1em solid $tango-light-grey;
+  font-family: $serif-font-family;
+  font-size: $text-sm;
+  width: 100%;
+  // Prevent overflowing the div
+  // https://stackoverflow.com/questions/628500/can-i-stop-100-width-text-boxes-from-extending-beyond-their-containers
+  box-sizing: border-box;
+}
+
+input[type=text] {
+  border: none;
+  border-bottom: 0.1em solid black;
+  font-family: $serif-font-family;
+  width: 100%;
+  // Prevent overflowing the div
+  // https://stackoverflow.com/questions/628500/can-i-stop-100-width-text-boxes-from-extending-beyond-their-containers
+  box-sizing: border-box;
+
+  &.character-name {
+    font-size: $text-lg;
+    color: black;
+  }
+
+  &.aspect-box {
+    font-size: $text-sm;
+    @include aspect-style();
+  }
+
+  // Style placeholder text (which is different for every damn browser
+  @include placeholder-text-style($tango-dark-grey, none, capitalize);
+}
+
+// Stress checkboxes
+input[type="checkbox"].stress {
+    -webkit-appearance:none;
+    width: 4em;
+    height: 4em;
+    background:white;
+    border: 0.2em solid $tango-dark-grey;
+
+    &:checked {
+      background: $tango-dark-red;
+    }
+}
+
+
+// Page breaks when printed
+// From: https://stackoverflow.com/a/1664058
+@media print {
+  .pagebreak {
+    page-break-before: always;
+  } 
+}
+
