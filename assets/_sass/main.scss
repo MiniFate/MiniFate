@@ -283,11 +283,6 @@ div.character-sheet {
   align-content: stretch;    
 }
 
-div.character-sheet-section {
-  //justify-self: start;
-  //align-self: start;
-}
-
 div#character-name {
   grid-area: name;
   grid-column: span 3;
@@ -306,7 +301,6 @@ div#aspects {
 div#fate-points {
   grid-area: fatepoints;
   grid-column: span 1;
-  //border: 0.1em solid $tango-light-grey;
   align-self: center;
 }
 

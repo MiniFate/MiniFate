@@ -14,7 +14,7 @@
 {% comment %} Name {% endcomment %}
 <div id="character-name" class="character-sheet-section" markdown="1">
 <h3 id="character-name"><label class="aspect-label" for="name">Name</label></h3>
-<input id="name" class="character-name" type="text" name="Character Name" placeholder="Character Name">
+<input id="name" class="character-name" type="text" name="Character Name">
 
 </div>
 
@@ -31,10 +31,10 @@
 ### Aspects
 
 <label class="aspect-label" for="concept">Concept</label>
-<input id="concept" class="aspect-box" type="text" name="Concept Aspect" placeholder="Concept">
+<input id="concept" class="aspect-box" type="text" name="Concept Aspect">
 
 <label class="aspect-label" for="trouble">Trouble</label>
-<input id="trouble" class="aspect-box" type="text" name="Concept Aspect" placeholder="Trouble">
+<input id="trouble" class="aspect-box" type="text" name="Concept Aspect">
 
 </div>
 
@@ -70,7 +70,7 @@
 ### Consequence
 
 <label class="aspect-label consequence-label" for="consequence">Consequence</label>
-<input id="consequence" class="aspect-box" type="text" name="Concept Aspect" placeholder="consequence">
+<input id="consequence" class="aspect-box" type="text" name="Concept Aspect">
 </div>
 
 </div>
