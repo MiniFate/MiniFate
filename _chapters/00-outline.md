@@ -90,11 +90,19 @@ Before you can tell a story, you need a setting and some characters.
 
 ### Core Concept: Aspects
 
-At face value, an aspect is just a short phrase written down for the whole table to see.
+Aspects are the most important part of {GameName}.
+An Aspect is just a short phrase written down for the whole table to see.
+They can be used to describe anything---people, places, things, relationships, scenes---as long as it is important to the story.
 
-- aspects are short improvised phrases. can be about anything: people, places, things, relationships, scenes, overall setting.
-- aspects are true. otherwise, rewrite it or get rid of it.
-- aspects keep everyone on the same page about what's important. the focus of the scene. like lighting or music or director's notes in a movie. depending on the framing, TODO FOOBAR can be tense or sad or sexy.
+Aspects define reality in the game.
+They are always true; when you make an Aspect you establish a fact about the world.
+If an Aspect stops being true, remove it or rewrite it.
+
+Aspects keep the players on the same page about what is happening and what is important to the story.
+They serve as a way for the players to collaboratively build the game world and lore.
+
+Aspects are how what is narratively important impacts the game mechanics.
+
 - aspects provide scaffolding for building out the story/world. introduce things that you can come back to later: people, places, relationships, technologies. `Hunted by the Sheriff of Nottingham`, `Disheartened Veteran of the Tenth Crusade` `something flying boat something`
 - aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
 - writing good aspects. you can lean on inside jokes and pop culture.
