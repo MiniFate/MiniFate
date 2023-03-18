@@ -78,16 +78,12 @@ TODO: Call out Evil Hat here too
 ## Getting Started
 
 Before you can tell a story, you need a setting and some characters.
+This is a collaborative process that involves everyone at the table.
+There is no right or wrong way to do it as long as everyone is happy in the end.
+We will walk you through the things that need to be decided by the players below.
 
-- This is a collaborative process. The whole table works together.
-- Come in with a general idea then riff off each other. 
-  You can bounce back and forth between setting and aspects. 
-  More art than science.
-- A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
-- It can take a while.
-  Nice to set aside the whole first session to figure out the setting and characters. 
-  Also gives you time to percolate before the story starts.
-- Characters and setting are both defined by aspects (see next section).
+It can take some time to get the setting and characters figured out,  so its best to dedicate your first session to it. 
+This also gives you some time after your first session to let the ideas you came up with develop.
 
 ### Core Concept: Aspects
 
@@ -100,6 +96,8 @@ At face value, an aspect is just a short phrase written down for the whole table
 - aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
 - writing good aspects. you can lean on inside jokes and pop culture.
 - Building on each others' aspects is a big part of {GameName}. When writing them, you don't have to have the whole story figured out. Leave something to the imagination. Let the rest of the table poke at it and build on it.
+- A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
+- Characters and setting are both defined by aspects (see next section).
 
 ### Setting Creation
 
