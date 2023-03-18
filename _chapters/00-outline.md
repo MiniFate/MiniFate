@@ -61,6 +61,7 @@ Do we need Fate dice? Not great to ask people to buy a weird thing, and not grea
 
 ### Acknowledgements
 
+Thanks to
 Bryan Fowler,
 Andy Julin,
 Andy Pokel,
@@ -69,6 +70,8 @@ Allan Straub,
 Evelyn Wu,
 and
 Jan Zirnstein.
+
+We could not have made {GameName} without your help playtesting!
 
 TODO: Call out Evil Hat here too
 
