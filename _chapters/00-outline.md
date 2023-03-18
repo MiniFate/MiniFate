@@ -7,10 +7,8 @@
 
 ## Introduction
 
-TODO: you don't care about what's in Robin Hood's backpack. You don't care about the cooldown timer when Thor calls down lightning. That's not what the story is about. Be in the moment. Let everything else slide.
-
-{GameName} is a role-playing game that takes that same theatricality to heart.
-Players get to decide what sort of story they're telling, and what details matter.
+{GameName} is a roleplaying game that emphasizes the importance of captivating characters, unique settings, and thrilling conflicts to great story telling.
+It uses Aspects to allow the players to focus their attention only on the details that matter.
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
 
