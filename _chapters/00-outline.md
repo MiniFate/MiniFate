@@ -79,10 +79,10 @@ TODO: Call out Evil Hat here too
 
 Before you can tell a story, you need a setting and some characters.
 This is a collaborative process that involves everyone at the table.
-There is no right or wrong way to do it as long as everyone is happy in the end.
-We will walk you through the things that need to be decided by the players below.
+Creating Aspects is more of an art than a science;
+there is no right or wrong way to do it as long as everyone is happy in the end.
 
-It can take some time to get the setting and characters figured out,  so its best to dedicate your first session to it. 
+It can take some time to get the setting and characters figured out, so its best to dedicate your first session to it. 
 This also gives you some time after your first session to let the ideas you came up with develop.
 
 ### Core Concept: Aspects
