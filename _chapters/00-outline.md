@@ -101,11 +101,13 @@ In that manner they serve as a way for the players to collaboratively build the 
 
 Aspects have mechanically value in the game as well.
 They give bonuses to characters when they take action that fit with the Aspect.
+They also give characters permission to take some actions that they might not be allowed to otherwise, because again, Aspects are always true.
+
+The characters and the world are defined by their Aspects.
+A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
+The next two sections will cover creating Aspects for your setting and characters.
 
 - writing good aspects. you can lean on inside jokes and pop culture.
-- When writing them, you don't have to have the whole story figured out. Leave something to the imagination. Let the rest of the table poke at it and build on it.
-- A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
-- Characters and setting are both defined by aspects (see next section).
 
 ### Setting Creation
 
