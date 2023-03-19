@@ -29,7 +29,11 @@ The GM and PCs are not opponents, even though the PCs and NPCs will often be ene
 Play is collaborative.
 Everyone at the table has the same goal: telling a good story and having a good time.
 
-> TODO: introduce example players and GM. Also explain that these cutouts are for examples
+> Example gameplay is one of the quickest ways to understand a roleplaying game.
+> Throughout the rules we will include examples in boxes like this one.
+>
+> In the examples, our PCs will be run by Alex and Barry.
+> Our GM is Gwen.
 
 ### What You Need
 
