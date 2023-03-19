@@ -77,7 +77,9 @@ Jan Zirnstein.
 
 We could not have made {GameName} without your help playtesting!
 
-TODO: Call out Evil Hat here too
+We would also like to thank [Evil Hat][evil_hat] for inspiring our rule system.
+
+[evil_hat]: https://evilhat.com/
 
 ## Getting Started
 
