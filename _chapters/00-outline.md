@@ -381,41 +381,12 @@ Pretty much the same as roleplaying, but:
 
 ### Stress and Consequences
 
-```
-Are all aspects rated? And you invoke them you get the bonus??!
-```
+Each PC has three stress boxes and a consequence aspect.
 
-PCs have three Consequence aspects.
-These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
-Consequence aspects allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
+Consequence aspect is a big deal. It clears at the end of a story arc.
 
-NPCs can have different number of Consequence aspects.
-For example, a very challenging NPC might have several Consequence aspects to allow them to withstand a lot of harm.
+NPCs generally have one stress box per aspect. NPCs generally do not get consequence aspects, though the GM might make an exception for recurring characters.
 
-```
-How does this all work?
-```
-
-On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
-The number of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
-
-If a character fills in all of their Consequence aspects, they are removed from the current conflict.
-This does not mean the character is "dead"---many classic stories have the hero or villain appear to meet their end only to show up at an critical moment.
-But it does mean the character takes no more actions for the rest of the scene.
-
-```
-Really?
-How does this next part work in practice?
-Gotta get a fate point right because the GM is narrating your character!
-```
-
-The player can shape what happens to their PC by writing down their final Consequence aspect.
-The GM uses this aspect to craft the narrative.
-The player is given a Fate Point when their character is taken out, because losing narrative control is a Compel.
- 
-```
-Recovery fits here too
-```
 
 ### Drawing a Map
 
