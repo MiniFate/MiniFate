@@ -101,11 +101,12 @@ Aspects define reality in the game.
 They are always true; when you create an Aspect you establish a fact about the world.
 If an Aspect stops being true, remove it or rewrite it.
 
-Aspects keep the players on the same page about what is happening and what is important to the story.
-When you write one down you don't have to have everything figured out; let other players add details with their own Aspects.
-In that manner they serve as a way for the players to collaboratively build the game world and lore.
+Aspects keep everyone on the same page about what is happening in the story and what is important.
+When you write down an Aspect you don't have to have every implication of it figured out.
+Exploring and expanding the world together as you play is a key part of {AspectRPG}.
+By letting other players fill in details with their own Aspects, the players can collaboratively build the game world and lore.
 
-Aspects have mechanically value in the game as well.
+Aspects have mechanical value in the game as well.
 They give bonuses to characters when they take action that fit with the Aspect.
 They also give characters permission to take some actions that they might not be allowed to otherwise, because again, Aspects are always true.
 
