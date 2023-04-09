@@ -7,19 +7,17 @@
 
 ## Introduction
 
-TODO: you don't care about what's in Robin Hood's backpack. You don't care about the cooldown timer when Thor calls down lightning. That's not what the story is about. Be in the moment. Let everything else slide.
-
-{GameName} is a role-playing game that takes that same theatricality to heart.
-Players get to decide what sort of story they're telling, and what details matter.
+{GameName} is a roleplaying game that emphasizes the importance of captivating characters, unique settings, and thrilling conflicts to great story telling.
+It uses Aspects to allow the players to focus their attention only on the details that matter.
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
 
----
-
+{% comment %} <!-- Do we need this? -->
 The players and the GM work together to tell stories about the adventures of the PCs.
 They may tell an action story, where the PCs hack away at bloodthirsty monsters in defense of civilization.
 Or it could be a story of exploration, where the PCs venture into deep space in search of a new home.
 It could even be a tale of political intrigue, where PCs build influence through secrets and scandals.
+{% endcomment %}
 
 ### Who You Need
 
@@ -31,7 +29,11 @@ The GM and PCs are not opponents, even though the PCs and NPCs will often be ene
 Play is collaborative.
 Everyone at the table has the same goal: telling a good story and having a good time.
 
-> TODO: introduce example players and GM. Also explain that these cutouts are for examples
+> Example gameplay is one of the quickest ways to understand a roleplaying game.
+> Throughout the rules we will include examples in boxes like this one.
+>
+> In the examples, our PCs will be run by Alex and Barry.
+> Our GM is Gwen.
 
 ### What You Need
 
@@ -63,6 +65,7 @@ Do we need Fate dice? Not great to ask people to buy a weird thing, and not grea
 
 ### Acknowledgements
 
+Thanks to
 Bryan Fowler,
 Andy Julin,
 Andy Pokel,
@@ -72,21 +75,21 @@ Evelyn Wu,
 and
 Jan Zirnstein.
 
-TODO: Call out Evil Hat here too
+We could not have made {GameName} without your help playtesting!
+
+We would also like to thank [Evil Hat][evil_hat] for inspiring our rule system.
+
+[evil_hat]: https://evilhat.com/
 
 ## Getting Started
 
 Before you can tell a story, you need a setting and some characters.
+This is a collaborative process that involves everyone at the table.
+Creating Aspects is more of an art than a science;
+there is no right or wrong way to do it as long as everyone is happy in the end.
 
-- This is a collaborative process. The whole table works together.
-- Come in with a general idea then riff off each other. 
-  You can bounce back and forth between setting and aspects. 
-  More art than science.
-- A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
-- It can take a while.
-  Nice to set aside the whole first session to figure out the setting and characters. 
-  Also gives you time to percolate before the story starts.
-- Characters and setting are both defined by aspects (see next section).
+It can take some time to get the setting and characters figured out, so its best to dedicate your first session to it. 
+This also gives you some time after your first session to let the ideas you came up with develop.
 
 ### Core Concept: Aspects
 
@@ -388,41 +391,12 @@ Pretty much the same as roleplaying, but:
 
 ### Stress and Consequences
 
-```
-Are all aspects rated? And you invoke them you get the bonus??!
-```
+Each PC has three stress boxes and a consequence aspect.
 
-PCs have three Consequence aspects.
-These aspects start the game blank and are filled in by the player when their PC is harmed by something, like a rival NPC or even the environment.
-Consequence aspects allow players to choose how their PCs are affected by failures, providing a sense of control over their character's story.
+Consequence aspect is a big deal. It clears at the end of a story arc.
 
-NPCs can have different number of Consequence aspects.
-For example, a very challenging NPC might have several Consequence aspects to allow them to withstand a lot of harm.
+NPCs generally have one stress box per aspect. NPCs generally do not get consequence aspects, though the GM might make an exception for recurring characters.
 
-```
-How does this all work?
-```
-
-On the other hand, a weak NPC might only have a single Consequence aspect, allowing them to be knocked out with a single good blow.
-The number of Consequence aspects for NPCs is determined by the GM as appropriate for the specific NPC and the situation.
-
-If a character fills in all of their Consequence aspects, they are removed from the current conflict.
-This does not mean the character is "dead"---many classic stories have the hero or villain appear to meet their end only to show up at an critical moment.
-But it does mean the character takes no more actions for the rest of the scene.
-
-```
-Really?
-How does this next part work in practice?
-Gotta get a fate point right because the GM is narrating your character!
-```
-
-The player can shape what happens to their PC by writing down their final Consequence aspect.
-The GM uses this aspect to craft the narrative.
-The player is given a Fate Point when their character is taken out, because losing narrative control is a Compel.
- 
-```
-Recovery fits here too
-```
 
 ### Drawing a Map
 
