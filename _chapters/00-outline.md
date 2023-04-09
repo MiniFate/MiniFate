@@ -93,17 +93,28 @@ This also gives you some time after your first session to let the ideas you came
 
 ### Core Concept: Aspects
 
-At face value, an aspect is just a short phrase written down for the whole table to see.
+Aspects are the most important feature of {GameName}.
+An Aspect is just a short phrase written down for the whole table to see.
+They can be used to describe anything---people, places, things, relationships, scenes---as long as it is important to the story.
 
-- aspects are short improvised phrases. can be about anything: people, places, things, relationships, scenes, overall setting.
-- aspects are true. otherwise, rewrite it or get rid of it.
-- aspects keep everyone on the same page about what's important. the focus of the scene. like lighting or music or director's notes in a movie. depending on the framing, TODO FOOBAR can be tense or sad or sexy.
-- aspects provide scaffolding for building out the story/world. introduce things that you can come back to later: people, places, relationships, technologies. `Hunted by the Sheriff of Nottingham`, `Disheartened Veteran of the Tenth Crusade` `something flying boat something`
-- aspects provide bonuses on rolls. there's a chapter about that later. probably do NOT introduce fate points here.
+Aspects define reality in the game.
+They are always true; when you create an Aspect you establish a fact about the world.
+If an Aspect stops being true, remove it or rewrite it.
+
+Aspects keep everyone on the same page about what is happening in the story and what is important.
+When you write down an Aspect you don't have to have every implication of it figured out.
+Exploring and expanding the world together as you play is a key part of {AspectRPG}.
+By letting other players fill in details with their own Aspects, the players can collaboratively build the game world and lore.
+
+Aspects have mechanical value in the game as well.
+They give bonuses to characters when they take action that fit with the Aspect.
+They also give characters permission to take some actions that they might not be allowed to otherwise, because again, Aspects are always true.
+
+The characters and the world are defined by their Aspects.
+A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
+The next two sections will cover creating Aspects for your setting and characters.
+
 - writing good aspects. you can lean on inside jokes and pop culture.
-- Building on each others' aspects is a big part of {GameName}. When writing them, you don't have to have the whole story figured out. Leave something to the imagination. Let the rest of the table poke at it and build on it.
-- A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
-- Characters and setting are both defined by aspects (see next section).
 
 ### Setting Creation
 
