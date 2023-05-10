@@ -154,24 +154,24 @@ Each player character (PC) starts with two aspects.
 The first is the Concept.
 This aspect gives a high-level description of the character.
 Along with the setting aspects, a PC's concept should give a decent sense of who the PCs is and how they fit into the story.
-A few example Concepts to get your gears turning:
+
+{% comment %}
+I think we should probably err on the side of brevity. The examples below are probably sufficient. But here are a few others to keep in our pocket.
 
 - `Cutthroat with a Conscience`
 - `Pastry Chef by Day, Freebooter by Night`
 - `The Queen's Favorite Pirate Hunter`
 
-```
-Are examples necessary here? (In addition to TBY and Naka below)
-```
+- `Soft Spot for Losers Like Me`
+- `Everyone I Care About Gets Hurt`
+- `Secretly Two Kids in a Trenchcoat`
+
+{% endcomment %}
 
 A PC's other aspect is their Trouble.
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
 Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path --- entangling them into the story in the process.
-
-- `Soft Spot for Losers Like Me`
-- `Everyone I Care About Gets Hurt`
-- `Secretly Two Kids in a Trenchcoat`
 
 > It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
 >
@@ -226,14 +226,12 @@ NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs 
 Recurring NPCs can have a few aspects with appropriate values.
 If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
-The GM can even bundle multiple NPCs together on the same character sheet!
+An NPC can even represent multiple people!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
-This helps keep bookkeeping manageable, even as the PCs interact with a large number of NPCs.
-
-TODO: Is the mob a single NPC or many? Make sure our phrasing is consistent.
+This helps keep bookkeeping manageable, even when scenes get busy.
 
 NPCs generally have one stress box per aspect.
-However, the GM may want to add a few extra boxes if they're using a single character sheet to represent a group of NPCs.
+However, the GM may want to add a few extra boxes if they're using a single NPC to represent a group.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
@@ -283,38 +281,22 @@ Success means the player gets to do one of the following:
 - Remove a scene aspect (any remaining free invocations are lost) 
 - Check a stress box on an opposing PC or NPC. If they have no boxes left, they're out of the scene. 
 
-As with everything in {GameName}, the bottom line is it has to make sense with the story.
-If TBY is rolling to bluff at cards, it probably doesn't make sense to check a stress box on the bartender or create a scene aspect `Building On Fire`.
-
-Knocking a character out of the scene means just that: they don't get to do anything else until the scene is over.
-It's less about hurting the character and more about moving the story forward.
-
-- In a fight, it can mean they're killed. Or it can mean they're knocked unconscious, or they lose their nerve and flee, or they get jostled off the boat, etc. 
-- In a drinking contest, they're passed out or puking
-- In a game of cards, they're out of chips
-
-If a player succeeds by 3 (?) or more, they double the effect.
+If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
+If a player beats the target number by 3 or more, they double the effect.
 The two effects need not be the same.
 For example, options incllude:
 
 - Create a scene aspect with two free invocations
 - Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
 - Modify `foo` to `bar`, adding a free invocation to it, and remove `baz`
+- Check a character's last stress box and tatke them out of the scene
 
-If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
-
-Rather than getting knocked out of the scene, a PC can take a consequence.
-This can only happen once (until it clears at the end of the story arc, see X).
-If you get hit again, you're out, and you keep the consequence.
-
-```
-can big bad NPCs take consequences?
-```
-
-Every roll has an immediate outcome.
-You never fail silently.
-But sometimes you might fail in a way that you don't yet understand.
-Example? TBY is keeping watch. GM asks for a roll. No good. GM creates the aspect `Sawing Logs` to suggest that TBY has fallen asleep at his post
+Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
+The details depend on what makes sense for the story. 
+In a swordfight, that may mean the character is wounded or killed.
+If the conflict is a drinking contest, maybe they're passed out or puking.
+In a game of cards, they could be out of chips or called out for cheating.
+It all depends on what makes sense and moves the story forward.
 
 #### Creating An Aspect
 
