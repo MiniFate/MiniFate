@@ -281,38 +281,22 @@ Success means the player gets to do one of the following:
 - Remove a scene aspect (any remaining free invocations are lost) 
 - Check a stress box on an opposing PC or NPC. If they have no boxes left, they're out of the scene. 
 
-As with everything in {GameName}, the bottom line is it has to make sense with the story.
-If TBY is rolling to bluff at cards, it probably doesn't make sense to check a stress box on the bartender or create a scene aspect `Building On Fire`.
-
-Knocking a character out of the scene means just that: they don't get to do anything else until the scene is over.
-It's less about hurting the character and more about moving the story forward.
-
-- In a fight, it can mean they're killed. Or it can mean they're knocked unconscious, or they lose their nerve and flee, or they get jostled off the boat, etc. 
-- In a drinking contest, they're passed out or puking
-- In a game of cards, they're out of chips
-
-If a player succeeds by 3 (?) or more, they double the effect.
+If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
+If a player beats the target number by 3 or more, they double the effect.
 The two effects need not be the same.
 For example, options incllude:
 
 - Create a scene aspect with two free invocations
 - Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
 - Modify `foo` to `bar`, adding a free invocation to it, and remove `baz`
+- Check a character's last stress box and tatke them out of the scene
 
-If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
-
-Rather than getting knocked out of the scene, a PC can take a consequence.
-This can only happen once (until it clears at the end of the story arc, see X).
-If you get hit again, you're out, and you keep the consequence.
-
-```
-can big bad NPCs take consequences?
-```
-
-Every roll has an immediate outcome.
-You never fail silently.
-But sometimes you might fail in a way that you don't yet understand.
-Example? TBY is keeping watch. GM asks for a roll. No good. GM creates the aspect `Sawing Logs` to suggest that TBY has fallen asleep at his post
+Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
+The details depend on what makes sense for the story. 
+In a swordfight, that may mean the character is wounded or killed.
+If the conflict is a drinking contest, maybe they're passed out or puking.
+In a game of cards, they could be out of chips or called out for cheating.
+It all depends on what makes sense and moves the story forward.
 
 #### Creating An Aspect
 
