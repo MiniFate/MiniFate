@@ -154,24 +154,24 @@ Each player character (PC) starts with two aspects.
 The first is the Concept.
 This aspect gives a high-level description of the character.
 Along with the setting aspects, a PC's concept should give a decent sense of who the PCs is and how they fit into the story.
-A few example Concepts to get your gears turning:
+
+{% comment %}
+I think we should probably err on the side of brevity. The examples below are probably sufficient. But here are a few others to keep in our pocket.
 
 - `Cutthroat with a Conscience`
 - `Pastry Chef by Day, Freebooter by Night`
 - `The Queen's Favorite Pirate Hunter`
 
-```
-Are examples necessary here? (In addition to TBY and Naka below)
-```
+- `Soft Spot for Losers Like Me`
+- `Everyone I Care About Gets Hurt`
+- `Secretly Two Kids in a Trenchcoat`
+
+{% endcomment %}
 
 A PC's other aspect is their Trouble.
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
 Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path --- entangling them into the story in the process.
-
-- `Soft Spot for Losers Like Me`
-- `Everyone I Care About Gets Hurt`
-- `Secretly Two Kids in a Trenchcoat`
 
 > It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
 >
@@ -226,14 +226,12 @@ NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs 
 Recurring NPCs can have a few aspects with appropriate values.
 If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
 
-The GM can even bundle multiple NPCs together on the same character sheet!
+An NPC can even represent multiple people!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
-This helps keep bookkeeping manageable, even as the PCs interact with a large number of NPCs.
-
-TODO: Is the mob a single NPC or many? Make sure our phrasing is consistent.
+This helps keep bookkeeping manageable, even when scenes get busy.
 
 NPCs generally have one stress box per aspect.
-However, the GM may want to add a few extra boxes if they're using a single character sheet to represent a group of NPCs.
+However, the GM may want to add a few extra boxes if they're using a single NPC to represent a group.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
