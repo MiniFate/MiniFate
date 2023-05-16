@@ -255,8 +255,6 @@ The GM should call for a roll only when failure is possible for a skilled here _
 A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
 She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
-TODO: make this pretty
-
 ```
 - The GM sets a target number for the roll. This is public. Don't roll until the target is set. 
 - TODO: does the GM pull a target out of their ass? Do they (like players) start from zero and invoke aspects? Do bigger baddies just start with more fate points?
@@ -272,7 +270,20 @@ TODO: make this pretty
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-If the player's roll (plus bonuses) matches or beats the target number, the player succeeds. 
+
+When a roll is called for, the player states their intended action.
+The GM then sets a difficulty from 0 (easy) to 6 (hard) depending on the situation.
+The player rolls four dice and sums the result.
+They add +2 for any applicable character aspects (0 if none apply).
+If their total meets or exceeds the difficulty set by the GM they succeed.
+If they beat the difficulty by 3 or more they succeed with style.
+Otherwise, they fail.
+
+Character aspects only provide a +2 to the role when it logically fits with the narrative.
+If there is disagreement, the GM has final say.
+
+What success, success with style, and failure mean depends on the action the PC was trying to take.
+
 Success means the player gets to do one of the following:
 
 - Create a scene aspect with a free invocation (usually just write a checkbox next to the aspect)
@@ -302,9 +313,6 @@ It all depends on what makes sense and moves the story forward.
 
 Sometimes the aspects describing a scene aren't the ones you want.
 Your character can create new aspects or destroy existing ones with a role.
-To do so, the player states their intention and the GM sets a difficulty from 0 (easy) to 6 (hard).
-The player rolls their dice, sums the result, and adds any appropriate character aspect value (0 if none of their aspects fit the situation).
-If this total meets or beats the GM's difficulty, they succeed.
 When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style.
 
 <!-- TODO: Add drawing of card/whiteboard with aspect, innvocation.
