@@ -250,10 +250,10 @@ This dichotomy gives each PC quantitative strengths and weaknesses, while still 
 
 ### Rolling the Dice
 
-Dice are an important part of {GameName} because they add surprise and excitement to the story, but that doesn't mean you need to roll for every little thing.
-As a general rule, the GM should prompt players for a roll in situations where a competent hero might reasonably fail _and_ failure adds an interesting twist to the story.
-For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off an attack by a `Nameless Deck-Hand`...
-but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
+Dice in {GameName} add drama surprise and excitement to the story.
+The GM should call for a roll only when failure is possible for a skilled here _and_ failure would add an interesting twist to the story.
+A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
+She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
 TODO: make this pretty
 
