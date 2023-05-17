@@ -256,10 +256,8 @@ A `Swashbuckling Genius` should succeed automatically in defending against the a
 She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
 ```
-- The GM sets a target number for the roll. This is public. Don't roll until the target is set. 
 - TODO: does the GM pull a target out of their ass? Do they (like players) start from zero and invoke aspects? Do bigger baddies just start with more fate points?
 - TODO: Does the GM always roll, even when there is no opposing NPC? I think yes, for a consistent probability distribution
-- When prompted, roll four dice and add them up per the table
 - You may also invoke aspects for bonuses. More on that below
 - If you have multiple free invokes on the same aspect, can you burn them all at once?
 ```
