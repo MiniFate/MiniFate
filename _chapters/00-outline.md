@@ -291,11 +291,14 @@ Success means the player gets to do one of the following:
 Does every success create an aspect?!
 ```
 
-- Create a scene aspect with a free invocation (usually just write a checkbox next to the aspect)
-- Add an additional free invocation to an existing scene aspect
-- Modify a scene aspect and add an additional free invocation (yuck we are talking about this a lot considering it's not defined yet)
-- Remove a scene aspect (any remaining free invocations are lost) 
-- Check a stress box on an opposing PC or NPC. If they have no boxes left, they're out of the scene. 
+- Create a scene aspect with one free invocation.
+- Add one free invocation to an existing scene aspect.
+- Change an existing scene aspect.
+  Add one free invocation.
+- Remove a scene aspect.
+  Any unused invocations are lost.
+- Check off one stress box on an opposing character.
+  When all boxes are marked, that character leaves the scene.
 
 If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
 If a player beats the target number by 3 or more, they double the effect.
