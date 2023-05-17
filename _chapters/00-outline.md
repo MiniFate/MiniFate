@@ -309,9 +309,9 @@ Or maybe images?
 - Check off one stress box on an opposing character.
   When all boxes are marked, that character leaves the scene.
 
-If the player's roll falls short of the target, the results are the same, but it's the GM that chooses.
-If a player beats the target number by 3 or more, they double the effect.
-The two effects need not be the same.
+Success with style means the player gets to pick any two options, including the same one twice.
+Failure means that instead of the player picking, the GM picks the result and uses it against the character.
+
 For example, options include:
 
 - Create a scene aspect with two free invocations
