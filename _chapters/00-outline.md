@@ -312,13 +312,6 @@ Or maybe images?
 Success with style means the player may choose any two options, including choosing the same option twice.
 Failure means the GM chooses one option to use against the character.
 
-For example, options include:
-
-- Create a scene aspect with two free invocations
-- Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
-- Modify `foo` to `bar`, adding a free invocation to it, and remove `baz`
-- Check a character's last stress box and take them out of the scene
-
 Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
 The details depend on what makes sense for the story.
 In a swordfight, that may mean the character is wounded or killed.
