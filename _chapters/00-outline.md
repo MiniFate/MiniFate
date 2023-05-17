@@ -282,7 +282,10 @@ Otherwise, they fail.
 Character aspects only provide a +2 to the role when it logically fits with the narrative.
 If there is disagreement, the GM has final say.
 
-What success, success with style, and failure mean depends on the action the PC was trying to take.
+```
+Do we talk about invocation here?
+It would define it before below, and you need it to roll.
+```
 
 Success means the player gets to do one of the following:
 
