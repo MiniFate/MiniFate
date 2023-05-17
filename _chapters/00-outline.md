@@ -307,17 +307,19 @@ Or maybe images?
 - Remove a scene aspect.
   Any unused invocations are lost.
 - Check off one stress box on an opposing character.
-  When all boxes are marked, that character leaves the scene.
+  When all boxes are marked, that character is taken out of the scene.
 
 Success with style means the player may choose any two options, including choosing the same option twice.
 Failure means the GM chooses one option to use against the character.
 
-Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
-The details depend on what makes sense for the story.
-In a swordfight, that may mean the character is wounded or killed.
-If the conflict is a drinking contest, maybe they're passed out or puking.
-In a game of cards, they could be out of chips or called out for cheating.
-It all depends on what makes sense and moves the story forward.
+Taking a character out of a scene means they cannot act further until the scene ends. The specifics depend on the narrative.
+For example:
+
+ -  In a sword fight, the character may be wounded or killed.
+ -  In a drinking contest, the character may pass out or get sick.
+ -  In a card game, the character could go broke or be accused of cheating.
+
+The details chosen should make sense for the story and progress the narrative.
 
 #### Creating An Aspect
 
