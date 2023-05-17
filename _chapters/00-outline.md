@@ -88,7 +88,7 @@ This is a collaborative process that involves everyone at the table.
 Creating Aspects is more of an art than a science;
 there is no right or wrong way to do it as long as everyone is happy in the end.
 
-It can take some time to get the setting and characters figured out, so its best to dedicate your first session to it. 
+It can take some time to get the setting and characters figured out, so its best to dedicate your first session to it.
 This also gives you some time after your first session to let the ideas you came up with develop.
 
 ### Core Concept: Aspects
@@ -122,13 +122,13 @@ Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
 Talk them through as a group and write these two aspects down where everyone can see them.
-Don't worry about making them perfect. 
+Don't worry about making them perfect.
 You can come back and revise them later.
 
 Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
 This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
 Think of these aspects like the blurb on the back of a book, or the first trailer for a movie.
-The pieces don't all need to be there. 
+The pieces don't all need to be there.
 Just write down enough to get you excited about it!
 
 > Alex wants to play a swashbuckling pirate.
@@ -145,7 +145,7 @@ Just write down enough to get you excited about it!
 >
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
-> 
+>
 > Who is the Pirate King? What authority does he hold? What happened to him? Alex, Barry, and the GM all start thinking about possible answers to those questions.
 
 ### Character Creation
@@ -300,10 +300,10 @@ Does every success create an aspect?!
 - Check off one stress box on an opposing character.
   When all boxes are marked, that character leaves the scene.
 
-If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
+If the player's roll falls short of the target, the results are the same, but it's the GM that chooses.
 If a player beats the target number by 3 or more, they double the effect.
 The two effects need not be the same.
-For example, options incllude:
+For example, options include:
 
 - Create a scene aspect with two free invocations
 - Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
@@ -311,7 +311,7 @@ For example, options incllude:
 - Check a character's last stress box and tatke them out of the scene
 
 Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
-The details depend on what makes sense for the story. 
+The details depend on what makes sense for the story.
 In a swordfight, that may mean the character is wounded or killed.
 If the conflict is a drinking contest, maybe they're passed out or puking.
 In a game of cards, they could be out of chips or called out for cheating.
@@ -370,7 +370,7 @@ Tagging the aspect allows us to flesh out that part of the story.
 
 ## Conflicts
 
-<!-- TODO: Reword --> 
+<!-- TODO: Reword -->
 Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
 But sometimes you will need to role a lot of dice; that is when you turn to conflicts.
 
@@ -409,7 +409,7 @@ Characters in the same zone can interact with each other and any object in the z
 However, they need permission from one of their aspects to interact with things outside the zone.
 A character may move to an adjacent zone on their turn in addition to their action.
 
-Zones can also have aspects, which may restrict free movement or visibility between zones. 
+Zones can also have aspects, which may restrict free movement or visibility between zones.
 Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
 
 > The {BoatName} is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
