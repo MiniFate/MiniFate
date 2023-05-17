@@ -291,6 +291,15 @@ Success means the player gets to do one of the following:
 Does every success create an aspect?!
 ```
 
+{% comment %}
+This list is hard to read.
+Maybe bold statements and then explanations?
+Like:
+**CREATE AN ASPECT**: Add a scene aspect with...
+
+Or maybe images?
+{% endcomment %}
+
 - Create a scene aspect with one free invocation.
 - Add one free invocation to an existing scene aspect.
 - Change an existing scene aspect.
@@ -308,7 +317,7 @@ For example, options include:
 - Create a scene aspect with two free invocations
 - Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
 - Modify `foo` to `bar`, adding a free invocation to it, and remove `baz`
-- Check a character's last stress box and tatke them out of the scene
+- Check a character's last stress box and take them out of the scene
 
 Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
 The details depend on what makes sense for the story.
