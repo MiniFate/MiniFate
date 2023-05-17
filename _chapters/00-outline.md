@@ -287,6 +287,10 @@ It would define it before below, and you need it to roll.
 
 Success means the player gets to do one of the following:
 
+```
+Does every success create an aspect?!
+```
+
 - Create a scene aspect with a free invocation (usually just write a checkbox next to the aspect)
 - Add an additional free invocation to an existing scene aspect
 - Modify a scene aspect and add an additional free invocation (yuck we are talking about this a lot considering it's not defined yet)
