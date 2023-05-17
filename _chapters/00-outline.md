@@ -309,8 +309,8 @@ Or maybe images?
 - Check off one stress box on an opposing character.
   When all boxes are marked, that character leaves the scene.
 
-Success with style means the player gets to pick any two options, including the same one twice.
-Failure means that instead of the player picking, the GM picks the result and uses it against the character.
+Success with style means the player may choose any two options, including choosing the same option twice.
+Failure means the GM chooses one option to use against the character.
 
 For example, options include:
 
