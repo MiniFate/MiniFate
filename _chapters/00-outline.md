@@ -88,7 +88,7 @@ This is a collaborative process that involves everyone at the table.
 Creating Aspects is more of an art than a science;
 there is no right or wrong way to do it as long as everyone is happy in the end.
 
-It can take some time to get the setting and characters figured out, so its best to dedicate your first session to it. 
+It can take some time to get the setting and characters figured out, so it's best to dedicate your first session to it.
 This also gives you some time after your first session to let the ideas you came up with develop.
 
 ### Core Concept: Aspects
@@ -122,13 +122,13 @@ Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
 Talk them through as a group and write these two aspects down where everyone can see them.
-Don't worry about making them perfect. 
+Don't worry about making them perfect.
 You can come back and revise them later.
 
 Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
 This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
 Think of these aspects like the blurb on the back of a book, or the first trailer for a movie.
-The pieces don't all need to be there. 
+The pieces don't all need to be there.
 Just write down enough to get you excited about it!
 
 > Alex wants to play a swashbuckling pirate.
@@ -145,7 +145,7 @@ Just write down enough to get you excited about it!
 >
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
-> 
+>
 > Who is the Pirate King? What authority does he hold? What happened to him? Alex, Barry, and the GM all start thinking about possible answers to those questions.
 
 ### Character Creation
@@ -250,18 +250,14 @@ This dichotomy gives each PC quantitative strengths and weaknesses, while still 
 
 ### Rolling the Dice
 
-Dice are an important part of {GameName} because they add surprise and excitement to the story, but that doesn't mean you need to roll for every little thing.
-As a general rule, the GM should prompt players for a roll in situations where a competent hero might reasonably fail _and_ failure adds an interesting twist to the story.
-For example, a `Swashbuckling Genius` probably doesn't need to roll to fend off an attack by a `Nameless Deck-Hand`...
-but she might roll to subdue him before his friends escape, or to recognize him as a `Student of the Blade Dancers`.
-
-TODO: make this pretty
+Dice in {GameName} add drama and excitement to the story.
+The GM should call for a roll only when failure is possible for a skilled here _and_ failure would add an interesting twist.
+A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
+She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
 ```
-- The GM sets a target number for the roll. This is public. Don't roll until the target is set. 
 - TODO: does the GM pull a target out of their ass? Do they (like players) start from zero and invoke aspects? Do bigger baddies just start with more fate points?
 - TODO: Does the GM always roll, even when there is no opposing NPC? I think yes, for a consistent probability distribution
-- When prompted, roll four dice and add them up per the table
 - You may also invoke aspects for bonuses. More on that below
 - If you have multiple free invokes on the same aspect, can you burn them all at once?
 ```
@@ -272,39 +268,61 @@ TODO: make this pretty
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-If the player's roll (plus bonuses) matches or beats the target number, the player succeeds. 
+When a roll is required, the GM sets a difficulty from 0 (easy) to 6 (hard) depending on the situation.
+The player rolls four dice and sums the result.
+They add +2 if they have an applicable character aspect (+0 if none apply).
+If their total meets or exceeds the difficulty set by the GM they succeed.
+If they beat the difficulty by 3 or more they succeed with style.
+Otherwise, they fail.
+
+Character aspects only provide a +2 to the role when it logically fits with the narrative.
+If there is disagreement, the GM has final say.
+
+```
+Do we talk about invocation here?
+It would define it before below, and you need it to roll.
+```
+
 Success means the player gets to do one of the following:
 
-- Create a scene aspect with a free invocation (usually just write a checkbox next to the aspect)
-- Add an additional free invocation to an existing scene aspect
-- Modify a scene aspect and add an additional free invocation (yuck we are talking about this a lot considering it's not defined yet)
-- Remove a scene aspect (any remaining free invocations are lost) 
-- Check a stress box on an opposing PC or NPC. If they have no boxes left, they're out of the scene. 
+```
+Does every success create an aspect?!
+```
 
-If the player's roll falls short of the target, the results are the same, but it's the GM that chooses. 
-If a player beats the target number by 3 or more, they double the effect.
-The two effects need not be the same.
-For example, options incllude:
+{% comment %}
+This list is hard to read.
+Maybe bold statements and then explanations?
+Like:
+**CREATE AN ASPECT**: Add a scene aspect with...
 
-- Create a scene aspect with two free invocations
-- Add a free invocation to an existing scene aspect and check a stress box on an opposing NPC
-- Modify `foo` to `bar`, adding a free invocation to it, and remove `baz`
-- Check a character's last stress box and tatke them out of the scene
+Or maybe images?
+{% endcomment %}
 
-Taking a character out of a scene means just that: they don't get to do anything else until the scene is over.
-The details depend on what makes sense for the story. 
-In a swordfight, that may mean the character is wounded or killed.
-If the conflict is a drinking contest, maybe they're passed out or puking.
-In a game of cards, they could be out of chips or called out for cheating.
-It all depends on what makes sense and moves the story forward.
+- Create a scene aspect with one free invocation.
+- Add one free invocation to an existing scene aspect.
+- Change an existing scene aspect.
+  Add one free invocation.
+- Remove a scene aspect.
+  Any unused invocations are lost.
+- Check off one stress box on an opposing character.
+  When all boxes are marked, that character is taken out of the scene.
+
+Success with style means the player may choose any two options, including choosing the same option twice.
+Failure means the GM chooses one option to use against the character.
+
+Taking a character out of a scene means they cannot act further until the scene ends. The specifics depend on the narrative.
+For example:
+
+ -  In a sword fight, the character may be wounded or killed.
+ -  In a drinking contest, the character may pass out or get sick.
+ -  In a card game, the character could go broke or be accused of cheating.
+
+The details chosen should make sense for the story and progress the narrative.
 
 #### Creating An Aspect
 
 Sometimes the aspects describing a scene aren't the ones you want.
 Your character can create new aspects or destroy existing ones with a role.
-To do so, the player states their intention and the GM sets a difficulty from 0 (easy) to 6 (hard).
-The player rolls their dice, sums the result, and adds any appropriate character aspect value (0 if none of their aspects fit the situation).
-If this total meets or beats the GM's difficulty, they succeed.
 When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style.
 
 <!-- TODO: Add drawing of card/whiteboard with aspect, innvocation.
@@ -354,7 +372,7 @@ Tagging the aspect allows us to flesh out that part of the story.
 
 ## Conflicts
 
-<!-- TODO: Reword --> 
+<!-- TODO: Reword -->
 Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
 But sometimes you will need to role a lot of dice; that is when you turn to conflicts.
 
@@ -393,7 +411,7 @@ Characters in the same zone can interact with each other and any object in the z
 However, they need permission from one of their aspects to interact with things outside the zone.
 A character may move to an adjacent zone on their turn in addition to their action.
 
-Zones can also have aspects, which may restrict free movement or visibility between zones. 
+Zones can also have aspects, which may restrict free movement or visibility between zones.
 Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
 
 > The {BoatName} is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
