@@ -88,7 +88,7 @@ This is a collaborative process that involves everyone at the table.
 Creating Aspects is more of an art than a science;
 there is no right or wrong way to do it as long as everyone is happy in the end.
 
-It can take some time to get the setting and characters figured out, so its best to dedicate your first session to it.
+It can take some time to get the setting and characters figured out, so it's best to dedicate your first session to it.
 This also gives you some time after your first session to let the ideas you came up with develop.
 
 ### Core Concept: Aspects
@@ -250,8 +250,8 @@ This dichotomy gives each PC quantitative strengths and weaknesses, while still 
 
 ### Rolling the Dice
 
-Dice in {GameName} add drama surprise and excitement to the story.
-The GM should call for a roll only when failure is possible for a skilled here _and_ failure would add an interesting twist to the story.
+Dice in {GameName} add drama and excitement to the story.
+The GM should call for a roll only when failure is possible for a skilled here _and_ failure would add an interesting twist.
 A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
 She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
@@ -272,7 +272,7 @@ She _would_ need to roll to subdue him before his friends can escape, or to reco
 When a roll is called for, the player states their intended action.
 The GM then sets a difficulty from 0 (easy) to 6 (hard) depending on the situation.
 The player rolls four dice and sums the result.
-They add +2 for any applicable character aspects (0 if none apply).
+They add +2 if they have an applicable character aspects (+0 if none apply).
 If their total meets or exceeds the difficulty set by the GM they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
 Otherwise, they fail.
