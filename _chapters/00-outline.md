@@ -268,11 +268,9 @@ She _would_ need to roll to subdue him before his friends can escape, or to reco
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-
-When a roll is called for, the player states their intended action.
-The GM then sets a difficulty from 0 (easy) to 6 (hard) depending on the situation.
+When a roll is required, the GM sets a difficulty from 0 (easy) to 6 (hard) depending on the situation.
 The player rolls four dice and sums the result.
-They add +2 if they have an applicable character aspects (+0 if none apply).
+They add +2 if they have an applicable character aspect (+0 if none apply).
 If their total meets or exceeds the difficulty set by the GM they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
 Otherwise, they fail.
