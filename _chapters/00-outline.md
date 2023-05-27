@@ -303,14 +303,10 @@ Like:
 Or maybe images?
 {% endcomment %}
 
-- Create a scene aspect with one free invocation.
-- Add one free invocation to an existing scene aspect.
-- Change an existing scene aspect.
-  Add one free invocation.
-- Remove a scene aspect.
-  Any unused invocations are lost.
-- Check off one stress box on an opposing character.
-  When all boxes are marked, that character is taken out of the scene.
+- **Create, change, or destroy a scene aspect**:
+  Add a new aspect with a free invocation for the player, or change and aspect and add an invocation, or remove an aspect and all the remain free invocations on it.
+- **Check off one stress box on an opposing character**:
+  Mark off one stress box on an opposing character's stress track. If all stress boxes are marked, that character is removed from the scene.
 
 Success with style means the player may choose any two options, including choosing the same option twice.
 Failure means the GM chooses one option to use against the character.
