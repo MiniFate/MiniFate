@@ -278,10 +278,15 @@ Otherwise, they fail.
 Character aspects only provide a +2 to the role when it logically fits with the narrative.
 If there is disagreement, the GM has final say.
 
-```
-Do we talk about invocation here?
-It would define it before below, and you need it to roll.
-```
+Players may re-roll by invoking an aspect that would have been helpful for their character.
+To do so they pay a fate point to the GM or check off a box on an aspect.
+Each aspect can only be invoked once per attempt.
+The player may continue invoking aspects to re-roll until they:
+
+- Have invoked all applicable aspects, or...
+- Run out of fate points and free invocations.
+
+<!-- Damnit, we have to talk about how boxes on aspects are tagged by who can use them -->
 
 Success means the player gets to do one of the following:
 
