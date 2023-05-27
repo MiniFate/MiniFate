@@ -325,34 +325,6 @@ For example:
 
 The details chosen should make sense for the story and progress the narrative.
 
-#### Creating An Aspect
-
-Sometimes the aspects describing a scene aren't the ones you want.
-Your character can create new aspects or destroy existing ones with a role.
-When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style.
-
-<!-- TODO: Add drawing of card/whiteboard with aspect, innvocation.
-Probably as a play example. -->
-
-<!-- TODO: Define invocation -->
-
-The GM may prompt players to roll at any time.
-
-Sometimes you roll because your PC is attempting to do something.
-- Naka throwing a fireball
-- TBY bluffing at cards
-
-Sometimes the GM prompts you to roll unexpectedly.
-- An ambush!
-- Notice that the new guy has cards up his sleeve.
-- We need to include something about "Don't roll 'spot' and then go 'I guess you don't see anything'", failure of a roll leads to immediate consequences.
-
-Rolling the dice isn't about difficulty.
-- Roll when either outcome feels like it would be interesting.
-- It's ok to suspend disbelief for the sake of theatricality.
-- Example of difficult but boring stuff...
-- Example of easy stuff where failure is interesting...
-
 ### Fate Points
 
 At the beginning of each session, each player gets two fate points.
