@@ -150,10 +150,24 @@ Just write down enough to get you excited about it!
 
 ### Character Creation
 
-Each player character (PC) starts with two aspects.
-The first is the Concept.
-This aspect gives a high-level description of the character.
+Player characters (PCs) start at level 2. 
+That means:
+- They have two aspects. 
+- They get a +2 bonus to any roll that's in line with those aspects.
+- They have two stress boxes.
+- The PC's player starts each session with two fate points. 
+
+```
+TODO: inline character sheet or link to one
+```
+
+Every PC starts with the same two aspects: a Concept and a Trouble. 
+The Concept gives a high-level description of the character.
 Along with the setting aspects, a PC's concept should give a decent sense of who the PCs is and how they fit into the story.
+
+The Trouble fleshes out the PC by showing them from a less-flattering angle.
+It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
+Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path --- entangling them into the story in the process.
 
 {% comment %}
 I think we should probably err on the side of brevity. The examples below are probably sufficient. But here are a few others to keep in our pocket.
@@ -168,10 +182,6 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-A PC's other aspect is their Trouble.
-The Trouble fleshes out the PC by showing them from a less-flattering angle.
-It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
-Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path --- entangling them into the story in the process.
 
 > It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
 >
@@ -195,43 +205,29 @@ Your PC's Trouble is an invitation for the rest of the table to throw complicati
 > | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
 > | Trouble: | `Old Habits, New Responsibilities`             |
 
-Each PC also has a space for a third aspect, called a Consequence.
-Leave this one blank for now.
-It'll get filled in during conflicts.
 
-```
-do PCs gain aspects as they level up? Probably yes, so tweak above wording
-```
-
-In {GameName}, characters have some mechanical "crunch" in addition to their aspects.
-
-```
-refresh. Is this a property of the character or does everyone just get two?
-```
-
-```
-PCs also have three stress boxes. Or maybe just two? These are used to soak up damage during conflicts (see ...)
-```
+Rolls, fate points, and stress boxes are discussed in the next chapter.
 
 ### Non-Player Characters
 
 NPCs are the characters in the story that bring the world to life.
 They are created and played by the GM.
-NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a small village, to the general of the empire's army who is more than he seems.
+NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a village, to the unsettling general of the empire's army.
 
-NPCs are more free-form than PCs.
-The GM should use whatever components---aspects, refresh, consequences---the NPCs needs to fulfill their role in the narrative.
-For example, background NPCs may only need a name.
-NPCs intended to act as a minor obstacle, such as guards trying to keep the PCs out of the king's ball, need only a single aspect about their motivation.
-Recurring NPCs can have a few aspects with appropriate values.
-If an NPC becomes unexpectedly important, you can add an aspect or two to flesh out their story on the fly.
+NPCs have the same pieces as PCs, but the assembly is more free-form. This allows the GM to create NPCs on the fly that make sense with the narrative:
+- Each NPC has at least one aspect. Important NPCs may have several.
+- Each NPC has a level, which is used for rolls. For example, a level 3 NPC rolls with a +3 bonus on any action in line with its aspects. 
+- NPCs have stress boxes. The number of stress boxes need not be the same as the level. Trivial NPCs may have zero stress boxes.
 
+NPCs do not have fate points.
+Instead, the GM has fate points, and can use them on behalf of NPCs.
+The GM starts with the same number of fate points as each player. 
+That is, if the PCs are level 3, the GM starts with three fate points.
+
+Importantly, an NPC can represent multiple people!
 An NPC can even represent multiple people!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even when scenes get busy.
-
-NPCs generally have one stress box per aspect.
-However, the GM may want to add a few extra boxes if they're using a single NPC to represent a group.
 
 {% comment %} TODO #55 Add example NPCS: https://github.com/MiniFate/MiniFate/issues/55 {% endcomment %}
 
@@ -246,7 +242,7 @@ Players may also ask the GM for further details to help them immerse themselves 
 PC choices are made by the players, while the success of PC actions is judged by dice.
 That is, the player decides which NPCs to attack and which to barter with.
 The dice show whether a sword strikes home or a lie rings true.
-This dichotomy gives each PC quantitative strengths and weaknesses, while still allowing players the freedom to play their PCs in a way that feels true to them.
+This dichotomy ensures that each PC has strengths and weaknesses, while still allowing players the freedom to play their PCs in a way that feels true to them.
 
 ### Rolling the Dice
 
@@ -255,43 +251,36 @@ The GM should call for a roll only when failure is possible for a skilled here _
 A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
 She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
-```
-- TODO: does the GM pull a target out of their ass? Do they (like players) start from zero and invoke aspects? Do bigger baddies just start with more fate points?
-- TODO: Does the GM always roll, even when there is no opposing NPC? I think yes, for a consistent probability distribution
-- You may also invoke aspects for bonuses. More on that below
-- If you have multiple free invokes on the same aspect, can you burn them all at once?
-```
-
 | Die Face  | Value |
 |:---------:|:-----:|
 | {{neg}}   | -1    |
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-When a roll is required, the GM sets a difficulty from 0 (easy) to 6 (hard) depending on the situation.
-The player rolls four dice and sums the result.
-They add +2 if they have an applicable character aspect (+0 if none apply).
-If their total meets or exceeds the difficulty set by the GM they succeed.
+To set the target number for a roll, the GM chooses a difficulty from 0 (easy) to 6 (hard).
+They then roll four dice and add the result.
+
+The player then rolls four dice.
+If the roll is in line with one of the PC's aspects, the player adds their level to the roll.
+
+If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
 Otherwise, they fail.
 
-Character aspects only provide a +2 to the role when it logically fits with the narrative.
-If there is disagreement, the GM has final say.
+> TBY is level 3. He gets a +3 bonus when he rolls to hit something with his axe. Success. Inflicts stress on an NPC.
+>
+> Naka tries to cook a tasty dinner. None of her aspects apply. She rolls and does not add +3. Target difficulty is 2, but she rolls badly. GM creates the aspect `The Shits`
 
-Players may re-roll by invoking an aspect that would have been helpful for their character.
-To do so they pay a fate point to the GM or check off a box on an aspect.
-Each aspect can only be invoked once per attempt.
-The player may continue invoking aspects to re-roll until they:
 
-- Have invoked all applicable aspects, or...
-- Run out of fate points and free invocations.
-
-<!-- Damnit, we have to talk about how boxes on aspects are tagged by who can use them -->
+```
+TODO: below here is accurate but rough
+```
 
 Success means the player gets to do one of the following:
 
 ```
-Does every success create an aspect?!
+- Does every success create an aspect?!
+- If you have multiple free invokes on the same aspect, can you burn them all at once?
 ```
 
 {% comment %}
@@ -327,7 +316,7 @@ The details chosen should make sense for the story and progress the narrative.
 
 ### Fate Points
 
-At the beginning of each session, each player gets two fate points.
+At the beginning of each session, each player gets fate points equal to their PC's level.
 
 Fate points can be spent to invoke an aspect.
 - Bonus on a roll that makes sense in light of an aspect
@@ -359,22 +348,25 @@ This can include battles with mythical creatures or other enemies,
 negotiations to broker a peace treaty between warring factions,
 or even a race against time to see if the PCs can get to the capital ahead of their rival's army.
 
-```
-Do we still have turns?
-```
-
 Pretty much the same as roleplaying, but:
 - Different pacing due to lots of rolls
 - Map, optionally, depending on the situation
 - Worrying about stress and consequences
+- Play is clockwise around the table instead of unstructured
 
 ### Stress and Consequences
 
-Each PC has three stress boxes and a consequence aspect.
+Each PC has one stress box per level.
 
-Consequence aspect is a big deal. It clears at the end of a story arc.
+If you run out of stress boxes, you can take a consequence to soak one extra hit.
+This is a big deal!
+The consequence goes in your next level aspect.
+It clears at the end of the story arc.
+When you write your new aspect, it should be a callback to the consequence.
 
-NPCs generally have one stress box per aspect. NPCs generally do not get consequence aspects, though the GM might make an exception for recurring characters.
+> Naka takes a consequence: `Blood in the Water`. New aspect next level is `Delicious to Sharks`
+>
+> TBY takes a consequence: `Run Clean Through`. He's pretty tough. The guy behind him wasn't. New aspect is `Sworn to Avenge the Cook`
 
 
 ### Drawing a Map
@@ -409,28 +401,19 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 > If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
 > Well, it is `A Very Long Way Down`.
 
-## Appendix
-
-### Mages, Mechs, and Mercs
-
-How to do weird stuff.
-Aspect-based narration.
-Skills were actually the thing that made this weird.
-With just aspects, you can roll for whatever makes sense
-
-### Abstract Forces?
-
-Time can be an NPC?
-The Orcs march on the fortress is a stress track?
-
 ### Character Advancement
 
-Add a new aspect after every story arc.
-Bump the rest up.
-Linear, not pyramid.
-Unclear if this is a core rule or not
+At the end of each story arc, each PC gains a level.
+That means they also write a new aspect, add a stress box, and gain an additional fate point per session.
+If the PC has a consequence, it clears at this time.
 
-### Other Things?
+The new aspect should aim to show the PC from a new angle, to demonstrate how they have grown.
+If the PC had a consequence, the new aspect should be a callback to it.
+Otherwise, the new aspect can refer to a notable exploit.
+It can also be about the PC's relationship, positive or negative, with another character.
+It's generally best to write the new aspect right away, while the just-completed story arc is fresh.
+You can always tweak it later.
+
 
 [fate_core]: https://www.evilhat.com/home/fate-core/
 [fae]: https://www.evilhat.com/home/fae/
