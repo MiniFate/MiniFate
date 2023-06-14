@@ -278,10 +278,15 @@ Otherwise, they fail.
 Character aspects only provide a +2 to the role when it logically fits with the narrative.
 If there is disagreement, the GM has final say.
 
-```
-Do we talk about invocation here?
-It would define it before below, and you need it to roll.
-```
+Players may re-roll by invoking an aspect that would have been helpful for their character.
+To do so they pay a fate point to the GM or check off a box on an aspect.
+Each aspect can only be invoked once per attempt.
+The player may continue invoking aspects to re-roll until they:
+
+- Have invoked all applicable aspects, or...
+- Run out of fate points and free invocations.
+
+<!-- Damnit, we have to talk about how boxes on aspects are tagged by who can use them -->
 
 Success means the player gets to do one of the following:
 
@@ -298,14 +303,15 @@ Like:
 Or maybe images?
 {% endcomment %}
 
-- Create a scene aspect with one free invocation.
-- Add one free invocation to an existing scene aspect.
-- Change an existing scene aspect.
-  Add one free invocation.
-- Remove a scene aspect.
-  Any unused invocations are lost.
-- Check off one stress box on an opposing character.
-  When all boxes are marked, that character is taken out of the scene.
+
+- **Create, change, or remove a scene aspect**:
+  Players can create a new scene aspect with one free invocation,
+  change an existing scene aspect by rewriting it and gaining one free invocation,
+  or remove an existing scene aspect along with any unused free invocations on it.
+- **Mark one stress box on an opposing character**:
+  Players can mark off one stress box on an opposing character's stress track.
+  If all stress boxes on a character's stress track are marked, that character is removed from the current scene.
+
 
 Success with style means the player may choose any two options, including choosing the same option twice.
 Failure means the GM chooses one option to use against the character.
@@ -318,34 +324,6 @@ For example:
  -  In a card game, the character could go broke or be accused of cheating.
 
 The details chosen should make sense for the story and progress the narrative.
-
-#### Creating An Aspect
-
-Sometimes the aspects describing a scene aren't the ones you want.
-Your character can create new aspects or destroy existing ones with a role.
-When creating an aspect, the player gets one free invocation using the aspect; they get an additional invocation if they succeed with style.
-
-<!-- TODO: Add drawing of card/whiteboard with aspect, innvocation.
-Probably as a play example. -->
-
-<!-- TODO: Define invocation -->
-
-The GM may prompt players to roll at any time.
-
-Sometimes you roll because your PC is attempting to do something.
-- Naka throwing a fireball
-- TBY bluffing at cards
-
-Sometimes the GM prompts you to roll unexpectedly.
-- An ambush!
-- Notice that the new guy has cards up his sleeve.
-- We need to include something about "Don't roll 'spot' and then go 'I guess you don't see anything'", failure of a roll leads to immediate consequences.
-
-Rolling the dice isn't about difficulty.
-- Roll when either outcome feels like it would be interesting.
-- It's ok to suspend disbelief for the sake of theatricality.
-- Example of difficult but boring stuff...
-- Example of easy stuff where failure is interesting...
 
 ### Fate Points
 
