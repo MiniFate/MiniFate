@@ -229,6 +229,10 @@ The GM starts with the same number of fate points as each player.
 That is, if the PCs are level 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
+<<<<<<< HEAD
+=======
+An NPC can even represent multiple people!
+>>>>>>> 67ddb3f (condense magic numbers into a level)
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even when scenes get busy.
 
@@ -264,7 +268,11 @@ To set the target number for a roll, the GM chooses a difficulty from 0 (easy) t
 They then roll four dice and add the result.
 
 The player then rolls four dice.
+<<<<<<< HEAD
 If one of the PC's aspects is relevant to the roll, the player adds their level to the roll.
+=======
+If the roll is in line with one of the PC's aspects, the player adds their level to the roll.
+>>>>>>> 67ddb3f (condense magic numbers into a level)
 
 If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
