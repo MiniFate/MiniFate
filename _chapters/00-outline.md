@@ -152,10 +152,14 @@ Just write down enough to get you excited about it!
 
 Player characters (PCs) start at level 2. 
 That means:
-- They have two aspects. 
+- They have 2 aspects. 
 - They get a +2 bonus to any roll that's in line with those aspects.
-- They have two stress boxes.
-- The PC's player starts each session with two fate points. 
+- They have 2 stress boxes.
+- The PC's player starts each session with 2 fate points. 
+
+As PCs level up, these numbers all scale.
+Character advancement is discussed in the next chapter.
+
 
 ```
 TODO: inline character sheet or link to one
@@ -225,7 +229,6 @@ The GM starts with the same number of fate points as each player.
 That is, if the PCs are level 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
-An NPC can even represent multiple people!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even when scenes get busy.
 
@@ -261,7 +264,7 @@ To set the target number for a roll, the GM chooses a difficulty from 0 (easy) t
 They then roll four dice and add the result.
 
 The player then rolls four dice.
-If the roll is in line with one of the PC's aspects, the player adds their level to the roll.
+If one of the PC's aspects is relevant to the roll, the player adds their level to the roll.
 
 If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
