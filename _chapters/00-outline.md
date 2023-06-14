@@ -268,11 +268,7 @@ To set the target number for a roll, the GM chooses a difficulty from 0 (easy) t
 They then roll four dice and add the result.
 
 The player then rolls four dice.
-<<<<<<< HEAD
 If one of the PC's aspects is relevant to the roll, the player adds their level to the roll.
-=======
-If the roll is in line with one of the PC's aspects, the player adds their level to the roll.
->>>>>>> 67ddb3f (condense magic numbers into a level)
 
 If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
