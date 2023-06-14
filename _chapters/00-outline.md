@@ -152,6 +152,7 @@ Just write down enough to get you excited about it!
 
 Player characters (PCs) start at level 2. 
 That means:
+<<<<<<< HEAD
 - They have 2 aspects. 
 - They get a +2 bonus to any roll that's in line with those aspects.
 - They have 2 stress boxes.
@@ -160,6 +161,12 @@ That means:
 As PCs level up, these numbers all scale.
 Character advancement is discussed in the next chapter.
 
+=======
+- They have two aspects. 
+- They get a +2 bonus to any roll that's in line with those aspects.
+- They have two stress boxes.
+- The PC's player starts each session with two fate points. 
+>>>>>>> 009e2ec (condense magic numbers into a level)
 
 ```
 TODO: inline character sheet or link to one
@@ -229,6 +236,10 @@ The GM starts with the same number of fate points as each player.
 That is, if the PCs are level 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
+<<<<<<< HEAD
+=======
+An NPC can even represent multiple people!
+>>>>>>> 009e2ec (condense magic numbers into a level)
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even when scenes get busy.
 
