@@ -229,10 +229,6 @@ The GM starts with the same number of fate points as each player.
 That is, if the PCs are level 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
-<<<<<<< HEAD
-=======
-An NPC can even represent multiple people!
->>>>>>> 67ddb3f (condense magic numbers into a level)
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
 This helps keep bookkeeping manageable, even when scenes get busy.
 
