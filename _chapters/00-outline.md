@@ -140,11 +140,10 @@ That means:
 - The PC's player starts each session with 2 fate points. 
 
 As PCs level up, these numbers all scale.
-Character advancement is discussed in the next chapter.
-
+Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
 
 ```
-TODO: inline character sheet or link to one
+TODO: link to character sheet
 ```
 
 Every PC starts with two aspects: a Concept and a Trouble. 
@@ -168,31 +167,27 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-
-> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
->
-> A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a fearsome reputation.
-> He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
-> But he lost everything in a night of drunken gambling.
-> Now, disgraced, he serves as second mate on the ramshackle {BoatName}.
-> He still keeps his axe close, ready to defend his new crew.
+> Alex wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
+> Now he's washed up on the ramshackle {BoatName}.
+> He's good in a fight, a natural leader, but with a chip on his shoulder and plenty to prove.
+> Alex writes the aspects:
 >
 > {:.key-def}
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
-> The second PC is Naka:
->
-> Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
-> She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
-> A loner with trust issues, she now finds herself conflicted by her responsibility for {BoatName} and its crew.
+> Barry's PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
+> A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
+> She now finds herself responsible for (and surrounded by) a crew of bloodthirsty pirates.
 >
 > {:.key-def}
-> | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Old Habits, New Responsibilities`             |
-
-
-Rolls, fate points, and stress boxes are discussed in the next chapter.
+> | Concept: | `Last Daughter of the First Dragon` |
+> | Trouble: | `Old Habits, New Responsibilities`  |
+>
+> As with the setting aspects, these PC aspects give everyone plenty to chew on.
+> Who won Torbyorn's boat?
+> Where are they now?
+> And who pulled strings to put Naka in command? 
 
 ### Non-Player Characters
 
