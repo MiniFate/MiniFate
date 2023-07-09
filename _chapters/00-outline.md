@@ -340,7 +340,7 @@ Is it always +2? Reroll?
 
 Fate points are earned by accepting compels.
 The GM compels players by offering fate points to have an aspect drive them to disadvantageous actions or choices.
-If the player accepts, no roll is needed, the story progresses how the GM proposed.
+If the player accepts, no roll is needed, the GM pays the player a fate point and the story progresses as proposed.
 Players can suggest a compel to the GM and are free to negotiate any compel offered.
 A compel can always be refused by the player.
 
