@@ -333,9 +333,16 @@ Fate points can be spent to:
   This establish a new fact in the game because aspects are always true.
   The new aspect can be invoked by paying fate points.
 
-```TODO:
+```
+TODO:
 Is it always +2? Reroll?
 ```
+
+Fate points are earned by accepting compels from the GM.
+The GM compels players by offering fate points to have an aspect drive them to disadvantageous actions or choices.
+If the player accepts, no roll is needed, the story progresses how the GM proposed.
+The players are free to negotiate a compel.
+A compel can always be refused by the player.
 
 Players begin each session with fate points equal to their PC's level.
 The GM has an unlimited pool of fate points to draw from.
@@ -345,11 +352,6 @@ Fate points are earned by accepting compels.
 - Typically suggested by the GM
 - Often (but not always) related to a PC's trouble
 
-Players can also spend a fate point to assert a new aspect
-- Compelling the GM
-- Often related to a PC's past
-- I've been here before
-- That's my old boat
 
 TBY's trouble tells us that he plays cards.
 Maybe he's bad, and a degenerate gambler?
