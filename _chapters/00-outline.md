@@ -327,30 +327,30 @@ Fate points can be spent to:
 
 - **Invoke an aspect**: 
   Add +2 to a roll if there is a relevant aspect that would help.
-  An aspect can only be invoked once per roll, but multiple aspects can be invoked on the same roll.
+  An aspect can only be invoked once per roll, but multiple aspects can be invoked on the same roll if the player has multiple fate points to spend.
 - **Create an aspect**:
   Write down a new aspect about the world.
   This establish a new fact in the game because aspects are always true.
-  The new aspect can be invoked by paying fate points.
+  The new aspect can be invoked by paying additional fate points.
 
 ```
 TODO:
 Is it always +2? Reroll?
 ```
 
-Fate points are earned by accepting compels.
-The GM compels players by offering fate points to have an aspect drive them to disadvantageous actions or choices.
-If the player accepts, no roll is needed, the GM pays the player a fate point and the story progresses as proposed.
+Fate points are earned through accepting compels.
+The GM compels a player by offering a fate points to forgo a roll and instead let the GM decide the result.
+If the player accept, the GM pays out the fate point and narrates what happens.
 Players can suggest a compel to the GM and are free to negotiate any compel offered.
 A compel can always be refused by the player.
 
-In some cases, a player may invoke or create an aspect in a way that harms another player's character.
-In this case the GM should give the spent fate point to that player to compensate them.
+A player might invoke or create an aspect in a way that harms another player's character.
+In this case, the GM should give the spent fate point to that player to compensate them.
 Treat this like a compel: you need the harmed player to accept.
 If they refuse, figure out a different course of action.
 
 Players begin each session with fate points equal to their PC's level.
-The GM has an unlimited pool of fate points to draw from for compels.
+The GM has an unlimited pool of fate points for compels.
 
 TBY's trouble tells us that he plays cards.
 Maybe he's bad, and a degenerate gambler?
