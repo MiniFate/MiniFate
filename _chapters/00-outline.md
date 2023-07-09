@@ -352,10 +352,12 @@ If they refuse, figure out a different course of action.
 Players begin each session with fate points equal to their PC's level.
 The GM has an unlimited pool of fate points for compels.
 
+```
 TBY's trouble tells us that he plays cards.
 Maybe he's bad, and a degenerate gambler?
 Maybe he's great, but got cheated?
 Tagging the aspect allows us to flesh out that part of the story.
+```
 
 ## Conflicts
 
