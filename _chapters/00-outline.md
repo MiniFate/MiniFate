@@ -344,7 +344,7 @@ If the player accepts, no roll is needed, the GM pays the player a fate point an
 Players can suggest a compel to the GM and are free to negotiate any compel offered.
 A compel can always be refused by the player.
 
-In some cases, a player may invoke and aspect or create a new one in a way that harms another player's character.
+In some cases, a player may invoke or create an aspect in a way that harms another player's character.
 In this case the GM should give the spent fate point to that player to compensate them.
 Treat this like a compel: you need the harmed player to accept.
 If they refuse, figure out a different course of action.
