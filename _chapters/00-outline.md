@@ -319,10 +319,26 @@ The details chosen should make sense for the story and progress the narrative.
 
 ### Fate Points
 
-At the beginning of each session, each player gets fate points equal to their PC's level.
+In {GameName}, fate points are exchanged to control the narrative.
+Players spend fate points to dictate the story without rolling dice or asking the GM's permission.
+Players are paid fate points to compensate them when they voluntarily give up their agency.
 
-Fate points can be spent to invoke an aspect.
-- Bonus on a roll that makes sense in light of an aspect
+Fate points can be spent to:
+
+- **Invoke an aspect**: 
+  Add +2 to a roll if there is a relevant aspect that would help.
+  An aspect can only be invoked once per roll, but multiple aspects can be invoked on the same roll.
+- **Create an aspect**:
+  Write down a new aspect about the world.
+  This establish a new fact in the game because aspects are always true.
+  The new aspect can be invoked by paying fate points.
+
+```TODO:
+Is it always +2? Reroll?
+```
+
+Players begin each session with fate points equal to their PC's level.
+The GM has an unlimited pool of fate points to draw from.
 
 Fate points are earned by accepting compels.
 - Complication that makes sense in light of an aspect
