@@ -29,11 +29,9 @@ The GM and PCs are not opponents, even though the PCs and NPCs will often be ene
 Play is collaborative.
 Everyone at the table has the same goal: telling a good story and having a good time.
 
-> Example gameplay is one of the quickest ways to understand a roleplaying game.
 > Throughout the rules we will include examples in boxes like this one.
 >
-> In the examples, our PCs will be run by Alex and Barry.
-> Our GM is Gwen.
+> Our example players are named Alex and Barry.
 
 ### What You Need
 
@@ -57,7 +55,7 @@ If you don't have specially marked Fate dice, you can use normal six-side dice a
 | 5 or 6   | {{pos}}   |
 
 You'll also need a way to keep track of fate points for each player.
-Poker chips are perfect for this, but in a pinch you can just mark them down with pencil.
+Poker chips are perfect, but in a pinch you can just mark them down with pencil.
 
 ```
 Do we need Fate dice? Not great to ask people to buy a weird thing, and not great that the modal outcome is zero.
@@ -74,7 +72,6 @@ Allan Straub,
 Evelyn Wu,
 and
 Jan Zirnstein.
-
 We could not have made {GameName} without your help playtesting!
 
 We would also like to thank [Evil Hat][evil_hat] for inspiring our rule system.
@@ -83,38 +80,23 @@ We would also like to thank [Evil Hat][evil_hat] for inspiring our rule system.
 
 ## Getting Started
 
-Before you can tell a story, you need a setting and some characters.
-This is a collaborative process that involves everyone at the table.
-Creating Aspects is more of an art than a science;
-there is no right or wrong way to do it as long as everyone is happy in the end.
-
-It can take some time to get the setting and characters figured out, so it's best to dedicate your first session to it.
-This also gives you some time after your first session to let the ideas you came up with develop.
+Before jumping into your adventure, you need a setting and some characters.
+In {GameName}, that means writing down a handful of aspects.
+This chapter explains what aspects are and how to use them to lay the foundation for your story.
 
 ### Core Concept: Aspects
 
-Aspects are the most important feature of {GameName}.
-An Aspect is just a short phrase written down for the whole table to see.
-They can be used to describe anything---people, places, things, relationships, scenes---as long as it is important to the story.
+Aspect are short, improvised phrases written down for the whole table to see. 
+They are central to {GameName} in two ways:
+1. They keep everyone on the same page. If it's written down as an aspect, it's true and important. If an aspect is no longer true and important, update it or erase it.
+2. They provide a scaffold for players to riff off one another in creative ways, earning bonuses in the process (more on this later).
 
-Aspects define reality in the game.
-They are always true; when you create an Aspect you establish a fact about the world.
-If an Aspect stops being true, remove it or rewrite it.
-
-Aspects keep everyone on the same page about what is happening in the story and what is important.
-When you write down an Aspect you don't have to have every implication of it figured out.
-Exploring and expanding the world together as you play is a key part of {AspectRPG}.
-By letting other players fill in details with their own Aspects, the players can collaboratively build the game world and lore.
-
-Aspects have mechanical value in the game as well.
-They give bonuses to characters when they take action that fit with the Aspect.
-They also give characters permission to take some actions that they might not be allowed to otherwise, because again, Aspects are always true.
-
-The characters and the world are defined by their Aspects.
-A `Pirate Captain Who Hates Violence` in a world where `Magic is Suddenly Real` is very different than one on the `Blood Drenched Sands of the Caribbean`.
-The next two sections will cover creating Aspects for your setting and characters.
-
-- writing good aspects. you can lean on inside jokes and pop culture.
+Some aspects are concrete, like a description of a person or place.
+Others are abstract, pointing out a relationship or instinct.
+An aspect can even be meta, such as a callback or an inside joke.
+Don't get hung up on making your aspects perfect.
+Write what feels right.
+You can always make tweaks later.
 
 ### Setting Creation
 
@@ -158,14 +140,10 @@ That means:
 - The PC's player starts each session with 2 fate points. 
 
 As PCs level up, these numbers all scale.
-Character advancement is discussed in the next chapter.
+Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
+Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
 
-
-```
-TODO: inline character sheet or link to one
-```
-
-Every PC starts with the same two aspects: a Concept and a Trouble. 
+Every PC starts with two aspects: a Concept and a Trouble. 
 The Concept gives a high-level description of the character.
 Along with the setting aspects, a PC's concept should give a decent sense of who the PCs is and how they fit into the story.
 
@@ -186,31 +164,27 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-
-> It is time to put together our pirate PCs. The first is Tor Byorn Yorgensen:
->
-> A year ago, Tor Byorn Yorgensen had it all: a fast ship, a loyal crew, and a fearsome reputation.
-> He once stole the emperor's summer fashion shipment from a privateer without spilling a single drop of blood.
-> But he lost everything in a night of drunken gambling.
-> Now, disgraced, he serves as second mate on the ramshackle {BoatName}.
-> He still keeps his axe close, ready to defend his new crew.
+> Alex wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
+> Now he's washed up on the ramshackle {BoatName}.
+> He's good in a fight, a natural leader, but with a chip on his shoulder and plenty to prove.
+> Alex writes the aspects:
 >
 > {:.key-def}
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
-> The second PC is Naka:
->
-> Captain Naka is a half-orc pyromancer (and pyromaniac) exiled by her magic-fearing clan.
-> She grew up on the streets of Three Bridges, where her quick tongue and speedy reflexes kept her safe from the worst consequences of her own actions.
-> A loner with trust issues, she now finds herself conflicted by her responsibility for {BoatName} and its crew.
+> Barry's PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
+> A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
+> She now finds herself responsible for (and surrounded by) a crew of fearsome pirates.
 >
 > {:.key-def}
-> | Concept: | `Never Met A Problem My Magic Couldn't Ignite` |
-> | Trouble: | `Old Habits, New Responsibilities`             |
-
-
-Rolls, fate points, and stress boxes are discussed in the next chapter.
+> | Concept: | `Last Daughter of the First Dragon` |
+> | Trouble: | `Old Habits, New Responsibilities`  |
+>
+> As with the setting aspects, these PC aspects give everyone plenty to chew on.
+> Who won Torbyorn's boat?
+> Where are they now?
+> And who pulled strings to put Naka in command? 
 
 ### Non-Player Characters
 
