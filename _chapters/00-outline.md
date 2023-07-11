@@ -141,10 +141,7 @@ That means:
 
 As PCs level up, these numbers all scale.
 Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
-
-```
-TODO: link to character sheet
-```
+Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
 
 Every PC starts with two aspects: a Concept and a Trouble. 
 The Concept gives a high-level description of the character.
@@ -178,7 +175,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 >
 > Barry's PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
 > A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
-> She now finds herself responsible for (and surrounded by) a crew of bloodthirsty pirates.
+> She now finds herself responsible for (and surrounded by) a crew of fearsome pirates.
 >
 > {:.key-def}
 > | Concept: | `Last Daughter of the First Dragon` |
