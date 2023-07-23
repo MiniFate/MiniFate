@@ -132,12 +132,12 @@ Just write down enough to get you excited about it!
 
 ### Character Creation
 
-Player characters (PCs) start at level 2. 
+Player characters (PCs) start at level 2.
 That means:
-- They have 2 aspects. 
+- They have 2 aspects.
 - They get a +2 bonus to any roll that's in line with those aspects.
 - They have 2 stress boxes.
-- The PC's player starts each session with 2 fate points. 
+- The PC's player starts each session with 2 fate points.
 
 As PCs level up, these numbers all scale.
 Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
@@ -194,12 +194,12 @@ NPCs include everyone from background characters at a pirate bar, to marauding g
 
 NPCs have the same pieces as PCs, but the assembly is more free-form. This allows the GM to create NPCs on the fly that make sense with the narrative:
 - Each NPC has at least one aspect. Important NPCs may have several.
-- Each NPC has a level, which is used for rolls. For example, a level 3 NPC rolls with a +3 bonus on any action in line with its aspects. 
+- Each NPC has a level, which is used for rolls. For example, a level 3 NPC rolls with a +3 bonus on any action in line with its aspects.
 - NPCs have stress boxes. The number of stress boxes need not be the same as the level. Trivial NPCs may have zero stress boxes.
 
 NPCs do not have fate points.
 Instead, the GM has fate points, and can use them on behalf of NPCs.
-The GM starts with the same number of fate points as each player. 
+The GM starts with the same number of fate points as each player.
 That is, if the PCs are level 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
@@ -293,26 +293,41 @@ The details chosen should make sense for the story and progress the narrative.
 
 ### Fate Points
 
-At the beginning of each session, each player gets fate points equal to their PC's level.
+In {GameName}, fate points are exchanged to control the narrative.
+Players spend fate points to dictate the story without rolling dice or asking the GM's permission.
+Players are paid fate points to compensate them when they voluntarily give up their agency.
 
-Fate points can be spent to invoke an aspect.
-- Bonus on a roll that makes sense in light of an aspect
+Fate points can be spent to:
 
-Fate points are earned by accepting compels.
-- Complication that makes sense in light of an aspect
-- Typically suggested by the GM
-- Often (but not always) related to a PC's trouble
+- **Invoke an aspect**:
+  Add +2 to a roll if there is a relevant aspect that would help.
+  An aspect can only be invoked once per roll, but multiple aspects can be invoked on the same roll if the player has multiple fate points to spend.
+- **Create an aspect**:
+  Write down a new aspect about the world.
+  This establish a new fact in the game because aspects are always true.
+  The new aspect can be invoked by paying additional fate points.
 
-Players can also spend a fate point to assert a new aspect
-- Compelling the GM
-- Often related to a PC's past
-- I've been here before
-- That's my old boat
+Fate points are earned through accepting compels.
+The GM compels a player by offering a fate point to forfeit a roll and instead lets the GM decide the result.
+If the player accept, the GM pays out the fate point and narrates what happens.
+Players can suggest a compel to the GM and are free to negotiate any compel offered.
+A compel can always be refused by the player.
 
+A player might invoke or create an aspect in a way that harms another player's character.
+In this case, the GM should give the spent fate point to that player to compensate them.
+Treat this like a compel: you need the harmed player to accept.
+If they refuse, figure out a different course of action.
+
+Players begin each session with fate points equal to their PC's level.
+The GM starts with fate points equal to the highest level PC to spend on their own rolls.
+The GM has an unlimited pool of fate points for compels.
+
+```
 TBY's trouble tells us that he plays cards.
 Maybe he's bad, and a degenerate gambler?
 Maybe he's great, but got cheated?
 Tagging the aspect allows us to flesh out that part of the story.
+```
 
 ## Conflicts
 
