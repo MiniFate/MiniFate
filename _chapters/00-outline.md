@@ -234,11 +234,16 @@ She _would_ need to roll to subdue him before his friends can escape, or to reco
 | {{zero}}  | 0     |
 | {{pos}}   | +1    |
 
-To set the target number for a roll, the GM chooses a difficulty from 0 (easy) to 6 (hard).
-They then roll four dice and add the result.
+The player rolls four dice and totals them.
+If one of the PC's aspects is relevant to the roll, the player adds their level as well.
+The player then compares their total against the target difficulty set by the GM.
 
-The player then rolls four dice.
-If one of the PC's aspects is relevant to the roll, the player adds their level to the roll.
+A roll is opposed if another character is actively resisting or interfering with the action.
+Otherwise, the roll is unopposed.
+
+For an unopposed roll, the GM picks a target difficulty from 0 (easy) to 6 (hard).
+
+For an opposed roll, the GM rolls 4 dice, adds bonuses from the opposing character's aspects, and uses the total as the target difficulty.
 
 If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
