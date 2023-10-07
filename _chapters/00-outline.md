@@ -223,15 +223,9 @@ This dichotomy ensures that each PC has strengths and weaknesses, while still al
 ### Rolling the Dice
 
 Dice in {GameName} add drama and excitement to the story.
-The GM should call for a roll only when failure is possible for a skilled here _and_ failure would add an interesting twist.
+The GM should call for a roll only when failure is possible for a skilled hero _and_ failure would add an interesting twist.
 A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
-She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
-
-| Die Face  | Value |
-|:---------:|:-----:|
-| {{neg}}   | -1    |
-| {{zero}}  | 0     |
-| {{pos}}   | +1    |
+She _would_ need to roll to subdue the deckhand before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
 The player rolls four dice and totals them.
 If one of the PC's aspects is relevant to the roll, the player adds their {Level} as well.
@@ -248,14 +242,20 @@ If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
 Otherwise, they fail.
 
-> TBY is level 3. He gets a +3 bonus when he rolls to hit something with his axe. Success. Inflicts stress on an NPC.
+> Torbyorn and a few of his crew are locked in a warehouse they were planning to loot.
+> Worse, it was a trap set by the bandit's guild, who now surround them.
+> His crew is demoralized, with the aspect `The Bandits are always one step ahead of us`.
+> If the pirates are going to get out in one piece, Torbyorn is going to have to rally them.
 >
-> Naka tries to cook a tasty dinner. None of her aspects apply. She rolls and does not add +3. Target difficulty is 2, but she rolls badly. GM creates the aspect `The Shits`
-
-
-```
-TODO: below here is accurate but rough
-```
+> {TBYPlayer} decides to have Torbyorn deliver a rousing speech to steel his crew for battle.
+> Torbyorn's aspect `Speak Softly and Carry a Magic Axe` indicates he can be a calming and commanding presence which would help with this task, so he will add his {Level} for +3 to the roll.
+>
+> The GM sets the difficulty as 4.
+> {TBYPlayer} rolls {{dice-pnpz}} for a total of 1.
+> With the +3 from the aspect, the total is 4.
+> This meets the difficulty of 4, so the action succeeds. 
+> {TBYPlayer} elects to **Create, change, or remove a scene aspect**. 
+> He erases the old one and writes `We've got the bandits right where we want them`.
 
 Success means the player gets to do one of the following:
 
@@ -263,16 +263,6 @@ Success means the player gets to do one of the following:
 - Does every success create an aspect?!
 - If you have multiple free invokes on the same aspect, can you burn them all at once?
 ```
-
-{% comment %}
-This list is hard to read.
-Maybe bold statements and then explanations?
-Like:
-**CREATE AN ASPECT**: Add a scene aspect with...
-
-Or maybe images?
-{% endcomment %}
-
 
 - **Create, change, or remove a scene aspect**:
   Players can create a new scene aspect with one free invocation,
