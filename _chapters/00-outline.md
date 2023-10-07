@@ -104,8 +104,7 @@ Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
 Talk them through as a group and write these two aspects down where everyone can see them.
-Don't worry about making them perfect.
-You can come back and revise them later.
+Don't worry about making them perfect, they will evolve and change as you play.
 
 Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
 This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
@@ -132,14 +131,14 @@ Just write down enough to get you excited about it!
 
 ### Character Creation
 
-Player characters (PCs) start at level 2.
+Player characters (PCs) start at {Level} 2.
 That means:
 - They have 2 aspects.
 - They get a +2 bonus to any roll that's in line with those aspects.
 - They have 2 stress boxes.
 - The PC's player starts each session with 2 fate points.
 
-As PCs level up, these numbers all scale.
+As PCs gain {Level}s, these numbers all scale.
 Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
 Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
 
@@ -194,13 +193,13 @@ NPCs include everyone from background characters at a pirate bar, to marauding g
 
 NPCs have the same pieces as PCs, but the assembly is more free-form. This allows the GM to create NPCs on the fly that make sense with the narrative:
 - Each NPC has at least one aspect. Important NPCs may have several.
-- Each NPC has a level, which is used for rolls. For example, a level 3 NPC rolls with a +3 bonus on any action in line with its aspects.
-- NPCs have stress boxes. The number of stress boxes need not be the same as the level. Trivial NPCs may have zero stress boxes.
+- Each NPC has a {Level}, which is used for rolls. For example, a {Level} 3 NPC rolls with a +3 bonus on any action in line with its aspects.
+- NPCs have stress boxes. The number of stress boxes need not be the same as the {Level}. Trivial NPCs may have zero stress boxes.
 
 NPCs do not have fate points.
 Instead, the GM has fate points, and can use them on behalf of NPCs.
 The GM starts with the same number of fate points as each player.
-That is, if the PCs are level 3, the GM starts with three fate points.
+That is, if the PCs are {Level} 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
@@ -235,7 +234,7 @@ She _would_ need to roll to subdue him before his friends can escape, or to reco
 | {{pos}}   | +1    |
 
 The player rolls four dice and totals them.
-If one of the PC's aspects is relevant to the roll, the player adds their level as well.
+If one of the PC's aspects is relevant to the roll, the player adds their {Level} as well.
 The player then compares their total against the target difficulty set by the GM.
 
 A roll is opposed if another character is actively resisting or interfering with the action.
@@ -323,8 +322,8 @@ In this case, the GM should give the spent fate point to that player to compensa
 Treat this like a compel: you need the harmed player to accept.
 If they refuse, figure out a different course of action.
 
-Players begin each session with fate points equal to their PC's level.
-The GM starts with fate points equal to the highest level PC to spend on their own rolls.
+Players begin each session with fate points equal to their PC's {Level}.
+The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
 The GM has an unlimited pool of fate points for compels.
 
 ```
@@ -353,15 +352,15 @@ Pretty much the same as roleplaying, but:
 
 ### Stress and Consequences
 
-Each PC has one stress box per level.
+Each PC has one stress box per {Level}.
 
 If you run out of stress boxes, you can take a consequence to soak one extra hit.
 This is a big deal!
-The consequence goes in your next level aspect.
+The consequence goes in your next {Level} aspect.
 It clears at the end of the story arc.
 When you write your new aspect, it should be a callback to the consequence.
 
-> Naka takes a consequence: `Blood in the Water`. New aspect next level is `Delicious to Sharks`
+> Naka takes a consequence: `Blood in the Water`. New aspect next {Level} is `Delicious to Sharks`
 >
 > TBY takes a consequence: `Run Clean Through`. He's pretty tough. The guy behind him wasn't. New aspect is `Sworn to Avenge the Cook`
 
@@ -400,7 +399,7 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 
 ### Character Advancement
 
-At the end of each story arc, each PC gains a level.
+At the end of each story arc, each PC gains a {Level}.
 That means they also write a new aspect, add a stress box, and gain an additional fate point per session.
 If the PC has a consequence, it clears at this time.
 
