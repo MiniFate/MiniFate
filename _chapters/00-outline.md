@@ -257,6 +257,12 @@ Otherwise, they fail.
 > {TBYPlayer} elects to **Create, change, or remove a scene aspect**. 
 > He erases the old one and writes `We've got the bandits right where we want them`.
 
+> Naka tries to cook a tasty dinner.
+> None of her aspects apply.
+> She rolls and does not add +3.
+> Target difficulty is 2, but she rolls badly.
+> GM creates the aspect `The Shits`
+
 Success means the player gets to do one of the following:
 
 ```
