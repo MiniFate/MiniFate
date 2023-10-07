@@ -3,10 +3,6 @@
 
 {% include macros.html %}
 
-> NOTE: this outline is for dev work only. the final product will have an auto-generated TOC if any
-
-## Introduction
-
 {GameName} is a roleplaying game that emphasizes the importance of captivating characters, unique settings, and thrilling conflicts to great story telling.
 It uses Aspects to allow the players to focus their attention only on the details that matter.
 Everything else is allowed to slide.
