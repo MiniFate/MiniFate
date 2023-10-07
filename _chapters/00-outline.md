@@ -53,9 +53,9 @@ If you don't have specially marked Fate dice, you can use normal six-side dice a
 You'll also need a way to keep track of fate points for each player.
 Poker chips are perfect, but in a pinch you can just mark them down with pencil.
 
-```
+<!-- Fate Dice: #120 https://github.com/MiniFate/MiniFate/issues/120
 Do we need Fate dice? Not great to ask people to buy a weird thing, and not great that the modal outcome is zero.
-```
+-->
 
 ### Acknowledgements
 
