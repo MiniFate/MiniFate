@@ -141,7 +141,7 @@ Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md
 
 Every PC starts with two aspects: a Concept and a Trouble. 
 The Concept gives a high-level description of the character.
-A PC's concept, along with the setting aspects, should give a decent sense of who the PCs is and how they fit into the story  
+A PC's concept, along with the setting aspects, should give a decent sense of who the PCs is and how they fit into the story.
 
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
