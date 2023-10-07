@@ -31,7 +31,7 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 > Throughout the rules we will include examples in boxes like this one.
 >
-> Our example players are named Alex and Barry.
+> Our example players are named {TBYPlayer} and {NakaPlayer}.
 
 ### What You Need
 
@@ -112,8 +112,8 @@ Think of these aspects like the blurb on the back of a book, or the first traile
 The pieces don't all need to be there.
 Just write down enough to get you excited about it!
 
-> Alex wants to play a swashbuckling pirate.
-> Barry wants to play a streetwise wizard.
+> {TBYPlayer} wants to play a swashbuckling pirate.
+> {NakaPlayer} wants to play a streetwise wizard.
 > After a bit of haggling, they settle on something that works for them both:
 >
 > {:.key-def}
@@ -127,7 +127,7 @@ Just write down enough to get you excited about it!
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
 >
-> Who is the Pirate King? What authority does he hold? What happened to him? Alex, Barry, and the GM all start thinking about possible answers to those questions.
+> Who is the Pirate King? What authority does he hold? What happened to him? {TBYPlayer}, {NakaPlayer}, and the GM all start thinking about possible answers to those questions.
 
 ### Character Creation
 
@@ -163,16 +163,16 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-> Alex wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
+> {TBYPlayer} wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
 > Now he's washed up on the ramshackle {BoatName}.
 > He's good in a fight, a natural leader, but with a chip on his shoulder and plenty to prove.
-> Alex writes the aspects:
+> {TBYPlayer} writes the aspects:
 >
 > {:.key-def}
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
-> Barry's PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
+> {NakaPlayer}'s PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
 > A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
 > She now finds herself responsible for (and surrounded by) a crew of fearsome pirates.
 >
