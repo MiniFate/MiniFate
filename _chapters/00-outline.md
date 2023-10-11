@@ -3,10 +3,6 @@
 
 {% include macros.html %}
 
-> NOTE: this outline is for dev work only. the final product will have an auto-generated TOC if any
-
-## Introduction
-
 {GameName} is a roleplaying game that emphasizes the importance of captivating characters, unique settings, and thrilling conflicts to great story telling.
 It uses Aspects to allow the players to focus their attention only on the details that matter.
 Everything else is allowed to slide.
@@ -57,9 +53,9 @@ If you don't have specially marked Fate dice, you can use normal six-side dice a
 You'll also need a way to keep track of fate points for each player.
 Poker chips are perfect, but in a pinch you can just mark them down with pencil.
 
-```
+<!-- Fate Dice: #120 https://github.com/MiniFate/MiniFate/issues/120
 Do we need Fate dice? Not great to ask people to buy a weird thing, and not great that the modal outcome is zero.
-```
+-->
 
 ### Acknowledgements
 
@@ -139,17 +135,17 @@ That means:
 - They have 2 stress boxes.
 - The PC's player starts each session with 2 fate points.
 
-As PCs level up, these numbers all scale.
+As PCs gain levels, these numbers all scale equally.
 Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
 Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
 
 Every PC starts with two aspects: a Concept and a Trouble. 
 The Concept gives a high-level description of the character.
-Along with the setting aspects, a PC's concept should give a decent sense of who the PCs is and how they fit into the story.
+A PC's concept, along with the setting aspects, should give a decent sense of who the PCs is and how they fit into the story.
 
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
-Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path --- entangling them into the story in the process.
+Your PC's Trouble is an invitation for the rest of the table to throw complications into the PC's path---entangling them into the story in the process.
 
 {% comment %}
 I think we should probably err on the side of brevity. The examples below are probably sufficient. But here are a few others to keep in our pocket.
@@ -216,7 +212,7 @@ Play proceeds conversationally from there as the players and GM improvise back a
 Players speak as their PCs and describe their actions, while the GM narrates how the world responds.
 Players may also ask the GM for further details to help them immerse themselves in the PCs' surroundings.
 
-PC choices are made by the players, while the success of PC actions is judged by dice.
+PC choices are made by the players, while the success of PC actions is judged by the dice.
 That is, the player decides which NPCs to attack and which to barter with.
 The dice show whether a sword strikes home or a lie rings true.
 This dichotomy ensures that each PC has strengths and weaknesses, while still allowing players the freedom to play their PCs in a way that feels true to them.
