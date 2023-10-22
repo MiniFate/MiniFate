@@ -44,16 +44,16 @@ $text-xxl:  $text-base-size * pow($text-scale-ratio, 4);
 $text-xxxl: $text-base-size * pow($text-scale-ratio, 5);
 
 html {
-    font-family: $serif-font-family;
-    line-height: $root-line-height;
-    font-size: $text-base-size;
+  font-family: $serif-font-family;
+  line-height: $root-line-height;
+  font-size: $text-base-size;
 }
 
 main {
-    margin: 0 auto;
-    width: 100%;
-    max-width: 800px;
-    padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
+  padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -99,9 +99,9 @@ a {
 }
 
 @mixin aspect-style () {
-    color: $tango-dark-red;
-    font-variant: small-caps;
-    text-transform: lowercase;
+  color: $tango-dark-red;
+  font-variant: small-caps;
+  text-transform: lowercase;
 }
 
 span.aspect {
@@ -109,9 +109,9 @@ span.aspect {
 }
 
 span.skill {
-    color: $tango-dark-blue;
-    text-transform: capitalize;
-    font-family: monospace;
+  color: $tango-dark-blue;
+  text-transform: capitalize;
+  font-family: monospace;
 }
 
 // Special alignment for skill and aspect tables
@@ -409,15 +409,15 @@ input[type=text] {
 
 // Stress checkboxes
 input[type="checkbox"].stress {
-    -webkit-appearance:none;
-    width: 4em;
-    height: 4em;
-    background:white;
-    border: 0.2em solid $tango-dark-grey;
+  -webkit-appearance:none;
+  width: 4em;
+  height: 4em;
+  background:white;
+  border: 0.2em solid $tango-dark-grey;
 
-    &:checked {
-      background: $tango-dark-red;
-    }
+  &:checked {
+    background: $tango-dark-red;
+  }
 }
 
 
