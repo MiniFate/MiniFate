@@ -104,7 +104,7 @@ Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
 Talk them through as a group and write these two aspects down where everyone can see them.
-Don't worry about making them perfect, they will evolve and change as you play.
+Don't worry about making them perfect; they will evolve and change as you play.
 
 Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
 This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
