@@ -18,16 +18,10 @@ So after the page is rendered, this layout replaces <del> with <span
     | replace: '<code class="language-plaintext highlighter-rouge">', '<span class="aspect">'
     | replace: '</code>', '</span>'
     | replace: '{GameName}', game_name_span
-    | replace: '{GM}', 'Gabby'
-    | replace: '{RobinPC}', 'Robin Hood'
-    | replace: '{RobinPlayer}', 'Rowan'
-    | replace: '{MarianPC}', 'Maid Marian'
-    | replace: '{MarianPlayer}', 'Morgan'
-    | replace: '{TuckPC}', 'Friar Tuck'
-    | replace: '{TuckPlayer}', 'Taylor'
-    | replace: '{JohnPC}', 'Little John'
-    | replace: '{JohnPlayer}', 'Jordan'
+    | replace: '{TBYPlayer}', 'Alex'
+    | replace: '{NakaPlayer}', 'Barry'
     | replace: '{BoatName}', '<em>Grumpy Goat</em>'
+    | replace: '{Level}', 'Rank'
 %}
 
 {{output}}

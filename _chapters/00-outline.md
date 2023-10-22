@@ -27,7 +27,7 @@ Everyone at the table has the same goal: telling a good story and having a good 
 
 > Throughout the rules we will include examples in boxes like this one.
 >
-> Our example players are named Alex and Barry.
+> Our example players are named {TBYPlayer} and {NakaPlayer}.
 
 ### What You Need
 
@@ -100,8 +100,7 @@ Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
 Talk them through as a group and write these two aspects down where everyone can see them.
-Don't worry about making them perfect.
-You can come back and revise them later.
+Don't worry about making them perfect; they will evolve and change as you play.
 
 Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
 This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
@@ -109,8 +108,8 @@ Think of these aspects like the blurb on the back of a book, or the first traile
 The pieces don't all need to be there.
 Just write down enough to get you excited about it!
 
-> Alex wants to play a swashbuckling pirate.
-> Barry wants to play a streetwise wizard.
+> {TBYPlayer} wants to play a swashbuckling pirate.
+> {NakaPlayer} wants to play a streetwise wizard.
 > After a bit of haggling, they settle on something that works for them both:
 >
 > {:.key-def}
@@ -124,11 +123,11 @@ Just write down enough to get you excited about it!
 > {:.key-def}
 > | Conflict: | `The Pirate King has Vanished Without a Trace` |
 >
-> Who is the Pirate King? What authority does he hold? What happened to him? Alex, Barry, and the GM all start thinking about possible answers to those questions.
+> Who is the Pirate King? What authority does he hold? What happened to him? {TBYPlayer}, {NakaPlayer}, and the GM all start thinking about possible answers to those questions.
 
 ### Character Creation
 
-Player characters (PCs) start at level 2.
+Player characters (PCs) start at {Level} 2.
 That means:
 - They have 2 aspects.
 - They get a +2 bonus to any roll that's in line with those aspects.
@@ -160,16 +159,16 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-> Alex wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
+> {TBYPlayer} wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
 > Now he's washed up on the ramshackle {BoatName}.
 > He's good in a fight, a natural leader, but with a chip on his shoulder and plenty to prove.
-> Alex writes the aspects:
+> {TBYPlayer} writes the aspects:
 >
 > {:.key-def}
 > | Concept: | `Speak Softly and Carry a Magic Axe` |
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
-> Barry's PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
+> {NakaPlayer}'s PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
 > A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
 > She now finds herself responsible for (and surrounded by) a crew of fearsome pirates.
 >
@@ -190,13 +189,13 @@ NPCs include everyone from background characters at a pirate bar, to marauding g
 
 NPCs have the same pieces as PCs, but the assembly is more free-form. This allows the GM to create NPCs on the fly that make sense with the narrative:
 - Each NPC has at least one aspect. Important NPCs may have several.
-- Each NPC has a level, which is used for rolls. For example, a level 3 NPC rolls with a +3 bonus on any action in line with its aspects.
-- NPCs have stress boxes. The number of stress boxes need not be the same as the level. Trivial NPCs may have zero stress boxes.
+- Each NPC has a {Level}, which is used for rolls. For example, a {Level} 3 NPC rolls with a +3 bonus on any action in line with its aspects.
+- NPCs have stress boxes. The number of stress boxes need not be the same as the {Level}. Trivial NPCs may have zero stress boxes.
 
 NPCs do not have fate points.
 Instead, the GM has fate points, and can use them on behalf of NPCs.
 The GM starts with the same number of fate points as each player.
-That is, if the PCs are level 3, the GM starts with three fate points.
+That is, if the PCs are {Level} 3, the GM starts with three fate points.
 
 Importantly, an NPC can represent multiple people!
 An unruly mob can be represented as a single NPC with the aspect `Torches and Pitchforks`.
@@ -220,18 +219,12 @@ This dichotomy ensures that each PC has strengths and weaknesses, while still al
 ### Rolling the Dice
 
 Dice in {GameName} add drama and excitement to the story.
-The GM should call for a roll only when failure is possible for a skilled here _and_ failure would add an interesting twist.
+The GM should call for a roll only when failure is possible for a skilled hero _and_ failure would add an interesting twist.
 A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
-She _would_ need to roll to subdue him before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
-
-| Die Face  | Value |
-|:---------:|:-----:|
-| {{neg}}   | -1    |
-| {{zero}}  | 0     |
-| {{pos}}   | +1    |
+She _would_ need to roll to subdue the deckhand before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
 The player rolls four dice and totals them.
-If one of the PC's aspects is relevant to the roll, the player adds their level as well.
+If one of the PC's aspects is relevant to the roll, the player adds their {Level} as well.
 The player then compares their total against the target difficulty set by the GM.
 
 A roll is opposed if another character is actively resisting or interfering with the action.
@@ -245,14 +238,26 @@ If the player's roll meets or exceeds the target difficulty, they succeed.
 If they beat the difficulty by 3 or more they succeed with style.
 Otherwise, they fail.
 
-> TBY is level 3. He gets a +3 bonus when he rolls to hit something with his axe. Success. Inflicts stress on an NPC.
+> Torbyorn and a few of his crew are locked in a warehouse they were planning to loot.
+> Worse, it was a trap set by the bandit's guild, who now surround them.
+> His crew is demoralized, with the aspect `The Bandits are always one step ahead of us`.
+> If the pirates are going to get out in one piece, Torbyorn is going to have to rally them.
 >
-> Naka tries to cook a tasty dinner. None of her aspects apply. She rolls and does not add +3. Target difficulty is 2, but she rolls badly. GM creates the aspect `The Shits`
+> {TBYPlayer} decides to have Torbyorn deliver a rousing speech to steel his crew for battle.
+> Torbyorn's aspect `Speak Softly and Carry a Magic Axe` indicates he can be a calming and commanding presence which would help with this task, so he will add his {Level} for +3 to the roll.
+>
+> The GM sets the difficulty as 4.
+> {TBYPlayer} rolls {{dice-pnpz}} for a total of 1.
+> With the +3 from the aspect, the total is 4.
+> This meets the difficulty of 4, so the action succeeds. 
+> {TBYPlayer} elects to **Create, change, or remove a scene aspect**. 
+> He erases the old one and writes `We've got the bandits right where we want them`.
 
-
-```
-TODO: below here is accurate but rough
-```
+> Naka tries to cook a tasty dinner.
+> None of her aspects apply.
+> She rolls and does not add +3.
+> Target difficulty is 2, but she rolls badly.
+> GM creates the aspect `The Shits`
 
 Success means the player gets to do one of the following:
 
@@ -260,16 +265,6 @@ Success means the player gets to do one of the following:
 - Does every success create an aspect?!
 - If you have multiple free invokes on the same aspect, can you burn them all at once?
 ```
-
-{% comment %}
-This list is hard to read.
-Maybe bold statements and then explanations?
-Like:
-**CREATE AN ASPECT**: Add a scene aspect with...
-
-Or maybe images?
-{% endcomment %}
-
 
 - **Create, change, or remove a scene aspect**:
   Players can create a new scene aspect with one free invocation,
@@ -319,8 +314,8 @@ In this case, the GM should give the spent fate point to that player to compensa
 Treat this like a compel: you need the harmed player to accept.
 If they refuse, figure out a different course of action.
 
-Players begin each session with fate points equal to their PC's level.
-The GM starts with fate points equal to the highest level PC to spend on their own rolls.
+Players begin each session with fate points equal to their PC's {Level}.
+The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
 The GM has an unlimited pool of fate points for compels.
 
 ```
@@ -349,15 +344,15 @@ Pretty much the same as roleplaying, but:
 
 ### Stress and Consequences
 
-Each PC has one stress box per level.
+Each PC has one stress box per {Level}.
 
 If you run out of stress boxes, you can take a consequence to soak one extra hit.
 This is a big deal!
-The consequence goes in your next level aspect.
+The consequence goes in your next {Level} aspect.
 It clears at the end of the story arc.
 When you write your new aspect, it should be a callback to the consequence.
 
-> Naka takes a consequence: `Blood in the Water`. New aspect next level is `Delicious to Sharks`
+> Naka takes a consequence: `Blood in the Water`. New aspect next {Level} is `Delicious to Sharks`
 >
 > TBY takes a consequence: `Run Clean Through`. He's pretty tough. The guy behind him wasn't. New aspect is `Sworn to Avenge the Cook`
 
@@ -396,7 +391,7 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 
 ### Character Advancement
 
-At the end of each story arc, each PC gains a level.
+At the end of each story arc, each PC gains a {Level}.
 That means they also write a new aspect, add a stress box, and gain an additional fate point per session.
 If the PC has a consequence, it clears at this time.
 
