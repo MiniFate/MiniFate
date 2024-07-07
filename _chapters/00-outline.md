@@ -84,6 +84,7 @@ This chapter explains what aspects are and how to use them to lay the foundation
 
 Aspect are short, improvised phrases written down for the whole table to see. 
 They are central to {GameName} in two ways:
+
 1. They keep everyone on the same page. If it's written down as an aspect, it's true and important. If an aspect is no longer true and important, update it or erase it.
 2. They provide a scaffold for players to riff off one another in creative ways, earning bonuses in the process (more on this later).
 
@@ -100,7 +101,8 @@ Your setting is defined by two aspects: a Genre and a Conflict.
 The Genre aspect gives a sense of what, when, and where the story takes place.
 The Conflict aspect is the source of dramatic tension.
 Talk them through as a group and write these two aspects down where everyone can see them.
-Don't worry about making them perfect; they will evolve and change as you play.
+Don't worry about making them perfect, shoot for good enough.
+They will evolve and change as you play.
 
 Keep in mind that aspects, including your Genre and Conflict, are best kept short and punchy.
 This is not the time to go deep on history, politics, geography, or cosmology for your in-game world.
@@ -129,6 +131,7 @@ Just write down enough to get you excited about it!
 
 Player characters (PCs) start at {Level} 2.
 That means:
+
 - They have 2 aspects.
 - They get a +2 bonus to any roll that's in line with those aspects.
 - They have 2 stress boxes.
@@ -137,10 +140,11 @@ That means:
 As PCs gain levels, these numbers all scale equally.
 Character advancement is discussed in the next chapter (as are rolls, fate points, and stress boxes).
 Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
+<!-- TODO: Need to add power to character sheet -->
 
 Every PC starts with two aspects: a Concept and a Trouble. 
 The Concept gives a high-level description of the character.
-A PC's concept, along with the setting aspects, should give a decent sense of who the PCs is and how they fit into the story.
+A PC's concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
 
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
@@ -188,6 +192,7 @@ They are created and played by the GM.
 NPCs include everyone from background characters at a pirate bar, to marauding goblins attacking a village, to the unsettling general of the empire's army.
 
 NPCs have the same pieces as PCs, but the assembly is more free-form. This allows the GM to create NPCs on the fly that make sense with the narrative:
+
 - Each NPC has at least one aspect. Important NPCs may have several.
 - Each NPC has a {Level}, which is used for rolls. For example, a {Level} 3 NPC rolls with a +3 bonus on any action in line with its aspects.
 - NPCs have stress boxes. The number of stress boxes need not be the same as the {Level}. Trivial NPCs may have zero stress boxes.
@@ -223,6 +228,8 @@ The GM should call for a roll only when failure is possible for a skilled hero _
 A `Swashbuckling Genius` should succeed automatically in defending against the attack of a `Nameless Deckhand`.
 She _would_ need to roll to subdue the deckhand before his friends can escape, or to recognize him as a `Student of the Blade Dancers`.
 
+#### Mechanics
+
 The player rolls four dice and totals them.
 If one of the PC's aspects is relevant to the roll, the player adds their {Level} as well.
 The player then compares their total against the target difficulty set by the GM.
@@ -253,31 +260,35 @@ Otherwise, they fail.
 > {TBYPlayer} elects to **Create, change, or remove a scene aspect**. 
 > He erases the old one and writes `We've got the bandits right where we want them`.
 
+<!-- TODO Rewrite -->
 > Naka tries to cook a tasty dinner.
 > None of her aspects apply.
 > She rolls and does not add +3.
 > Target difficulty is 2, but she rolls badly.
 > GM creates the aspect `The Shits`
 
+#### Success and Failure
+
 Success means the player gets to do one of the following:
 
 ```
-- Does every success create an aspect?!
-- If you have multiple free invokes on the same aspect, can you burn them all at once?
+Does every success create an aspect?!
+If you have multiple free invokes on the same aspect, can you burn them all at once?
 ```
 
 - **Create, change, or remove a scene aspect**:
   Players can create a new scene aspect with one free invocation,
   change an existing scene aspect by rewriting it and gaining one free invocation,
   or remove an existing scene aspect along with any unused free invocations on it.
+
 - **Mark one stress box on an opposing character**:
   Players can mark off one stress box on an opposing character's stress track.
   If all stress boxes on a character's stress track are marked, that character is removed from the current scene.
 
-
 Success with style means the player may choose any two options, including choosing the same option twice.
 Failure means the GM chooses one option to use against the character.
 
+<!-- TODO: We also talk about stress boxes below, should this go there? -->
 Taking a character out of a scene means they cannot act further until the scene ends. The specifics depend on the narrative.
 For example:
 
@@ -327,7 +338,6 @@ Tagging the aspect allows us to flesh out that part of the story.
 
 ## Conflicts
 
-<!-- TODO: Reword -->
 Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
 But sometimes you will need to role a lot of dice; that is when you turn to conflicts.
 
@@ -336,11 +346,14 @@ This can include battles with mythical creatures or other enemies,
 negotiations to broker a peace treaty between warring factions,
 or even a race against time to see if the PCs can get to the capital ahead of their rival's army.
 
+<!-- TODO: Reword -->
 Pretty much the same as roleplaying, but:
 - Different pacing due to lots of rolls
 - Map, optionally, depending on the situation
 - Worrying about stress and consequences
 - Play is clockwise around the table instead of unstructured
+
+<!-- We need examples -->
 
 ### Stress and Consequences
 
@@ -355,6 +368,9 @@ When you write your new aspect, it should be a callback to the consequence.
 > Naka takes a consequence: `Blood in the Water`. New aspect next {Level} is `Delicious to Sharks`
 >
 > TBY takes a consequence: `Run Clean Through`. He's pretty tough. The guy behind him wasn't. New aspect is `Sworn to Avenge the Cook`
+
+<!-- TODO we have a section above where we talk about "getting taken out" Should we point that here instead?
+-->
 
 
 ### Drawing a Map
