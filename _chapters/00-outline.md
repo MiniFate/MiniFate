@@ -144,7 +144,7 @@ Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md
 
 Every PC starts with two aspects: a Concept and a Trouble. 
 The Concept gives a high-level description of the character.
-A PC's concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
+A PC's Concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
 
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
@@ -314,6 +314,23 @@ Fate points can be spent to:
   This establish a new fact in the game because aspects are always true.
   The new aspect can be invoked by paying additional fate points.
 
+Players begin each session with fate points equal to their PC's {Level}.
+The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
+The GM has an unlimited pool of fate points for compels.
+
+> The {BoatName} is impounded after they were caught with an illicit cargo of unstamped rice.
+> The local magistrate believes this is a simple case of cheap traders, but he'll soon get word from the capital that there is more at stake.
+> That's when the navy will get involved.
+> Naka and Torbyorn have to act now if they want to escape without having to blast their way out.
+> Unfortunately, the magistrate's office is booked for weeks.
+>
+> {NakaPlayer} has an idea.
+> He use a fate point to **Create an aspect**: `The Magistrate Knows, and Fears, My Father`;
+> expanding on Naka's Concept `Last Daughter of the First Dragon`.
+> Now getting an audience should be much easier... 
+
+#### Compels
+
 Fate points are earned through accepting compels.
 The GM compels a player by offering a fate point to forfeit a roll and instead lets the GM decide the result.
 If the player accept, the GM pays out the fate point and narrates what happens.
@@ -324,17 +341,6 @@ A player might invoke or create an aspect in a way that harms another player's c
 In this case, the GM should give the spent fate point to that player to compensate them.
 Treat this like a compel: you need the harmed player to accept.
 If they refuse, figure out a different course of action.
-
-Players begin each session with fate points equal to their PC's {Level}.
-The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
-The GM has an unlimited pool of fate points for compels.
-
-```
-TBY's trouble tells us that he plays cards.
-Maybe he's bad, and a degenerate gambler?
-Maybe he's great, but got cheated?
-Tagging the aspect allows us to flesh out that part of the story.
-```
 
 ## Conflicts
 
