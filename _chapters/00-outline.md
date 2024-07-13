@@ -82,7 +82,7 @@ This chapter explains what aspects are and how to use them to lay the foundation
 
 ### Core Concept: Aspects
 
-Aspect are short, improvised phrases written down for the whole table to see. 
+Aspect are short, improvised phrases written down for the whole table to see.
 They are central to {GameName} in two ways:
 
 1. They keep everyone on the same page. If it's written down as an aspect, it's true and important. If an aspect is no longer true and important, update it or erase it.
@@ -142,7 +142,7 @@ Character advancement is discussed in the next chapter (as are rolls, fate point
 Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
 <!-- TODO: Need to add power to character sheet -->
 
-Every PC starts with two aspects: a Concept and a Trouble. 
+Every PC starts with two aspects: a Concept and a Trouble.
 The Concept gives a high-level description of the character.
 A PC's Concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
 
@@ -163,7 +163,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-> {TBYPlayer} wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
+> {TBYPlayer} wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling.
 > Now he's washed up on the ramshackle {BoatName}.
 > He's good in a fight, a natural leader, but with a chip on his shoulder and plenty to prove.
 > {TBYPlayer} writes the aspects:
@@ -173,7 +173,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
 > {NakaPlayer}'s PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
-> A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
+> A series of suspicious "retirements" have recently left her at the helm of the {BoatName}.
 > She now finds herself responsible for (and surrounded by) a crew of fearsome pirates.
 >
 > {:.key-def}
@@ -183,7 +183,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 > As with the setting aspects, these PC aspects give everyone plenty to chew on.
 > Who won Torbyorn's boat?
 > Where are they now?
-> And who pulled strings to put Naka in command? 
+> And who pulled strings to put Naka in command?
 
 ### Non-Player Characters
 
@@ -256,8 +256,8 @@ Otherwise, they fail.
 > The GM sets the difficulty as 4.
 > {TBYPlayer} rolls {{dice-pnpz}} for a total of 1.
 > With the +3 from the aspect, the total is 4.
-> This meets the difficulty of 4, so the action succeeds. 
-> {TBYPlayer} elects to **Create, change, or remove a scene aspect**. 
+> This meets the difficulty of 4, so the action succeeds.
+> {TBYPlayer} elects to **Create, change, or remove a scene aspect**.
 > He erases the old one and writes `We've got the bandits right where we want them`.
 
 <!-- TODO Rewrite -->
@@ -327,7 +327,7 @@ The GM has an unlimited pool of fate points for compels.
 > {NakaPlayer} has an idea.
 > He use a fate point to **Create an aspect**: `The Magistrate Knows, and Fears, My Father`;
 > expanding on Naka's Concept `Last Daughter of the First Dragon`.
-> Now getting an audience should be much easier... 
+> Now skipping the line and getting an audience should be much easier...
 
 #### Compels
 
