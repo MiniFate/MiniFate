@@ -344,7 +344,7 @@ A compel can always be refused by the player.
 > But the GM has another idea.
 > He suggests a compel for Naka based on her Trouble, `Old Habits, New Responsibilities`.
 > New Naka might be careful, but old Naka was an impatient loose cannon.
-> Accepting the compel, Naka's player agrees and takes the fate point.
+> Accepting the compel, Naka's player takes the fate point.
 > The GM narrates how Naka, driven by her old habits, lights the pier on fire to flush the gang out.
 >
 > The flames quickly spread, engulfing the wooden structure.
