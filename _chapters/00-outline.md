@@ -394,13 +394,14 @@ A character may move to an adjacent zone on their turn in addition to their acti
 Zones can also have aspects, which may restrict free movement or visibility between zones.
 Consider what makes sense from a narrative perspective when deciding whether a character can move or act over a zone boundary.
 
+
 > The {BoatName} is circling a mountain outpost exchanging cannon fire after a failed attempt to bypass the Empire's northern border.
 > There are three zones on the board: The {BoatName}, the sky, and the outpost.
 > The sky has the aspect `A Very Long Way Down`.
 > <figure class="map">
 >   <img
       src="images/boat_and_tower_map.svg"
-      alt="A map showing a roughly boat shapped object on the left labeled '{BoatName}'. On the boat is drawn a cirlce labeled 'Tor Byorn'. On the right side is a rounded square labeled 'Outpost'. Between the boat and the outpost are the text 'Sky' and the aspect 'A very long way down' written under it in a smaller font."
+      alt="A map showing a roughly boat shaped object on the left labeled 'Grumpy Goat'. On the boat is drawn a circle labeled 'Tor Byorn'. On the right side is a rounded square labeled 'Outpost'. Between the boat and the outpost are the text 'Sky' and the aspect 'A very long way down' written under it in a smaller font. "
     />
 >   <figcaption>The map sketched by the GM, showing the three zones, the aspect for the Sky, and Tor Byorn's position.</figcaption>
 > </figure>
