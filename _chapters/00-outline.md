@@ -82,7 +82,7 @@ This chapter explains what aspects are and how to use them to lay the foundation
 
 ### Core Concept: Aspects
 
-Aspect are short, improvised phrases written down for the whole table to see. 
+Aspect are short, improvised phrases written down for the whole table to see.
 They are central to {GameName} in two ways:
 
 1. They keep everyone on the same page. If it's written down as an aspect, it's true and important. If an aspect is no longer true and important, update it or erase it.
@@ -142,9 +142,9 @@ Character advancement is discussed in the next chapter (as are rolls, fate point
 Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md %}).
 <!-- TODO: Need to add power to character sheet -->
 
-Every PC starts with two aspects: a Concept and a Trouble. 
+Every PC starts with two aspects: a Concept and a Trouble.
 The Concept gives a high-level description of the character.
-A PC's concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
+A PC's Concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
 
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
@@ -163,7 +163,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 
 {% endcomment %}
 
-> {TBYPlayer} wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling. 
+> {TBYPlayer} wants to play Torbyorn Yorgensen, a fearsome pirate captain --- or rather, a former captain who lost everything in a night of drunken gambling.
 > Now he's washed up on the ramshackle {BoatName}.
 > He's good in a fight, a natural leader, but with a chip on his shoulder and plenty to prove.
 > {TBYPlayer} writes the aspects:
@@ -173,7 +173,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 > | Trouble: | `Lost My Boat in a Game of Cards`    |
 >
 > {NakaPlayer}'s PC is Naka of Three Bridges: a streetwise misanthrope with the power to breathe fire.
-> A series of suspicious "retirements" have recently left her at the helm of the {BoatName}. 
+> A series of suspicious "retirements" have recently left her at the helm of the {BoatName}.
 > She now finds herself responsible for (and surrounded by) a crew of fearsome pirates.
 >
 > {:.key-def}
@@ -183,7 +183,7 @@ I think we should probably err on the side of brevity. The examples below are pr
 > As with the setting aspects, these PC aspects give everyone plenty to chew on.
 > Who won Torbyorn's boat?
 > Where are they now?
-> And who pulled strings to put Naka in command? 
+> And who pulled strings to put Naka in command?
 
 ### Non-Player Characters
 
@@ -256,8 +256,8 @@ Otherwise, they fail.
 > The GM sets the difficulty as 4.
 > {TBYPlayer} rolls {{dice-pnpz}} for a total of 1.
 > With the +3 from the aspect, the total is 4.
-> This meets the difficulty of 4, so the action succeeds. 
-> {TBYPlayer} elects to **Create, change, or remove a scene aspect**. 
+> This meets the difficulty of 4, so the action succeeds.
+> {TBYPlayer} elects to **Create, change, or remove a scene aspect**.
 > He erases the old one and writes `We've got the bandits right where we want them`.
 
 <!-- TODO Rewrite -->
@@ -314,6 +314,23 @@ Fate points can be spent to:
   This establish a new fact in the game because aspects are always true.
   The new aspect can be invoked by paying additional fate points.
 
+Players begin each session with fate points equal to their PC's {Level}.
+The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
+The GM has an unlimited pool of fate points for compels.
+
+> Local authorities catch Naka and Torbyorn with a cargo of unstamped rice. 
+> The {BoatName} is impounded, and it'll be weeks before their appeal can be heard. 
+> But they can't afford to stick around;
+> they need to speak to the magistrate *now*, before word spreads.
+> If she alerts her superiors, the pirates will be in deep trouble.
+>
+> {NakaPlayer} has an idea.
+> They use a fate point to **Create an Aspect**: `The Magistrate Owes My Father a Debt`,
+> expanding on Naka's Concept `Last Daughter of the First Dragon`.
+> Now skipping the line and getting an audience should be much easier...
+
+#### Compels
+
 Fate points are earned through accepting compels.
 The GM compels a player by offering a fate point to forfeit a roll and instead lets the GM decide the result.
 If the player accept, the GM pays out the fate point and narrates what happens.
@@ -324,17 +341,6 @@ A player might invoke or create an aspect in a way that harms another player's c
 In this case, the GM should give the spent fate point to that player to compensate them.
 Treat this like a compel: you need the harmed player to accept.
 If they refuse, figure out a different course of action.
-
-Players begin each session with fate points equal to their PC's {Level}.
-The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
-The GM has an unlimited pool of fate points for compels.
-
-```
-TBY's trouble tells us that he plays cards.
-Maybe he's bad, and a degenerate gambler?
-Maybe he's great, but got cheated?
-Tagging the aspect allows us to flesh out that part of the story.
-```
 
 ## Conflicts
 
