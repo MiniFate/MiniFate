@@ -318,14 +318,14 @@ Players begin each session with fate points equal to their PC's {Level}.
 The GM starts with fate points equal to the highest {Level} PC to spend on their own rolls.
 The GM has an unlimited pool of fate points for compels.
 
-> The {BoatName} is impounded after they were caught with an illicit cargo of unstamped rice.
-> The local magistrate believes this is a simple case of cheap traders, but he'll soon get word from the capital that there is more at stake.
-> That's when the navy will get involved.
-> Naka and Torbyorn have to act now if they want to escape without having to blast their way out.
-> Unfortunately, the magistrate's office is booked for weeks.
+> Local authorities catch Naka and Torbyorn with a cargo of unstamped rice. 
+> The {BoatName} is impounded, and it'll be weeks before their appeal can be heard. 
+> But they can't afford to stick around;
+> they need to speak to the magistrate *now*, before word spreads.
+> If she alerts her superiors, the pirates will be in deep trouble.
 >
 > {NakaPlayer} has an idea.
-> He use a fate point to **Create an aspect**: `The Magistrate Knows, and Fears, My Father`;
+> They use a fate point to **Create an Aspect**: `The Magistrate Owes My Father a Debt`,
 > expanding on Naka's Concept `Last Daughter of the First Dragon`.
 > Now skipping the line and getting an audience should be much easier...
 
