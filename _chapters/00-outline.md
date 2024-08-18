@@ -332,7 +332,7 @@ The GM has an unlimited pool of fate points for compels.
 #### Compels
 
 Fate points are earned through accepting compels.
-The GM compels a player by offering a fate point to forfeit a roll and instead lets the GM decide the result.
+The GM compels a player by offering a fate point to let the GM decide the result of their action or roll.
 If the player accepts, the GM pays out the fate point and narrates what happens.
 Players can suggest a compel to the GM and are free to negotiate any compel offered.
 A compel can always be refused by the player.
