@@ -20,7 +20,7 @@ lock: .ruby-version
 		-w $(MOUNT) \
 		ruby:$(RUBY_VERSION) \
 		/bin/bash -c "gem install bundler -v $(BUNDLER_VERSION) --no-document && \
-		              bundle lock --update --normalize-platforms"
+		              bundle lock --update"
 	@echo "Gemfile.lock updated successfully."
 
 image: Dockerfile Gemfile Gemfile.lock .ruby-version
