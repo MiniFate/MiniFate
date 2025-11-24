@@ -49,7 +49,13 @@ build: image clean
 # Serve the site for local development with live reloading
 serve: image clean
 	@echo "Serving site at http://localhost:4000..."
-	@docker run --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) bundle exec jekyll serve --watch --livereload
+	@docker run --rm \
+		-p 4000:4000 \
+		-p 35729:35729 \
+		-v $(PWD):$(MOUNT) \
+		-w $(MOUNT) \
+		$(IMAGE) \
+		bundle exec jekyll serve --watch --incremental --livereload
 
 # Interactive session within the image so you can poke around
 debug: image
