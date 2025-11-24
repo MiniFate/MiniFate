@@ -1,0 +1,25 @@
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore GitHub workflows
+.github
+
+# Ignore Jekyll build output
+_site
+
+# Ignore Bundler vendor directory
+vendor
+
+# Ignore Bundler config and cache
+.bundle
+*.gem
+
+# Ignore SASS cache
+.sass-cache/
+
+# Ignore development/build artifacts
+Makefile
+Dockerfile
+README.md
+node_modules
