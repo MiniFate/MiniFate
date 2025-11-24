@@ -2,6 +2,12 @@ IMAGE := jekyll-image
 MOUNT := /workspace
 DOCKER_BUILD := DOCKER_BUILDKIT=1 docker build
 
+# Define Ruby version by reading .ruby-version file
+RUBY_VERSION := $(shell cat .ruby-version)
+
+# Define Bundler version
+BUNDLER_VERSION := 2.4.22
+
 .PHONY: all serve debug image refresh
 
 all: serve
@@ -13,18 +19,15 @@ serve: image
 debug: image
 	docker run -it --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE)
 
-# Don't send the whole repo to Docker. All we need is the Gemfile.
-BUILDDIR := /tmp/jekyll-docker
-
-image: Dockerfile Gemfile
-	rm -rf $(BUILDDIR)
-	mkdir -p $(BUILDDIR)
-	cp Gemfile $(BUILDDIR)
-	$(DOCKER_BUILD) $(BUILDDIR) -f Dockerfile -t $(IMAGE)
+image: Dockerfile Gemfile .ruby-version
+	$(DOCKER_BUILD) \
+		--build-arg RUBY_VERSION=$(RUBY_VERSION) \
+		--build-arg BUNDLER_VERSION=$(BUNDLER_VERSION) \
+		. -f Dockerfile -t $(IMAGE)
 
 # Rebuilding from a cached image can cause problems.
-refresh: Dockerfile Gemfile
-	rm -rf $(BUILDDIR)
-	mkdir -p $(BUILDDIR)
-	cp Gemfile $(BUILDDIR)
-	$(DOCKER_BUILD) $(BUILDDIR) -f Dockerfile -t $(IMAGE) --no-cache
+refresh: Dockerfile Gemfile .ruby-version
+	$(DOCKER_BUILD) \
+		--build-arg RUBY_VERSION=$(RUBY_VERSION) \
+		--build-arg BUNDLER_VERSION=$(BUNDLER_VERSION) \
+		--no-cache . -f Dockerfile -t $(IMAGE)
