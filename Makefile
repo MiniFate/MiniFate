@@ -8,9 +8,20 @@ RUBY_VERSION := $(shell cat .ruby-version)
 # Define Bundler version
 BUNDLER_VERSION := 2.4.22
 
-.PHONY: all serve debug image refresh
+.PHONY: all serve debug image refresh lock
 
 all: serve
+
+# Update Gemfile.lock using Docker with the correct Ruby and Bundler versions
+lock: .ruby-version
+	@echo "Updating Gemfile.lock using Docker (ruby:$(RUBY_VERSION) with Bundler $(BUNDLER_VERSION))..."
+	@docker run --rm \
+		-v $(PWD):$(MOUNT) \
+		-w $(MOUNT) \
+		ruby:$(RUBY_VERSION) \
+		/bin/bash -c "gem install bundler -v $(BUNDLER_VERSION) --no-document && \
+		              bundle lock --update --normalize-platforms"
+	@echo "Gemfile.lock updated successfully."
 
 serve: image
 	docker run --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE) bundle exec jekyll serve --watch --livereload
