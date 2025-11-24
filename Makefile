@@ -19,14 +19,14 @@ serve: image
 debug: image
 	docker run -it --rm -p 4000:4000 -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE)
 
-image: Dockerfile Gemfile .ruby-version
+image: Dockerfile Gemfile Gemfile.lock .ruby-version
 	$(DOCKER_BUILD) \
 		--build-arg RUBY_VERSION=$(RUBY_VERSION) \
 		--build-arg BUNDLER_VERSION=$(BUNDLER_VERSION) \
 		. -f Dockerfile -t $(IMAGE)
 
 # Rebuilding from a cached image can cause problems.
-refresh: Dockerfile Gemfile .ruby-version
+refresh: Dockerfile Gemfile Gemfile.lock .ruby-version
 	$(DOCKER_BUILD) \
 		--build-arg RUBY_VERSION=$(RUBY_VERSION) \
 		--build-arg BUNDLER_VERSION=$(BUNDLER_VERSION) \

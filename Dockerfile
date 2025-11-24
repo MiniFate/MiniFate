@@ -9,8 +9,19 @@ FROM ruby:${RUBY_VERSION}
 ARG BUNDLER_VERSION=2.4.22
 RUN gem install bundler -v ${BUNDLER_VERSION} --no-document
 
-ENV BUNDLE_GEMFILE=/tmp/Gemfile
-COPY Gemfile $BUNDLE_GEMFILE
-RUN bundle install -j 4
+# Copy .ruby-version into the image (documentation)
+COPY .ruby-version .ruby-version
 
-CMD ["/bin/sh"]
+# Set working directory
+WORKDIR /workspace
+
+# Copy Gemfile and Gemfile.lock
+COPY Gemfile Gemfile.lock ./
+
+# Configure Bundler to respect the lockfile strictly (frozen)
+RUN bundle config set --global frozen 1
+
+# Install gems based strictly on Gemfile.lock
+RUN bundle install --jobs 4
+
+# No CMD needed, will be provided by docker run
