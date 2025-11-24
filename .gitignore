@@ -65,6 +65,8 @@ Session.vim
 .*
 !.gitignore
 !.github
+!.ruby-version
+!.dockerignore
 *~
 
 ##Github OSX Ignore
