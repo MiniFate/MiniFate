@@ -1,6 +1,3 @@
-# This fixes an error when serving from inside Docker
-host: 0.0.0.0
-
 title: AspectRPG
 description: >- # this means to ignore newlines until "baseurl:"
   A slimmed-down hybrid of Fate Core and Fate Accelerated
