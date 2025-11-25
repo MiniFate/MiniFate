@@ -1,8 +1,16 @@
-# Define build argument for Ruby version
-ARG RUBY_VERSION=2
+# Dockerfile
 
+# Define build argument for Ruby version
+ARG RUBY_VERSION=3.2
 # Use the specific Ruby version provided by the build argument
 FROM ruby:${RUBY_VERSION}
+
+# Avoid prompt for time zone info and set locale to prevent encoding errors.
+ENV DEBIAN_FRONTEND=noninteractive
+ARG US_UTF=en_US.UTF-8
+ENV LC_ALL=C.UTF-8
+ENV LANG=$US_UTF
+ENV LANGUAGE=$US_UTF
 
 # Install the specified Bundler version
 # BUNDLER_VERSION is passed in as a build arg, this is just the default
