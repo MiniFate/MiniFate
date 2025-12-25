@@ -332,10 +332,24 @@ The GM has an unlimited pool of fate points for compels.
 #### Compels
 
 Fate points are earned through accepting compels.
-The GM compels a player by offering a fate point to forfeit a roll and instead lets the GM decide the result.
-If the player accept, the GM pays out the fate point and narrates what happens.
+The GM compels a player by offering a fate point to let the GM decide the result of their action or roll.
+If the player accepts, the GM pays out the fate point and narrates what happens.
 Players can suggest a compel to the GM and are free to negotiate any compel offered.
 A compel can always be refused by the player.
+
+> Naka's crew had been tracking a rival gang for weeks.
+> She has them cornered on a pier in the busy sky-harbor, with only one way in or out.
+> Thinking of her new responsibility to her crew, {NakaPlayer} decides to play it safe and wait them out.
+>
+> But the GM has another idea.
+> He suggests a compel for Naka based on her Trouble, `Old Habits, New Responsibilities`.
+> New Naka might be careful, but old Naka was an impatient loose cannon.
+> Accepting the compel, Naka's player takes the fate point.
+> The GM narrates how Naka, driven by her old habits, lights the pier on fire to flush the gang out.
+>
+> The flames quickly spread, engulfing the wooden structure.
+> The gang rushes out disorganized, but so do dozens of dockworkers and merchants.
+> The fire spirals out of control, threatening nearby ships, including the {BoatName}...
 
 A player might invoke or create an aspect in a way that harms another player's character.
 In this case, the GM should give the spent fate point to that player to compensate them.
