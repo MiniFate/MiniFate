@@ -14,7 +14,7 @@ ENV LANGUAGE=$US_UTF
 
 # Install the specified Bundler version
 # BUNDLER_VERSION is passed in as a build arg, this is just the default
-ARG BUNDLER_VERSION=2.4.22
+ARG BUNDLER_VERSION=2.6.8
 RUN gem install bundler -v ${BUNDLER_VERSION} --no-document
 
 # Copy .ruby-version into the image (documentation)
