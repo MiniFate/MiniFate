@@ -56,7 +56,7 @@ action probably isn't important enough to the story to make rolling
 worthwhile). The result of the roll is then compared to the target number.
 
 > Dolores has snuck into the basement of Father Liam's church and discovered
-> an **Ancient Tome in a Forgotten Toungue**. She attempts to decipher it in
+> an **Ancient Tome in a Forgotten Tongue**. She attempts to decipher it in
 > the hope that it will reveal the time and place where Liam and his followers
 > plan to summon an Old God. Because there is only the one aspect indicating
 > that this action would be difficult, the GM sets the target number to 2.

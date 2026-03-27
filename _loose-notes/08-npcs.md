@@ -14,7 +14,7 @@ henchmen of the primary villain whose only purpose is to provide an obstacle
 to the PCs, or they might be a patron at the bar who knows a secret about the
 town sheriff. Whatever their origin, their role in the narrative is fleeting.
 
-Nameless NPCs should have one Aspect describing them; they don't need anymore
+Nameless NPCs should have one Aspect describing them; they don't need any more
 unless their role in the narrative warrants more.  Nameless NPCs only require
 as many skills as they will likely use. The henchmen might have _Fight_,
 _Shoot_, and _Insight_ in order to physically oppose the PCs, while the patron
@@ -22,7 +22,7 @@ at the bar might only have _Network_ and _Performance_ to represent who he
 knows and his ability to lie if it will get him another drink.
 
 In combat, nameless NPCs should be grouped together into mobs. A mob acts as
-one: they make a single role on their turn and each point of stress that they
+one: they make a single roll on their turn and each point of stress that they
 take removes one member of the mob. Just like PCs assisting each other, the
 mob rolls at their base skill level plus one for every member beyond the
 first.  When a mob is reduced to one or two members it should join with
@@ -90,7 +90,7 @@ dangerous the next time they encounter the party.
 > people. He has slightly lower ranks of _Network_ to represent his
 > connections as a Lord, and _Persuasion_ as he often has to deal with
 > diplomatic negotiations as a Lord. He has a relatively low rank of _Insight_
-> indicating that he isn't as clever as his thinks he is, but still knows more
+> indicating that he isn't as clever as he thinks he is, but still knows more
 > than the average commoner on the street. The rest of his Skills are absent
-> because it is unlikely they they would comeup in play; he really isn't the
+> because it is unlikely they would come up in play; he really isn't the
 > type to engage in physical combat and he isn't particularly athletic.

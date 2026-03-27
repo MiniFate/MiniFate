@@ -3,7 +3,7 @@
 
 {% include macros.html %}
 
-{GameName} is a roleplaying game that emphasizes the importance of captivating characters, unique settings, and thrilling conflicts to great story telling.
+{GameName} is a roleplaying game that emphasizes the importance of captivating characters, unique settings, and thrilling conflicts to great storytelling.
 It uses Aspects to allow the players to focus their attention only on the details that matter.
 Everything else is allowed to slide.
 The result is a punchy, quick-moving game with plenty of opportunities for memorable moments.
@@ -42,7 +42,7 @@ and some tokens to represent Fate Points.
 Fate dice (sometimes called Fudge dice) are six-sided dice.
 They are marked with {{pos}} on two sides, {{zero}} on two sides, and {{neg}} on two sides.
 To keep things moving quickly, it's best to have a set of four dice for each player.
-If you don't have specially marked Fate dice, you can use normal six-side dice as follows:
+If you don't have specially marked Fate dice, you can use normal six-sided dice as follows:
 
 | D6 Roll  | Fate Roll |
 |:--------:|:---------:|
@@ -82,7 +82,7 @@ This chapter explains what aspects are and how to use them to lay the foundation
 
 ### Core Concept: Aspects
 
-Aspect are short, improvised phrases written down for the whole table to see.
+Aspects are short, improvised phrases written down for the whole table to see.
 They are central to {GameName} in two ways:
 
 1. They keep everyone on the same page. If it's written down as an aspect, it's true and important. If an aspect is no longer true and important, update it or erase it.
@@ -144,7 +144,7 @@ Bookkeeping is all kept on the PC's [character sheet]({% link character_sheet.md
 
 Every PC starts with two aspects: a Concept and a Trouble.
 The Concept gives a high-level description of the character.
-A PC's Concept, along with the setting aspects, should give a sense of who the PCs is and how they fit into the story.
+A PC's Concept, along with the setting aspects, should give a sense of who the PC is and how they fit into the story.
 
 The Trouble fleshes out the PC by showing them from a less-flattering angle.
 It could be a bad habit, a damaged relationship, or an old mistake that still hangs over them.
@@ -311,7 +311,7 @@ Fate points can be spent to:
   An aspect can only be invoked once per roll, but multiple aspects can be invoked on the same roll if the player has multiple fate points to spend.
 - **Create an aspect**:
   Write down a new aspect about the world.
-  This establish a new fact in the game because aspects are always true.
+  This establishes a new fact in the game because aspects are always true.
   The new aspect can be invoked by paying additional fate points.
 
 Players begin each session with fate points equal to their PC's {Level}.
@@ -333,7 +333,7 @@ The GM has an unlimited pool of fate points for compels.
 
 Fate points are earned through accepting compels.
 The GM compels a player by offering a fate point to forfeit a roll and instead lets the GM decide the result.
-If the player accept, the GM pays out the fate point and narrates what happens.
+If the player accepts, the GM pays out the fate point and narrates what happens.
 Players can suggest a compel to the GM and are free to negotiate any compel offered.
 A compel can always be refused by the player.
 
@@ -345,7 +345,7 @@ If they refuse, figure out a different course of action.
 ## Conflicts
 
 Most of the gameplay in {GameName} is conversational, with occasional dice rolls to determine the path the story takes.
-But sometimes you will need to role a lot of dice; that is when you turn to conflicts.
+But sometimes you will need to roll a lot of dice; that is when you turn to conflicts.
 
 A conflict is any situation where the PCs are up against opponents.
 This can include battles with mythical creatures or other enemies,
@@ -406,10 +406,10 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 >   <figcaption>The map sketched by the GM, showing the three zones, the aspect for the Sky, and Tor Byorn's position.</figcaption>
 > </figure>
 >
-> Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on the canons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
-> Tor Byorn's player decides the Dwarf has had enough enough.
-> He roles to create the aspect `Flying Leap` which would give him the ability to cross the intervening zones.
-> If the Dwarf's rolls succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
+> Tor Byorn is stuck on the {BoatName}, unable to bring his axe to bear on the cannons poking holes in his ship since the sky's aspect indicates that he can't cross the zone.
+> Tor Byorn's player decides the Dwarf has had enough.
+> He rolls to create the aspect `Flying Leap` which would give him the ability to cross the intervening zones.
+> If the Dwarf's roll succeeds, his aspect will allow him to jump the gap between the ship and outpost, if he rolls poorly...
 > Well, it is `A Very Long Way Down`.
 
 ### Character Advancement
