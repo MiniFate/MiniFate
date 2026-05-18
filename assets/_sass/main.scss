@@ -1,42 +1,47 @@
 @use "sass:math";
 
-$serif-font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
-$sans-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-$root-line-height: 1.5;
+// ────────────────────────────────────────────────────────────────────────────
+// FONTS — body stays Palatino (it's perfect for this). Display becomes serif
+// too — bookish + small-caps. Helvetica retained as a fallback for old marks.
+// ────────────────────────────────────────────────────────────────────────────
+$serif-font-family:    "Iowan Old Style", "Hoefler Text", Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+$display-font-family:  "Iowan Old Style", "Hoefler Text", Palatino, "Book Antiqua", Georgia, serif;
+$mono-font-family:     ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+$root-line-height: 1.6;
 
-// Some colors
+// ────────────────────────────────────────────────────────────────────────────
+// PALETTE — parchment + ink, with a gold accent for ornaments / numerals.
+// ────────────────────────────────────────────────────────────────────────────
+$paper:            #f5efe2;   // page background
+$paper-deep:       #ecdfc4;   // example callout
+$ink:              #1f1a14;
+$ink-soft:         #6b5e47;
+$rule:             #c8b88a;   // hairline rules
+$gold:             #b39256;   // accent: numerals, ornaments, dingbats
+$aspect-red:       #6b2929;   // calmer than the old hsl(0,100%,32%) for a parchment ground
+$skill-blue:       hsl(216, 62%, 33%);
+
+// Legacy aliases preserved so anything else in your tree keeps compiling.
 $tango-red:        hsl(  0, 100%, 40%);
-$tango-dark-red:   hsl(  0, 100%, 32%);
+$tango-dark-red:   $aspect-red;
 $tango-blue:       hsl(214,  52%, 42%);
-$tango-dark-blue:  hsl(216,  62%, 33%);
+$tango-dark-blue:  $skill-blue;
 $tango-purple:     hsl(292,  21%, 40%);
 $tango-light-grey: hsl( 60,   6%, 97%);
-$tango-dark-grey:  hsl( 90,   2%, 33%);
+$tango-dark-grey:  $ink-soft;
 
-// Positive or negative power function
-// Via: https://css-tricks.com/snippets/sass/power-function/
+// ────────────────────────────────────────────────────────────────────────────
+// TYPE SCALE — tightened slightly. Pure 1.25 was a hair shrill at the top.
+// ────────────────────────────────────────────────────────────────────────────
 @function pow($number, $exponent) {
   $value: 1;
-
-  @if $exponent > 0 {
-    @for $i from 1 through $exponent {
-      $value: $value * $number;
-    }
-  } @else if $exponent < 0 {
-    @for $i from 1 through -$exponent {
-      $value: math.div($value, $number);
-    }
-  }
-
+  @if $exponent > 0 { @for $i from 1 through  $exponent { $value: $value * $number; } }
+  @else if $exponent < 0 { @for $i from 1 through -$exponent { $value: math.div($value, $number); } }
   @return $value;
 }
 
-// Body font size
 $text-base-size: 1.2rem;
-
-// Type Scale
-// Note: pow(..., 0) is just $text-base-size, which is already defined
-$text-scale-ratio: 1.25;
+$text-scale-ratio: 1.22;
 $text-xs:   $text-base-size * pow($text-scale-ratio, -2);
 $text-sm:   $text-base-size * pow($text-scale-ratio, -1);
 $text-md:   $text-base-size * pow($text-scale-ratio, 1);
@@ -45,288 +50,448 @@ $text-xl:   $text-base-size * pow($text-scale-ratio, 3);
 $text-xxl:  $text-base-size * pow($text-scale-ratio, 4);
 $text-xxxl: $text-base-size * pow($text-scale-ratio, 5);
 
+// ────────────────────────────────────────────────────────────────────────────
+// ROOT
+// ────────────────────────────────────────────────────────────────────────────
 html {
   font-family: $serif-font-family;
   line-height: $root-line-height;
   font-size: $text-base-size;
+  color: $ink;
+  background: $paper;
+  // Subtle paper warmth — two soft radial washes. Comment out for flat paper.
+  background-image:
+    radial-gradient(ellipse at 25% 15%, rgba(120, 90, 40, 0.045), transparent 55%),
+    radial-gradient(ellipse at 80% 85%, rgba(120, 90, 40, 0.05),  transparent 55%);
+  background-attachment: fixed;
 }
+
+body { margin: 0; }
 
 main {
   margin: 0 auto;
   width: 100%;
-  max-width: 800px;
-  padding: 0;
+  max-width: 720px;
+  padding: 4rem 2rem 6rem;
+  text-wrap: pretty;
 }
 
-.debug {
-  border: 1px solid red;
-}
+p { margin: 0 0 0.9em; }
 
+// ────────────────────────────────────────────────────────────────────────────
+// HEADINGS — serif, small-caps, with hairline + dingbat ornaments on H2.
+// ────────────────────────────────────────────────────────────────────────────
 h1, h2, h3, h4, h5, h6 {
-  font-family: $sans-font-family;
-  margin-top: 1.5em;
-  margin-bottom: 0;
+  font-family: $display-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  margin-top: 1.8em;
+  margin-bottom: 0.4em;
+  line-height: 1.15;
 }
 
 h1 {
   margin-top: 0;
   font-size: $text-xxxl;
+  font-weight: 400;
   text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0;
+
+  // Optional eyebrow + subtitle, see preview.
+  & + .subtitle {
+    text-align: center;
+    font-style: italic;
+    color: $ink-soft;
+    margin-top: -0.4em;
+    margin-bottom: 0;
+  }
+}
+
+// Page-title block ornament — purely decorative. Wrap your h1 with this:
+//   <header class="title-block"> … <hr class="dingbat"> </header>
+.title-block {
+  text-align: center;
+  margin-bottom: 2.5em;
+
+  .folio {
+    font-style: italic;
+    color: $ink-soft;
+    font-size: $text-sm;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.4em;
+  }
+
+  .dingbat {
+    border: none;
+    border-top: 0.5px solid $ink-soft;
+    border-bottom: 0.5px solid $ink-soft;
+    padding: 4px 0;
+    margin: 1em auto 0;
+    width: 60%;
+    text-align: center;
+    color: $gold;
+    letter-spacing: 0.5em;
+    height: auto;
+    &::before { content: "·  ·  ·"; }
+  }
 }
 
 h2 {
   font-size: $text-xxl;
   text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-align: center;
+  margin-top: 2.2em;
+
+  // Hairline rules on either side of the H2 text.
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  color: $ink;
+
+  &::before, &::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: $rule;
+  }
 }
 
-h3 {font-size: $text-xl;}
+h3 {
+  font-size: $text-xl;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  border-bottom: 0.5px solid $rule;
+  padding-bottom: 0.3em;
 
-h4 {font-size: $text-lg;}
+  // Decorative roman numeral. Optional — wrap text in <span class="numeral">.
+  .numeral {
+    display: inline-block;
+    margin-right: 0.5em;
+    color: $gold;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: 0.78em;
+  }
+}
 
-h5 {font-size: $text-md;}
+h4 {
+  font-size: $text-lg;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  color: $ink-soft;
+}
 
-small, .text_small {font-size: $text-sm;}
+h5 { font-size: $text-md; }
+small, .text_small { font-size: $text-sm; }
 
+// ────────────────────────────────────────────────────────────────────────────
+// DROP CAP — chapter openers get a Hoefler-style raised cap automatically:
+//   • the first paragraph in <main>
+//   • the first paragraph after each <h2>
+// You can also add the cap to any other paragraph with class="lede".
+// ────────────────────────────────────────────────────────────────────────────
+main > p:first-of-type,
+main > h2 + p,
+p.lede {
+  font-size: 1.05em;
+
+  &::first-letter {
+    float: left;
+    font-family: $display-font-family;
+    font-weight: 700;
+    font-size: 4.2em;
+    line-height: 0.85;
+    padding: 0.05em 0.1em 0 0;
+    color: $aspect-red;
+  }
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// LINKS — keep your hue logic, soften it for the parchment ground.
+// ────────────────────────────────────────────────────────────────────────────
 a {
-  text-decoration: none;
   color: $tango-blue;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: rgba($tango-blue, 0.35);
+  text-underline-offset: 2px;
 
   &:hover {
     color: $tango-red;
-    border-bottom-color: $tango-red;
-    text-decoration: underline;
+    text-decoration-color: $tango-red;
   }
-
   &:visited {
     color: $tango-purple;
-    border-bottom-color: $tango-purple;
+    text-decoration-color: rgba($tango-purple, 0.35);
   }
 }
 
+// ────────────────────────────────────────────────────────────────────────────
+// ASPECTS & SKILLS — the signature inline element. Small-caps red.
+// ────────────────────────────────────────────────────────────────────────────
 @mixin aspect-style () {
-  color: $tango-dark-red;
+  color: $aspect-red;
   font-variant: small-caps;
   text-transform: lowercase;
+  letter-spacing: 0.04em;
+  font-weight: 500;
 }
 
-span.aspect {
-  @include aspect-style();
-}
+span.aspect { @include aspect-style(); }
 
 span.skill {
-  color: $tango-dark-blue;
+  color: $skill-blue;
   text-transform: capitalize;
-  font-family: monospace;
+  font-family: $mono-font-family;
+  font-size: 0.92em;
 }
 
-// Special alignment for skill and aspect tables
+// ────────────────────────────────────────────────────────────────────────────
+// KEY-DEF TABLES (Genre / Conflict / Concept / Trouble)
+// ────────────────────────────────────────────────────────────────────────────
 table.key-def {
   width: 100%;
-  border-width: 0;
-  td {
-    text-align: left;
-  }
+  border: none;
+  margin: 0.6em 0;
 
+  td { text-align: left; padding: 0.3em 0.5em; }
   td:first-child {
     text-align: right;
-    width: 25%;
+    width: 28%;
+    color: $ink-soft;
+    font-style: italic;
+    font-variant: normal;
   }
 }
 
-// Other tables
+// ────────────────────────────────────────────────────────────────────────────
+// GENERIC TABLES — top/bottom rule only, italic header.
+// ────────────────────────────────────────────────────────────────────────────
 table {
-  margin-right: auto;
-  margin-left: auto;
+  margin: 1.2em auto;
   font-size: 1em;
   font-variant-numeric: lining-nums tabular-nums;
   border-collapse: collapse;
-  border-width: 0.12em 0;
-  border-color: $tango-dark-grey;
-  border-style: solid;
+  border-top: 1px solid $ink;
+  border-bottom: 1px solid $ink;
+  border-left: 0;
+  border-right: 0;
 }
 
 thead {
-  border-bottom: 0.06em;
-  border-bottom-style: solid;
-  border-bottom-color: $tango-dark-grey;
-}
-
-td,
-th {
-  padding: .25em .5em;
+  border-bottom: 0.5px solid $gold;
 }
 
 th {
+  font-style: italic;
+  font-weight: 400;
+  color: $ink-soft;
   text-align: left;
+  padding: 0.6em 1.4em 0.4em;
 }
 
-// Inline dice images
-$dice-size: 1em;
+td { padding: 0.5em 1.4em; }
+
+// ────────────────────────────────────────────────────────────────────────────
+// DICE — bumped up. They're a signature glyph; let them breathe.
+// ────────────────────────────────────────────────────────────────────────────
+$dice-size: 1.15em;
 
 img.die {
   height: $dice-size;
   width: $dice-size;
-  vertical-align: middle;
+  vertical-align: -0.18em;
 }
 
+// In the inline dice-roll runs (≥4 dice together) give them a hair more air.
 span.dice-roll {
-  img.die {
-    padding: 0.05em;
-  }
+  display: inline-flex;
+  gap: 0.15em;
+  align-items: center;
+  img.die { padding: 0; }
 }
 
-span.nowrap {
-  white-space: nowrap;
-}
+span.nowrap { white-space: nowrap; }
 
-// Map images
+// ────────────────────────────────────────────────────────────────────────────
+// MAPS
+// ────────────────────────────────────────────────────────────────────────────
 figure.map {
-
-  img {
-    display: block;
-    margin: auto;
-  }
-
+  margin: 1.5em 0;
+  img { display: block; margin: auto; }
   figcaption {
     text-align: center;
     font-size: $text-sm;
+    font-style: italic;
+    color: $ink-soft;
+    margin-top: 0.6em;
   }
 }
 
-// Example gameplay uses blockquotes
+// ────────────────────────────────────────────────────────────────────────────
+// EXAMPLE BLOCKQUOTES — the page's most-used component. Treat it like a
+// proper book sidebar: parchment-deep ground, double rule, centered label.
+// ────────────────────────────────────────────────────────────────────────────
 blockquote {
-  border: 0.15em solid $tango-dark-grey;
-  margin-left: 2em;
-  margin-right: 2em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  //background-color: $tango-light-grey;
+  position: relative;
+  background: $paper-deep;
+  border: none;
+  border-top: 3px double $ink-soft;
+  border-bottom: 3px double $ink-soft;
+  margin: 2em -1.5em;     // hangs slightly into the gutters
+  padding: 1.8em 1.8em 1.4em;
+  color: #2c2620;
+  font-style: italic;
 
-  p:first-child {
-    margin-top: 0;
+  // Floating "At the table" tag. CSS-only — no HTML changes needed.
+  &::before {
+    content: "At the table";
+    position: absolute;
+    top: -0.85em;
+    left: 50%;
+    transform: translateX(-50%);
+    background: $paper;
+    padding: 0 0.8em;
+    font-style: italic;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    font-size: $text-sm;
+    color: $ink-soft;
   }
 
-  p:last-child {
-    margin-bottom: 0;
+  p:first-child { margin-top: 0; }
+  p:last-child  { margin-bottom: 0; }
+
+  // Aspects inside examples should NOT pick up the italic.
+  .aspect { font-style: normal; }
+
+  // key-def tables inside examples
+  table.key-def {
+    font-style: normal;
+    td:first-child {
+      font-style: italic;
+      color: $ink-soft;
+    }
   }
 }
 
-// Anchor links
-h1 .anchor-link-img, h2 .anchor-link-img, h3 .anchor-link-img, h4 .anchor-link-img, h5 .anchor-link-img, h6 .anchor-link-img  {
-  visibility: hidden;
+// ────────────────────────────────────────────────────────────────────────────
+// ORNAMENTS / THEMATIC BREAKS
+//
+//   <hr>                        ← preferred. Semantic break, rendered as ❦.
+//   <div class="ornament">❦</div> ← for decoration that isn't a break.
+//
+// Both share the same visual treatment via this mixin.
+// ────────────────────────────────────────────────────────────────────────────
+@mixin ornament-style () {
+  text-align: center;
+  color: $gold;
+  font-size: 1.4em;
+  margin: 2em 0;
+  letter-spacing: 0.3em;
+  line-height: 1;
 }
 
-h1:hover .anchor-link-img, h2:hover .anchor-link-img, h3:hover .anchor-link-img, h4:hover .anchor-link-img, h5:hover .anchor-link-img, h6:hover .anchor-link-img {
-  visibility: visible;
+hr {
+  border: none;
+  height: auto;
+  @include ornament-style();
+
+  &::before {
+    content: "❦";
+  }
+}
+
+.ornament {
+  @include ornament-style();
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// ANCHOR LINKS — keep behavior, restyle color.
+// ────────────────────────────────────────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  .anchor-link-img { visibility: hidden; }
+  &:hover .anchor-link-img { visibility: visible; }
 }
 
 .anchor-link-img {
-  fill: $tango-blue;
+  fill: $ink-soft;
   padding: 0;
   vertical-align: middle;
-
-  &:hover {
-    fill: $tango-red;
-    text-decoration: underline;
-  }
+  &:hover { fill: $aspect-red; }
 }
 
-// Use dash for bullets
+// ────────────────────────────────────────────────────────────────────────────
+// LISTS — em-dash bullets, but with reliable layout (no abs-positioning).
+// ────────────────────────────────────────────────────────────────────────────
 ul {
-  list-style-type: none;
-  padding-left: 3em;
+  list-style: none;
+  padding-left: 0;
+  margin-left: 1.5em;
+
+  > li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 0.3em;
+
+    &::before {
+      content: "—";
+      position: absolute;
+      left: 0;
+      color: $ink-soft;
+    }
+  }
 }
 
-ul > li:before {
-  content: "—"; /* em dash */
-  position: absolute;
-  margin-left: -1.5em;
-}
+ol { padding-left: 2em; }
 
-// Rule TODOs
+// ────────────────────────────────────────────────────────────────────────────
+// RULE TODOs — keep visible but in-tone (parchment-friendly, not pure grey).
+// ────────────────────────────────────────────────────────────────────────────
 .todo {
-  border: 0.15em solid $tango-dark-grey;
-  margin-left: 2em;
-  margin-right: 2em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  background-color: $tango-dark-grey;
-  color: white;
+  border: 1px dashed $ink-soft;
+  margin: 1em 0;
+  padding: 0.6em 0.8em;
+  background-color: rgba($ink-soft, 0.08);
+  color: $ink-soft;
+  font-style: italic;
+  font-size: $text-sm;
 
-  p:first-child {
-    margin-top: 0;
-  }
-
-  p:last-child {
-    margin-bottom: 0;
-  }
+  p:first-child { margin-top: 0; }
+  p:last-child  { margin-bottom: 0; }
 }
 
-// Character Sheet
-div.character-sheet h3 {
-  margin-top: 0;
-}
+.debug { border: 1px solid red; }
+
+// ════════════════════════════════════════════════════════════════════════════
+// CHARACTER SHEET — untouched layout, retuned colors for parchment ground.
+// ════════════════════════════════════════════════════════════════════════════
+div.character-sheet h3 { margin-top: 0; }
 
 div.character-sheet {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 0.1fr repeat(3, 1fr);
   grid-template-areas:
-  "name name name"
-  "backstory backstory backstory"
-  "aspect aspect fatepoints"
-  "stressbox consequence consequence";
+    "name name name"
+    "backstory backstory backstory"
+    "aspect aspect fatepoints"
+    "stressbox consequence consequence";
   justify-content: stretch;
-  align-content: stretch;    
+  align-content: stretch;
 }
 
-div#character-name {
-  grid-area: name;
-  grid-column: span 3;
-}
+div#character-name      { grid-area: name;       grid-column: span 3; }
+div#character-backstory { grid-area: backstory;  grid-column: span 3; }
+div#aspects             { grid-area: aspect;     grid-column: span 2; }
+div#fate-points         { grid-area: fatepoints; grid-column: span 1; align-self: center; display: flex; }
+div#stress              { grid-area: stressbox;  grid-column: span 1; }
+div#consequence         { grid-area: consequence;grid-column: span 2; }
 
-div#character-backstory {
-  grid-area: backstory;
-  grid-column: span 3;
-}
-
-div#aspects {
-  grid-area: aspect;
-  grid-column: span 2;
-}
-
-div#fate-points {
-  grid-area: fatepoints;
-  grid-column: span 1;
-  align-self: center;
-}
-
-div#stress {
-  grid-area: stressbox;
-  grid-column: span 1;
-}
-
-div#consequence {
-  grid-area: consequence;
-  grid-column: span 2;
-}
-
-label.stress-box-label, label.consequence-label {
-  display: none;
-}
-
-div#fate-points {
-  display: flex;
-}
+label.stress-box-label, label.consequence-label { display: none; }
 
 div.fate-points-block {
   flex-grow: 1;
@@ -336,72 +501,38 @@ div.fate-points-block {
   text-align: center;
 }
 
-span.fate-points-number {
-  font-size: $text-lg;
-}
+span.fate-points-number { font-size: $text-lg; }
 
 @mixin placeholder-text-style ($color, $font-variant, $text-transform) {
-  &::-webkit-input-placeholder {
-    color: $color;
-    font-variant: $font-variant;
-    text-transform: $text-transform;
-  }
-  /* Firefox 4-18 */
-  &:-moz-placeholder {
-    color: $color;
-    font-variant: $font-variant;
-    text-transform: $text-transform;
-    opacity: 1;
-  }
-  /* Firefox 19+ */
-  &::-moz-placeholder {
-    color: $color;
-    font-variant: $font-variant;
-    text-transform: $text-transform;
-    opacity: 1;
-  }
-  /* IE 10-11 */
-  &:-ms-input-placeholder {
-    color: $color;
-    font-variant: $font-variant;
-    text-transform: $text-transform;
-  }
-  /* Edge */
-  &::-ms-input-placeholder {
-    color: $color;
-    font-variant: $font-variant;
-    text-transform: $text-transform;
-  }
-  /* MODERN BROWSER */
-  &::placeholder {
-    color: $color;
-    font-variant: $font-variant;
-    text-transform: $text-transform;
-  }
+  &::-webkit-input-placeholder { color: $color; font-variant: $font-variant; text-transform: $text-transform; }
+  &:-moz-placeholder           { color: $color; font-variant: $font-variant; text-transform: $text-transform; opacity: 1; }
+  &::-moz-placeholder          { color: $color; font-variant: $font-variant; text-transform: $text-transform; opacity: 1; }
+  &:-ms-input-placeholder      { color: $color; font-variant: $font-variant; text-transform: $text-transform; }
+  &::-ms-input-placeholder     { color: $color; font-variant: $font-variant; text-transform: $text-transform; }
+  &::placeholder               { color: $color; font-variant: $font-variant; text-transform: $text-transform; }
 }
 
 textarea {
-  border: 0.1em solid $tango-light-grey;
+  border: 1px solid $rule;
+  background: rgba(255, 255, 255, 0.5);
   font-family: $serif-font-family;
   font-size: $text-sm;
   width: 100%;
-  // Prevent overflowing the div
-  // https://stackoverflow.com/questions/628500/can-i-stop-100-width-text-boxes-from-extending-beyond-their-containers
   box-sizing: border-box;
 }
 
 input[type=text] {
   border: none;
-  border-bottom: 0.1em solid black;
+  border-bottom: 1px solid $ink;
+  background: transparent;
   font-family: $serif-font-family;
   width: 100%;
-  // Prevent overflowing the div
-  // https://stackoverflow.com/questions/628500/can-i-stop-100-width-text-boxes-from-extending-beyond-their-containers
   box-sizing: border-box;
 
   &.character-name {
     font-size: $text-lg;
-    color: black;
+    color: $ink;
+    font-variant: small-caps;
   }
 
   &.aspect-box {
@@ -409,29 +540,25 @@ input[type=text] {
     @include aspect-style();
   }
 
-  // Style placeholder text (which is different for every damn browser
-  @include placeholder-text-style($tango-dark-grey, none, capitalize);
+  @include placeholder-text-style($ink-soft, none, capitalize);
 }
 
-// Stress checkboxes
 input[type="checkbox"].stress {
-  -webkit-appearance:none;
+  -webkit-appearance: none;
+  appearance: none;
   width: 4em;
   height: 4em;
-  background:white;
-  border: 0.2em solid $tango-dark-grey;
+  background: rgba(255, 255, 255, 0.4);
+  border: 0.2em solid $ink-soft;
 
-  &:checked {
-    background: $tango-dark-red;
-  }
+  &:checked { background: $aspect-red; }
 }
 
-
-// Page breaks when printed
-// From: https://stackoverflow.com/a/1664058
+// ────────────────────────────────────────────────────────────────────────────
+// PRINT — parchment off, page breaks intact.
+// ────────────────────────────────────────────────────────────────────────────
 @media print {
-  .pagebreak {
-    page-break-before: always;
-  } 
+  html { background: white; background-image: none; }
+  blockquote { background: transparent; }
+  .pagebreak { page-break-before: always; }
 }
-
