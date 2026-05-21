@@ -554,11 +554,128 @@ input[type="checkbox"].stress {
   &:checked { background: $aspect-red; }
 }
 
-// ────────────────────────────────────────────────────────────────────────────
-// PRINT — parchment off, page breaks intact.
-// ────────────────────────────────────────────────────────────────────────────
+// ════════════════════════════════════════════════════════════════════════════
+// PRINT STYLES
+//
+// Screen styles cascade into print — we only override what changes.
+// Removes: background textures, anchor links, interactive elements.
+// Adds: page breaks, color preservation, print-specific sizing.
+// ════════════════════════════════════════════════════════════════════════════
+
+// Force browsers to print colors (backgrounds, borders) as specified
+@mixin print-colors {
+  print-color-adjust: exact;
+  -webkit-print-color-adjust: exact;
+}
+
 @media print {
-  html { background: white; background-image: none; }
-  blockquote { background: transparent; }
-  .pagebreak { page-break-before: always; }
+  @page {
+    size: letter;
+    margin: 0.75in 1in;
+  }
+
+  // ── Layout ─────────────────────────────────────────────────────────────────
+  html {
+    background: white;
+    background-image: none;
+    font-size: 11pt;
+  }
+
+  main {
+    max-width: none;
+    padding: 0;
+  }
+
+  // ── Hidden elements ────────────────────────────────────────────────────────
+  .anchor-link-img,
+  .debug,
+  .todo {
+    display: none !important;
+  }
+
+  // ── Links ──────────────────────────────────────────────────────────────────
+  a {
+    color: $ink;
+    text-decoration: none;
+
+    &[href^="http"]:not([href*="minifate"])::after {
+      content: " (" attr(href) ")";
+      font-size: 0.8em;
+      color: $ink-soft;
+      word-break: break-all;
+    }
+  }
+
+  // ── Page breaks ────────────────────────────────────────────────────────────
+  h2 {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  p, li {
+    orphans: 3;
+    widows: 3;
+  }
+
+  blockquote,
+  table,
+  table.key-def,
+  figure.map,
+  div.character-sheet,
+  img {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  hr {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .pagebreak {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  // ── Print size overrides ───────────────────────────────────────────────────
+  h1 { font-size: 24pt; }
+  h2 { font-size: 16pt; }
+  h3 { font-size: 13pt; }
+  h4 { font-size: 12pt; }
+
+  // ── Blockquotes: transparent background ────────────────────────────────────
+  blockquote {
+    background: transparent;
+    margin: 1.5em 0;
+
+    &::before {
+      background: white;
+    }
+  }
+
+  // ── Form elements: transparent backgrounds ─────────────────────────────────
+  textarea,
+  input[type="checkbox"].stress {
+    background: transparent;
+  }
+
+  // ── Preserve colors when printing ──────────────────────────────────────────
+  h2::before, h2::after                             { @include print-colors; }
+  .title-block .dingbat                             { @include print-colors; }
+  main > p:first-of-type::first-letter,
+  main > h2 + p::first-letter,
+  p.lede::first-letter                              { @include print-colors; }
+  span.aspect                                       { @include print-colors; }
+  span.skill                                        { @include print-colors; }
+  blockquote::before                                { @include print-colors; }
+  table, thead                                      { @include print-colors; }
+  hr::before, .ornament                             { @include print-colors; }
+  ul > li::before                                   { @include print-colors; }
+  img.die                                           { @include print-colors; }
+  input[type="checkbox"].stress                     { @include print-colors; }
 }
