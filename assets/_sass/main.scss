@@ -740,47 +740,124 @@ input[type="checkbox"].stress {
 }
 
 
-// ────────────────────────────────────────────────────────────────────────────
-// PRINT — parchment off, page breaks intact.
-// ────────────────────────────────────────────────────────────────────────────
+// Force browsers to print colors (backgrounds, borders) as specified
+@mixin print-colors {
+  print-color-adjust: exact;
+  -webkit-print-color-adjust: exact;
+}
+
 @media print {
-  .debug {
-    display: none;
-  }
 
-  // Keep the heading's following text on the same page as its wrapper.
-  div.heading {
-    break-after: avoid;
-  }
-
-  // The page margin already provides space above the first heading.
-  main > div.heading:first-child,
-  main > .debug + div.heading {
-    margin-top: 0;
-  }
-
-  html { background: white; background-image: none; }
+  :root { color-scheme: light; }
   body { background: white; color: black; }
-  blockquote { background: transparent; }
+  div.heading { break-after: avoid; }
+  main > div.heading:first-child,
+  main > .debug + div.heading { margin-top: 0; }
+  div.character-sheet { grid-template-rows: none; }
 
-  :root {
-    color-scheme: light;
+  // ── Layout ─────────────────────────────────────────────────────────────────
+  html {
+    background: white;
+    background-image: none;
+    font-size: 11pt;
   }
 
-  // Size rows to their content. The equal-height screen rows can push the
-  // sheet past one page with larger print margins.
-  div.character-sheet {
-    grid-template-rows: none;
-  }
-
-  // The page margins provide the gutter in print.
   main {
+    max-width: none;
     padding: 0;
   }
 
-  // Some browsers report `hover: none` for print, which would show the icons.
-  a.anchor-link {
-    display: none;
+  // ── Hidden elements ────────────────────────────────────────────────────────
+  a.anchor-link,
+  .anchor-link-img,
+  .debug,
+  .todo {
+    display: none !important;
   }
-}
 
+  // ── Links ──────────────────────────────────────────────────────────────────
+  a {
+    color: $ink;
+    text-decoration: none;
+
+    &[href^="http"]:not([href*="minifate"])::after {
+      content: " (" attr(href) ")";
+      font-size: 0.8em;
+      color: $ink-soft;
+      word-break: break-all;
+    }
+  }
+
+  // ── Page breaks ────────────────────────────────────────────────────────────
+  div.heading-h2 {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  p, li {
+    orphans: 3;
+    widows: 3;
+  }
+
+  blockquote,
+  table,
+  table.key-def,
+  figure.map,
+  div.character-sheet,
+  img {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  hr {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .pagebreak {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  // ── Print size overrides ───────────────────────────────────────────────────
+  h1 { font-size: 24pt; }
+  h2 { font-size: 16pt; }
+  h3 { font-size: 13pt; }
+  h4 { font-size: 12pt; }
+
+  // ── Blockquotes: transparent background ────────────────────────────────────
+  blockquote {
+    background: transparent;
+    margin: 1.5em 0;
+
+    &::before {
+      background: white;
+    }
+  }
+
+  // ── Form elements: transparent backgrounds ─────────────────────────────────
+  textarea,
+  input[type="checkbox"].stress {
+    background: transparent;
+  }
+
+  // ── Preserve colors when printing ──────────────────────────────────────────
+  h2::before, h2::after                             { @include print-colors; }
+  .title-block .dingbat                             { @include print-colors; }
+  main > p:first-of-type::first-letter,
+  main > h2 + p::first-letter,
+  p.lede::first-letter                              { @include print-colors; }
+  span.aspect                                       { @include print-colors; }
+  span.skill                                        { @include print-colors; }
+  blockquote::before                                { @include print-colors; }
+  table, thead                                      { @include print-colors; }
+  hr::before, .ornament                             { @include print-colors; }
+  ul > li::before                                   { @include print-colors; }
+  img.die                                           { @include print-colors; }
+  input[type="checkbox"].stress                     { @include print-colors; }
+}
