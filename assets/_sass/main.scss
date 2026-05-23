@@ -108,18 +108,37 @@ h1 {
   }
 }
 
-// Page-title block ornament — purely decorative. Wrap your h1 with this:
-//   <header class="title-block"> … <hr class="dingbat"> </header>
+// Page-title block — purely decorative. Structure:
+//   <header class="title-block">
+//     <p class="folio">Book I · The Basics</p>
+//     <h1>Aspect<span class="middot">·</span>RPG</h1>
+//     <p class="subtitle">a small game of consequential phrases</p>
+//     <hr class="dingbat">
+//   </header>
 .title-block {
   text-align: center;
-  margin-bottom: 2.5em;
+  margin-bottom: 3em;
+
+  h1 {
+    font-size: $text-base-size * pow($text-scale-ratio, 6);
+    margin-top: 0;
+    margin-bottom: 0.1em;
+  }
 
   .folio {
     font-style: italic;
     color: $ink-soft;
     font-size: $text-sm;
     letter-spacing: 0.04em;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.5em;
+  }
+
+  .subtitle {
+    font-style: italic;
+    color: $ink-soft;
+    font-size: $text-base-size;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
   .dingbat {
@@ -127,8 +146,8 @@ h1 {
     border-top: 0.5px solid $ink-soft;
     border-bottom: 0.5px solid $ink-soft;
     padding: 4px 0;
-    margin: 1em auto 0;
-    width: 60%;
+    margin: 1.2em auto 0;
+    width: 100%;
     text-align: center;
     color: $gold;
     letter-spacing: 0.5em;
@@ -137,12 +156,29 @@ h1 {
   }
 }
 
+// Gold middle dot for title (Aspect·RPG)
+.middot {
+  color: $gold;
+}
+
+// Chapter-end ornament: appears before each H2 (i.e., end of previous chapter).
+// Uses :has() to select the element immediately preceding an H2.
+main > *:has(+ h2)::after {
+  content: "❦";
+  display: block;
+  text-align: center;
+  color: $gold;
+  font-size: 1.4em;
+  margin: 2em 0 0;
+}
+
 h2 {
   font-size: $text-xxl;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   text-align: center;
   margin-top: 2.2em;
+  counter-reset: h3-counter;
 
   // Hairline rules on either side of the H2 text.
   display: flex;
@@ -165,16 +201,17 @@ h3 {
   font-weight: 600;
   border-bottom: 0.5px solid $rule;
   padding-bottom: 0.3em;
+  counter-increment: h3-counter;
 
-  // Decorative roman numeral. Optional — wrap text in <span class="numeral">.
-  .numeral {
-    display: inline-block;
-    margin-right: 0.5em;
+  // Automatic roman numeral prefix, styled distinctly from heading text.
+  &::before {
+    content: counter(h3-counter, upper-roman) ". ";
     color: $gold;
     font-style: italic;
     font-variant: normal;
     font-weight: 400;
     font-size: 0.78em;
+    margin-right: 0.3em;
   }
 }
 
@@ -666,7 +703,9 @@ input[type="checkbox"].stress {
 
   // ── Preserve colors when printing ──────────────────────────────────────────
   h2::before, h2::after                             { @include print-colors; }
+  h3::before                                        { @include print-colors; }
   .title-block .dingbat                             { @include print-colors; }
+  .middot                                           { @include print-colors; }
   main > p:first-of-type::first-letter,
   main > h2 + p::first-letter,
   p.lede::first-letter                              { @include print-colors; }
@@ -675,6 +714,7 @@ input[type="checkbox"].stress {
   blockquote::before                                { @include print-colors; }
   table, thead                                      { @include print-colors; }
   hr::before, .ornament                             { @include print-colors; }
+  main > *:has(+ h2)::after                         { @include print-colors; }
   ul > li::before                                   { @include print-colors; }
   img.die                                           { @include print-colors; }
   input[type="checkbox"].stress                     { @include print-colors; }
