@@ -6,7 +6,12 @@ layout: default
 author: Alexander Gude and Charles Fyfe
 ---
 
-<h1 class="page-title">{GameName}</h1>
+<header class="title-block">
+  <p class="folio">Book I · The Basics</p>
+  <h1>Aspect<span class="middot">·</span>RPG</h1>
+  <p class="subtitle">a small game of consequential phrases</p>
+  <hr class="dingbat">
+</header>
 
 {% comment %}
 Dump the content of each chapter here in order to create one
