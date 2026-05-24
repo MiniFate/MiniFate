@@ -242,7 +242,18 @@ main > *:has(+ div.heading-h2)::after {
   margin: 2em 0 0;
 }
 
-div.heading-h2 { counter-reset: h3-counter; }
+div.heading-h2 {
+  counter-reset: h3-counter;
+  position: relative;
+  padding-inline: 24px;
+
+  // Keep the permalink outside the hairlines and reserve equal side gutters.
+  > a.anchor-link {
+    position: absolute;
+    right: 0;
+    top: 0.2em;
+  }
+}
 
 h2 {
   text-transform: uppercase;
@@ -255,6 +266,10 @@ h2 {
   align-items: center;
   gap: min(1em, 2cqi);
   color: var(--color-text);
+
+  // Flex text must wrap even when a single word exceeds the column.
+  overflow-wrap: anywhere;
+  flex: 1;
 
   &::before, &::after {
     content: "";
@@ -861,6 +876,13 @@ input[type="checkbox"].stress {
     page-break-before: always;
     break-before: page;
   }
+
+  // Small-cap glyph spacing breaks searchable heading text in browser PDFs.
+  h1, h2, h3, h4, h5, h6 {
+    font-variant: normal;
+    letter-spacing: normal;
+  }
+  div.heading-h2 { padding-inline: 0; }
 
   // ── Print size overrides ───────────────────────────────────────────────────
   h1 { font-size: 24pt; }
