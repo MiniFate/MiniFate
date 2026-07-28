@@ -26,7 +26,7 @@ DOCKER_RUN := docker run --rm $(DOCKER_RUN_OPTS) -v $(PWD):$(MOUNT) -w $(MOUNT) 
 .PHONY: serve build clean debug
 
 # Tier 2: Domain operations
-.PHONY: image-build image-rebuild deps-lock
+.PHONY: image-build image-rebuild deps-lock lint-scripts format-scripts
 
 # Internal targets
 .PHONY: all
@@ -35,6 +35,22 @@ DOCKER_RUN := docker run --rm $(DOCKER_RUN_OPTS) -v $(PWD):$(MOUNT) -w $(MOUNT) 
 .PHONY: image refresh lock
 
 all: serve
+
+# Ruff runs from uv's tool cache; pinned so CI, the hook, and local runs all
+# report the same lints.
+RUFF := uvx ruff@0.16.0
+
+# Lint and format-check the Python scripts in _code/.
+lint-scripts:
+	@echo "Running Ruff on _code..."
+	@$(RUFF) check _code
+	@$(RUFF) format --check _code
+
+# Apply Ruff formatting and safe fixes to _code/.
+format-scripts:
+	@echo "Formatting _code with Ruff..."
+	@$(RUFF) format _code
+	@$(RUFF) check --fix _code
 
 # Manual target to update Gemfile.lock using the correct base Docker image and Bundler version.
 deps-lock: .ruby-version
