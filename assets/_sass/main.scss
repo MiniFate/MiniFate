@@ -383,18 +383,13 @@ a.anchor-link {
   }
 }
 
-// Use dash for bullets
+// Em-dash bullets as a real ::marker. A `::before` dash with
+// `list-style: none` loses list semantics in Safari and is read aloud.
 ul {
-  list-style-type: none;
+  list-style-type: "—\2002"; // em dash, en space
   // 3em on desktop; narrower in small containers or at large text sizes.
-  // Never below 1.5em, which the dash needs.
+  // Never below 1.5em, the marker's width.
   padding-left: min(3em, 1.5em + 5cqi);
-}
-
-ul > li:before {
-  content: "—"; /* em dash */
-  position: absolute;
-  margin-left: -1.5em;
 }
 
 // Rule TODOs
