@@ -15,6 +15,7 @@ $tango-dark-grey:  hsl( 90,   2%, 33%);
 
 // Theme tokens. Light values are the Tango colors above; dark values are
 // lighter tints of the same hues so they keep contrast on a dark canvas.
+// Dark mode applies to screens only, so printing always uses the light theme.
 :root {
   color-scheme: light dark;
 
@@ -30,7 +31,7 @@ $tango-dark-grey:  hsl( 90,   2%, 33%);
   --color-todo-bg:    #{$tango-dark-grey};
   --color-todo-text:  white;
 
-  @media (prefers-color-scheme: dark) {
+  @media screen and (prefers-color-scheme: dark) {
     --color-bg:         hsl( 60,   3%, 12%);
     --color-text:       hsl( 60,   6%, 90%);
     --color-link:       hsl(214,  70%, 72%);
@@ -77,6 +78,17 @@ $text-xl:   $text-base-size * pow($text-scale-ratio, 3);
 $text-xxl:  $text-base-size * pow($text-scale-ratio, 4);
 $text-xxxl: $text-base-size * pow($text-scale-ratio, 5);
 
+// Headings shrink with the width of `main` so long words fit on a 320px
+// screen. The rem term keeps them scaling with the user's text size. The
+// minimums, slopes, and maximums all decrease from h1 to h6, so each level
+// is smaller than the one above it at every width.
+$h1-size: clamp(2rem,     1rem + 10cqi,  #{$text-xxxl});
+$h2-size: clamp(1.75rem,  1rem + 6cqi,   #{$text-xxl});
+$h3-size: clamp(1.5rem,   1rem + 4cqi,   #{$text-xl});
+$h4-size: clamp(1.375rem, 1rem + 2.5cqi, #{$text-lg});
+$h5-size: clamp(1.25rem,  1rem + 1.5cqi, #{$text-md});
+$h6-size: $text-base-size;
+
 html {
   font-family: $serif-font-family;
   line-height: $root-line-height;
@@ -85,24 +97,29 @@ html {
 // Set the base size on body, not the root, so the browser and the user's OS
 // text-size setting keep control of 1rem.
 body {
+  margin: 0;
   font-size: $text-base-size;
   background-color: var(--color-bg);
   color: var(--color-text);
 }
 
 // Dice and map SVGs are drawn in black on a transparent background.
-@media (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark) {
   img.die,
   figure.map img {
     filter: invert(1);
   }
 }
 
+// The padding is the side gutter on narrow screens. max-width applies to the
+// content box, so the text column stays 800px wide on large screens.
 main {
   margin: 0 auto;
-  width: 100%;
   max-width: 800px;
-  padding: 0;
+  padding: 1rem;
+  container-type: inline-size;
+  // Break any word wider than the column instead of overflowing it.
+  overflow-wrap: break-word;
 }
 
 .debug {
@@ -122,22 +139,22 @@ p, li, blockquote {
 
 h1 {
   margin-top: 0;
-  font-size: $text-xxxl;
+  font-size: $h1-size;
   text-align: center;
 }
 
 h2 {
-  font-size: $text-xxl;
+  font-size: $h2-size;
   text-transform: uppercase;
 }
 
-h3 {font-size: $text-xl;}
+h3 {font-size: $h3-size;}
 
-h4 {font-size: $text-lg;}
+h4 {font-size: $h4-size;}
 
-h5 {font-size: $text-md;}
+h5 {font-size: $h5-size;}
 
-h6 {font-size: $text-base-size;}
+h6 {font-size: $h6-size;}
 
 small, .text_small {font-size: $text-sm;}
 
@@ -184,6 +201,22 @@ table.key-def {
   td:first-child {
     text-align: right;
     width: 25%;
+  }
+}
+
+// In narrow containers, or at large text sizes, stack each label above its
+// value; side by side they cannot fit.
+@container (width < 30em) {
+  table.key-def {
+    &, tbody, tr, td {
+      display: block;
+    }
+
+    td:first-child {
+      text-align: left;
+      width: auto;
+      padding-bottom: 0;
+    }
   }
 }
 
@@ -239,6 +272,8 @@ figure.map {
   img {
     display: block;
     margin: auto;
+    max-width: 100%;
+    height: auto;
   }
 
   figcaption {
@@ -250,8 +285,9 @@ figure.map {
 // Example gameplay uses blockquotes
 blockquote {
   border: 0.15em solid var(--color-rule);
-  margin-left: 2em;
-  margin-right: 2em;
+  // 2em on desktop; narrower in small containers or at large text sizes.
+  margin-left: min(2em, 5cqi);
+  margin-right: min(2em, 5cqi);
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   padding-left: 0.5em;
@@ -280,6 +316,8 @@ div.heading {
 
   > :is(h2, h3, h4, h5, h6) {
     margin-top: 0;
+    // Let the heading shrink below its longest word so it can wrap.
+    min-inline-size: 0;
   }
 }
 
@@ -287,16 +325,16 @@ div.heading {
 // carries the heading's top margin. Each value is 1.5em at that heading's
 // font size, matching the margin headings had before the wrapper.
 $heading-sizes: (
-  2: $text-xxl,
-  3: $text-xl,
-  4: $text-lg,
-  5: $text-md,
-  6: $text-base-size,
+  2: $h2-size,
+  3: $h3-size,
+  4: $h4-size,
+  5: $h5-size,
+  6: $h6-size,
 );
 
 @each $level, $size in $heading-sizes {
   div.heading-h#{$level} {
-    margin-top: 1.5 * $size;
+    margin-top: calc(1.5 * #{$size});
   }
 }
 
@@ -348,7 +386,9 @@ a.anchor-link {
 // Use dash for bullets
 ul {
   list-style-type: none;
-  padding-left: 3em;
+  // 3em on desktop; narrower in small containers or at large text sizes.
+  // Never below 1.5em, which the dash needs.
+  padding-left: min(3em, 1.5em + 5cqi);
 }
 
 ul > li:before {
@@ -360,8 +400,9 @@ ul > li:before {
 // Rule TODOs
 .todo {
   border: 0.15em solid var(--color-rule);
-  margin-left: 2em;
-  margin-right: 2em;
+  // 2em on desktop; narrower in small containers or at large text sizes.
+  margin-left: min(2em, 5cqi);
+  margin-right: min(2em, 5cqi);
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   padding-left: 0.5em;
@@ -387,7 +428,9 @@ div.character-sheet h3 {
 
 div.character-sheet {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  // minmax(0, …) lets tracks shrink below their content's minimum width, so
+  // inputs and long words cannot widen the sheet past the page.
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   grid-template-rows: 0.1fr repeat(3, 1fr);
   grid-template-areas:
   "name name name"
@@ -395,38 +438,50 @@ div.character-sheet {
   "aspect aspect fatepoints"
   "stressbox consequence consequence";
   justify-content: stretch;
-  align-content: stretch;    
+  align-content: stretch;
 }
 
-div#character-name {
+// One column when `main` is too narrow for three. A container query, so the
+// sheet responds to its own width rather than the viewport's. 30em keeps
+// three columns on a printed Letter or A4 page.
+@container (width < 30em) {
+  div.character-sheet {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: none;
+    row-gap: 1em;
+    grid-template-areas:
+    "name"
+    "backstory"
+    "aspect"
+    "fatepoints"
+    "stressbox"
+    "consequence";
+  }
+}
+
+div#sheet-name {
   grid-area: name;
-  grid-column: span 3;
 }
 
-div#character-backstory {
+div#sheet-backstory {
   grid-area: backstory;
-  grid-column: span 3;
 }
 
-div#aspects {
+div#sheet-aspects {
   grid-area: aspect;
-  grid-column: span 2;
 }
 
-div#fate-points {
+div#sheet-fate-points {
   grid-area: fatepoints;
-  grid-column: span 1;
   align-self: center;
 }
 
-div#stress {
+div#sheet-stress {
   grid-area: stressbox;
-  grid-column: span 1;
 }
 
-div#consequence {
+div#sheet-consequence {
   grid-area: consequence;
-  grid-column: span 2;
 }
 
 // Hide visually but keep the labels as the inputs' accessible names.
@@ -442,7 +497,7 @@ label.stress-box-label, label.consequence-label {
   white-space: nowrap;
 }
 
-div#fate-points {
+div#sheet-fate-points {
   display: flex;
 }
 
@@ -526,6 +581,29 @@ input[type="checkbox"].stress {
 @media print {
   .pagebreak {
     break-before: page;
+  }
+
+  // A heading that starts a new page needs no space above it. Chrome keeps
+  // this margin after the forced break and can spill onto a blank page.
+  .pagebreak + div.heading {
+    margin-top: 0;
+  }
+
+  :root {
+    color-scheme: light;
+  }
+
+  // Size rows to their content. The equal-height screen rows can push the
+  // sheet past one page with larger print margins.
+  div.character-sheet {
+    grid-template-rows: none;
+  }
+
+  // The page margins are the gutter in print. Top padding on `main` would
+  // also come before `.pagebreak`, so Chrome would honor the forced break
+  // and push the character sheet onto a second page.
+  main {
+    padding: 0;
   }
 
   // Some browsers report `hover: none` for print, which would show the icons.
