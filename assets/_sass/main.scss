@@ -345,22 +345,11 @@ div.character-sheet div.heading {
 }
 
 a.anchor-link {
-  // Extend the hit area to at least 24px (WCAG 2.5.8), centered on the
-  // link and independent of the icon size, without changing layout.
-  position: relative;
+  // Pad the 16px icon to a 24px target; negative margins preserve spacing.
   display: inline-flex;
-
-  &::after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    inline-size: 100%;
-    block-size: 100%;
-    min-inline-size: 24px;
-    min-block-size: 24px;
-    translate: -50% -50%;
-  }
+  flex-shrink: 0;
+  padding: 4px;
+  margin: -4px;
 
   &:focus-visible {
     outline: 0.15em solid var(--color-link);
@@ -573,16 +562,15 @@ input[type="checkbox"].stress {
 }
 
 
-// Page breaks when printed
-// From: https://stackoverflow.com/a/1664058
+// Print layout
 @media print {
-  .pagebreak {
-    break-before: page;
+  .debug {
+    display: none;
   }
 
-  // A heading that starts a new page needs no space above it. Chrome keeps
-  // this margin after the forced break and can spill onto a blank page.
-  .pagebreak + div.heading {
+  // The page margin already provides space above the first heading.
+  main > div.heading:first-child,
+  main > .debug + div.heading {
     margin-top: 0;
   }
 
@@ -596,9 +584,7 @@ input[type="checkbox"].stress {
     grid-template-rows: none;
   }
 
-  // The page margins are the gutter in print. Top padding on `main` would
-  // also come before `.pagebreak`, so Chrome would honor the forced break
-  // and push the character sheet onto a second page.
+  // The page margins provide the gutter in print.
   main {
     padding: 0;
   }

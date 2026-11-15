@@ -17,15 +17,20 @@ def test_headings_contain_no_links(open_page, path):
 
 
 @pytest.mark.parametrize("path", PAGES)
-def test_every_anchor_link_is_named_after_its_heading(open_page, path):
+def test_every_heading_has_a_named_permalink(open_page, path):
     page = open_page(path)
-    links = page.locator("div.heading > a.anchor-link")
-    assert links.count() > 0, f"{path} has no anchor links"
-    for link in links.all():
-        heading = link.locator("xpath=preceding-sibling::*[1]").inner_text().strip()
-        label = link.get_attribute("aria-label") or ""
-        assert heading and heading.casefold() in label.casefold(), (
-            f"{path}: anchor link labeled {label!r} next to heading {heading!r}"
+    headings = page.locator(":is(h2, h3, h4, h5, h6)[id]:not(.no_anchor)")
+    assert headings.count() > 0, f"{path} has no eligible headings"
+    for heading in headings.all():
+        text = (heading.text_content() or "").strip()
+        link = page.get_by_role("link", name=f"Link to this section: {text}", exact=True)
+        assert link.count() == 1, f"{path}: expected one permalink for {text!r}"
+        assert link.get_attribute("href") == f"#{heading.get_attribute('id')}", (
+            f"{path}: permalink for {text!r} targets the wrong heading"
+        )
+        bounds = link.bounding_box()
+        assert bounds and bounds["width"] >= 24 and bounds["height"] >= 24, (
+            f"{path}: permalink for {text!r} has a target smaller than 24px: {bounds}"
         )
 
 

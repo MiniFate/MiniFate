@@ -45,7 +45,9 @@ def test_no_horizontal_overflow_at_320px(open_page, path, root_font):
 @pytest.mark.parametrize("width", [320, 900])
 def test_heading_sizes_decrease_by_level(open_page, width):
     sizes = open_page("/index.html", width=width).evaluate(HEADING_SIZES_JS)
-    assert sizes == sorted(sizes, reverse=True), f"h1-h6 sizes at {width}px: {sizes}"
+    assert all(higher > lower for higher, lower in zip(sizes, sizes[1:])), (
+        f"h1-h6 sizes at {width}px: {sizes}"
+    )
 
 
 @pytest.mark.parametrize("path", PAGES)
