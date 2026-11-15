@@ -27,6 +27,14 @@
     Version 1.0.12
       https://github.com/allejo/jekyll-anchor-headings
 
+    LOCAL CHANGES (re-apply when upgrading from upstream):
+      1. `attr_header`: the heading text with `"` escaped as `&quot;`. It
+         replaces `escaped_header` wherever %heading% is substituted into
+         headerAttrs, anchorTitle, or anchorAttrs.
+      2. `wrapperClass` parameter: when set, output
+         `<div class="X X-hN"><hN>…</hN><a>…</a></div>` instead of putting
+         the anchor inside the heading.
+
     "Be the pull request you wish to see in the world." ~Ben Balter
 
     Usage:
@@ -44,6 +52,9 @@
       * anchorBody    (string) :  ''    - The content that will be placed inside the anchor; the `%heading%` placeholder is available
       * anchorClass   (string) :  ''    - The class(es) that will be used for each anchor. Separate multiple classes with a space
       * anchorTitle   (string) :  ''    - The `title` attribute that will be used for anchors
+      * wrapperClass  (string) :  ''    - Local addition: wrap heading and anchor in a <div> with this class (plus
+                                          `<class>-h<level>`) and put the anchor after the heading instead of inside
+                                          it. When set, beforeHeading, bodyPrefix, and bodySuffix have no effect
       * h_min         (int)    :  1     - The minimum header level to build an anchor for; any header lower than this value will be ignored
       * h_max         (int)    :  6     - The maximum header level to build an anchor for; any header greater than this value will be ignored
       * bodyPrefix    (string) :  ''    - Anything that should be inserted inside of the heading tag _before_ its anchor and content
@@ -91,6 +102,8 @@
     {% capture _hAttrToStrip %}{{ _workspace[0] | split: '>' | first }}>{% endcapture %}
     {% assign header = _workspace[0] | replace: _hAttrToStrip, '' %}
     {% assign escaped_header = header | strip_html | strip %}
+    {% comment %} Local change: escape quotes so %heading% is safe inside attributes. {% endcomment %}
+    {% assign attr_header = escaped_header | replace: '"', '&quot;' %}
 
     {% assign _classWorkspace = _workspace[0] | split: 'class="' %}
     {% assign _classWorkspace = _classWorkspace[1] | split: '"' %}
@@ -120,7 +133,7 @@
 
     {% if skip_anchor == false and html_id and headerLevel >= minHeader and headerLevel <= maxHeader %}
       {% if headerAttrs %}
-        {% capture _hAttrToStrip %}{{ _hAttrToStrip | split: '>' | first }} {{ headerAttrs | replace: '%heading%', escaped_header | replace: '%html_id%', html_id }}>{% endcapture %}
+        {% capture _hAttrToStrip %}{{ _hAttrToStrip | split: '>' | first }} {{ headerAttrs | replace: '%heading%', attr_header | replace: '%html_id%', html_id }}>{% endcapture %}
       {% endif %}
 
       {% capture anchor %}href="#{{ html_id }}"{% endcapture %}
@@ -130,11 +143,11 @@
       {% endif %}
 
       {% if include.anchorTitle %}
-        {% capture anchor %}{{ anchor }} title="{{ include.anchorTitle | replace: '%heading%', escaped_header }}"{% endcapture %}
+        {% capture anchor %}{{ anchor }} title="{{ include.anchorTitle | replace: '%heading%', attr_header }}"{% endcapture %}
       {% endif %}
 
       {% if include.anchorAttrs %}
-        {% capture anchor %}{{ anchor }} {{ include.anchorAttrs | replace: '%heading%', escaped_header | replace: '%html_id%', html_id }}{% endcapture %}
+        {% capture anchor %}{{ anchor }} {{ include.anchorAttrs | replace: '%heading%', attr_header | replace: '%html_id%', html_id }}{% endcapture %}
       {% endif %}
 
       {% capture anchor %}<a {{ anchor }}>{{ include.anchorBody | replace: '%heading%', escaped_header | default: '' }}</a>{% endcapture %}
@@ -147,6 +160,16 @@
       {% endif %}
     {% endif %}
 
+    {% comment %}
+      Local change: with `wrapperClass`, place the anchor after the heading
+      inside a wrapper <div>, so the link's name is not part of the heading's
+      accessible name.
+    {% endcomment %}
+    {% if include.wrapperClass and anchor != "" %}
+    {% capture new_heading %}
+<div class="{{ include.wrapperClass }} {{ include.wrapperClass }}-h{{ headerLevel }}"><h{{ _hAttrToStrip }}{{ header }}</h{{ headerLevel }}>{{ anchor | strip }}</div>
+    {% endcapture %}
+    {% else %}
     {% capture new_heading %}
 <h{{ _hAttrToStrip }}
   {{ include.bodyPrefix }}
@@ -158,6 +181,7 @@
   {{ include.bodySuffix }}
 </h{{ headerLevel }}>
     {% endcapture %}
+    {% endif %}
 
     <!--
     If we have content after the `</hX>` tag, then we'll want to append that here so we don't lost any content.
