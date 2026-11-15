@@ -46,3 +46,13 @@ def test_no_horizontal_overflow_at_320px(open_page, path, root_font):
 def test_heading_sizes_decrease_by_level(open_page, width):
     sizes = open_page("/index.html", width=width).evaluate(HEADING_SIZES_JS)
     assert sizes == sorted(sizes, reverse=True), f"h1-h6 sizes at {width}px: {sizes}"
+
+
+@pytest.mark.parametrize("path", PAGES)
+def test_ids_are_unique(open_page, path):
+    """Duplicate ids break labels, anchor links, and getElementById."""
+    duplicates = open_page(path).evaluate("""() => {
+      const ids = [...document.querySelectorAll("[id]")].map((e) => e.id);
+      return [...new Set(ids.filter((id, i) => ids.indexOf(id) !== i))];
+    }""")
+    assert duplicates == [], f"{path} repeats ids: {duplicates}"
