@@ -51,16 +51,19 @@ deps-lock: .ruby-version
 		              bundle lock --update --normalize-platforms"
 	@echo "Gemfile.lock updated and normalized successfully. Please commit Gemfile, Gemfile.lock, and .ruby-version."
 
-# Build the Docker image using '.' as build context.
-image-build: Dockerfile Gemfile Gemfile.lock .ruby-version
-	@echo "Building Docker image $(IMAGE) using Ruby $(RUBY_VERSION) and Bundler $(BUNDLER_VERSION)..."
-	@docker build \
+# Build the Docker image using '.' as build context. This runs on every
+# target: Docker's layer cache makes an unchanged build take under a second
+# and rebuilds only what changed, including build arguments. `-q` hides the
+# cache-hit output; errors still print.
+image-build:
+	@echo "Checking Docker image $(IMAGE) (Ruby $(RUBY_VERSION), Bundler $(BUNDLER_VERSION))..."
+	@docker build -q \
 		--build-arg RUBY_VERSION=$(RUBY_VERSION) \
 		--build-arg BUNDLER_VERSION=$(BUNDLER_VERSION) \
-		. -f Dockerfile -t $(IMAGE)
+		. -f Dockerfile -t $(IMAGE) >/dev/null
 
 # Rebuild the Docker image without cache.
-image-rebuild: Dockerfile Gemfile Gemfile.lock .ruby-version
+image-rebuild:
 	@echo "Rebuilding Docker image $(IMAGE) with --no-cache using Ruby $(RUBY_VERSION) and Bundler $(BUNDLER_VERSION)..."
 	@docker build \
 		--build-arg RUBY_VERSION=$(RUBY_VERSION) \
