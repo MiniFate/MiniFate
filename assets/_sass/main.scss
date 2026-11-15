@@ -1,6 +1,8 @@
 @use "sass:math";
 
-$serif-font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+// P052 and URW Palladio L are the Palatino clones shipped with Linux; Chrome
+// does not substitute them for "Palatino" on its own.
+$serif-font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", P052, "URW Palladio L", Georgia, serif;
 $sans-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 $root-line-height: 1.5;
 
