@@ -137,6 +137,8 @@ h4 {font-size: $text-lg;}
 
 h5 {font-size: $text-md;}
 
+h6 {font-size: $text-base-size;}
+
 small, .text_small {font-size: $text-sm;}
 
 a {
@@ -267,23 +269,79 @@ blockquote {
   }
 }
 
-// Anchor links
-h1 .anchor-link-img, h2 .anchor-link-img, h3 .anchor-link-img, h4 .anchor-link-img, h5 .anchor-link-img, h6 .anchor-link-img  {
-  visibility: hidden;
+// Anchor links sit after the heading inside div.heading, so the link's
+// label is not part of the heading's accessible name. The icon shows on
+// hover, when the link has focus, and always on touch-capable devices.
+div.heading {
+  display: flex;
+  // Baseline keeps the icon on the heading's first line when it wraps.
+  align-items: baseline;
+  gap: 0.5em;
+
+  > :is(h2, h3, h4, h5, h6) {
+    margin-top: 0;
+  }
 }
 
-h1:hover .anchor-link-img, h2:hover .anchor-link-img, h3:hover .anchor-link-img, h4:hover .anchor-link-img, h5:hover .anchor-link-img, h6:hover .anchor-link-img {
-  visibility: visible;
+// Flex children's margins do not collapse with neighbors, so the wrapper
+// carries the heading's top margin. Each value is 1.5em at that heading's
+// font size, matching the margin headings had before the wrapper.
+$heading-sizes: (
+  2: $text-xxl,
+  3: $text-xl,
+  4: $text-lg,
+  5: $text-md,
+  6: $text-base-size,
+);
+
+@each $level, $size in $heading-sizes {
+  div.heading-h#{$level} {
+    margin-top: 1.5 * $size;
+  }
+}
+
+div.character-sheet div.heading {
+  margin-top: 0;
+}
+
+a.anchor-link {
+  // Extend the hit area to at least 24px (WCAG 2.5.8), centered on the
+  // link and independent of the icon size, without changing layout.
+  position: relative;
+  display: inline-flex;
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    inline-size: 100%;
+    block-size: 100%;
+    min-inline-size: 24px;
+    min-block-size: 24px;
+    translate: -50% -50%;
+  }
+
+  &:focus-visible {
+    outline: 0.15em solid var(--color-link);
+    outline-offset: 0.15em;
+  }
 }
 
 .anchor-link-img {
   fill: var(--color-link);
-  padding: 0;
-  vertical-align: middle;
+  visibility: hidden;
 
-  &:hover {
+  div.heading:is(:hover, :focus-within) & {
+    visibility: visible;
+  }
+
+  @media (hover: none), (any-pointer: coarse) {
+    visibility: visible;
+  }
+
+  a.anchor-link:hover & {
     fill: var(--color-link-hover);
-    text-decoration: underline;
   }
 }
 
@@ -468,6 +526,11 @@ input[type="checkbox"].stress {
 @media print {
   .pagebreak {
     break-before: page;
+  }
+
+  // Some browsers report `hover: none` for print, which would show the icons.
+  a.anchor-link {
+    display: none;
   }
 }
 
