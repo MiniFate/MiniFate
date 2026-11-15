@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<style>
+ .ink { fill: black; stroke: black; }
+ @media (prefers-color-scheme: dark) {
+  .ink { fill: white; stroke: white; }
+ }
+</style>
+<mask id="remove_middle">
+ <rect width="100%" height="100%" fill="white"/>
+ <rect x="5" y="5" width="90" height="90" rx="14.45" fill="black"/>
+</mask>
+ <rect class="ink" width="100" height="100" rx="17" mask="url(#remove_middle)" style="stroke: none"/>
+ <line class="ink" x1="50" y1="20" x2="50" y2="80" stroke-width="7.5" stroke-linecap="butt"/>
+ <line class="ink" x1="20" y1="50" x2="80" y2="50" stroke-width="7.5" stroke-linecap="butt"/>
+</svg>
