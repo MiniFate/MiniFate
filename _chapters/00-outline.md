@@ -401,6 +401,9 @@ Consider what makes sense from a narrative perspective when deciding whether a c
 > <figure class="map">
 >   <img
       src="images/boat_and_tower_map.svg"
+      width="632"
+      height="267"
+      loading="lazy"
       alt="A map showing a roughly boat shaped object on the left labeled 'Grumpy Goat'. On the boat is drawn a circle labeled 'Tor Byorn'. On the right side is a rounded square labeled 'Outpost'. Between the boat and the outpost are the text 'Sky' and the aspect 'A very long way down' written under it in a smaller font. "
     />
 >   <figcaption>The map sketched by the GM, showing the three zones, the aspect for the Sky, and Tor Byorn's position.</figcaption>

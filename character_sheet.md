@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Character Sheet
 ---
 
 <div class="pagebreak"></div>
