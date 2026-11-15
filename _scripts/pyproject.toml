@@ -1,0 +1,19 @@
+[project]
+name = "minifate-scripts"
+version = "0.0.0"
+requires-python = ">=3.12"
+
+[dependency-groups]
+# Headless Chromium tests of the built site (`make check-browser`).
+browser = [
+    "playwright>=1.55",
+    "pytest>=8",
+]
+
+[tool.uv]
+# Wait a week before taking new releases, so a compromised one has time to
+# be noticed and yanked.
+exclude-newer = "7 days"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
