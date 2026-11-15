@@ -23,7 +23,7 @@ DOCKER_RUN_OPTS := --user $(USER_ID):$(GROUP_ID) -e HOME=/tmp
 DOCKER_RUN := docker run --rm $(DOCKER_RUN_OPTS) -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE)
 
 # Tier 1: Daily drivers
-.PHONY: serve build clean debug
+.PHONY: serve build check clean debug
 
 # Tier 2: Domain operations
 .PHONY: image-build image-rebuild deps-lock
@@ -77,6 +77,11 @@ build: image-build clean
 	@echo "Building site for production..."
 	@docker run --rm $(DOCKER_RUN_OPTS) -v $(PWD):$(MOUNT) -w $(MOUNT) -e JEKYLL_ENV=production $(IMAGE) \
 		bundle exec jekyll build
+
+# Build the site, then check it for broken internal links, images, and missing alt text.
+check: build
+	@echo "Checking built site with html-proofer..."
+	@$(DOCKER_RUN) bundle exec htmlproofer ./_site --disable-external
 
 # Serve the site for local development with live reloading.
 serve: image-build clean

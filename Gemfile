@@ -12,7 +12,7 @@ gem 'jekyll-feed', '~> 0.18.0'
 # Required for `jekyll serve` in Ruby 3+
 gem 'webrick', '~> 1.8'
 
-# Tests and development tools can be added here later.
 group :development, :test do
-  # gem 'minitest'
+  # Checks the built site for broken links, images, and missing alt text.
+  gem 'html-proofer', '~> 5.0'
 end
