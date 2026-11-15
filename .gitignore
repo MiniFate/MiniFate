@@ -135,3 +135,5 @@ _site
 .jekyll-metadata
 
 scratch.md
+## Python
+__pycache__/

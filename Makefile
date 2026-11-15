@@ -23,7 +23,7 @@ DOCKER_RUN_OPTS := --user $(USER_ID):$(GROUP_ID) -e HOME=/tmp
 DOCKER_RUN := docker run --rm $(DOCKER_RUN_OPTS) -v $(PWD):$(MOUNT) -w $(MOUNT) $(IMAGE)
 
 # Tier 1: Daily drivers
-.PHONY: serve build check clean debug
+.PHONY: serve build check check-browser clean debug
 
 # Tier 2: Domain operations
 .PHONY: image-build image-rebuild deps-lock
@@ -82,6 +82,15 @@ build: image-build clean
 check: build
 	@echo "Checking built site with html-proofer..."
 	@$(DOCKER_RUN) bundle exec htmlproofer ./_site --disable-external
+
+# Build the site, then test it in headless Chromium: 320px reflow at default
+# and 200% text, heading anchor links, list markers, dark mode, and one-page
+# character sheet printing. Runs on the host through uv, not in Docker: the
+# Jekyll image has no browser.
+check-browser: build
+	@echo "Testing built site in headless Chromium..."
+	@cd _scripts && uv run --locked --group browser playwright install --only-shell chromium
+	@cd _scripts && uv run --locked --group browser pytest
 
 # Serve the site for local development with live reloading.
 serve: image-build clean
