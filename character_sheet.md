@@ -22,9 +22,9 @@ title: Character Sheet
 
 {% comment %} Backstory {% endcomment %}
 <div id="sheet-backstory" class="character-sheet-section" markdown="1">
-### Backstory
+<h3 id="backstory"><label for="backstory-input">Backstory</label></h3>
 
-<textarea rows="8"></textarea>
+<textarea id="backstory-input" rows="8"></textarea>
 
 </div>
 
@@ -61,8 +61,9 @@ title: Character Sheet
 <div id="sheet-stress" class="character-sheet-section" markdown="1">
 ### Stress
 
-<label class="stress-box-label" for="stress-box-1">Stress Boxes:</label>
+<label class="stress-box-label" for="stress-box-1">Stress box 1</label>
 <input id="stress-box-1" class="stress" type="checkbox">
+<label class="stress-box-label" for="stress-box-2">Stress box 2</label>
 <input id="stress-box-2" class="stress" type="checkbox">
 
 </div>
