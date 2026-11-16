@@ -29,12 +29,6 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v10.3.3
 
-      - name: Restore Playwright browser
-        uses: actions/cache@v6
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-${{ hashFiles('_scripts/uv.lock') }}
-
       - name: Install Chromium and its system libraries
         working-directory: _scripts
         run: uv run --locked --group browser playwright install --with-deps --only-shell chromium

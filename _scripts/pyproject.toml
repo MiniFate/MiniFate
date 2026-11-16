@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 # Headless Chromium tests of the built site (`make check-browser`).
 browser = [
     "playwright>=1.55",
+    "pypdf>=6",
     "pytest>=8",
 ]
 

@@ -23,7 +23,10 @@ def test_every_heading_has_a_named_permalink(open_page, path):
     assert headings.count() > 0, f"{path} has no eligible headings"
     for heading in headings.all():
         text = (heading.text_content() or "").strip()
-        link = page.get_by_role("link", name=f"Link to this section: {text}", exact=True)
+        wrapper = heading.locator("..")
+        link = wrapper.get_by_role(
+            "link", name=f"Link to this section: {text}", exact=True
+        )
         assert link.count() == 1, f"{path}: expected one permalink for {text!r}"
         assert link.get_attribute("href") == f"#{heading.get_attribute('id')}", (
             f"{path}: permalink for {text!r} targets the wrong heading"

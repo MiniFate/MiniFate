@@ -84,12 +84,14 @@ $text-xxxl: $text-base-size * pow($text-scale-ratio, 5);
 // screen. The rem term keeps them scaling with the user's text size. The
 // minimums, slopes, and maximums all decrease from h1 to h6, so each level
 // is smaller than the one above it at every width.
-$h1-size: clamp(2rem,     1rem + 10cqi,  #{$text-xxxl});
-$h2-size: clamp(1.75rem,  1rem + 6cqi,   #{$text-xxl});
-$h3-size: clamp(1.5rem,   1rem + 4cqi,   #{$text-xl});
-$h4-size: clamp(1.375rem, 1rem + 2.5cqi, #{$text-lg});
-$h5-size: clamp(1.25rem,  1rem + 1.5cqi, #{$text-md});
-$h6-size: $text-base-size;
+$heading-sizes: (
+  1: clamp(2rem,     1rem + 10cqi,  #{$text-xxxl}),
+  2: clamp(1.75rem,  1rem + 6cqi,   #{$text-xxl}),
+  3: clamp(1.5rem,   1rem + 4cqi,   #{$text-xl}),
+  4: clamp(1.375rem, 1rem + 2.5cqi, #{$text-lg}),
+  5: clamp(1.25rem,  1rem + 1.5cqi, #{$text-md}),
+  6: $text-base-size,
+);
 
 html {
   font-family: $serif-font-family;
@@ -141,22 +143,26 @@ p, li, blockquote {
 
 h1 {
   margin-top: 0;
-  font-size: $h1-size;
   text-align: center;
 }
 
 h2 {
-  font-size: $h2-size;
   text-transform: uppercase;
 }
 
-h3 {font-size: $h3-size;}
+@each $level, $size in $heading-sizes {
+  h#{$level} {
+    font-size: $size;
+  }
 
-h4 {font-size: $h4-size;}
-
-h5 {font-size: $h5-size;}
-
-h6 {font-size: $h6-size;}
+  // Flex children's margins do not collapse, so the wrapper carries the
+  // heading's top margin, calculated from the same font size.
+  @if $level > 1 {
+    div.heading-h#{$level} {
+      margin-top: calc(1.5 * #{$size});
+    }
+  }
+}
 
 small, .text_small {font-size: $text-sm;}
 
@@ -323,23 +329,6 @@ div.heading {
   }
 }
 
-// Flex children's margins do not collapse with neighbors, so the wrapper
-// carries the heading's top margin. Each value is 1.5em at that heading's
-// font size, matching the margin headings had before the wrapper.
-$heading-sizes: (
-  2: $h2-size,
-  3: $h3-size,
-  4: $h4-size,
-  5: $h5-size,
-  6: $h6-size,
-);
-
-@each $level, $size in $heading-sizes {
-  div.heading-h#{$level} {
-    margin-top: calc(1.5 * #{$size});
-  }
-}
-
 div.character-sheet div.heading {
   margin-top: 0;
 }
@@ -408,10 +397,6 @@ ul {
 }
 
 // Character Sheet
-div.character-sheet h3 {
-  margin-top: 0;
-}
-
 div.character-sheet {
   display: grid;
   // minmax(0, …) lets tracks shrink below their content's minimum width, so
@@ -566,6 +551,11 @@ input[type="checkbox"].stress {
 @media print {
   .debug {
     display: none;
+  }
+
+  // Keep the heading's following text on the same page as its wrapper.
+  div.heading {
+    break-after: avoid;
   }
 
   // The page margin already provides space above the first heading.
