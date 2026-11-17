@@ -12,6 +12,8 @@ Minifate — a Jekyll site for a minimal Fate RPG ruleset. Chapters live in
 ```bash
 make serve          # local dev server with live reload
 make build          # production build
+make check          # build + internal link, image, and alt-text checks
+make check-browser  # build + Chromium layout, accessibility, and print checks
 make lint-scripts   # ruff check + ruff format --check over _code/
 make format-scripts # ruff format + ruff check --fix over _code/
 ```
@@ -24,11 +26,16 @@ knowledge-base article.
 
 `_code/make_dice_macros.py` generates dice roll macros. Ruff config is in
 `ruff.toml` at the repo root, pinned via the `RUFF` variable in the Makefile
-so local runs and CI agree.
+for consistent local runs.
 
 Markdown is excluded from ruff: 0.16 formats Python code fences inside
 `.md`, and the chapters are prose.
 
-This is a single-script repo, so there is deliberately no test suite, type
-checking, or coverage gate. The project-standards audit's warnings about
-those reflect the shape rather than neglect.
+Browser regression tests live in `_scripts/tests/`. Their dependencies are
+locked in `_scripts/uv.lock`; run them with `make check-browser`. They cover
+responsive layout, heading permalinks, list markers, theme colors, and print
+output. Run `make check` as well to match CI's site checks. See `README.md`
+for host prerequisites.
+
+The dice macro generator has no dedicated test suite, type checking, or
+coverage gate.

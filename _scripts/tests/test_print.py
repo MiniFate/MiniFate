@@ -8,6 +8,15 @@ import pytest
 from pypdf import PdfReader
 
 
+def test_title_uses_print_size(open_page):
+    page = open_page("/index.html")
+    page.emulate_media(media="print")
+    size = page.locator(".title-block h1").evaluate(
+        "heading => parseFloat(getComputedStyle(heading).fontSize)"
+    )
+    assert size == pytest.approx(32), f"Title should print at 24pt (32px), got {size}px"
+
+
 @pytest.mark.parametrize("paper", ["Letter", "A4"])
 def test_rules_heading_prints_with_its_paragraph(open_page, paper):
     """The heading wrapper previously stranded this heading at a page's end."""

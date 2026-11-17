@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from itertools import pairwise
+
 import pytest
 from conftest import PAGES
 
@@ -19,13 +21,17 @@ OVERFLOW_JS = """() => {
   };
 }"""
 
-# Font size in px of a fresh h1-h6 placed inside <main>.
+# Measure real headings, including the title block; insert missing levels.
 HEADING_SIZES_JS = """() => [1, 2, 3, 4, 5, 6].map((level) => {
-  const heading = document.createElement(`h${level}`);
-  heading.textContent = "x";
-  document.querySelector("main").append(heading);
+  const main = document.querySelector("main");
+  const existing = main.querySelector(`h${level}`);
+  const heading = existing ?? document.createElement(`h${level}`);
+  if (!existing) {
+    heading.textContent = "x";
+    main.append(heading);
+  }
   const size = parseFloat(getComputedStyle(heading).fontSize);
-  heading.remove();
+  if (!existing) heading.remove();
   return size;
 })"""
 
@@ -43,11 +49,30 @@ def test_no_horizontal_overflow_at_320px(open_page, path, root_font):
 
 
 @pytest.mark.parametrize("width", [320, 900])
-def test_heading_sizes_decrease_by_level(open_page, width):
-    sizes = open_page("/index.html", width=width).evaluate(HEADING_SIZES_JS)
-    assert all(higher > lower for higher, lower in zip(sizes, sizes[1:])), (
-        f"h1-h6 sizes at {width}px: {sizes}"
+@pytest.mark.parametrize("media", ["screen", "print"])
+@pytest.mark.parametrize("path", PAGES)
+def test_heading_sizes_decrease_by_level(open_page, width, media, path):
+    page = open_page(path, width=width)
+    page.emulate_media(media=media)
+    sizes = page.evaluate(HEADING_SIZES_JS)
+    assert all(higher > lower for higher, lower in pairwise(sizes)), (
+        f"{path} h1-h6 sizes in {media} at {width}px: {sizes}"
     )
+
+
+@pytest.mark.parametrize("media", ["screen", "print"])
+@pytest.mark.parametrize("path", PAGES)
+def test_only_rules_headings_have_numerals(open_page, media, path):
+    page = open_page(path)
+    page.emulate_media(media=media)
+    prefixes = page.locator("h3").evaluate_all(
+        "headings => headings.map((h) => getComputedStyle(h, '::before').content)"
+    )
+    assert prefixes, f"{path} has no h3 headings"
+    if path == "/index.html":
+        assert all("counter(" in prefix for prefix in prefixes), prefixes
+    else:
+        assert all(prefix in ("none", "normal") for prefix in prefixes), prefixes
 
 
 @pytest.mark.parametrize("path", PAGES)

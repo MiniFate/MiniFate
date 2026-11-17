@@ -243,7 +243,6 @@ main > *:has(+ div.heading-h2)::after {
 }
 
 div.heading-h2 {
-  counter-reset: h3-counter;
   position: relative;
   padding-inline: 24px;
 
@@ -285,6 +284,13 @@ h3 {
   font-weight: 600;
   border-bottom: 0.5px solid var(--color-rule);
   padding-bottom: 0.3em;
+}
+
+main.rules div.heading-h2 {
+  counter-reset: h3-counter;
+}
+
+main.rules h3 {
   counter-increment: h3-counter;
 
   // Automatic roman numeral prefix, styled distinctly from heading text.
@@ -631,7 +637,7 @@ ol { padding-left: 2em; }
   margin: 1em 0;
   padding: 0.6em 0.8em;
   background-color: var(--color-todo-bg);
-  color: var(--color-muted);
+  color: var(--color-todo-text);
   font-style: italic;
   font-size: $text-sm;
 
@@ -793,12 +799,6 @@ input[type="checkbox"].stress {
 }
 
 
-// Force browsers to print colors (backgrounds, borders) as specified
-@mixin print-colors {
-  print-color-adjust: exact;
-  -webkit-print-color-adjust: exact;
-}
-
 @media print {
 
   :root { color-scheme: light; }
@@ -872,11 +872,6 @@ input[type="checkbox"].stress {
     break-after: avoid;
   }
 
-  .pagebreak {
-    page-break-before: always;
-    break-before: page;
-  }
-
   // Small-cap glyph spacing breaks searchable heading text in browser PDFs.
   h1, h2, h3, h4, h5, h6 {
     font-variant: normal;
@@ -885,10 +880,12 @@ input[type="checkbox"].stress {
   div.heading-h2 { padding-inline: 0; }
 
   // ── Print size overrides ───────────────────────────────────────────────────
-  h1 { font-size: 24pt; }
+  h1, .title-block h1 { font-size: 24pt; }
   h2 { font-size: 16pt; }
   h3 { font-size: 13pt; }
   h4 { font-size: 12pt; }
+  h5 { font-size: 11pt; }
+  h6 { font-size: 10pt; }
 
   // ── Blockquotes: transparent background ────────────────────────────────────
   blockquote {
@@ -907,20 +904,22 @@ input[type="checkbox"].stress {
   }
 
   // ── Preserve colors when printing ──────────────────────────────────────────
-  h2::before, h2::after                             { @include print-colors; }
-  h3::before                                        { @include print-colors; }
-  .title-block .dingbat                             { @include print-colors; }
-  .middot                                           { @include print-colors; }
+  h2::before, h2::after,
+  main.rules h3::before,
+  .title-block .dingbat,
+  .middot,
   main > p:first-of-type::first-letter,
   main > div.heading-h2 + p::first-letter,
-  p.lede::first-letter                              { @include print-colors; }
-  span.aspect                                       { @include print-colors; }
-  span.skill                                        { @include print-colors; }
-  blockquote::before                                { @include print-colors; }
-  table, thead                                      { @include print-colors; }
-  hr::before, .ornament                             { @include print-colors; }
-  main > *:has(+ div.heading-h2)::after                         { @include print-colors; }
-  ul > li::before                                   { @include print-colors; }
-  img.die                                           { @include print-colors; }
-  input[type="checkbox"].stress                     { @include print-colors; }
+  p.lede::first-letter,
+  span.aspect,
+  span.skill,
+  blockquote::before,
+  table, thead,
+  hr::before, .ornament,
+  main > *:has(+ div.heading-h2)::after,
+  img.die,
+  input[type="checkbox"].stress {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
 }

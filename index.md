@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+main_class: rules
 author: Alexander Gude and Charles Fyfe
 ---
 
