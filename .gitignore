@@ -133,6 +133,7 @@ $RECYCLE.BIN/
 _site
 .sass-cache
 .jekyll-metadata
+.worktrees/
 
 scratch.md
 ## Python

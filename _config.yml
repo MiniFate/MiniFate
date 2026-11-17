@@ -28,6 +28,8 @@ exclude:
     - CNAME
     - Dockerfile
     - Makefile
+    - _scripts
+    - .worktrees/
     - Gemfile
     - Gemfile.lock
     - LICENSE.md
